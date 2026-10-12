@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keep Android Open</string>
+    <string name="tab_countdown">Countdown</string>
+    <string name="tab_rollout">The Rollout</string>
+    <string name="tab_act_now">Act Now</string>
+</resources>

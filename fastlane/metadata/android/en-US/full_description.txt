@@ -1,0 +1,17 @@
+Keep Android Open is a campaign app about Android Developer Verification, Google's plan to
+make every app register to a centrally verified developer before it can be installed on
+certified Android devices. Enforcement starts September 30, 2026 in Brazil, Indonesia,
+Singapore and Thailand, and expands globally in 2027.
+
+The app:
+* Counts down in real time to January 1, 2027, the date Android becomes a locked-down platform.
+* Explains the rollout: what Developer Verification is, the timeline, your three paths
+  (full distribution, limited distribution, or sideloading unregistered apps — ADB or the
+  "advanced flow"). The advanced flow is not a solution: it lives in Google Play services,
+  so Google can change or remove it at any time.
+* Helps you act now: a pre-written letter you can email, copy or share to your government
+  representatives, DOJ and FTC antitrust forms, and competition and consumer regulators
+  across the world.
+
+Open source (GPL-3.0), no ads, no tracking, no proprietary dependencies. Part of the
+campaign at https://keepandroidopen.org — countdown target matches the banner on the site.
