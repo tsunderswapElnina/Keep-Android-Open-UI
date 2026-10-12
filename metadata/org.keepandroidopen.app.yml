@@ -1,0 +1,26 @@
+Categories:
+  - System
+License: MIT
+AuthorName: Keep Android Open
+AuthorEmail: superduolingohelper@gmail.com
+WebSite: https://keepandroidopen.org
+SourceCode: https://github.com/tsunderswapElnina/Keep-Android-Open-UI
+IssueTracker: https://github.com/tsunderswapElnina/Keep-Android-Open-UI/issues
+
+AutoName: Keep Android Open
+
+RepoType: git
+Repo: https://github.com/tsunderswapElnina/Keep-Android-Open-UI.git
+
+Builds:
+  - versionName: 1.0.0
+    versionCode: 1
+    commit: 553b3cc06999626901c9c974dcbfaf6360a46e39
+    subdir: app
+    gradle:
+      - yes
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 1.0.0
+CurrentVersionCode: 1
