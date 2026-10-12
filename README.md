@@ -67,6 +67,13 @@ already committed so the same tree builds on any machine:
 To install the resulting APK on this device: `termux-open ~/Download/app-debug.apk` opens the
 system package installer (enable install-from-unknown-sources for Termux first).
 
+## AI disclosure
+
+This app was developed with the assistance of generative AI (an AI coding assistant wrote the
+large majority of the source). Some reviewers and app stores (including IzzyOnDroid) reject
+"vibe-coded" apps outright, and this project may therefore be refused inclusion. It is made
+public here in the spirit of full transparency about its provenance.
+
 ## Project layout
 
 ```
@@ -80,4 +87,4 @@ app/src/main/java/org/keepandroidopen/app/
 └── util/Intents.kt          # email / share / clipboard / open-url
 ```
 
-SPDX-License-Identifier: GPL-3.0-only
+SPDX-License-Identifier: MIT

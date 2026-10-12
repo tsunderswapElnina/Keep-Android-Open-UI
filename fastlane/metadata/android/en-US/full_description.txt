@@ -13,5 +13,8 @@ The app:
   representatives, DOJ and FTC antitrust forms, and competition and consumer regulators
   across the world.
 
-Open source (GPL-3.0), no ads, no tracking, no proprietary dependencies. Part of the
+Open source (MIT), no ads, no tracking, no proprietary dependencies. Part of the
 campaign at https://keepandroidopen.org — countdown target matches the banner on the site.
+
+Disclosure: this app was developed with the assistance of generative AI; much of the
+source was written by an AI coding assistant.
