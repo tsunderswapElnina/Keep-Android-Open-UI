@@ -5,7 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android%2024%2B-3ddc84?logo=android&logoColor=white)](#requirements)
 [![Latest release](https://img.shields.io/github/v/release/tsunderswapElnina/Keep-Android-Open-UI?label=release&color=blue)](../../releases/latest)
-[![Build](https://github.com/tsunderswapElnina/Keep-Android-Open-UI/actions/workflows/build.yml/badge.svg)](../../actions/workflows/build.yml)
 [![Stars](https://img.shields.io/github/stars/tsunderswapElnina/Keep-Android-Open-UI?style=social)](../../stargazers)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 
