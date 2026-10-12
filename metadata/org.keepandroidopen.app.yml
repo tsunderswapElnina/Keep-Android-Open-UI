@@ -15,7 +15,7 @@ Repo: https://github.com/tsunderswapElnina/Keep-Android-Open-UI.git
 Builds:
   - versionName: 1.0.0
     versionCode: 1
-    commit: 553b3cc06999626901c9c974dcbfaf6360a46e39
+    commit: 328f9064b8adafc603fdc7dbdcb559b1f3a70b16
     subdir: app
     gradle:
       - yes
