@@ -11,7 +11,6 @@ import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.lazy.itemsIndexed
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.OpenInNew
-import androidx.compose.material3.Button
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
@@ -25,6 +24,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import org.keepandroidopen.app.R
 import org.keepandroidopen.app.data.KeepAndroidOpen
+import org.keepandroidopen.app.ui.components.KaoButton
 import org.keepandroidopen.app.ui.components.KaoCard
 import org.keepandroidopen.app.ui.components.KaoChip
 import org.keepandroidopen.app.ui.components.LabeledRow
@@ -107,10 +107,9 @@ fun RolloutScreen(modifier: Modifier = Modifier) {
         }
 
         item {
-            Button(
+            KaoButton(
                 onClick = { context.openUrl(KeepAndroidOpen.VERIFICATION_DOC_URL) },
                 modifier = Modifier.fillMaxWidth(),
-                shape = MaterialTheme.shapes.large,
             ) {
                 Icon(Icons.AutoMirrored.Filled.OpenInNew, contentDescription = null)
                 Spacer(Modifier.width(8.dp))
@@ -118,10 +117,9 @@ fun RolloutScreen(modifier: Modifier = Modifier) {
             }
         }
         item {
-            Button(
+            KaoButton(
                 onClick = { context.openUrl(KeepAndroidOpen.OPEN_LETTER_URL) },
                 modifier = Modifier.fillMaxWidth(),
-                shape = MaterialTheme.shapes.large,
             ) {
                 Icon(Icons.AutoMirrored.Filled.OpenInNew, contentDescription = null)
                 Spacer(Modifier.width(8.dp))

@@ -14,10 +14,8 @@ import androidx.compose.material.icons.filled.ContentCopy
 import androidx.compose.material.icons.filled.Email
 import androidx.compose.material.icons.automirrored.filled.OpenInNew
 import androidx.compose.material.icons.filled.Share
-import androidx.compose.material3.Button
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
@@ -31,8 +29,10 @@ import org.keepandroidopen.app.data.Contact
 import org.keepandroidopen.app.data.ContactSeed
 import org.keepandroidopen.app.data.Content
 import org.keepandroidopen.app.data.KeepAndroidOpen
+import org.keepandroidopen.app.ui.components.KaoButton
 import org.keepandroidopen.app.ui.components.KaoCard
 import org.keepandroidopen.app.ui.components.KaoChip
+import org.keepandroidopen.app.ui.components.KaoOutlinedButton
 import org.keepandroidopen.app.ui.components.ScreenPadding
 import org.keepandroidopen.app.ui.components.SectionHeader
 import org.keepandroidopen.app.util.copyToClipboard
@@ -107,7 +107,7 @@ fun ActNowScreen(modifier: Modifier = Modifier) {
         }
 
         item {
-            Button(
+            KaoButton(
                 onClick = {
                     context.sendEmail(
                         to = null,
@@ -117,7 +117,6 @@ fun ActNowScreen(modifier: Modifier = Modifier) {
                     )
                 },
                 modifier = Modifier.fillMaxWidth(),
-                shape = MaterialTheme.shapes.large,
             ) {
                 Icon(Icons.Filled.Email, contentDescription = null)
                 Spacer(Modifier.width(8.dp))
@@ -129,7 +128,7 @@ fun ActNowScreen(modifier: Modifier = Modifier) {
                 modifier = Modifier.fillMaxWidth(),
                 horizontalArrangement = Arrangement.spacedBy(12.dp),
             ) {
-                OutlinedButton(
+                KaoOutlinedButton(
                     onClick = {
                         context.copyToClipboard(
                             clipboardLabel,
@@ -137,18 +136,16 @@ fun ActNowScreen(modifier: Modifier = Modifier) {
                         )
                     },
                     modifier = Modifier.weight(1f),
-                    shape = MaterialTheme.shapes.large,
                 ) {
                     Icon(Icons.Filled.ContentCopy, contentDescription = null)
                     Spacer(Modifier.width(8.dp))
                     Text(stringResource(R.string.act_copy))
                 }
-                OutlinedButton(
+                KaoOutlinedButton(
                     onClick = {
                         context.shareText(subject, "$subject\n\n$genericLetter")
                     },
                     modifier = Modifier.weight(1f),
-                    shape = MaterialTheme.shapes.large,
                 ) {
                     Icon(Icons.Filled.Share, contentDescription = null)
                     Spacer(Modifier.width(8.dp))
@@ -189,10 +186,9 @@ fun ActNowScreen(modifier: Modifier = Modifier) {
             }
         }
         item {
-            Button(
+            KaoButton(
                 onClick = { context.openUrl(KeepAndroidOpen.ACT_URL) },
                 modifier = Modifier.fillMaxWidth(),
-                shape = MaterialTheme.shapes.large,
             ) {
                 Icon(Icons.AutoMirrored.Filled.OpenInNew, contentDescription = null)
                 Spacer(Modifier.width(8.dp))
@@ -233,7 +229,7 @@ private fun ContactCard(contact: Contact, subject: String, context: Context) {
             horizontalArrangement = Arrangement.spacedBy(12.dp),
         ) {
             contact.email?.let { email ->
-                Button(
+                KaoButton(
                     onClick = {
                         context.sendEmail(
                             to = email,
@@ -243,7 +239,6 @@ private fun ContactCard(contact: Contact, subject: String, context: Context) {
                         )
                     },
                     modifier = Modifier.weight(1f),
-                    shape = MaterialTheme.shapes.large,
                 ) {
                     Icon(Icons.Filled.Email, contentDescription = null)
                     Spacer(Modifier.width(8.dp))
@@ -251,10 +246,9 @@ private fun ContactCard(contact: Contact, subject: String, context: Context) {
                 }
             }
             contact.url?.let { url ->
-                OutlinedButton(
+                KaoOutlinedButton(
                     onClick = { context.openUrl(url) },
                     modifier = Modifier.weight(1f),
-                    shape = MaterialTheme.shapes.large,
                 ) {
                     Icon(Icons.AutoMirrored.Filled.OpenInNew, contentDescription = null)
                     Spacer(Modifier.width(8.dp))

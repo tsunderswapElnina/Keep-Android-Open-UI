@@ -15,7 +15,6 @@ import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.OpenInNew
 import androidx.compose.material.icons.filled.Schedule
-import androidx.compose.material3.Button
 import androidx.compose.material3.ExperimentalMaterial3ExpressiveApi
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
@@ -41,6 +40,7 @@ import org.keepandroidopen.app.data.KeepAndroidOpen
 import org.keepandroidopen.app.data.campaignStartInstant
 import org.keepandroidopen.app.data.countdownBetween
 import org.keepandroidopen.app.data.lockdownInstant
+import org.keepandroidopen.app.ui.components.KaoButton
 import org.keepandroidopen.app.ui.components.KaoCard
 import org.keepandroidopen.app.ui.components.ScreenPadding
 import org.keepandroidopen.app.ui.components.SectionHeader
@@ -128,19 +128,17 @@ fun CountdownScreen(modifier: Modifier = Modifier) {
             modifier = Modifier.fillMaxWidth(),
             horizontalArrangement = Arrangement.spacedBy(12.dp),
         ) {
-            Button(
+            KaoButton(
                 onClick = { context.openUrl(KeepAndroidOpen.FAQ_URL) },
                 modifier = Modifier.weight(1f),
-                shape = MaterialTheme.shapes.large,
             ) {
                 Icon(Icons.AutoMirrored.Filled.OpenInNew, contentDescription = null)
                 Spacer(Modifier.width(8.dp))
                 Text(stringResource(R.string.countdown_read_faq))
             }
-            Button(
+            KaoButton(
                 onClick = { context.openUrl(KeepAndroidOpen.SITE_URL) },
                 modifier = Modifier.weight(1f),
-                shape = MaterialTheme.shapes.large,
             ) {
                 Icon(Icons.Filled.Schedule, contentDescription = null)
                 Spacer(Modifier.width(8.dp))
