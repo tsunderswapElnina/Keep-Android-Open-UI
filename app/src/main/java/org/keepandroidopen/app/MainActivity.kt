@@ -1,20 +1,37 @@
 package org.keepandroidopen.app
 
 import android.os.Bundle
-import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.appcompat.app.AppCompatActivity
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.setValue
+import org.keepandroidopen.app.settings.AppSettings
+import org.keepandroidopen.app.settings.SettingsStore
 import org.keepandroidopen.app.ui.KeepAndroidOpenApp
 import org.keepandroidopen.app.ui.theme.KeepAndroidOpenTheme
 
-class MainActivity : ComponentActivity() {
+class MainActivity : AppCompatActivity() {
+
+    private var settings by mutableStateOf(AppSettings.DEFAULT)
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        settings = SettingsStore.read(this)
         enableEdgeToEdge()
         setContent {
-            KeepAndroidOpenTheme {
+            KeepAndroidOpenTheme(
+                themeMode = settings.themeMode,
+                accent = settings.accent,
+            ) {
                 KeepAndroidOpenApp()
             }
         }
+    }
+
+    override fun onResume() {
+        super.onResume()
+        settings = SettingsStore.read(this)
     }
 }

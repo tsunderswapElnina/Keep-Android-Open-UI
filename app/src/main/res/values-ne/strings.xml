@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">काउन्टडाउन</string>
+    <string name="tab_rollout" formatted="false">रोलआउट</string>
+    <string name="tab_act_now" formatted="false">अब कारबाही गर्नुहोस्</string>
+    <string name="cd_open_site" formatted="false">Keepandroidopen.org खोल्नुहोस्</string>
+    <string name="cd_settings" formatted="false">सेटिङहरू</string>
+    <string name="cd_back" formatted="false">पछाडि</string>
+    <string name="countdown_campaign" formatted="false">अभियान काउन्टडाउन</string>
+    <string name="countdown_elapsed" formatted="false">अभियान जनवरी 1, 2027 तिर सार्वजनिक भएपछि समय बितेको छ।</string>
+    <string name="countdown_what_means" formatted="false">काउन्टडाउनको अर्थ के हो</string>
+    <string name="countdown_read_faq" formatted="false">FAQ पढ्नुहोस्</string>
+    <string name="countdown_campaign_btn" formatted="false">अभियान</string>
+    <string name="countdown_footnote" formatted="false">काउन्टडाउन लक्ष्य Keepandroidopen.org मा प्रकाशित ब्यानरसँग मेल खान्छ। एप खुला हुँदा प्रति सेकेन्ड एक पटक अपडेट हुन्छ।</string>
+    <string name="countdown_expired" formatted="false">एन्ड्रोइड अब लक-डाउन प्लेटफर्म हो</string>
+    <string name="countdown_running" formatted="false">एन्ड्रोइड लक-डाउन प्लेटफर्म बन्छ</string>
+    <string name="unit_days" formatted="false">दिनहरू</string>
+    <string name="unit_hours" formatted="false">घण्टा</string>
+    <string name="unit_minutes" formatted="false">मिनेट</string>
+    <string name="unit_seconds" formatted="false">सेकेन्ड</string>
+    <string name="rollout_title" formatted="false">एन्ड्रोइड विकासकर्ता प्रमाणिकरण के हो?</string>
+    <string name="rollout_what_it_means_title" formatted="false">यसको साँच्चै अर्थ के हो</string>
+    <string name="rollout_timeline_title" formatted="false">रोलआउट टाइमलाइन</string>
+    <string name="rollout_paths_title" formatted="false">आफ्नो प्रमाणीकरण मार्ग छान्नुहोस्</string>
+    <string name="rollout_advanced_title" formatted="false">\"उन्नत प्रवाह\" एक समाधान होइन</string>
+    <string name="rollout_dev_page" formatted="false">Google को आधिकारिक विकासकर्ता पृष्ठ</string>
+    <string name="rollout_open_letter" formatted="false">खुला पत्र पढ्नुहोस्</string>
+    <string name="label_identity" formatted="false">पहिचान</string>
+    <string name="label_distribution" formatted="false">वितरण</string>
+    <string name="label_ux" formatted="false">प्रयोगकर्ता अनुभव</string>
+    <string name="label_best_for" formatted="false">लागि उत्तम</string>
+    <string name="rollout_summary" formatted="false">एन्ड्रोइड विकासकर्ता प्रमाणिकरण एउटा Google कार्यक्रम हो जसले प्रत्येक एपलाई प्रमाणित एन्ड्रोइड उपकरणहरूमा स्थापना गर्नु अघि प्रमाणित विकासकर्ता पहिचानमा लिङ्क गर्दछ। विकासकर्ताहरूले तिनीहरू को हुन् भनेर प्रमाणित गर्नुपर्छ र तिनीहरूले प्रकाशित गर्ने प्याकेज नामहरू दर्ता गर्नुपर्छ। एक दर्ता, प्रमाणित विकासकर्ता बिना अनुप्रयोगहरू सुरक्षाहरू रोल आउट भएपछि सामान्य रूपमा स्थापना गर्न सकिँदैन।</string>
+    <string name="rollout_what_it_means" formatted="false">F-Droid, प्रत्यक्ष APK डाउनलोडहरू, र शौक परियोजनाहरू जस्ता स्वतन्त्र र खुला-स्रोत वितरणमा यो सबैभन्दा कठिन हुन्छ। गुगलले भन्यो कि यो सुरक्षा र बेनामी मालवेयर रोक्नको बारेमा हो। कीप एन्ड्रोइड ओपन अभियान, F-Droid र EFF लगायतका आलोचकहरू भन्छन् कि यो गेटकीपर किल स्विच हो: केन्द्रीय दर्ता, सरकारी आईडी, शुल्क, र तपाईंको यन्त्रलाई विश्वास गर्न अनुमति दिइएको कुरामा पूर्ण नियन्त्रण।</string>
+    <string name="rollout_advanced_note" formatted="false">उन्नत प्रवाह Google Play सेवाहरू मार्फत डेलिभर गरिन्छ, एन्ड्रोइड OS मा होइन, त्यसैले Google ले कुनै पनि समयमा OS अद्यावधिक वा प्रयोगकर्ताको सहमति बिना यसलाई परिवर्तन गर्न, प्रतिबन्धित गर्न वा हटाउन सक्छ। 24-घण्टा ढिलाइ जानाजानी बाधा पुर्‍याउने हो र तपाईं र तपाईंले चलाउन रोज्नुहुने सफ्टवेयरको बीचमा खडा हुने अर्को चरण हो।</string>
+    <string-array name="timeline_dates">
+        <item>अगस्ट २५, २०२५</item>
+        <item>मार्च १९, २०२६</item>
+        <item>जुन २०२६</item>
+        <item>जुन १८, २०२६</item>
+        <item>जुलाई २०२६</item>
+        <item>अगस्त २०२६</item>
+        <item>सेप्टेम्बर 30, 2026</item>
+        <item>२०२७</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>कार्यक्रम घोषणा गरेको छ</item>
+        <item>\"उन्नत प्रवाह\" प्रकट भएको छ</item>
+        <item>एन्ड्रोइड विकासकर्ता प्रमाणिकरण उपकरणहरूमा पठाउँछ</item>
+        <item>प्रारम्भिक प्रक्षेपण पुष्टि भयो</item>
+        <item>विकासकर्ता API हरू खुल्छन्</item>
+        <item>ग्लोबल कन्सोल, सीमित खाताहरू, उन्नत प्रवाह</item>
+        <item>चार देशमा कार्यान्वयन सुरु हुन्छ</item>
+        <item>ग्लोबल रोलआउट</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>गुगलले घोषणा गर्‍यो कि २०२७ मा सुरु हुँदै, एन्ड्रोइडका लागि एपहरू गुगल प्ले बाहिर स्थापना गरिएका एपहरू सहित प्रमाणित विकासकर्तामा दर्ता हुनुपर्छ।</item>
+        <item>पावर प्रयोगकर्ताहरूले जानाजानी बोझिलो एस्केप ह्याच पाउँछन्: विकासकर्ता विकल्पहरू सक्षम गर्नुहोस्, तपाइँलाई जबरजस्ती गरिएको छैन भनेर पुष्टि गर्नुहोस्, पुन: सुरु गर्नुहोस्, त्यसपछि तपाइँले अप्रमाणित स्थापनाहरूलाई अनुमति दिनु अघि 24 घण्टा पर्खनुहोस्।</item>
+        <item>पृष्ठभूमि प्रणाली सेवा (com.google.android.verifier) ​​प्रमाणित यन्त्रहरूमा Google प्रणाली अपडेटहरू मार्फत पुश गरिन्छ र प्रवर्तन नभएसम्म निष्क्रिय रहन्छ।</item>
+        <item>Google ले सात स्टोर र चार देशहरूमा सेप्टेम्बर ३०, २०२६ देखि लागू हुने कुरा पुष्टि गर्छ।</item>
+        <item>एन्ड्रोइड विकासकर्ता आईडी स्थिति API विश्वव्यापी रूपमा सुरु हुन्छ र एन्ड्रोइड विकासकर्ता कन्सोल API र सीमित वितरण खाताहरूको लागि प्रारम्भिक पहुँच सुरु हुन्छ।</item>
+        <item>सीमित वितरण खाताहरू (नि:शुल्क, २० यन्त्रहरूसम्म, कुनै सरकारी आईडी छैन) र कन्सोल API विश्वव्यापी रूपमा लन्च। अप्रमाणित साइडलोडिङको लागि उन्नत प्रवाह रोल आउट सुरु हुन्छ।</item>
+        <item>एन्ड्रोइड ७+ चल्ने प्रमाणित यन्त्रहरूमा ब्राजिल, इन्डोनेसिया, सिंगापुर र थाइल्याण्डका प्रयोगकर्ताहरूका लागि सुरक्षाहरू लाइभ हुन्छन्। अप्रमाणित विकासकर्ताहरूका एपहरू सहभागी स्टोरहरूमा ब्लक गरिएका छन्: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore र GetApps।</item>
+        <item>प्रमाणीकरण सबै एप र क्षेत्रहरूमा विस्तार गरिएको छ। एन्ड्रोइड लक-डाउन प्लेटफर्म बन्दा जनवरी १, २०२७ सम्म एन्ड्रोइड ओपनलाई काउन्ट डाउन गर्नुहोस्।</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>पूर्ण वितरण</item>
+        <item>सीमित वितरण</item>
+        <item>दर्ता नगरिएका एपहरू साइडलोड गर्दै</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>हो - सरकारी आईडी र शुल्क</item>
+        <item>होइन - कुनै आईडी वा दर्ता शुल्क छैन</item>
+        <item>होइन - तर उच्च घर्षण</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>तपाईंले रोज्नु भएको कुनै पनि स्टोर वा च्यानल</item>
+        <item>QR कोड वा लिङ्क ह्यान्डशेक मार्फत २० वटा यन्त्रहरू सम्म</item>
+        <item>ADB (छूट) वा उन्नत प्रवाह</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>तपाइँका प्रयोगकर्ताहरु को लागी केहि परिवर्तन छैन</item>
+        <item>प्रयोगकर्ताहरूले आफूले चिनेका विकासकर्ताको स्थापना निमन्त्रणा स्वीकार गर्छन्</item>
+        <item>विकासकर्ता विकल्पहरू, पुन: सुरु गर्नुहोस्, 24-घण्टा पर्खनुहोस्, त्यसपछि जसरी पनि स्थापना गर्नुहोस्</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>संगठन र व्यावसायिक विकासकर्ताहरू</item>
+        <item>विद्यार्थी, hobbyists र व्यक्तिगत प्रयोग</item>
+        <item>अप्रमाणित विकासकर्ताहरू र पावर प्रयोगकर्ताहरू</item>
+    </string-array>
+    <string name="act_title" formatted="false">अब कार्य गर्नुहोस् - तपाईंको आवाज सुन्नुहोस्</string>
+    <string name="act_intro">नियामकहरूले प्रभावित व्यक्तिहरूबाट सुन्न चाहन्छन्। विनम्र र विशिष्ट हुनुहोस्, तपाईंले सम्पर्क गर्नुभएको निकायको आधिकारिक भाषामा लेख्नुहोस्, लिखित स्वीकृतिको लागि सोध्नुहोस्, र %1$s प्रतिलिपि गर्नुहोस् ताकि अभियानले विजयहरू ट्र्याक गर्न सक्छ।</string>
+    <string name="act_open_composer" formatted="false">इमेल कम्पोजर खोल्नुहोस्</string>
+    <string name="act_copy" formatted="false">प्रतिलिपि गर्नुहोस्</string>
+    <string name="act_share" formatted="false">सेयर गर्नुहोस्</string>
+    <string name="act_clipboard_label" formatted="false">एन्ड्रोइड खुला पत्र राख्नुहोस्</string>
+    <string name="act_us_title" formatted="false">संयुक्त राज्य अमेरिका - सरकारलाई इमेल गर्नुहोस्</string>
+    <string name="act_us_intro" formatted="false">न्याय विभाग र FTC अनलाइन फारमहरू मार्फत antitrust रिपोर्टहरू लिन्छन्। तिनीहरूलाई प्रयोग गर्नुहोस्, र सिधै आफ्नो प्रतिनिधि र सिनेटरहरूलाई सम्पर्क गर्नुहोस्।</string>
+    <string name="act_world_title" formatted="false">संसारमा अन्यत्र</string>
+    <string name="act_groups_title" formatted="false">उपभोक्ता र डिजिटल अधिकार समूह</string>
+    <string name="act_more_title" formatted="false">मद्दत गर्ने थप तरिकाहरू</string>
+    <string name="act_more_body" formatted="false">• आफ्नो यन्त्रहरूमा F-Droid स्थापना गर्नुहोस्।\n• Google को विकासकर्ता प्रमाणीकरण सर्वेक्षणको जवाफ दिनुहोस्।\n• सामाजिक सञ्जालमा पोस्ट गर्नुहोस् र Keepandroidopen.org मा लिङ्क गर्नुहोस्।\n• change.org पिटिशनमा हस्ताक्षर गर्नुहोस्।\n• आफ्नो वेबसाइटमा काउन्टडाउन ब्यानर थप्नुहोस्।</string>
+    <string name="act_all_actions" formatted="false">Keepandroidopen.org मा सबै कार्यहरू</string>
+    <string name="action_email" formatted="false">इमेल</string>
+    <string name="action_open" formatted="false">खोल्नुहोस्</string>
+    <string-array name="us_contact_regions">
+        <item>संयुक्त राज्य अमेरिका</item>
+        <item>संयुक्त राज्य अमेरिका</item>
+        <item>संयुक्त राज्य अमेरिका</item>
+        <item>संयुक्त राज्य अमेरिका</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>अमेरिकी न्याय विभाग - एन्टिट्रस्ट डिभिजन</item>
+        <item>अमेरिकी संघीय व्यापार आयोग - एन्टिट्रस्ट</item>
+        <item>आफ्नो हाउस प्रतिनिधि खोज्नुहोस्</item>
+        <item>आफ्नो अमेरिकी सिनेटरहरूलाई सम्पर्क गर्नुहोस्</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>एक antitrust रिपोर्ट अनलाइन पेश गर्नुहोस्।</item>
+        <item>एक अविश्वास उजुरी फाइल गर्नुहोस्।</item>
+        <item>अमेरिकी सदनमा आफ्नो प्रतिनिधिलाई सम्पर्क गर्नुहोस्।</item>
+        <item>तपाईंको राज्यका दुवै सिनेटरहरू खोज्नुहोस् र सम्पर्क गर्नुहोस्।</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>युरोपेली संघ</item>
+        <item>युरोपेली संघ</item>
+        <item>युनाइटेड किंगडम</item>
+        <item>ब्राजिल</item>
+        <item>सिङ्गापुर</item>
+        <item>थाइल्याण्ड</item>
+        <item>इन्डोनेसिया</item>
+        <item>अस्ट्रेलिया</item>
+        <item>क्यानडा</item>
+        <item>भारत</item>
+        <item>जापान</item>
+        <item>दक्षिण कोरिया</item>
+        <item>मेक्सिको</item>
+        <item>Aotearoa / न्यूजील्याण्ड</item>
+        <item>ताइवान</item>
+        <item>स्विट्जरल्याण्ड</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU Antitrust (DG COMP)</item>
+        <item>डिजिटल बजार अधिनियम टोली</item>
+        <item>प्रतिस्पर्धा र बजार प्राधिकरण</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>व्यापार प्रतिस्पर्धा आयोग (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>प्रतियोगिता ब्यूरो क्यानाडा</item>
+        <item>भारतीय प्रतिस्पर्धा आयोग</item>
+        <item>जापान निष्पक्ष व्यापार आयोग</item>
+        <item>कोरिया निष्पक्ष व्यापार आयोग</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>वाणिज्य आयोग</item>
+        <item>निष्पक्ष व्यापार आयोग</item>
+        <item>प्रतिस्पर्धा आयोग (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>युरोपेली आयोग प्रतिस्पर्धा प्राधिकरणलाई इमेल गर्नुहोस्।</item>
+        <item>EU DMA नागरिक सहायता डेस्कमा सम्पर्क गर्नुहोस्।</item>
+        <item>UK CMA लाई रिपोर्ट गर्नुहोस्।</item>
+        <item>ब्राजिल पहिलो प्रवर्तन लहरमा छ।</item>
+        <item>सिंगापुर पहिलो प्रवर्तन लहरमा छ।</item>
+        <item>थाइल्याण्ड पहिलो प्रवर्तन लहरमा छ।</item>
+        <item>इन्डोनेसिया पहिलो प्रवर्तन लहरमा छ।</item>
+        <item>अस्ट्रेलियाली प्रतिस्पर्धा र उपभोक्ता आयोगलाई रिपोर्ट गर्नुहोस्।</item>
+        <item>प्रतिस्पर्धा ब्यूरोमा उजुरी फाइल गर्नुहोस्।</item>
+        <item>प्रतिस्पर्धा विरोधी आचरणको बारेमा CCI लाई सम्पर्क गर्नुहोस्।</item>
+        <item>JFTC / Mobile Software Competition Act डेस्कमा सम्पर्क गर्नुहोस्।</item>
+        <item>KFTC लाई सम्पर्क गर्नुहोस्।</item>
+        <item>मेक्सिकोमा एक अविश्वास उजुरी फाइल गर्नुहोस्।</item>
+        <item>प्रतिस्पर्धा विरोधी आचरण रिपोर्ट गर्नुहोस्।</item>
+        <item>ताइवान FTC लाई सम्पर्क गर्नुहोस्।</item>
+        <item>गैरकानूनी अभ्यासहरू रिपोर्ट गर्नुहोस्।</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>विश्वव्यापी</item>
+        <item>विश्वव्यापी</item>
+        <item>युरोप</item>
+        <item>युरोप</item>
+        <item>विश्वव्यापी</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>इलेक्ट्रोनिक फ्रन्टियर फाउन्डेशन</item>
+        <item>नि: शुल्क सफ्टवेयर फाउन्डेशन</item>
+        <item>फ्री सफ्टवेयर फाउन्डेशन यूरोप</item>
+        <item>युरोपेली डिजिटल अधिकार (EDRI)</item>
+        <item>सफ्टवेयर स्वतन्त्रता संरक्षण</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>एप गेटकीपिङ र इन्टरनेट सेन्सरशिप।</item>
+        <item>सफ्टवेयर स्वतन्त्रता र प्रयोगकर्ता नियन्त्रण।</item>
+        <item>युरोपमा सफ्टवेयर स्वतन्त्रता।</item>
+        <item>डिजिटल अधिकार वकालत।</item>
+        <item>समुदाय-संचालित नि: शुल्क सफ्टवेयर।</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">मेरो सरकार</string>
+    <string name="letter_subject" formatted="false">गुगलको एन्ड्रोइड विकासकर्ता प्रमाणिकरण बन्द गर्नुहोस्</string>
+    <string name="letter_template">प्रिय %1$s प्रतिनिधि,\n\nम एक सम्बन्धित एन्ड्रोइड प्रयोगकर्ताको रूपमा र तपाईंको अधिकार क्षेत्रको नागरिकको रूपमा लेख्दै छु।\n\nGoogle को एन्ड्रोइड विकासकर्ता प्रमाणिकरण कार्यक्रम, सेप्टेम्बर 30, 2026 देखि धेरै बजारहरूमा लागू गरिएको छ र 2027 मा विश्वव्यापी रूपमा विस्तार हुँदैछ, प्रत्येक एन्ड्रोइड एपलाई प्रमाणित उपकरणहरूमा स्थापना गर्नु अघि केन्द्रीय रूपमा प्रमाणित विकासकर्तामा दर्ता गर्न आवश्यक हुनेछ। विकासकर्ताहरूले सरकारी पहिचान पेश गर्नुपर्छ, गुगलका सर्तहरूमा सहमत हुनुपर्छ, शुल्क तिर्नु पर्छ र हरेक वर्तमान र भविष्यको एप पहिचानकर्तालाई सूचीकृत गर्नुपर्छ।\n\nयसले अर्थपूर्ण रूपमा सुरक्षा सुधार गर्दैन। यसले एकल निजी कम्पनीलाई कुन सफ्टवेयर व्यक्तिहरूलाई तिनीहरूको स्वामित्वमा रहेका यन्त्रहरूमा चलाउन अनुमति दिने भन्ने निर्णय गर्ने शक्ति दिन्छ, र यसले F-Droid जस्ता स्वतन्त्र र खुला स्रोत वितरणलाई धम्की दिन्छ, जसले पालना गर्न सक्दैन र अवस्थित हुन सक्छ।\n\nम तपाईंलाई आदरपूर्वक सोध्छु कि:\n\n1. यो कार्यक्रम विरोधी-प्रतिस्पर्धी हो र गेटकीपर पदको दुरुपयोग हो कि भनेर अनुसन्धान गर्नुहोस्।\n2. खुला स्रोत र गैर-व्यावसायिक वितरणलाई छुट दिन र केन्द्रीकृत दर्ताबाट साइडलोडिङ मुक्त राख्न Google थिच्नुहोस्।\n3. प्रयोगकर्ताहरूलाई तिनीहरूले खरिद गरेको हार्डवेयरमा तिनीहरूको छनौटको सफ्टवेयर चलाउने अधिकारको सुरक्षा गर्नुहोस्।\n\nकृपया यो सन्देशलाई लिखित रूपमा स्वीकार गर्नुहोस् र तपाईंको कार्यालयले के कारबाही गर्छ मलाई थाहा दिनुहोस्।\n\nम %2$s मा Keep Android Open अभियान पनि प्रतिलिपि गर्दैछु।\n\nभवदीय,\n[तपाईको नाम]\n[तपाईको शहर र देश]</string>
+    <string name="toast_no_app" formatted="false">कुनै पनि एपले यो लिङ्क खोल्न सक्दैन</string>
+    <string name="toast_no_email" formatted="false">कुनै इमेल एप स्थापना गरिएको छैन</string>
+    <string name="chooser_send_email" formatted="false">इमेल पठाउनुहोस्</string>
+    <string name="chooser_share" formatted="false">सेयर गर्नुहोस्</string>
+    <string name="toast_copied" formatted="false">क्लिपबोर्डमा प्रतिलिपि गरियो</string>
+    <string name="settings_title" formatted="false">सेटिङहरू</string>
+    <string name="settings_language_title" formatted="false">अनुप्रयोग भाषा</string>
+    <string name="settings_language_summary" formatted="false">एपले प्रयोग गरेको भाषा छान्नुहोस्। तपाईं यसलाई आफ्नो यन्त्र सेटिङहरूबाट पनि परिवर्तन गर्न सक्नुहुन्छ।</string>
+    <string name="settings_system_default" formatted="false">प्रणाली पूर्वनिर्धारित</string>
+    <string name="settings_language_search" formatted="false">भाषाहरू खोज्नुहोस्</string>
+    <string name="settings_theme_title" formatted="false">विषयवस्तु</string>
+    <string name="settings_theme_summary" formatted="false">एप कस्तो देखिन्छ छान्नुहोस्।</string>
+    <string name="theme_system" formatted="false">प्रणाली पालना गर्नुहोस्</string>
+    <string name="theme_light" formatted="false">उज्यालो</string>
+    <string name="theme_dark" formatted="false">अँध्यारो</string>
+    <string name="theme_amoled" formatted="false">AMOLED (शुद्ध कालो)</string>
+    <string name="settings_accent_title" formatted="false">एक्सेन्ट रंग</string>
+    <string name="settings_accent_summary" formatted="false">एप भर प्रयोग गरिएको हाइलाइट रङ छान्नुहोस्।</string>
+    <string name="accent_default" formatted="false">पूर्वनिर्धारित (अभियान रातो)</string>
+    <string name="accent_red" formatted="false">रातो</string>
+    <string name="accent_orange" formatted="false">सुन्तला</string>
+    <string name="accent_yellow" formatted="false">पहेंलो</string>
+    <string name="accent_green" formatted="false">हरियो</string>
+    <string name="accent_teal" formatted="false">निलो</string>
+    <string name="accent_blue" formatted="false">निलो</string>
+    <string name="accent_purple" formatted="false">बैजनी</string>
+    <string name="accent_pink" formatted="false">गुलाबी</string>
+    <string name="settings_colorblendr_warning" formatted="false">हेड अप: यदि ColorBlendr वा तपाईंले ओभरराइड गर्ने अन्य सामग्री सक्रिय छ भने, तपाईंले यसलाई असक्षम नगरेसम्म तपाईंको उच्चारण रङ लागू नहुन सक्छ।</string>
+    <string name="settings_about_title" formatted="false">बारे</string>
+    <string name="settings_version">संस्करण %1$s</string>
+    <string name="settings_open_source" formatted="false">खुला स्रोत (MIT)। आधिकारिक Keep Android Open अभियानसँग सम्बद्ध वा समर्थन गरिएको छैन।</string>
+</resources>

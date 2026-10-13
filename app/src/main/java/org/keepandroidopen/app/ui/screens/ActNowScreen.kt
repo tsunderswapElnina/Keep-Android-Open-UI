@@ -12,7 +12,7 @@ import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ContentCopy
 import androidx.compose.material.icons.filled.Email
-import androidx.compose.material.icons.filled.OpenInNew
+import androidx.compose.material.icons.automirrored.filled.OpenInNew
 import androidx.compose.material.icons.filled.Share
 import androidx.compose.material3.Button
 import androidx.compose.material3.Icon
@@ -22,9 +22,13 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.res.stringArrayResource
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
+import org.keepandroidopen.app.R
 import org.keepandroidopen.app.data.Contact
+import org.keepandroidopen.app.data.ContactSeed
 import org.keepandroidopen.app.data.Content
 import org.keepandroidopen.app.data.KeepAndroidOpen
 import org.keepandroidopen.app.ui.components.KaoCard
@@ -36,25 +40,66 @@ import org.keepandroidopen.app.util.openUrl
 import org.keepandroidopen.app.util.sendEmail
 import org.keepandroidopen.app.util.shareText
 
-private const val SUBJECT = "Stop Google's Android Developer Verification lockdown"
+@Composable
+private fun buildContacts(
+    regionsRes: Int,
+    namesRes: Int,
+    detailsRes: Int,
+    seeds: List<ContactSeed>,
+): List<Contact> {
+    val regions = stringArrayResource(regionsRes)
+    val names = stringArrayResource(namesRes)
+    val details = stringArrayResource(detailsRes)
+    return regions.indices.map { i ->
+        Contact(
+            region = regions[i],
+            name = names[i],
+            detail = details[i],
+            url = seeds.getOrNull(i)?.url,
+            email = seeds.getOrNull(i)?.email,
+        )
+    }
+}
 
 @Composable
 fun ActNowScreen(modifier: Modifier = Modifier) {
     val context = LocalContext.current
+    val clipboardLabel = stringResource(R.string.act_clipboard_label)
+    val subject = stringResource(R.string.letter_subject)
+    val genericLetter = stringResource(
+        R.string.letter_template,
+        stringResource(R.string.letter_region_generic),
+        KeepAndroidOpen.VICTORY_EMAIL,
+    )
+    val usContacts = buildContacts(
+        R.array.us_contact_regions,
+        R.array.us_contact_names,
+        R.array.us_contact_details,
+        Content.usContactSeeds,
+    )
+    val worldContacts = buildContacts(
+        R.array.world_contact_regions,
+        R.array.world_contact_names,
+        R.array.world_contact_details,
+        Content.worldContactSeeds,
+    )
+    val advocacy = buildContacts(
+        R.array.advocacy_regions,
+        R.array.advocacy_names,
+        R.array.advocacy_details,
+        Content.advocacySeeds,
+    )
 
     LazyColumn(
         modifier = modifier.fillMaxSize(),
         contentPadding = ScreenPadding,
         verticalArrangement = Arrangement.spacedBy(16.dp),
     ) {
-        item { SectionHeader("Act now \u2014 make your voice heard") }
+        item { SectionHeader(stringResource(R.string.act_title)) }
         item {
             KaoCard(containerColor = MaterialTheme.colorScheme.primaryContainer) {
                 Text(
-                    text = "Regulators want to hear from individuals who are affected. Be polite " +
-                        "and specific, write in an official language of the body you contact, ask " +
-                        "for a written acknowledgement, and copy " + KeepAndroidOpen.VICTORY_EMAIL +
-                        " so the campaign can track victories.",
+                    text = stringResource(R.string.act_intro, KeepAndroidOpen.VICTORY_EMAIL),
                     style = MaterialTheme.typography.bodyLarge,
                     color = MaterialTheme.colorScheme.onPrimaryContainer,
                 )
@@ -67,8 +112,8 @@ fun ActNowScreen(modifier: Modifier = Modifier) {
                     context.sendEmail(
                         to = null,
                         cc = KeepAndroidOpen.VICTORY_EMAIL,
-                        subject = SUBJECT,
-                        body = Content.letterTemplate(),
+                        subject = subject,
+                        body = genericLetter,
                     )
                 },
                 modifier = Modifier.fillMaxWidth(),
@@ -76,7 +121,7 @@ fun ActNowScreen(modifier: Modifier = Modifier) {
             ) {
                 Icon(Icons.Filled.Email, contentDescription = null)
                 Spacer(Modifier.width(8.dp))
-                Text("Open the email composer")
+                Text(stringResource(R.string.act_open_composer))
             }
         }
         item {
@@ -86,60 +131,58 @@ fun ActNowScreen(modifier: Modifier = Modifier) {
             ) {
                 OutlinedButton(
                     onClick = {
-                        context.copyToClipboard("Keep Android Open letter", Content.letterTemplate())
+                        context.copyToClipboard(
+                            clipboardLabel,
+                            "$subject\n\n$genericLetter",
+                        )
                     },
                     modifier = Modifier.weight(1f),
                     shape = MaterialTheme.shapes.large,
                 ) {
                     Icon(Icons.Filled.ContentCopy, contentDescription = null)
                     Spacer(Modifier.width(8.dp))
-                    Text("Copy")
+                    Text(stringResource(R.string.act_copy))
                 }
                 OutlinedButton(
                     onClick = {
-                        context.shareText(SUBJECT, Content.letterTemplate())
+                        context.shareText(subject, "$subject\n\n$genericLetter")
                     },
                     modifier = Modifier.weight(1f),
                     shape = MaterialTheme.shapes.large,
                 ) {
                     Icon(Icons.Filled.Share, contentDescription = null)
                     Spacer(Modifier.width(8.dp))
-                    Text("Share")
+                    Text(stringResource(R.string.act_share))
                 }
             }
         }
 
-        item { SectionHeader("United States \u2014 email the government") }
+        item { SectionHeader(stringResource(R.string.act_us_title)) }
         item {
             Text(
-                text = "The Department of Justice and the FTC take antitrust reports through online " +
-                    "forms. Use them, and contact your own representative and senators directly.",
+                text = stringResource(R.string.act_us_intro),
                 style = MaterialTheme.typography.bodyMedium,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
             )
         }
-        items(Content.usContacts) { contact -> ContactCard(contact, context) }
+        items(usContacts) { contact -> ContactCard(contact, subject, context) }
 
-        item { SectionHeader("Elsewhere in the world") }
-        items(Content.worldContacts) { contact -> ContactCard(contact, context) }
+        item { SectionHeader(stringResource(R.string.act_world_title)) }
+        items(worldContacts) { contact -> ContactCard(contact, subject, context) }
 
-        item { SectionHeader("Consumer & digital rights groups") }
-        items(Content.advocacyGroups) { contact -> ContactCard(contact, context) }
+        item { SectionHeader(stringResource(R.string.act_groups_title)) }
+        items(advocacy) { contact -> ContactCard(contact, subject, context) }
 
         item {
             KaoCard(containerColor = MaterialTheme.colorScheme.secondaryContainer) {
                 Text(
-                    text = "More ways to help",
+                    text = stringResource(R.string.act_more_title),
                     style = MaterialTheme.typography.titleMedium,
                     fontWeight = FontWeight.Bold,
                     color = MaterialTheme.colorScheme.onSecondaryContainer,
                 )
                 Text(
-                    text = "\u2022 Install F-Droid on your devices.\n" +
-                        "\u2022 Answer Google's developer verification survey.\n" +
-                        "\u2022 Post on social media and link to keepandroidopen.org.\n" +
-                        "\u2022 Sign the change.org petition.\n" +
-                        "\u2022 Add the countdown banner to your website.",
+                    text = stringResource(R.string.act_more_body),
                     style = MaterialTheme.typography.bodyMedium,
                     color = MaterialTheme.colorScheme.onSecondaryContainer,
                 )
@@ -151,16 +194,21 @@ fun ActNowScreen(modifier: Modifier = Modifier) {
                 modifier = Modifier.fillMaxWidth(),
                 shape = MaterialTheme.shapes.large,
             ) {
-                Icon(Icons.Filled.OpenInNew, contentDescription = null)
+                Icon(Icons.AutoMirrored.Filled.OpenInNew, contentDescription = null)
                 Spacer(Modifier.width(8.dp))
-                Text("All actions at keepandroidopen.org")
+                Text(stringResource(R.string.act_all_actions))
             }
         }
     }
 }
 
 @Composable
-private fun ContactCard(contact: Contact, context: Context) {
+private fun ContactCard(contact: Contact, subject: String, context: Context) {
+    val letter = stringResource(
+        R.string.letter_template,
+        contact.region,
+        KeepAndroidOpen.VICTORY_EMAIL,
+    )
     KaoCard {
         KaoChip(text = contact.region)
         Text(
@@ -190,8 +238,8 @@ private fun ContactCard(contact: Contact, context: Context) {
                         context.sendEmail(
                             to = email,
                             cc = KeepAndroidOpen.VICTORY_EMAIL,
-                            subject = SUBJECT,
-                            body = Content.letterTemplate(contact.region),
+                            subject = subject,
+                            body = letter,
                         )
                     },
                     modifier = Modifier.weight(1f),
@@ -199,7 +247,7 @@ private fun ContactCard(contact: Contact, context: Context) {
                 ) {
                     Icon(Icons.Filled.Email, contentDescription = null)
                     Spacer(Modifier.width(8.dp))
-                    Text("Email")
+                    Text(stringResource(R.string.action_email))
                 }
             }
             contact.url?.let { url ->
@@ -208,9 +256,9 @@ private fun ContactCard(contact: Contact, context: Context) {
                     modifier = Modifier.weight(1f),
                     shape = MaterialTheme.shapes.large,
                 ) {
-                    Icon(Icons.Filled.OpenInNew, contentDescription = null)
+                    Icon(Icons.AutoMirrored.Filled.OpenInNew, contentDescription = null)
                     Spacer(Modifier.width(8.dp))
-                    Text("Open")
+                    Text(stringResource(R.string.action_open))
                 }
             }
         }

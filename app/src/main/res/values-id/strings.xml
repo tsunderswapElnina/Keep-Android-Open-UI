@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Hitung mundur</string>
+    <string name="tab_rollout" formatted="false">Peluncuran</string>
+    <string name="tab_act_now" formatted="false">Bertindak Sekarang</string>
+    <string name="cd_open_site" formatted="false">Buka keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Pengaturan</string>
+    <string name="cd_back" formatted="false">Kembali</string>
+    <string name="countdown_campaign" formatted="false">Hitung mundur kampanye</string>
+    <string name="countdown_elapsed" formatted="false">Waktu telah berlalu sejak kampanye tersebut dipublikasikan menjelang 1 Januari 2027.</string>
+    <string name="countdown_what_means" formatted="false">Apa arti hitungan mundur</string>
+    <string name="countdown_read_faq" formatted="false">Baca FAQ</string>
+    <string name="countdown_campaign_btn" formatted="false">Kampanye</string>
+    <string name="countdown_footnote" formatted="false">Target hitung mundur cocok dengan spanduk yang dipublikasikan di keepandroidopen.org. Aplikasi diperbarui sekali per detik saat terbuka.</string>
+    <string name="countdown_expired" formatted="false">ANDROID SEKARANG MENJADI PLATFORM TERKUNCI</string>
+    <string name="countdown_running" formatted="false">ANDROID MENJADI PLATFORM TERKUNCI DI</string>
+    <string name="unit_days" formatted="false">hari</string>
+    <string name="unit_hours" formatted="false">jam</string>
+    <string name="unit_minutes" formatted="false">menit</string>
+    <string name="unit_seconds" formatted="false">detik</string>
+    <string name="rollout_title" formatted="false">Apa itu Verifikasi Pengembang Android?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Apa arti sebenarnya</string>
+    <string name="rollout_timeline_title" formatted="false">Garis waktu peluncuran</string>
+    <string name="rollout_paths_title" formatted="false">Pilih jalur verifikasi Anda</string>
+    <string name="rollout_advanced_title" formatted="false">“Aliran lanjutan” bukanlah solusi</string>
+    <string name="rollout_dev_page" formatted="false">Halaman pengembang resmi Google</string>
+    <string name="rollout_open_letter" formatted="false">Baca surat terbukanya</string>
+    <string name="label_identity" formatted="false">Identitas</string>
+    <string name="label_distribution" formatted="false">Distribusi</string>
+    <string name="label_ux" formatted="false">Pengalaman pengguna</string>
+    <string name="label_best_for" formatted="false">Terbaik untuk</string>
+    <string name="rollout_summary" formatted="false">Verifikasi Pengembang Android adalah program Google yang menghubungkan setiap aplikasi ke identitas pengembang terverifikasi sebelum dapat diinstal pada perangkat Android bersertifikat. Pengembang harus memverifikasi siapa mereka dan mendaftarkan nama paket yang mereka terbitkan. Aplikasi tanpa pengembang yang terdaftar dan terverifikasi tidak dapat lagi dipasang dengan cara normal setelah perlindungan diluncurkan.</string>
+    <string name="rollout_what_it_means" formatted="false">Ini paling sulit dilakukan pada distribusi independen dan sumber terbuka seperti F-Droid, unduhan APK langsung, dan proyek hobi. Google mengatakan ini tentang keamanan dan menghentikan malware anonim. Kritikus termasuk kampanye Keep Android Open, F-Droid dan EFF mengatakan ini adalah saklar mematikan: pendaftaran pusat, ID pemerintah, biaya, dan kontrol penuh atas apa yang boleh dipercayai oleh perangkat Anda.</string>
+    <string name="rollout_advanced_note" formatted="false">Alur lanjutan dikirimkan melalui layanan Google Play, bukan OS Android, sehingga Google dapat mengubah, membatasi, atau menghapusnya kapan saja tanpa pembaruan OS atau izin pengguna. Penundaan 24 jam sengaja mengganggu dan merupakan satu langkah lagi yang menghalangi Anda dan perangkat lunak yang Anda pilih untuk dijalankan.</string>
+    <string-array name="timeline_dates">
+        <item>25 Agustus 2025</item>
+        <item>19 Maret 2026</item>
+        <item>Juni 2026</item>
+        <item>18 Juni 2026</item>
+        <item>Juli 2026</item>
+        <item>Agustus 2026</item>
+        <item>30 September 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Program ini diumumkan</item>
+        <item>“Aliran lanjutan” terungkap</item>
+        <item>Pemverifikasi Pengembang Android dikirimkan ke perangkat</item>
+        <item>Peluncuran awal dikonfirmasi</item>
+        <item>API Pengembang terbuka</item>
+        <item>Konsol global, akun terbatas, aliran lanjutan</item>
+        <item>Penegakan hukum dimulai di empat negara</item>
+        <item>Peluncuran global</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google mengumumkan bahwa mulai tahun 2027, aplikasi untuk Android harus didaftarkan ke pengembang terverifikasi, termasuk aplikasi yang dipasang di luar Google Play.</item>
+        <item>Pengguna tingkat lanjut mendapatkan jalan keluar yang sengaja dibuat rumit: aktifkan Opsi Pengembang, konfirmasikan bahwa Anda tidak dipaksa, mulai ulang, lalu tunggu 24 jam sebelum Anda mengizinkan pemasangan yang belum diverifikasi.</item>
+        <item>Layanan sistem latar belakang (com.google.android.verifier) ​​diterapkan melalui Pembaruan Sistem Google ke perangkat tersertifikasi dan tetap tidak aktif hingga penegakan hukum.</item>
+        <item>Google mengonfirmasi penerapannya akan dimulai pada 30 September 2026 di tujuh toko dan empat negara.</item>
+        <item>API Status ID Pengembang Android diluncurkan secara global dan akses awal dimulai untuk API Konsol Pengembang Android dan akun distribusi terbatas.</item>
+        <item>Akun distribusi terbatas (gratis, hingga 20 perangkat, tanpa tanda pengenal pemerintah) dan API Konsol diluncurkan di seluruh dunia. Alur lanjutan untuk sideloading yang belum diverifikasi mulai diluncurkan.</item>
+        <item>Perlindungan berlaku untuk pengguna di Brasil, Indonesia, Singapura, dan Thailand pada perangkat bersertifikat yang menjalankan Android 7+. Aplikasi dari pengembang yang tidak terverifikasi diblokir di toko yang berpartisipasi: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore, dan GetApps.</item>
+        <item>Verifikasi diperluas ke semua aplikasi dan wilayah. Biarkan Android Terbuka menghitung mundur hingga 1 Januari 2027, saat Android menjadi platform yang terkunci.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Distribusi penuh</item>
+        <item>Distribusi terbatas</item>
+        <item>Mengesampingkan aplikasi yang tidak terdaftar</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Ya — tanda pengenal pemerintah dan biaya</item>
+        <item>Tidak — tidak ada tanda pengenal atau biaya pendaftaran</item>
+        <item>Tidak — tetapi gesekannya tinggi</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Toko atau saluran mana pun yang Anda pilih</item>
+        <item>Hingga 20 perangkat melalui kode QR atau jabat tangan tautan</item>
+        <item>ADB (dikecualikan) atau aliran lanjutan</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Tidak ada yang berubah untuk pengguna Anda</item>
+        <item>Pengguna menerima undangan instalasi dari pengembang yang mereka kenal</item>
+        <item>Opsi Pengembang, mulai ulang, tunggu 24 jam, lalu tetap instal</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Organisasi dan pengembang profesional</item>
+        <item>Pelajar, penghobi dan penggunaan pribadi</item>
+        <item>Pengembang dan pengguna listrik yang tidak terverifikasi</item>
+    </string-array>
+    <string name="act_title" formatted="false">Bertindak sekarang — buat suara Anda didengar</string>
+    <string name="act_intro">Regulator ingin mendengar masukan dari individu yang terkena dampak. Bersikaplah sopan dan spesifik, tulislah dalam bahasa resmi badan yang Anda hubungi, mintalah pengakuan tertulis, dan salin %1$s sehingga kampanye dapat melacak kemenangan.</string>
+    <string name="act_open_composer" formatted="false">Buka pembuat email</string>
+    <string name="act_copy" formatted="false">Menyalin</string>
+    <string name="act_share" formatted="false">Membagikan</string>
+    <string name="act_clipboard_label" formatted="false">Simpan surat Android Terbuka</string>
+    <string name="act_us_title" formatted="false">Amerika Serikat — kirim email ke pemerintah</string>
+    <string name="act_us_intro" formatted="false">Departemen Kehakiman dan FTC menerima laporan antimonopoli melalui formulir online. Gunakanlah, dan hubungi perwakilan dan senator Anda secara langsung.</string>
+    <string name="act_world_title" formatted="false">Di tempat lain di dunia</string>
+    <string name="act_groups_title" formatted="false">Kelompok konsumen &amp; hak digital</string>
+    <string name="act_more_title" formatted="false">Lebih banyak cara untuk membantu</string>
+    <string name="act_more_body" formatted="false">• Instal F-Droid di perangkat Anda.\n• Jawab survei verifikasi pengembang Google.\n• Posting di media sosial dan link ke keepandroidopen.org.\n• Menandatangani petisi change.org.\n• Tambahkan spanduk hitung mundur ke situs web Anda.</string>
+    <string name="act_all_actions" formatted="false">Semua tindakan di keepandroidopen.org</string>
+    <string name="action_email" formatted="false">E-mail</string>
+    <string name="action_open" formatted="false">Membuka</string>
+    <string-array name="us_contact_regions">
+        <item>Amerika Serikat</item>
+        <item>Amerika Serikat</item>
+        <item>Amerika Serikat</item>
+        <item>Amerika Serikat</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Departemen Kehakiman AS — Divisi Antitrust</item>
+        <item>Komisi Perdagangan Federal AS — Antimonopoli</item>
+        <item>Temukan Perwakilan DPR Anda</item>
+        <item>Hubungi Senator AS Anda</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Kirimkan laporan antimonopoli secara online.</item>
+        <item>Ajukan keluhan antimonopoli.</item>
+        <item>Hubungi perwakilan Anda di DPR AS.</item>
+        <item>Temukan dan hubungi kedua senator negara bagian Anda.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Uni Eropa</item>
+        <item>Uni Eropa</item>
+        <item>Inggris Raya</item>
+        <item>Brazil</item>
+        <item>Singapura</item>
+        <item>Thailand</item>
+        <item>Indonesia</item>
+        <item>Australia</item>
+        <item>Kanada</item>
+        <item>India</item>
+        <item>Jepang</item>
+        <item>Korea Selatan</item>
+        <item>Meksiko</item>
+        <item>Aotearoa / Selandia Baru</item>
+        <item>Taiwan</item>
+        <item>Swiss</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>Antitrust UE (DG COMP)</item>
+        <item>Tim Undang-Undang Pasar Digital</item>
+        <item>Otoritas Persaingan &amp; Pasar</item>
+        <item>TONG KECIL</item>
+        <item>CCC</item>
+        <item>Komisi Persaingan Perdagangan (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Biro Persaingan Kanada</item>
+        <item>Komisi Persaingan India</item>
+        <item>Komisi Perdagangan Adil Jepang</item>
+        <item>Komisi Perdagangan Adil Korea</item>
+        <item>Komisi Antimonopoli Nasional</item>
+        <item>Komisi Perdagangan</item>
+        <item>Komisi Perdagangan yang Adil</item>
+        <item>Komisi Kompetisi (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Kirim email ke otoritas kompetisi Komisi Eropa.</item>
+        <item>Hubungi meja bantuan warga DMA UE.</item>
+        <item>Laporkan ke CMA Inggris.</item>
+        <item>Brasil berada pada gelombang penegakan hukum pertama.</item>
+        <item>Singapura berada pada gelombang penegakan hukum pertama.</item>
+        <item>Thailand berada pada gelombang penegakan hukum pertama.</item>
+        <item>Indonesia berada pada gelombang penegakan hukum pertama.</item>
+        <item>Laporkan ke Komisi Persaingan dan Konsumen Australia.</item>
+        <item>Ajukan keluhan ke Biro Kompetisi.</item>
+        <item>Hubungi CCI tentang perilaku anti-persaingan.</item>
+        <item>Hubungi meja JFTC / Mobile Software Competition Act.</item>
+        <item>Hubungi KFTC.</item>
+        <item>Ajukan keluhan antimonopoli di Meksiko.</item>
+        <item>Laporkan perilaku anti-persaingan.</item>
+        <item>Hubungi FTC Taiwan.</item>
+        <item>Laporkan praktik yang melanggar hukum.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Global</item>
+        <item>Global</item>
+        <item>Eropa</item>
+        <item>Eropa</item>
+        <item>Global</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Yayasan Perbatasan Elektronik</item>
+        <item>Yayasan Perangkat Lunak Bebas</item>
+        <item>Yayasan Perangkat Lunak Bebas Eropa</item>
+        <item>Hak Digital Eropa (EDRi)</item>
+        <item>Konservasi Kebebasan Perangkat Lunak</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Penjaga gerbang aplikasi dan sensor internet.</item>
+        <item>Kebebasan perangkat lunak dan kontrol pengguna.</item>
+        <item>Kebebasan perangkat lunak di Eropa.</item>
+        <item>Advokasi hak digital.</item>
+        <item>Perangkat lunak bebas berbasis komunitas.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">pemerintahan saya</string>
+    <string name="letter_subject" formatted="false">Hentikan penguncian Verifikasi Pengembang Android Google</string>
+    <string name="letter_template">Perwakilan %1$s yang terhormat,\n\nSaya menulis sebagai pengguna Android yang peduli dan sebagai warga negara di yurisdiksi Anda.\n\nProgram Verifikasi Pengembang Android Google, yang diberlakukan mulai tanggal 30 September 2026 di beberapa pasar dan diperluas secara global pada tahun 2027, akan mengharuskan setiap aplikasi Android didaftarkan ke pengembang yang terverifikasi secara terpusat sebelum dapat diinstal pada perangkat bersertifikat. Pengembang harus menyerahkan tanda pengenal pemerintah, menyetujui persyaratan Google, membayar biaya, dan mencantumkan setiap pengenal aplikasi saat ini dan di masa mendatang.\n\nHal ini tidak meningkatkan keamanan secara berarti. Hal ini memberikan satu perusahaan swasta kekuasaan untuk memutuskan perangkat lunak mana yang boleh dijalankan pada perangkat yang mereka miliki, dan hal ini mengancam distribusi independen dan sumber terbuka seperti F-Droid, yang tidak dapat mematuhi dan mungkin tidak ada lagi.\n\nSaya dengan hormat meminta Anda:\n\n1. Selidiki apakah program ini anti persaingan dan merupakan penyalahgunaan posisi penjaga gerbang.\n2. Tekan Google untuk mengecualikan distribusi sumber terbuka dan non-komersial, dan tetap bebas melakukan sideload dari pendaftaran terpusat.\n3. Melindungi hak pengguna untuk menjalankan perangkat lunak pilihan mereka pada perangkat keras yang mereka beli.\n\nHarap terima pesan ini secara tertulis dan beri tahu saya tindakan apa yang diambil kantor Anda.\n\nSaya juga menyalin kampanye Pertahankan Android Terbuka di %2$s.\n\nHormat kami,\n[Namamu]\n[Kota dan negara Anda]</string>
+    <string name="toast_no_app" formatted="false">Tidak ada aplikasi yang dapat membuka tautan ini</string>
+    <string name="toast_no_email" formatted="false">Tidak ada aplikasi email yang diinstal</string>
+    <string name="chooser_send_email" formatted="false">Kirim email</string>
+    <string name="chooser_share" formatted="false">Membagikan</string>
+    <string name="toast_copied" formatted="false">Disalin ke papan klip</string>
+    <string name="settings_title" formatted="false">Pengaturan</string>
+    <string name="settings_language_title" formatted="false">Bahasa aplikasi</string>
+    <string name="settings_language_summary" formatted="false">Pilih bahasa yang digunakan oleh aplikasi. Anda juga dapat mengubahnya dari pengaturan perangkat Anda.</string>
+    <string name="settings_system_default" formatted="false">Bawaan sistem</string>
+    <string name="settings_language_search" formatted="false">Cari bahasa</string>
+    <string name="settings_theme_title" formatted="false">Tema</string>
+    <string name="settings_theme_summary" formatted="false">Pilih tampilan aplikasi.</string>
+    <string name="theme_system" formatted="false">Ikuti sistem</string>
+    <string name="theme_light" formatted="false">Lampu</string>
+    <string name="theme_dark" formatted="false">Gelap</string>
+    <string name="theme_amoled" formatted="false">AMOLED (hitam murni)</string>
+    <string name="settings_accent_title" formatted="false">Warna aksen</string>
+    <string name="settings_accent_summary" formatted="false">Pilih warna highlight yang digunakan di seluruh aplikasi.</string>
+    <string name="accent_default" formatted="false">Default (merah kampanye)</string>
+    <string name="accent_red" formatted="false">Merah</string>
+    <string name="accent_orange" formatted="false">Oranye</string>
+    <string name="accent_yellow" formatted="false">Kuning</string>
+    <string name="accent_green" formatted="false">Hijau</string>
+    <string name="accent_teal" formatted="false">teal</string>
+    <string name="accent_blue" formatted="false">Biru</string>
+    <string name="accent_purple" formatted="false">Ungu</string>
+    <string name="accent_pink" formatted="false">Berwarna merah muda</string>
+    <string name="settings_colorblendr_warning" formatted="false">Perhatian: jika ColorBlendr atau Material lain yang Anda timpa aktif, warna aksen Anda mungkin tidak berlaku sampai Anda menonaktifkannya.</string>
+    <string name="settings_about_title" formatted="false">Tentang</string>
+    <string name="settings_version">Versi %1$s</string>
+    <string name="settings_open_source" formatted="false">Sumber terbuka (MIT). Tidak berafiliasi atau didukung oleh kampanye resmi Keep Android Open.</string>
+</resources>

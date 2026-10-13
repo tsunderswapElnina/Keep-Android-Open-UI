@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">နှစ်သစ်</string>
+    <string name="tab_rollout" formatted="false">ထုတ်ပေးသည်။</string>
+    <string name="tab_act_now" formatted="false">ယခုပင် ဆောင်ရွက်ရန်</string>
+    <string name="cd_open_site" formatted="false">Keepandroidopen.org ကိုဖွင့်ပါ။</string>
+    <string name="cd_settings" formatted="false">ဆက်တင်များ</string>
+    <string name="cd_back" formatted="false">ကျော</string>
+    <string name="countdown_campaign" formatted="false">ကမ်ပိန်းနှစ်သစ်</string>
+    <string name="countdown_elapsed" formatted="false">2027 ခုနှစ် ဇန်န၀ါရီလ 1 ရက်နေ့အထိ ကမ်ပိန်းကို လူသိရှင်ကြား ထုတ်ပြန်လိုက်ကတည်းက အချိန်ကုန်သွားသည်။</string>
+    <string name="countdown_what_means" formatted="false">နှစ်သစ်က ဘာကို ဆိုလိုတာလဲ။</string>
+    <string name="countdown_read_faq" formatted="false">FAQ ကိုဖတ်ပါ။</string>
+    <string name="countdown_campaign_btn" formatted="false">မဲဆွယ်သည်။</string>
+    <string name="countdown_footnote" formatted="false">ရေတွက်ခြင်းပစ်မှတ်သည် keepandroidopen.org တွင်ထုတ်ဝေသည့်နဖူးစည်းပုံနှင့်ကိုက်ညီသည်။ အပလီကေးရှင်းသည် ဖွင့်ထားချိန်တွင် တစ်စက္ကန့်လျှင် တစ်ကြိမ် အပ်ဒိတ်လုပ်သည်။</string>
+    <string name="countdown_expired" formatted="false">ယခုအခါ Android သည် လော့ခ်ချထားသော ပလပ်ဖောင်းတစ်ခုဖြစ်သည်။</string>
+    <string name="countdown_running" formatted="false">Android သည် လော့ခ်ချထားသော ပလပ်ဖောင်းတစ်ခု ဖြစ်လာသည်။</string>
+    <string name="unit_days" formatted="false">နေ့ရက်များ</string>
+    <string name="unit_hours" formatted="false">နာရီ</string>
+    <string name="unit_minutes" formatted="false">မိနစ်</string>
+    <string name="unit_seconds" formatted="false">စက္ကန့်</string>
+    <string name="rollout_title" formatted="false">Android Developer Verification ဆိုတာဘာလဲ။</string>
+    <string name="rollout_what_it_means_title" formatted="false">တကယ်ဆိုလိုပါတယ်။</string>
+    <string name="rollout_timeline_title" formatted="false">ထုတ်လွှင့်မည့် အချိန်ဇယား</string>
+    <string name="rollout_paths_title" formatted="false">သင်၏အတည်ပြုခြင်းလမ်းကြောင်းကိုရွေးချယ်ပါ။</string>
+    <string name="rollout_advanced_title" formatted="false">\"အဆင့်မြင့်စီးဆင်းမှု\" သည် ဖြေရှင်းချက်မဟုတ်ပါ။</string>
+    <string name="rollout_dev_page" formatted="false">Google ၏တရားဝင် developer စာမျက်နှာ</string>
+    <string name="rollout_open_letter" formatted="false">အိတ်ဖွင့်ပေးစာကို ဖတ်ပါ။</string>
+    <string name="label_identity" formatted="false">အထောက်အထား</string>
+    <string name="label_distribution" formatted="false">ဖြန့်ဝေခြင်း။</string>
+    <string name="label_ux" formatted="false">အသုံးပြုသူအတွေ့အကြုံ</string>
+    <string name="label_best_for" formatted="false">အကောင်းဆုံး</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification သည် အက်ပ်တိုင်းကို အသိအမှတ်ပြု Android စက်များတွင် မတပ်ဆင်မီ အတည်ပြုထားသော developer အထောက်အထားတစ်ခုနှင့် ချိတ်ဆက်ပေးသည့် Google ပရိုဂရမ်တစ်ခုဖြစ်သည်။ ဆော့ဖ်ဝဲရေးသားသူများသည် ၎င်းတို့သည် မည်သူဖြစ်ကြောင်း အတည်ပြုပြီး ၎င်းတို့ထုတ်ဝေသည့် ပက်ကေ့ဂျ်အမည်များကို မှတ်ပုံတင်ရပါမည်။ မှတ်ပုံတင်ထားသော၊ စိစစ်ပြီးသော ဆော့ဖ်ဝဲရေးသားသူမရှိသော အက်ပ်များကို အကာအကွယ်များ စတင်လိုက်သည်နှင့် ပုံမှန်နည်းလမ်းအတိုင်း ထည့်သွင်းနိုင်တော့မည်မဟုတ်ပါ။</string>
+    <string name="rollout_what_it_means" formatted="false">၎င်းသည် F-Droid၊ တိုက်ရိုက် APK ဒေါင်းလုဒ်များနှင့် ဝါသနာပရောဂျက်များကဲ့သို့သော လွတ်လပ်ပြီး ပွင့်လင်းသော အရင်းအမြစ်ဖြန့်ဖြူးမှုတွင် အခက်ခဲဆုံးဖြစ်သည်။ Google က ၎င်းသည် လုံခြုံရေးနှင့် အမည်မသိ malware များကို ရပ်တန့်ခြင်းအကြောင်းဖြစ်သည်။ Keep Android Open campaign၊ F-Droid နှင့် EFF အပါအဝင် ဝေဖန်သူများက ၎င်းသည် ဂိတ်စောင့်သတ်ခလုတ်တစ်ခုဖြစ်သည်- ဗဟိုမှတ်ပုံတင်ခြင်း၊ အစိုးရ ID၊ အခကြေးငွေနှင့် သင့်စက်ပစ္စည်းအား ယုံကြည်ခွင့်ပြုထားသည့်အရာအပေါ် ထိန်းချုပ်မှု အပြည့်အ၀ရှိသည်ဟု ဆိုပါသည်။</string>
+    <string name="rollout_advanced_note" formatted="false">အဆင့်မြင့်စီးဆင်းမှုကို Android OS မဟုတ်ဘဲ Google Play ဝန်ဆောင်မှုများမှတစ်ဆင့် ပို့ဆောင်ပေးသောကြောင့် Google သည် OS အပ်ဒိတ် သို့မဟုတ် အသုံးပြုသူ၏သဘောတူညီချက်မပါဘဲ ၎င်းအား အချိန်မရွေး ပြောင်းလဲခြင်း၊ ကန့်သတ်ခြင်း သို့မဟုတ် ဖယ်ရှားခြင်းတို့ ပြုလုပ်နိုင်သည်။ 24 နာရီနှောင့်နှေးမှုသည် ရည်ရွယ်ချက်ရှိရှိ အနှောက်အယှက်ဖြစ်ပြီး သင်နှင့် သင်လုပ်ဆောင်ရန်ရွေးချယ်သည့်ဆော့ဖ်ဝဲလ်ကြားတွင် ရပ်တည်နိုင်သည့် နောက်ထပ်ခြေလှမ်းတစ်ခုဖြစ်သည်။</string>
+    <string-array name="timeline_dates">
+        <item>သြဂုတ် ၂၅၊ ၂၀၂၅</item>
+        <item>မတ် ၁၉၊ ၂၀၂၆</item>
+        <item>ဇွန်လ 2026</item>
+        <item>ဇွန် ၁၈၊ ၂၀၂၆</item>
+        <item>ဇူလိုင်လ 2026</item>
+        <item>သြဂုတ် ၂၀၂၆</item>
+        <item>စက်တင်ဘာ ၃၀၊ ၂၀၂၆</item>
+        <item>၂၀၂၇</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>အစီအစဉ်ကို ထုတ်ပြန်ကြေညာသည်။</item>
+        <item>“အဆင့်မြင့်သော စီးဆင်းမှု” ကို ထင်ရှားစေပါသည်။</item>
+        <item>Android Developer Verifier သည် စက်ပစ္စည်းများသို့ ပို့ဆောင်ပေးပါသည်။</item>
+        <item>ကနဦး လွှင့်တင်မှုကို အတည်ပြုခဲ့သည်။</item>
+        <item>ဆော့ဖ်ဝဲအင်ဂျင်နီယာ API များဖွင့်ထားသည်။</item>
+        <item>ကမ္ဘာလုံးဆိုင်ရာ ကွန်ဆိုးလ်၊ ကန့်သတ်အကောင့်များ၊ အဆင့်မြင့်စီးဆင်းမှု</item>
+        <item>လေးနိုင်ငံမှ စတင်အာဏာတည်သည်။</item>
+        <item>ကမ္ဘာလုံးဆိုင်ရာ ထုတ်လွှင့်မှု</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google Play ပြင်ပတွင်ထည့်သွင်းထားသည့်အက်ပ်များအပါအဝင် Android အတွက် အက်ပ်များကို 2027 ခုနှစ်မှစတင်၍ အတည်ပြုပြီး developer ထံ မှတ်ပုံတင်ရမည်ဖြစ်ကြောင်း Google မှကြေငြာခဲ့သည်။</item>
+        <item>ပါဝါအသုံးပြုသူများသည် တမင်တကာခက်ခဲသောထွက်ပေါက်တစ်ခုကိုရရှိသည်- Developer Options ကိုဖွင့်ပါ၊ သင့်အား အတင်းအကြပ်မခံရကြောင်းအတည်ပြုပါ၊ ပြန်လည်စတင်ပါ၊ ထို့နောက် သင်အတည်မပြုရသေးသောထည့်သွင်းမှုများကိုခွင့်ပြုခြင်းမပြုမီ 24 နာရီစောင့်ပါ။</item>
+        <item>နောက်ခံစနစ်ဝန်ဆောင်မှု (com.google.android.verifier) ​​သည် အသိအမှတ်ပြုထားသောစက်ပစ္စည်းများသို့ Google စနစ်အပ်ဒိတ်များမှတစ်ဆင့် တွန်းပို့ပေးပြီး ပြဋ္ဌာန်းသည်အထိ ငြိမ်နေပါသည်။</item>
+        <item>Google သည် စတိုးဆိုင် ခုနစ်ခုနှင့် နိုင်ငံ လေးခုတွင် စက်တင်ဘာ 30 ရက်၊ 2026 တွင် စတင်အာဏာတည်ကြောင်း အတည်ပြုခဲ့သည်။</item>
+        <item>Android Developer ID Status API သည် ကမ္ဘာတစ်ဝှမ်းတွင် စတင်နေပြီး Android Developer Console API နှင့် အကန့်အသတ်ရှိသော ဖြန့်ချီရေးအကောင့်များအတွက် အစောပိုင်းဝင်ရောက်အသုံးပြုနိုင်ပါသည်။</item>
+        <item>အကန့်အသတ်ရှိသော ဖြန့်ဖြူးအကောင့်များ (အခမဲ့၊ စက် 20 အထိ၊ အစိုးရ ID မရှိ) နှင့် Console API ကို ကမ္ဘာတစ်ဝှမ်းတွင် စတင်လိုက်ပါ။ အတည်မပြုနိုင်သော ဘေးထွက် loading အတွက် အဆင့်မြင့် စီးဆင်းမှု စတင်ပါပြီ။</item>
+        <item>ကာကွယ်မှုများကို ဘရာဇီး၊ အင်ဒိုနီးရှား၊ စင်ကာပူနှင့် ထိုင်းရှိ Android 7+ အသုံးပြုထားသော အသိအမှတ်ပြုစက်ပစ္စည်းများတွင် အသုံးပြုသူများအတွက် တိုက်ရိုက်အသုံးပြုနိုင်ပါသည်။ အတည်မပြုရသေးသော developer များမှ အက်ပ်များကို ပါ၀င်သောစတိုးများတွင် Google Play၊ HONOR App Market၊ OPPO App Market၊ Galaxy Store၊ Palm Store၊ V-Appstore နှင့် GetApps တို့တွင် ပိတ်ဆို့ထားပါသည်။</item>
+        <item>အတည်ပြုခြင်းကို အက်ပ်နှင့် ဒေသအားလုံးတွင် တိုးချဲ့ထားသည်။ Android ၏လော့ခ်ချထားသောပလပ်ဖောင်းဖြစ်လာသောအခါတွင် Android Open ကို Keep သည် ဇန်နဝါရီ 1 ရက်၊ 2027 ခုနှစ်အထိ ရေတွက်သည်။</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>အပြည့်အဝဖြန့်ဖြူး</item>
+        <item>ကန့်သတ်ဖြန့်ဖြူး</item>
+        <item>မှတ်ပုံမတင်ထားသော အက်ပ်များကို ဘေးထွက်ဆွဲခြင်း။</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>ဟုတ်သည် — အစိုးရ ID နှင့် အခကြေးငွေ</item>
+        <item>မဟုတ်ပါ - ID သို့မဟုတ် မှတ်ပုံတင်ကြေး မရှိပါ။</item>
+        <item>မဟုတ်ဘူး — ဒါပေမယ့် ပွတ်တိုက်မှု မြင့်မားတယ်။</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>မည်သည့်စတိုး သို့မဟုတ် ချန်နယ်ကို သင်ရွေးချယ်ပါ။</item>
+        <item>QR ကုဒ် သို့မဟုတ် လက်ဆွဲ လင့်ခ်မှတစ်ဆင့် စက် 20 အထိ</item>
+        <item>ADB (ကင်းလွတ်ခွင့်) သို့မဟုတ် အဆင့်မြင့်စီးဆင်းမှု</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>သင့်အသုံးပြုသူများအတွက် ဘာမှမပြောင်းလဲပါ။</item>
+        <item>အသုံးပြုသူများသည် ၎င်းတို့သိသော developer ထံမှ ထည့်သွင်းရန် ဖိတ်ကြားချက်ကို လက်ခံပါသည်။</item>
+        <item>ဆော့ဖ်ဝဲရွေးချယ်မှုများ၊ ပြန်လည်စတင်ရန်၊ 24 နာရီစောင့်ဆိုင်းပြီးနောက် မည်သို့ပင်ဖြစ်စေ ထည့်သွင်းပါ။</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>အဖွဲ့အစည်းများနှင့် ပရော်ဖက်ရှင်နယ် developer များ</item>
+        <item>ကျောင်းသား၊ ဝါသနာရှင်များနှင့် ကိုယ်ရေးကိုယ်တာ အသုံးပြုမှု</item>
+        <item>အတည်မပြုရသေးသော developer များနှင့် ပါဝါအသုံးပြုသူများ</item>
+    </string-array>
+    <string name="act_title" formatted="false">ယခုလုပ်ဆောင်ပါ — သင့်အသံကိုကြားအောင်ပြုလုပ်ပါ။</string>
+    <string name="act_intro">စည်းမျဥ်းစည်းကမ်းများသည် ထိခိုက်ခံစားရသူများထံမှ ကြားလိုသည်။ ယဉ်ကျေးပြီး တိကျစွာပြောဆိုပါ၊ သင်ဆက်သွယ်သည့် ကိုယ်ခန္ဓာ၏တရားဝင်ဘာသာစကားဖြင့် ရေးပါ၊ စာဖြင့်အသိအမှတ်ပြုမှုတောင်းပါ၊ %1$s ကို ကူးယူပါ၊ သို့မှသာ ကမ်ပိန်းသည် အောင်ပွဲများကို ခြေရာခံနိုင်ပါသည်။</string>
+    <string name="act_open_composer" formatted="false">အီးမေးလ်စာရေးဆရာကိုဖွင့်ပါ။</string>
+    <string name="act_copy" formatted="false">ကော်ပီ</string>
+    <string name="act_share" formatted="false">မျှဝေပါ။</string>
+    <string name="act_clipboard_label" formatted="false">Android Open Letter ကို သိမ်းဆည်းထားပါ။</string>
+    <string name="act_us_title" formatted="false">ယူအက်စ် — အစိုးရထံ အီးမေးလ်ပို့ပါ။</string>
+    <string name="act_us_intro" formatted="false">တရားရေးဌာနနှင့် FTC သည် အွန်လိုင်းဖောင်များမှတစ်ဆင့် မယုံကြည်မှုဆိုင်ရာ အစီရင်ခံစာများကို ရယူသည်။ ၎င်းတို့ကို အသုံးပြုပြီး သင့်ကိုယ်ပိုင်ကိုယ်စားလှယ်နှင့် အထက်လွှတ်တော်အမတ်များကို တိုက်ရိုက်ဆက်သွယ်ပါ။</string>
+    <string name="act_world_title" formatted="false">ကမ္ဘာတခြားနေရာ</string>
+    <string name="act_groups_title" formatted="false">စားသုံးသူနှင့် ဒစ်ဂျစ်တယ်အခွင့်အရေးအဖွဲ့များ</string>
+    <string name="act_more_title" formatted="false">ကူညီရန်နည်းလမ်းများ</string>
+    <string name="act_more_body" formatted="false">• သင့်စက်များတွင် F-Droid ကို ထည့်သွင်းပါ။\n• Google ၏ developer စိစစ်အတည်ပြုစစ်တမ်းကို ဖြေဆိုပါ။\n• ဆိုရှယ်မီဒီယာတွင် ပို့စ်တင်ပြီး keepandroidopen.org သို့ လင့်ခ်ချိတ်ပါ။\n• change.org အသနားခံစာတွင် လက်မှတ်ထိုးပါ။\n• သင့်ဝဘ်ဆိုက်တွင် နှစ်သစ်ကြိုဆိုပွဲနဖူးစည်းကို ထည့်ပါ။</string>
+    <string name="act_all_actions" formatted="false">keepandroidopen.org ရှိ လုပ်ဆောင်ချက်များ အားလုံး</string>
+    <string name="action_email" formatted="false">အီးမေးလ်</string>
+    <string name="action_open" formatted="false">ဖွင့်သည်။</string>
+    <string-array name="us_contact_regions">
+        <item>ယူအက်စ်</item>
+        <item>ယူအက်စ်</item>
+        <item>ယူအက်စ်</item>
+        <item>ယူအက်စ်</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>အမေရိကန် တရားရေးဌာန — မယုံကြည်မှုဌာန</item>
+        <item>အမေရိကန် ပြည်ထောင်စု ကုန်သွယ်ရေးကော်မရှင် - မယုံကြည်မှု</item>
+        <item>မင်းရဲ့ အောက်လွှတ်တော် ကိုယ်စားလှယ်ကို ရှာပါ။</item>
+        <item>သင်၏ US အထက်လွှတ်တော်အမတ်များကို ဆက်သွယ်ပါ။</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>အွန်လိုင်းတွင် ယုံကြည်ကိုးစားမှု အစီရင်ခံစာကို တင်သွင်းပါ။</item>
+        <item>ယုံကြည်မှုဆန့်ကျင်ရေး တိုင်ကြားချက်တစ်ခု တင်သွင်းပါ။</item>
+        <item>US အောက်လွှတ်တော်ရှိ သင့်ကိုယ်စားလှယ်ထံ ဆက်သွယ်ပါ။</item>
+        <item>သင့်ပြည်နယ်လွှတ်တော်အမတ်နှစ်ဦးစလုံးကို ရှာဖွေပြီး ဆက်သွယ်ပါ။</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>ဥရောပသမဂ္ဂ</item>
+        <item>ဥရောပသမဂ္ဂ</item>
+        <item>ယူနိုက်တက်ကင်းဒမ်း</item>
+        <item>ဘရာဇီး</item>
+        <item>စင်္ကာပူ</item>
+        <item>ထိုင်း</item>
+        <item>အင်ဒိုနီးရှား</item>
+        <item>သြစတြေးလျ</item>
+        <item>ကနေဒါ</item>
+        <item>အိန္ဒိယ</item>
+        <item>ဂျပန်</item>
+        <item>တောင်ကိုရီးယား</item>
+        <item>မက္ကဆီကို</item>
+        <item>Aotearoa / နယူးဇီလန်</item>
+        <item>ထိုင်ဝမ်</item>
+        <item>ဆွစ်ဇာလန်</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU Antitrust (DG COMP)</item>
+        <item>ဒစ်ဂျစ်တယ်စျေးကွက်အက်ဥပဒေအဖွဲ့</item>
+        <item>ယှဉ်ပြိုင်မှုနှင့် စျေးကွက်အာဏာပိုင်</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>ကုန်သွယ်မှု ယှဉ်ပြိုင်မှုကော်မရှင် (OTCC)၊</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>ယှဉ်ပြိုင်မှုဗျူရိုကနေဒါ</item>
+        <item>အိန္ဒိယပြိုင်ပွဲကော်မရှင်</item>
+        <item>ဂျပန်တရားမျှတသောကုန်သွယ်မှုကော်မရှင်</item>
+        <item>ကိုရီးယားတရားမျှတသောကုန်သွယ်မှုကော်မရှင်</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>ကုန်သွယ်ရေးကော်မရှင်</item>
+        <item>တရားမျှတသောကုန်သွယ်မှုကော်မရှင်</item>
+        <item>ပြိုင်ပွဲကော်မရှင် (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>ဥရောပကော်မရှင် ယှဉ်ပြိုင်ခွင့်အာဏာကို အီးမေးလ်ပို့ပါ။</item>
+        <item>EU DMA နိုင်ငံသား အကူအညီပေးရေးဌာနကို ဆက်သွယ်ပါ။</item>
+        <item>UK CMA သို့ သတင်းပို့ပါ။</item>
+        <item>ဘရာဇီးသည် ပထမ ပြဋ္ဌာန်းမှုလှိုင်းတွင် ရှိနေသည်။</item>
+        <item>စင်္ကာပူသည် ပထမ ကျင့်သုံးမှုလှိုင်းတွင် ရှိသည်။</item>
+        <item>ထိုင်းနိုင်ငံသည် ပထမ ကျင့်သုံးမှုလှိုင်းတွင် ရှိသည်။</item>
+        <item>အင်ဒိုနီးရှားသည် ပထမ ပြဋ္ဌာန်းမှုလှိုင်းတွင် ရှိသည်။</item>
+        <item>ဩစတြေးလျ ယှဉ်ပြိုင်မှုနှင့် စားသုံးသူကော်မရှင်ထံ အစီရင်ခံပါ။</item>
+        <item>ယှဉ်ပြိုင်မှုဗျူရိုကို တိုင်ကြားပါ။</item>
+        <item>ပြိုင်ဆိုင်မှု ဆန့်ကျင်သည့် အပြုအမူများနှင့်ပတ်သက်၍ CCI သို့ ဆက်သွယ်ပါ။</item>
+        <item>JFTC/Mobile Software Competition Act desk သို့ ဆက်သွယ်ပါ။</item>
+        <item>KFTC ကို ဆက်သွယ်ပါ။</item>
+        <item>မက္ကဆီကိုတွင် ယုံကြည်ကိုးစားမှု ဆန့်ကျင်ရေးတိုင်ကြားချက်ကို တိုင်ကြားပါ။</item>
+        <item>ပြိုင်ဆိုင်မှုဆန့်ကျင်ရေး အပြုအမူကို အစီရင်ခံပါ။</item>
+        <item>ထိုင်ဝမ် FTC ကို ဆက်သွယ်ပါ။</item>
+        <item>စည်းမဲ့ကမ်းမဲ့ လုပ်ရပ်တွေကို သတင်းပို့ပါ။</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>ကမ္ဘာလုံးဆိုင်ရာ</item>
+        <item>ကမ္ဘာလုံးဆိုင်ရာ</item>
+        <item>ဥရောပ</item>
+        <item>ဥရောပ</item>
+        <item>ကမ္ဘာလုံးဆိုင်ရာ</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>အီလက်ထရွန်းနစ် Frontier ဖောင်ဒေးရှင်း</item>
+        <item>အခမဲ့ဆော့ဖ်ဝဲဖောင်ဒေးရှင်း</item>
+        <item>အခမဲ့ဆော့ဖ်ဝဲဖောင်ဒေးရှင်းဥရောပ</item>
+        <item>ဥရောပဒစ်ဂျစ်တယ်အခွင့်အရေး (EDRi)</item>
+        <item>Software Freedom Conservancy</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>အက်ပ်ဂိတ်စောင့်ခြင်းနှင့် အင်တာနက်ဆင်ဆာဖြတ်ခြင်း။</item>
+        <item>ဆော့ဖ်ဝဲ လွတ်လပ်ခွင့်နှင့် အသုံးပြုသူ ထိန်းချုပ်မှု။</item>
+        <item>ဥရောပတွင် ဆော့ဖ်ဝဲလ် လွတ်လပ်ခွင့်။</item>
+        <item>ဒစ်ဂျစ်တယ်အခွင့်အရေးများကို ထောက်ခံအားပေးခြင်း။</item>
+        <item>ရပ်ရွာမှမောင်းနှင်သော အခမဲ့ဆော့ဖ်ဝဲ။</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">ငါ့အစိုးရ</string>
+    <string name="letter_subject" formatted="false">Google ၏ Android Developer Verification lockdown ကို ရပ်ပါ။</string>
+    <string name="letter_template">လေးစားအပ်ပါသော %1$s ကိုယ်စားလှယ်၊\n\nကျွန်ုပ်သည် သက်ဆိုင်ရာ Android အသုံးပြုသူအဖြစ်နှင့် သင့်တရားစီရင်ပိုင်ခွင့်ရှိ နိုင်ငံသားတစ်ဦးအနေဖြင့် စာရေးသားနေပါသည်။\n\nGoogle ၏ Android Developer Verification ပရိုဂရမ်သည် စျေးကွက်များစွာတွင် စက်တင်ဘာ 30၊ 2026 မှစတင်၍ ပြဋ္ဌာန်းပြီး 2027 ခုနှစ်တွင် ကမ္ဘာတစ်ဝှမ်းတွင် ချဲ့ထွင်ထားသော Android အက်ပ်တိုင်းကို ၎င်းအား လက်မှတ်ရစက်ပစ္စည်းများတွင် မတပ်ဆင်မီ ဗဟိုမှအတည်ပြုထားသောဆော့ဖ်ဝဲအင်ဂျင်နီယာထံ မှတ်ပုံတင်ရန် လိုအပ်မည်ဖြစ်ပါသည်။ ဆော့ဖ်ဝဲရေးသားသူများသည် အစိုးရသက်သေခံကတ်ပြားကို တင်ပြရမည်ဖြစ်ပြီး၊ Google ၏ စည်းကမ်းချက်များကို သဘောတူကာ အခကြေးငွေပေးဆောင်ကာ လက်ရှိနှင့် အနာဂတ်အက်ပ်သတ်မှတ်သူတိုင်းကို စာရင်းပြုစုရမည်ဖြစ်သည်။\n\n၎င်းသည် လုံခြုံရေးကို အဓိပ္ပါယ်ရှိစွာ မြှင့်တင်မပေးပေ။ ၎င်းသည် ၎င်းတို့ပိုင်ဆိုင်သည့် စက်ပစ္စည်းများတွင် လူများအား မည်သည့်ဆော့ဖ်ဝဲကို အသုံးပြုခွင့်ပေးသည်ကို ဆုံးဖြတ်ရန် တစ်ခုတည်းသော ပုဂ္ဂလိကကုမ္ပဏီတစ်ခုအား ပေးအပ်ထားပြီး ၎င်းသည် လိုက်လျောညီထွေမဖြစ်ဘဲ တည်ရှိနေနိုင်သည့် F-Droid ကဲ့သို့သော သီးခြားလွတ်လပ်ပြီး open-source ဖြန့်ဖြူးမှုကို ခြိမ်းခြောက်လျက်ရှိသည်။\n\nလေးစားစွာတောင်းဆိုအပ်ပါသည်ခင်ဗျား။\n\n1. ဤပရိုဂရမ်သည် ပြိုင်ဆိုင်မှု ဆန့်ကျင်ပြီး တံခါးစောင့်ရာထူးကို အလွဲသုံးစားလုပ်ခြင်း ရှိ၊ မရှိ စုံစမ်းစစ်ဆေးပါ။\n2. Open-source နှင့် စီးပွားဖြစ်မဟုတ်သော ဖြန့်ဖြူးမှုများကို ကင်းလွတ်ခွင့်ပေးရန်နှင့် ဗဟိုချုပ်ကိုင်မှုဖြင့် မှတ်ပုံတင်ခြင်းမရှိဘဲ sideloading ကို ဆက်လက်ထားရှိရန် Google ကိုနှိပ်ပါ။\n3. ၎င်းတို့ဝယ်ယူထားသော ဟာ့ဒ်ဝဲပေါ်တွင် ရွေးချယ်ထားသော ဆော့ဖ်ဝဲကို အသုံးပြုသူများ၏ အခွင့်အရေးကို ကာကွယ်ပါ။\n\nကျေးဇူးပြု၍ ဤစာကို စာဖြင့်ရေးသား၍ အသိအမှတ်ပြုပြီး သင့်ရုံးက မည်သို့လုပ်ဆောင်သည်ကို ကျွန်ုပ်အား အသိပေးပါ။\n\nKeep Android Open ကမ်ပိန်းကိုလည်း %2$s တွင် ကူးယူနေပါသည်။\n\nရိုးသားစွာ၊\n[မင်းနာမည်]\n[မင်းရဲ့မြို့နဲ့နိုင်ငံ]</string>
+    <string name="toast_no_app" formatted="false">မည်သည့်အက်ပ်မှ ဤလင့်ခ်ကိုဖွင့်၍မရပါ။</string>
+    <string name="toast_no_email" formatted="false">အီးမေးလ်အက်ပ်ကို ထည့်သွင်းထားခြင်းမရှိပါ။</string>
+    <string name="chooser_send_email" formatted="false">အီးမေးလ်ပို့ပါ။</string>
+    <string name="chooser_share" formatted="false">မျှဝေပါ။</string>
+    <string name="toast_copied" formatted="false">ကလစ်ဘုတ်သို့ ကူးယူထားသည်။</string>
+    <string name="settings_title" formatted="false">ဆက်တင်များ</string>
+    <string name="settings_language_title" formatted="false">အက်ပ်ဘာသာစကား</string>
+    <string name="settings_language_summary" formatted="false">အက်ပ်အသုံးပြုသည့် ဘာသာစကားကို ရွေးပါ။ သင့်စက်ဆက်တင်များမှလည်း ၎င်းကို ပြောင်းလဲနိုင်သည်။</string>
+    <string name="settings_system_default" formatted="false">စနစ် ပုံသေ</string>
+    <string name="settings_language_search" formatted="false">ဘာသာစကားများကို ရှာဖွေပါ။</string>
+    <string name="settings_theme_title" formatted="false">အပြင်အဆင်</string>
+    <string name="settings_theme_summary" formatted="false">အက်ပ်ပုံသဏ္ဌာန်ကို ရွေးပါ။</string>
+    <string name="theme_system" formatted="false">စနစ်ကို လိုက်နာပါ။</string>
+    <string name="theme_light" formatted="false">အလင်း</string>
+    <string name="theme_dark" formatted="false">အမှောင်</string>
+    <string name="theme_amoled" formatted="false">AMOLED (အနက်ရောင်စစ်စစ်)</string>
+    <string name="settings_accent_title" formatted="false">လေယူလေသိမ်းအရောင်</string>
+    <string name="settings_accent_summary" formatted="false">အက်ပ်အတွင်း အသုံးပြုသည့် အသားပေးအရောင်ကို ရွေးပါ။</string>
+    <string name="accent_default" formatted="false">မူရင်း (ကမ်ပိန်းအနီရောင်)</string>
+    <string name="accent_red" formatted="false">အနီရောင်</string>
+    <string name="accent_orange" formatted="false">လိမ္မော်သီး</string>
+    <string name="accent_yellow" formatted="false">အဝါရောင်</string>
+    <string name="accent_green" formatted="false">အစိမ်းရောင်</string>
+    <string name="accent_teal" formatted="false">စိမ်းပြာရောင်</string>
+    <string name="accent_blue" formatted="false">အပြာ</string>
+    <string name="accent_purple" formatted="false">ခရမ်းရောင်</string>
+    <string name="accent_pink" formatted="false">ပန်းရောင်</string>
+    <string name="settings_colorblendr_warning" formatted="false">ကြိုတင်သတိပေးချက်- ColorBlendr သို့မဟုတ် အခြားအရာဝတ္ထု သင်ထပ်ရေးသည် တက်ကြွနေပါက၊ ၎င်းကို သင်မပိတ်မချင်း သင်၏ လေယူလေသိမ်းအရောင်သည် သက်ရောက်မည်မဟုတ်ပါ။</string>
+    <string name="settings_about_title" formatted="false">အကြောင်း</string>
+    <string name="settings_version">ဗားရှင်း %1$s</string>
+    <string name="settings_open_source" formatted="false">ပွင့်လင်းအရင်းအမြစ် (MIT)။ တရားဝင် Keep Android Open ကမ်ပိန်းနှင့် ဆက်စပ်မှု သို့မဟုတ် ထောက်ခံထားခြင်းမရှိပါ။</string>
+</resources>

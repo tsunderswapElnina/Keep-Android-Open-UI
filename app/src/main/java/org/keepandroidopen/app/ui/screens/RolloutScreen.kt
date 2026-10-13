@@ -8,8 +8,9 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
+import androidx.compose.foundation.lazy.itemsIndexed
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.OpenInNew
+import androidx.compose.material.icons.automirrored.filled.OpenInNew
 import androidx.compose.material3.Button
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
@@ -18,12 +19,12 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.res.stringArrayResource
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import org.keepandroidopen.app.data.Content
+import org.keepandroidopen.app.R
 import org.keepandroidopen.app.data.KeepAndroidOpen
-import org.keepandroidopen.app.data.TimelineEvent
-import org.keepandroidopen.app.data.VerificationPath
 import org.keepandroidopen.app.ui.components.KaoCard
 import org.keepandroidopen.app.ui.components.KaoChip
 import org.keepandroidopen.app.ui.components.LabeledRow
@@ -34,19 +35,25 @@ import org.keepandroidopen.app.util.openUrl
 @Composable
 fun RolloutScreen(modifier: Modifier = Modifier) {
     val context = LocalContext.current
+    val dates = stringArrayResource(R.array.timeline_dates)
+    val titles = stringArrayResource(R.array.timeline_titles)
+    val details = stringArrayResource(R.array.timeline_details)
+    val pathNames = stringArrayResource(R.array.path_names)
+    val pathIdentity = stringArrayResource(R.array.path_identity)
+    val pathDistribution = stringArrayResource(R.array.path_distribution)
+    val pathUx = stringArrayResource(R.array.path_ux)
+    val pathBestFor = stringArrayResource(R.array.path_best_for)
 
     LazyColumn(
         modifier = modifier.fillMaxSize(),
         contentPadding = ScreenPadding,
         verticalArrangement = Arrangement.spacedBy(16.dp),
     ) {
-        item {
-            SectionHeader("What is Android Developer Verification?")
-        }
+        item { SectionHeader(stringResource(R.string.rollout_title)) }
         item {
             KaoCard(containerColor = MaterialTheme.colorScheme.primaryContainer) {
                 Text(
-                    text = Content.ROLLOUT_SUMMARY,
+                    text = stringResource(R.string.rollout_summary),
                     style = MaterialTheme.typography.bodyLarge,
                     color = MaterialTheme.colorScheme.onPrimaryContainer,
                 )
@@ -55,34 +62,44 @@ fun RolloutScreen(modifier: Modifier = Modifier) {
         item {
             KaoCard {
                 Text(
-                    text = "What it really means",
+                    text = stringResource(R.string.rollout_what_it_means_title),
                     style = MaterialTheme.typography.titleMedium,
                     fontWeight = FontWeight.Bold,
                 )
                 Text(
-                    text = Content.WHAT_IT_MEANS,
+                    text = stringResource(R.string.rollout_what_it_means),
                     style = MaterialTheme.typography.bodyMedium,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                 )
             }
         }
 
-        item { SectionHeader("The rollout timeline") }
-        items(Content.timeline) { event -> TimelineCard(event) }
+        item { SectionHeader(stringResource(R.string.rollout_timeline_title)) }
+        itemsIndexed(dates.indices.toList()) { index, _ ->
+            TimelineCard(dates[index], titles[index], details[index])
+        }
 
-        item { SectionHeader("Choose your verification path") }
-        items(Content.paths) { path -> PathCard(path) }
+        item { SectionHeader(stringResource(R.string.rollout_paths_title)) }
+        itemsIndexed(pathNames.indices.toList()) { index, _ ->
+            PathCard(
+                name = pathNames[index],
+                identity = pathIdentity[index],
+                distribution = pathDistribution[index],
+                ux = pathUx[index],
+                bestFor = pathBestFor[index],
+            )
+        }
 
         item {
             KaoCard(containerColor = MaterialTheme.colorScheme.tertiaryContainer) {
                 Text(
-                    text = "The \u201cadvanced flow\u201d is not a solution",
+                    text = stringResource(R.string.rollout_advanced_title),
                     style = MaterialTheme.typography.titleMedium,
                     fontWeight = FontWeight.Bold,
                     color = MaterialTheme.colorScheme.onTertiaryContainer,
                 )
                 Text(
-                    text = Content.ADVANCED_FLOW_NOTE,
+                    text = stringResource(R.string.rollout_advanced_note),
                     style = MaterialTheme.typography.bodyMedium,
                     color = MaterialTheme.colorScheme.onTertiaryContainer,
                 )
@@ -95,9 +112,9 @@ fun RolloutScreen(modifier: Modifier = Modifier) {
                 modifier = Modifier.fillMaxWidth(),
                 shape = MaterialTheme.shapes.large,
             ) {
-                Icon(Icons.Filled.OpenInNew, contentDescription = null)
+                Icon(Icons.AutoMirrored.Filled.OpenInNew, contentDescription = null)
                 Spacer(Modifier.width(8.dp))
-                Text("Google's official developer page")
+                Text(stringResource(R.string.rollout_dev_page))
             }
         }
         item {
@@ -106,27 +123,27 @@ fun RolloutScreen(modifier: Modifier = Modifier) {
                 modifier = Modifier.fillMaxWidth(),
                 shape = MaterialTheme.shapes.large,
             ) {
-                Icon(Icons.Filled.OpenInNew, contentDescription = null)
+                Icon(Icons.AutoMirrored.Filled.OpenInNew, contentDescription = null)
                 Spacer(Modifier.width(8.dp))
-                Text("Read the open letter")
+                Text(stringResource(R.string.rollout_open_letter))
             }
         }
     }
 }
 
 @Composable
-private fun TimelineCard(event: TimelineEvent) {
+private fun TimelineCard(date: String, title: String, detail: String) {
     KaoCard {
         Row(verticalAlignment = Alignment.CenterVertically) {
-            KaoChip(text = event.date)
+            KaoChip(text = date)
         }
         Text(
-            text = event.title,
+            text = title,
             style = MaterialTheme.typography.titleLarge,
             fontWeight = FontWeight.Bold,
         )
         Text(
-            text = event.detail,
+            text = detail,
             style = MaterialTheme.typography.bodyMedium,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
         )
@@ -134,17 +151,23 @@ private fun TimelineCard(event: TimelineEvent) {
 }
 
 @Composable
-private fun PathCard(path: VerificationPath) {
+private fun PathCard(
+    name: String,
+    identity: String,
+    distribution: String,
+    ux: String,
+    bestFor: String,
+) {
     KaoCard {
         Text(
-            text = path.name,
+            text = name,
             style = MaterialTheme.typography.titleLarge,
             fontWeight = FontWeight.Bold,
             color = MaterialTheme.colorScheme.primary,
         )
-        LabeledRow("Identity", path.identityRequired)
-        LabeledRow("Distribution", path.distribution)
-        LabeledRow("User experience", path.userExperience)
-        LabeledRow("Best for", path.bestFor)
+        LabeledRow(stringResource(R.string.label_identity), identity)
+        LabeledRow(stringResource(R.string.label_distribution), distribution)
+        LabeledRow(stringResource(R.string.label_ux), ux)
+        LabeledRow(stringResource(R.string.label_best_for), bestFor)
     }
 }

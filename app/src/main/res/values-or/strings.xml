@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">ଗଣନା</string>
+    <string name="tab_rollout" formatted="false">ରୋଲଆଉଟ୍ |</string>
+    <string name="tab_act_now" formatted="false">ବର୍ତ୍ତମାନ କାର୍ଯ୍ୟ କର |</string>
+    <string name="cd_open_site" formatted="false">Keepandroidopen.org ଖୋଲନ୍ତୁ |</string>
+    <string name="cd_settings" formatted="false">ସେଟିଂସମୂହ</string>
+    <string name="cd_back" formatted="false">ପଛକୁ</string>
+    <string name="countdown_campaign" formatted="false">ଅଭିଯାନ ଗଣନା</string>
+    <string name="countdown_elapsed" formatted="false">ଏହି ଅଭିଯାନ ଜାନୁଆରୀ 1, 2027 ଆଡକୁ ସାର୍ବଜନୀନ ହେବା ପରେ ସମୟ ଅତିବାହିତ ହେଲା |</string>
+    <string name="countdown_what_means" formatted="false">କାଉଣ୍ଟଡାଉନ୍ ର ଅର୍ଥ କଣ |</string>
+    <string name="countdown_read_faq" formatted="false">FAQ ପ Read ଼ନ୍ତୁ |</string>
+    <string name="countdown_campaign_btn" formatted="false">ଅଭିଯାନ |</string>
+    <string name="countdown_footnote" formatted="false">କାଉଣ୍ଟଡାଉନ୍ ଟାର୍ଗେଟ୍ keepandroidopen.org ରେ ପ୍ରକାଶିତ ବ୍ୟାନର ସହିତ ମେଳ ଖାଉଛି | ଆପ୍ ଖୋଲା ଥିବାବେଳେ ପ୍ରତି ସେକେଣ୍ଡରେ ଥରେ ଅପଡେଟ୍ କରେ |</string>
+    <string name="countdown_expired" formatted="false">ଆଣ୍ଡ୍ରଏଡ୍ ବର୍ତ୍ତମାନ ଏକ ଲକ୍-ଡାଉନ୍ ପ୍ଲାଟଫର୍ମ |</string>
+    <string name="countdown_running" formatted="false">ଆଣ୍ଡ୍ରଏଡ୍ ଏକ ଲକ୍-ଡାଉନ୍ ପ୍ଲାଟଫର୍ମ୍ ହୋଇଯାଏ |</string>
+    <string name="unit_days" formatted="false">ଦିନ</string>
+    <string name="unit_hours" formatted="false">ଘଣ୍ଟା</string>
+    <string name="unit_minutes" formatted="false">ମିନିଟ୍ |</string>
+    <string name="unit_seconds" formatted="false">ସେକେଣ୍ଡ୍ |</string>
+    <string name="rollout_title" formatted="false">ଆଣ୍ଡ୍ରଏଡ୍ ଡେଭଲପର୍ ଯାଞ୍ଚ କ’ଣ?</string>
+    <string name="rollout_what_it_means_title" formatted="false">ଏହାର ପ୍ରକୃତ ଅର୍ଥ କ’ଣ?</string>
+    <string name="rollout_timeline_title" formatted="false">ରୋଲଆଉଟ୍ ସମୟସୀମା |</string>
+    <string name="rollout_paths_title" formatted="false">ଆପଣଙ୍କର ଯାଞ୍ଚ ପଥ ବାଛନ୍ତୁ |</string>
+    <string name="rollout_advanced_title" formatted="false">“ଉନ୍ନତ ପ୍ରବାହ” ଏକ ସମାଧାନ ନୁହେଁ |</string>
+    <string name="rollout_dev_page" formatted="false">ଗୁଗୁଲର ଅଫିସିଆଲ୍ ଡେଭଲପର୍ ପୃଷ୍ଠା |</string>
+    <string name="rollout_open_letter" formatted="false">ଖୋଲା ଅକ୍ଷର ପ Read ନ୍ତୁ |</string>
+    <string name="label_identity" formatted="false">ପରିଚୟ</string>
+    <string name="label_distribution" formatted="false">ବଣ୍ଟନ</string>
+    <string name="label_ux" formatted="false">ଉପଯୋଗକର୍ତ୍ତା ଅଭିଜ୍ଞତା |</string>
+    <string name="label_best_for" formatted="false">ପାଇଁ ସର୍ବୋତ୍ତମ</string>
+    <string name="rollout_summary" formatted="false">ଆଣ୍ଡ୍ରଏଡ୍ ଡେଭଲପର୍ ଭେରିଫିକେସନ୍ ହେଉଛି ଏକ ଗୁଗୁଲ୍ ପ୍ରୋଗ୍ରାମ୍ ଯାହା ସାର୍ଟିଫାଏଡ୍ ଆଣ୍ଡ୍ରଏଡ୍ ଡିଭାଇସରେ ଇନଷ୍ଟଲ୍ ହେବା ପୂର୍ବରୁ ପ୍ରତ୍ୟେକ ଆପକୁ ଏକ ଯାଞ୍ଚ ହୋଇଥିବା ଡେଭଲପର୍ ପରିଚୟ ସହିତ ଲିଙ୍କ କରେ | ବିକାଶକାରୀମାନେ ନିଶ୍ଚିତ ଭାବରେ ସେମାନେ କିଏ ଏବଂ ସେମାନେ ପ୍ରକାଶ କରୁଥିବା ପ୍ୟାକେଜ୍ ନାମଗୁଡ଼ିକୁ ପଞ୍ଜିକରଣ କରିବା ଜରୁରୀ | ଏକ ପଞ୍ଜୀକୃତ, ଯାଞ୍ଚ ହୋଇଥିବା ଡେଭଲପର୍ ବିନା ଆପଗୁଡ଼ିକ ସଂରକ୍ଷଣ ଗୁଡ଼ିକ ଥରେ ସାଧାରଣ ଉପାୟରେ ସଂସ୍ଥାପିତ ହୋଇପାରିବ ନାହିଁ |</string>
+    <string name="rollout_what_it_means" formatted="false">ସ୍ independent ାଧୀନ ଏବଂ ମୁକ୍ତ ଉତ୍ସ ବଣ୍ଟନ ଯେପରିକି F-Droid, ସିଧାସଳଖ APK ଡାଉନଲୋଡ୍ ଏବଂ ହବି ପ୍ରୋଜେକ୍ଟ ଉପରେ ଏହା କଠିନ ଅବତରଣ କରେ | ଗୁଗୁଲ୍ କହିଛି ଯେ ଏହା ନିରାପତ୍ତା ଏବଂ ଅଜ୍ଞାତ ମାଲୱେର୍ ବନ୍ଦ କରିବା ବିଷୟରେ | କିପ୍ ଆଣ୍ଡ୍ରଏଡ୍ ଓପନ୍ ଅଭିଯାନ, F-Droid ଏବଂ EFF ସହିତ ସମାଲୋଚକମାନେ ଏହା ଏକ ଦ୍ୱାରପାଳ କିଲ୍ ସୁଇଚ୍ ବୋଲି କହିଛନ୍ତି: କେନ୍ଦ୍ରୀୟ ପଞ୍ଜୀକରଣ, ସରକାରୀ ID, ଏକ ଦେୟ, ଏବଂ ଆପଣଙ୍କର ଡିଭାଇସ୍ ଉପରେ ବିଶ୍ trust ାସ କରିବାକୁ ଅନୁମତି ଦିଆଯାଇଥିବା ଉପରେ ସମ୍ପୂର୍ଣ୍ଣ ନିୟନ୍ତ୍ରଣ |</string>
+    <string name="rollout_advanced_note" formatted="false">ଉନ୍ନତ ପ୍ରବାହ ଗୁଗୁଲ ପ୍ଲେ ସେବା ମାଧ୍ୟମରେ ବିତରଣ କରାଯାଇଥାଏ, ଆଣ୍ଡ୍ରଏଡ OS ନୁହେଁ, ତେଣୁ ଗୁଗୁଲ ଏହାକୁ ଯେକ time ଣସି ସମୟରେ OS ଅପଡେଟ୍ କିମ୍ବା ଉପଭୋକ୍ତା ସମ୍ମତି ବିନା ପରିବର୍ତ୍ତନ, ପ୍ରତିବନ୍ଧକ କିମ୍ବା ଅପସାରଣ କରିପାରିବ | 24 ଘଣ୍ଟା ବିଳମ୍ବ ଉଦ୍ଦେଶ୍ୟମୂଳକ ଭାବରେ ବ୍ୟାଘାତକାରୀ ଏବଂ ଏହା ହେଉଛି ଆଉ ଏକ ପଦକ୍ଷେପ ଯାହାକି ତୁମ ଏବଂ ସଫ୍ଟୱେର୍ ମଧ୍ୟରେ ଛିଡା ହୋଇଛି ଯାହାକୁ ଆପଣ ଚଲାଇବାକୁ ବାଛିଛନ୍ତି |</string>
+    <string-array name="timeline_dates">
+        <item>ଅଗଷ୍ଟ 25, 2025</item>
+        <item>ମାର୍ଚ୍ଚ 19, 2026</item>
+        <item>ଜୁନ୍ 2026</item>
+        <item>ଜୁନ୍ 18, 2026</item>
+        <item>ଜୁଲାଇ 2026</item>
+        <item>ଅଗଷ୍ଟ 2026</item>
+        <item>ସେପ୍ଟେମ୍ବର 30, 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>କାର୍ଯ୍ୟକ୍ରମ ଘୋଷଣା କରାଯାଇଛି |</item>
+        <item>“ଉନ୍ନତ ପ୍ରବାହ” ପ୍ରକାଶିତ ହୁଏ |</item>
+        <item>ଆଣ୍ଡ୍ରଏଡ୍ ଡେଭଲପର୍ ଭେରିଫାୟର୍ ଡିଭାଇସ୍ କୁ ପଠାଏ |</item>
+        <item>ପ୍ରାରମ୍ଭିକ ଉନ୍ମୋଚନ ନିଶ୍ଚିତ ହୋଇଛି |</item>
+        <item>ବିକାଶକାରୀ API ଗୁଡିକ ଖୋଲିବ |</item>
+        <item>ଗ୍ଲୋବାଲ୍ କନସୋଲ୍, ସୀମିତ ଖାତା, ଉନ୍ନତ ପ୍ରବାହ |</item>
+        <item>ଚାରୋଟି ଦେଶରେ କାର୍ଯ୍ୟାନୁଷ୍ଠାନ ଆରମ୍ଭ |</item>
+        <item>ଗ୍ଲୋବାଲ୍ ରୋଲଆଉଟ୍ |</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>ଗୁଗୁଲ୍ ଘୋଷଣା କରିଛି ଯେ 2027 ମସିହାରୁ ଆଣ୍ଡ୍ରଏଡ୍ ପାଇଁ ଆପ୍ ଗୁଗୁଲ୍ ପ୍ଲେ ବାହାରେ ଇନଷ୍ଟଲ୍ ହୋଇଥିବା ଆପ୍ସ ସହିତ ଏକ ଯାଞ୍ଚ ହୋଇଥିବା ଡେଭଲପର୍ ରେ ପଞ୍ଜୀକୃତ ହେବା ଜରୁରୀ |</item>
+        <item>ଶକ୍ତି ଉପଭୋକ୍ତାମାନେ ଏକ ସୁଚିନ୍ତିତ ଅସୁବିଧାଜନକ ପଳାୟନ ହ୍ୟାଚ୍ ପାଆନ୍ତି: ବିକାଶକାରୀ ବିକଳ୍ପଗୁଡ଼ିକୁ ସକ୍ଷମ କରନ୍ତୁ, ନିଶ୍ଚିତ କରନ୍ତୁ ଯେ ଆପଣ ବାଧ୍ୟ ହେଉ ନାହାଁନ୍ତି, ପୁନ art ଆରମ୍ଭ କରନ୍ତୁ, ତାପରେ ଆପଣ ଯାଞ୍ଚ ହୋଇନଥିବା ସଂସ୍ଥାଗୁଡ଼ିକୁ ଅନୁମତି ଦେବା ପୂର୍ବରୁ 24 ଘଣ୍ଟା ଅପେକ୍ଷା କରନ୍ତୁ |</item>
+        <item>ଏକ ବ୍ୟାକଗ୍ରାଉଣ୍ଡ୍ ସିଷ୍ଟମ୍ ସେବା (com.google.android.verifier) ​​ଗୁଗୁଲ୍ ସିଷ୍ଟମ୍ ଅପଡେଟ୍ ମାଧ୍ୟମରେ ସାର୍ଟିଫିକେଟ୍ ଡିଭାଇସ୍ କୁ ଠେଲି ହୋଇଯାଏ ଏବଂ କାର୍ଯ୍ୟକାରୀ ହେବା ପର୍ଯ୍ୟନ୍ତ ସୁପ୍ତ ରହିଥାଏ |</item>
+        <item>ଗୁଗୁଲ ନିଶ୍ଚିତ କରେ ଯେ ସାତୋଟି ଷ୍ଟୋର ଏବଂ ଚାରିଟି ଦେଶରେ 30 ସେପ୍ଟେମ୍ବର 2026 ଆରମ୍ଭ ହେବ।</item>
+        <item>ଆଣ୍ଡ୍ରଏଡ୍ ଡେଭଲପର୍ ID ସ୍ଥିତି API ସର୍ବଭାରତୀୟ ସ୍ତରରେ ଲଞ୍ଚ ହୁଏ ଏବଂ ଆଣ୍ଡ୍ରଏଡ୍ ଡେଭଲପର୍ କନସୋଲ୍ API ଏବଂ ସୀମିତ ବଣ୍ଟନ ଖାତା ପାଇଁ ଶୀଘ୍ର ପ୍ରବେଶ ଆରମ୍ଭ ହୁଏ |</item>
+        <item>ସୀମିତ ବଣ୍ଟନ ଖାତା (ମାଗଣା, 20 ଟି ଉପକରଣ, କ government ଣସି ସରକାରୀ ID ନାହିଁ) ଏବଂ କନସୋଲ୍ API ବିଶ୍ worldwide ବ୍ୟାପୀ ଲଞ୍ଚ୍ | ଯାଞ୍ଚ ହୋଇନଥିବା ସାଇଡ୍ ଲୋଡିଂ ପାଇଁ ଉନ୍ନତ ପ୍ରବାହ ଗଡ଼ିବା ଆରମ୍ଭ କରେ |</item>
+        <item>ବ୍ରାଜିଲ, ଇଣ୍ଡୋନେସିଆ, ସିଙ୍ଗାପୁର ଏବଂ ଥାଇଲ୍ୟାଣ୍ଡର ବ୍ୟବହାରକାରୀଙ୍କ ପାଇଁ ଆଣ୍ଡ୍ରଏଡ୍ 7+ ଚାଲୁଥିବା ସାର୍ଟିଫିକେଟ୍ ଡିଭାଇସରେ ସଂରକ୍ଷଣ ଲାଇଭ୍ ହୁଏ | ଯାଞ୍ଚ ହୋଇନଥିବା ବିକାଶକାରୀଙ୍କ ଆପଗୁଡିକ ଅଂଶଗ୍ରହଣକାରୀ ଷ୍ଟୋର୍ଗୁଡିକରେ ଅବରୋଧିତ ହୋଇଛି: ଗୁଗୁଲ୍ ପ୍ଲେ, ହୋନର୍ ଆପ୍ ମାର୍କେଟ୍, ଓପିପିଓ ଆପ୍ ମାର୍କେଟ୍, ଗାଲାକ୍ସି ଷ୍ଟୋର୍, ପାମ ଷ୍ଟୋର୍, ଭି-ଆପ୍ ଷ୍ଟୋର ଏବଂ ଗେଟ ଆପ୍ସ |</item>
+        <item>ଯାଞ୍ଚ ସମସ୍ତ ଆପ୍ ଏବଂ ଅଞ୍ଚଳକୁ ବିସ୍ତାରିତ | ଜାନୁଆରୀ 1, 2027 ପର୍ଯ୍ୟନ୍ତ ଆଣ୍ଡ୍ରଏଡ୍ ଓପନ୍ ଗଣନା ରଖ, ଯେତେବେଳେ ଆଣ୍ଡ୍ରଏଡ୍ ଏକ ଲକ୍-ଡାଉନ୍ ପ୍ଲାଟଫର୍ମ ହୋଇଯାଏ |</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>ପୂର୍ଣ୍ଣ ବଣ୍ଟନ |</item>
+        <item>ସୀମିତ ବଣ୍ଟନ |</item>
+        <item>ପଞ୍ଜୀକୃତ ହୋଇନଥିବା ଆପଗୁଡିକ ସିଡେଲୋଡିଂ |</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>ହଁ - ସରକାରୀ ପରିଚୟ ଏବଂ ଏକ ଦେୟ |</item>
+        <item>ନା - କ ID ଣସି ID କିମ୍ବା ପଞ୍ଜୀକରଣ ଦେୟ ନାହିଁ |</item>
+        <item>ନା - କିନ୍ତୁ ଉଚ୍ଚ ଘର୍ଷଣ |</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>ଆପଣ ବାଛିଥିବା ଯେକ store ଣସି ଷ୍ଟୋର୍ କିମ୍ବା ଚ୍ୟାନେଲ୍ |</item>
+        <item>QR କୋଡ୍ କିମ୍ବା ଲିଙ୍କ୍ ହ୍ୟାଣ୍ଡ ହ୍ୟାକ୍ ମାଧ୍ୟମରେ 20 ଟି ଡିଭାଇସ୍ |</item>
+        <item>ADB (ମୁକ୍ତ) କିମ୍ବା ଉନ୍ନତ ପ୍ରବାହ |</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>ଆପଣଙ୍କର ଉପଭୋକ୍ତାମାନଙ୍କ ପାଇଁ କିଛି ପରିବର୍ତ୍ତନ ହୁଏ ନାହିଁ |</item>
+        <item>ଉପଭୋକ୍ତାମାନେ ଜାଣିଥିବା ଏକ ବିକାଶକାରୀଙ୍କଠାରୁ ଏକ ଇନଷ୍ଟଲ୍ ଆମନ୍ତ୍ରଣ ଗ୍ରହଣ କରନ୍ତି |</item>
+        <item>ବିକାଶକାରୀ ବିକଳ୍ପ, ପୁନ art ଆରମ୍ଭ, 24 ଘଣ୍ଟା ଅପେକ୍ଷା, ତାପରେ ଯେକ way ଣସି ପ୍ରକାରେ ସଂସ୍ଥାପନ କର |</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>ସଂଗଠନ ଏବଂ ବୃତ୍ତିଗତ ବିକାଶକାରୀ |</item>
+        <item>ଛାତ୍ର, ହବିଷ୍ଟ ଏବଂ ବ୍ୟକ୍ତିଗତ ବ୍ୟବହାର |</item>
+        <item>ଯାଞ୍ଚ ହୋଇନଥିବା ବିକାଶକାରୀ ଏବଂ ଶକ୍ତି ବ୍ୟବହାରକାରୀ |</item>
+    </string-array>
+    <string name="act_title" formatted="false">ବର୍ତ୍ତମାନ କାର୍ଯ୍ୟ କର - ତୁମର ସ୍ୱର ଶୁଣ |</string>
+    <string name="act_intro">Regulators want to hear from individuals who are affected. Be polite and specific, write in an official language of the body you contact, ask for a written acknowledgement, and copy %1$s so the campaign can track victories.</string>
+    <string name="act_open_composer" formatted="false">ଇମେଲ୍ ରଚନା ଖୋଲନ୍ତୁ |</string>
+    <string name="act_copy" formatted="false">କପି କରନ୍ତୁ |</string>
+    <string name="act_share" formatted="false">ଅଂଶୀଦାର କରନ୍ତୁ |</string>
+    <string name="act_clipboard_label" formatted="false">ଆଣ୍ଡ୍ରଏଡ୍ ଓପନ୍ ଅକ୍ଷର ରଖନ୍ତୁ |</string>
+    <string name="act_us_title" formatted="false">ଯୁକ୍ତରାଷ୍ଟ୍ର - ସରକାରଙ୍କୁ ଇମେଲ କରନ୍ତୁ |</string>
+    <string name="act_us_intro" formatted="false">ନ୍ୟାୟ ବିଭାଗ ଏବଂ ଓଟିସି ଅନଲାଇନ୍ ଫର୍ମ ମାଧ୍ୟମରେ ଆଣ୍ଟିଟ୍ରଷ୍ଟ ରିପୋର୍ଟ ଗ୍ରହଣ କରନ୍ତି। ସେଗୁଡିକ ବ୍ୟବହାର କରନ୍ତୁ, ଏବଂ ଆପଣଙ୍କର ନିଜ ପ୍ରତିନିଧୀ ଏବଂ ସିନେଟରମାନଙ୍କୁ ସିଧାସଳଖ ଯୋଗାଯୋଗ କରନ୍ତୁ |</string>
+    <string name="act_world_title" formatted="false">ଦୁନିଆର ଅନ୍ୟ କେଉଁଠାରେ |</string>
+    <string name="act_groups_title" formatted="false">ଗ୍ରାହକ ଏବଂ ଡିଜିଟାଲ୍ ଅଧିକାର ଗୋଷ୍ଠୀ |</string>
+    <string name="act_more_title" formatted="false">ସାହାଯ୍ୟ କରିବାର ଅଧିକ ଉପାୟ |</string>
+    <string name="act_more_body" formatted="false">ଆପଣଙ୍କ ଡିଭାଇସରେ F-Droid ସଂସ୍ଥାପନ କରନ୍ତୁ |\nଗୁଗୁଲର ଡେଭଲପର୍ ଯାଞ୍ଚ ସର୍ବେକ୍ଷଣର ଉତ୍ତର ଦିଅ |\nସୋସିଆଲ ମିଡିଆରେ ପୋଷ୍ଟ କରନ୍ତୁ ଏବଂ keepandroidopen.org କୁ ଲିଙ୍କ୍ କରନ୍ତୁ |\nChange.org ଆବେଦନକୁ ଦସ୍ତଖତ କରନ୍ତୁ |\nଆପଣଙ୍କ ୱେବସାଇଟରେ କାଉଣ୍ଟଡାଉନ୍ ବ୍ୟାନର ଯୋଡନ୍ତୁ |</string>
+    <string name="act_all_actions" formatted="false">Keepandroidopen.org ରେ ସମସ୍ତ କାର୍ଯ୍ୟ |</string>
+    <string name="action_email" formatted="false">ଇମେଲ୍ କରନ୍ତୁ |</string>
+    <string name="action_open" formatted="false">ଖୋଲନ୍ତୁ |</string>
+    <string-array name="us_contact_regions">
+        <item>ଯୁକ୍ତରାଷ୍ଟ୍ର</item>
+        <item>ଯୁକ୍ତରାଷ୍ଟ୍ର</item>
+        <item>ଯୁକ୍ତରାଷ୍ଟ୍ର</item>
+        <item>ଯୁକ୍ତରାଷ୍ଟ୍ର</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>ଆମେରିକାର ନ୍ୟାୟ ବିଭାଗ - ଆଣ୍ଟିଟ୍ରଷ୍ଟ ବିଭାଗ |</item>
+        <item>ଯୁକ୍ତରାଷ୍ଟ୍ର ଫେଡେରାଲ ବାଣିଜ୍ୟ ଆୟୋଗ - ଆଣ୍ଟିଟ୍ରଷ୍ଟ |</item>
+        <item>ତୁମର ଗୃହ ପ୍ରତିନିଧୀ ଖୋଜ |</item>
+        <item>ଆପଣଙ୍କର US ସିନେଟରମାନଙ୍କ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ |</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>ଅନଲାଇନରେ ଏକ ଆଣ୍ଟିଟ୍ରଷ୍ଟ ରିପୋର୍ଟ ଦାଖଲ କରନ୍ତୁ |</item>
+        <item>ଏକ ଆଣ୍ଟିଟ୍ରଷ୍ଟ ଅଭିଯୋଗ ଦାଖଲ କରନ୍ତୁ |</item>
+        <item>US ହାଉସରେ ଆପଣଙ୍କର ପ୍ରତିନିଧୀଙ୍କ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ |</item>
+        <item>ତୁମର ରାଜ୍ୟର ଉଭୟ ସିନେଟରଙ୍କୁ ଖୋଜ ଏବଂ ଯୋଗାଯୋଗ କର |</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>ୟୁରୋପୀୟ ୟୁନିଅନ୍</item>
+        <item>ୟୁରୋପୀୟ ୟୁନିଅନ୍</item>
+        <item>ଯୁକ୍ତରାଜ୍ୟ</item>
+        <item>ବ୍ରାଜିଲ୍</item>
+        <item>ସିଙ୍ଗାପୁର |</item>
+        <item>ଥାଇଲ୍ୟାଣ୍ଡ</item>
+        <item>ଇଣ୍ଡୋନେସିଆ</item>
+        <item>ଅଷ୍ଟ୍ରେଲିଆ</item>
+        <item>କାନାଡା |</item>
+        <item>ଭାରତ</item>
+        <item>ଜାପାନ</item>
+        <item>ଦକ୍ଷିଣ କୋରିଆ</item>
+        <item>ମେକ୍ସିକୋ |</item>
+        <item>ଆଟେରୋଆ / ନ୍ୟୁଜିଲ୍ୟାଣ୍ଡ |</item>
+        <item>ତାଇୱାନ |</item>
+        <item>ସ୍ୱିଜରଲ୍ୟାଣ୍ଡ</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU ଆଣ୍ଟିଟ୍ରଷ୍ଟ (DG COMP)</item>
+        <item>ଡିଜିଟାଲ୍ ମାର୍କେଟସ୍ ଆକ୍ଟ ଦଳ |</item>
+        <item>ପ୍ରତିଯୋଗିତା ଏବଂ ମାର୍କେଟସ୍ ପ୍ରାଧିକରଣ |</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>ବାଣିଜ୍ୟ ପ୍ରତିଯୋଗିତା ଆୟୋଗ (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>ପ୍ରତିଯୋଗିତା ବ୍ୟୁରୋ କାନାଡା |</item>
+        <item>ଭାରତର ପ୍ରତିଯୋଗିତା ଆୟୋଗ |</item>
+        <item>ଜାପାନ ମେଳା ବାଣିଜ୍ୟ ଆୟୋଗ |</item>
+        <item>କୋରିଆ ମେଳା ବାଣିଜ୍ୟ ଆୟୋଗ |</item>
+        <item>Comisión Nacional Antimonopolio |</item>
+        <item>ବାଣିଜ୍ୟ ଆୟୋଗ</item>
+        <item>ନ୍ୟାୟ ବାଣିଜ୍ୟ ଆୟୋଗ |</item>
+        <item>ପ୍ରତିଯୋଗିତା ଆୟୋଗ (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>ୟୁରୋପୀୟ କମିଶନ ପ୍ରତିଯୋଗିତା କର୍ତ୍ତୃପକ୍ଷଙ୍କୁ ଇମେଲ କରନ୍ତୁ |</item>
+        <item>EU DMA ନାଗରିକ ହେଲ୍ପଡେସ୍କ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ |</item>
+        <item>UK CMA କୁ ରିପୋର୍ଟ କରନ୍ତୁ |</item>
+        <item>ବ୍ରାଜିଲ ପ୍ରଥମ କାର୍ଯ୍ୟକାରୀ ତରଙ୍ଗରେ ଅଛି |</item>
+        <item>ସିଙ୍ଗାପୁର ପ୍ରଥମ କାର୍ଯ୍ୟକାରୀ ତରଙ୍ଗରେ ଅଛି |</item>
+        <item>ଥାଇଲ୍ୟାଣ୍ଡ ପ୍ରଥମ କାର୍ଯ୍ୟକାରୀ ତରଙ୍ଗରେ ଅଛି |</item>
+        <item>ଇଣ୍ଡୋନେସିଆ ପ୍ରଥମ କାର୍ଯ୍ୟକାରୀ ତରଙ୍ଗରେ ଅଛି |</item>
+        <item>ଅଷ୍ଟ୍ରେଲୀୟ ପ୍ରତିଯୋଗିତା ଏବଂ ଗ୍ରାହକ ଆୟୋଗକୁ ରିପୋର୍ଟ କରନ୍ତୁ |</item>
+        <item>ପ୍ରତିଯୋଗିତା ବ୍ୟୁରୋରେ ଅଭିଯୋଗ ଦାଖଲ କରନ୍ତୁ |</item>
+        <item>ପ୍ରତିଯୋଗୀତା ବିରୋଧୀ ଆଚରଣ ବିଷୟରେ CCI ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ |</item>
+        <item>JFTC / ମୋବାଇଲ୍ ସଫ୍ଟୱେର୍ ପ୍ରତିଯୋଗିତା ଆକ୍ଟ ଡେସ୍କ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ |</item>
+        <item>KFTC ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ |</item>
+        <item>ମେକ୍ସିକୋରେ ଏକ ଆଣ୍ଟିଟ୍ରଷ୍ଟ ଅଭିଯୋଗ ଦାଖଲ କରନ୍ତୁ |</item>
+        <item>ପ୍ରତିଯୋଗୀତା ବିରୋଧୀ ଆଚରଣ ରିପୋର୍ଟ କରନ୍ତୁ |</item>
+        <item>ତାଇୱାନ FTC ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ |</item>
+        <item>ବେଆଇନ ଅଭ୍ୟାସଗୁଡିକ ରିପୋର୍ଟ କରନ୍ତୁ |</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>ଗ୍ଲୋବାଲ୍</item>
+        <item>ଗ୍ଲୋବାଲ୍</item>
+        <item>ୟୁରୋପ |</item>
+        <item>ୟୁରୋପ |</item>
+        <item>ଗ୍ଲୋବାଲ୍</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>ଇଲେକ୍ଟ୍ରୋନିକ୍ ଫ୍ରଣ୍ଟିଅର୍ ଫାଉଣ୍ଡେସନ୍ |</item>
+        <item>ମାଗଣା ସଫ୍ଟୱେର୍ ଫାଉଣ୍ଡେସନ୍ |</item>
+        <item>ମାଗଣା ସଫ୍ଟୱେର୍ ଫାଉଣ୍ଡେସନ୍ ୟୁରୋପ |</item>
+        <item>ୟୁରୋପୀୟ ଡିଜିଟାଲ୍ ଅଧିକାର (EDRi)</item>
+        <item>ସଫ୍ଟୱେର୍ ଫ୍ରିଡମ୍ ସଂରକ୍ଷଣ</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>ଆପ୍ ଗେଟକିପିଂ ଏବଂ ଇଣ୍ଟରନେଟ୍ ସେନ୍ସରସିପ୍ |</item>
+        <item>ସଫ୍ଟୱେର୍ ସ୍ୱାଧୀନତା ଏବଂ ବ୍ୟବହାରକାରୀ ନିୟନ୍ତ୍ରଣ |</item>
+        <item>ୟୁରୋପରେ ସଫ୍ଟୱେର୍ ସ୍ୱାଧୀନତା |</item>
+        <item>ଡିଜିଟାଲ୍ ଅଧିକାର ଓକିଲାତି |</item>
+        <item>ସମ୍ପ୍ରଦାୟ ଦ୍ୱାରା ପରିଚାଳିତ ମାଗଣା ସଫ୍ଟୱେର୍ |</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">ମୋର ସରକାର</string>
+    <string name="letter_subject" formatted="false">ଗୁଗୁଲର ଆଣ୍ଡ୍ରଏଡ୍ ଡେଭଲପର୍ ଭେରିଫିକେସନ୍ ଲକଡାଉନ୍ ବନ୍ଦ କରନ୍ତୁ |</string>
+    <string name="letter_template">Dear %1$s representative,\\n\\nI am writing as a concerned Android user and as a citizen in your jurisdiction.\\n\\nGoogle\\\'s Android Developer Verification program, enforced starting September 30, 2026 in several markets and expanding globally in 2027, will require every Android app to be registered to a centrally verified developer before it can be installed on certified devices. Developers must submit government identification, agree to Google\\\'s terms, pay a fee and list every current and future app identifier.\\n\\nThis does not meaningfully improve security. It hands a single private company the power to decide which software people are allowed to run on the devices they own, and it threatens independent and open-source distribution such as F-Droid, which cannot comply and may cease to exist.\\n\\nI respectfully ask that you:\\n\\n1. Investigate whether this program is anti-competitive and constitutes an abuse of a gatekeeper position.\\n2. Press Google to exempt open-source and non-commercial distribution, and to keep sideloading free of centralized registration.\\n3. Protect the right of users to run software of their choosing on hardware they purchased.\\n\\nPlease acknowledge this message in writing and let me know what action your office takes.\\n\\nI am also copying the Keep Android Open campaign at %2$s.\\n\\nSincerely,\\n[Your name]\\n[Your city and country]</string>
+    <string name="toast_no_app" formatted="false">କ link ଣସି ଆପ୍ ଏହି ଲିଙ୍କ୍ ଖୋଲିପାରିବ ନାହିଁ |</string>
+    <string name="toast_no_email" formatted="false">କ No ଣସି ଇମେଲ୍ ଆପ୍ ସଂସ୍ଥାପିତ ହୋଇନାହିଁ |</string>
+    <string name="chooser_send_email" formatted="false">ଇମେଲ୍ ପଠାନ୍ତୁ |</string>
+    <string name="chooser_share" formatted="false">ଅଂଶୀଦାର କରନ୍ତୁ |</string>
+    <string name="toast_copied" formatted="false">କ୍ଲିପବୋର୍ଡରେ କପି କରାଯାଇଛି |</string>
+    <string name="settings_title" formatted="false">ସେଟିଂସମୂହ</string>
+    <string name="settings_language_title" formatted="false">ଆପ୍ ଭାଷା |</string>
+    <string name="settings_language_summary" formatted="false">ଆପ୍ ଦ୍ୱାରା ବ୍ୟବହୃତ ଭାଷା ବାଛନ୍ତୁ | ଆପଣ ଏହାକୁ ଆପଣଙ୍କର ଡିଭାଇସ୍ ସେଟିଂସମୂହରୁ ମଧ୍ୟ ପରିବର୍ତ୍ତନ କରିପାରିବେ |</string>
+    <string name="settings_system_default" formatted="false">ସିଷ୍ଟମ୍ ଡିଫଲ୍ଟ |</string>
+    <string name="settings_language_search" formatted="false">ଭାଷା ଖୋଜ |</string>
+    <string name="settings_theme_title" formatted="false">ଥିମ୍</string>
+    <string name="settings_theme_summary" formatted="false">ଆପ୍ କିପରି ଦେଖାଯାଉଛି ତାହା ବାଛନ୍ତୁ |</string>
+    <string name="theme_system" formatted="false">ସିଷ୍ଟମ୍ ଅନୁସରଣ କରନ୍ତୁ |</string>
+    <string name="theme_light" formatted="false">ଆଲୋକ</string>
+    <string name="theme_dark" formatted="false">ଅନ୍ଧାର</string>
+    <string name="theme_amoled" formatted="false">AMOLED (ଶୁଦ୍ଧ କଳା)</string>
+    <string name="settings_accent_title" formatted="false">ଉଚ୍ଚାରଣ ରଙ୍ଗ |</string>
+    <string name="settings_accent_summary" formatted="false">ଆପରେ ବ୍ୟବହୃତ ହାଇଲାଇଟ୍ ରଙ୍ଗ ବାଛନ୍ତୁ |</string>
+    <string name="accent_default" formatted="false">ଡିଫଲ୍ଟ (ଅଭିଯାନ ଲାଲ୍)</string>
+    <string name="accent_red" formatted="false">ଲାଲ୍ |</string>
+    <string name="accent_orange" formatted="false">କମଳା |</string>
+    <string name="accent_yellow" formatted="false">ହଳଦିଆ</string>
+    <string name="accent_green" formatted="false">ସବୁଜ</string>
+    <string name="accent_teal" formatted="false">ଚା ’</string>
+    <string name="accent_blue" formatted="false">ନୀଳ</string>
+    <string name="accent_purple" formatted="false">ବାଇଗଣୀ |</string>
+    <string name="accent_pink" formatted="false">ଗୋଲାପୀ |</string>
+    <string name="settings_colorblendr_warning" formatted="false">ହେଡ୍ ଅପ୍: ଯଦି କଲର୍ ବ୍ଲେଣ୍ଡର୍ କିମ୍ବା ଅନ୍ୟ ଏକ ସାମଗ୍ରୀ ଯାହାକୁ ଆପଣ ନବଲିଖନ କରନ୍ତି, ସକ୍ରିୟ, ତୁମେ ଏହାକୁ ଅକ୍ଷମ ନକରିବା ପର୍ଯ୍ୟନ୍ତ ତୁମର ଉଚ୍ଚାରଣ ରଙ୍ଗ ପ୍ରୟୋଗ ହୋଇନପାରେ |</string>
+    <string name="settings_about_title" formatted="false">ବିଷୟରେ</string>
+    <string name="settings_version">Version %1$s</string>
+    <string name="settings_open_source" formatted="false">ମୁକ୍ତ ଉତ୍ସ (MIT) | ଅଫିସିଆଲ୍ କିପ୍ ଆଣ୍ଡ୍ରଏଡ୍ ଓପନ୍ ଅଭିଯାନ ସହିତ ଅନୁବନ୍ଧିତ କିମ୍ବା ଅନୁମୋଦିତ ନୁହେଁ |</string>
+</resources>

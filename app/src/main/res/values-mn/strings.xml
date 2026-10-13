@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Countdown</string>
+    <string name="tab_rollout" formatted="false">The Rollout</string>
+    <string name="tab_act_now" formatted="false">Одоо үйлд</string>
+    <string name="cd_open_site" formatted="false">Keepandroidopen.org-г нээнэ үү</string>
+    <string name="cd_settings" formatted="false">Тохиргоо</string>
+    <string name="cd_back" formatted="false">Буцах</string>
+    <string name="countdown_campaign" formatted="false">Кампанит ажлын цаг тоо</string>
+    <string name="countdown_elapsed" formatted="false">Кампанит ажил 2027 оны 1-р сарын 1 хүртэл олон нийтэд цацагдсанаас хойш хугацаа өнгөрсөн.</string>
+    <string name="countdown_what_means" formatted="false">Тооцоолол юу гэсэн үг вэ</string>
+    <string name="countdown_read_faq" formatted="false">Түгээмэл асуултуудыг уншина уу</string>
+    <string name="countdown_campaign_btn" formatted="false">кампанит ажил</string>
+    <string name="countdown_footnote" formatted="false">Тооцоолох зорилт нь keepandroidopen.org дээр нийтлэгдсэн баннертай таарч байна. Аппликешн нээлттэй үед секундэд нэг удаа шинэчлэгддэг.</string>
+    <string name="countdown_expired" formatted="false">ANDROID БОЛ ОДОО ТҮГЖҮҮЛСЭН ПЛАТФОРМ БОЛСОН</string>
+    <string name="countdown_running" formatted="false">ANDROID нь түгжигдсэн платформ болсон</string>
+    <string name="unit_days" formatted="false">өдрүүд</string>
+    <string name="unit_hours" formatted="false">цаг</string>
+    <string name="unit_minutes" formatted="false">минут</string>
+    <string name="unit_seconds" formatted="false">секунд</string>
+    <string name="rollout_title" formatted="false">Android хөгжүүлэгчийн баталгаажуулалт гэж юу вэ?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Энэ нь үнэхээр юу гэсэн үг вэ</string>
+    <string name="rollout_timeline_title" formatted="false">Дамжуулах цагийн хуваарь</string>
+    <string name="rollout_paths_title" formatted="false">Баталгаажуулах замаа сонгоно уу</string>
+    <string name="rollout_advanced_title" formatted="false">\"Дэвшилтэт урсгал\" нь шийдэл биш юм</string>
+    <string name="rollout_dev_page" formatted="false">Google-ийн албан ёсны хөгжүүлэгч хуудас</string>
+    <string name="rollout_open_letter" formatted="false">Нээлттэй захидлыг уншина уу</string>
+    <string name="label_identity" formatted="false">Баримтлал</string>
+    <string name="label_distribution" formatted="false">Хуваарилалт</string>
+    <string name="label_ux" formatted="false">Хэрэглэгчийн туршлага</string>
+    <string name="label_best_for" formatted="false">Хамгийн тохиромжтой</string>
+    <string name="rollout_summary" formatted="false">Андройд хөгжүүлэгчийн баталгаажуулалт нь Google-н програм бөгөөд програм бүрийг баталгаажсан Андройд төхөөрөмж дээр суулгахаас өмнө баталгаажуулсан хөгжүүлэгчийн таниулбартай холбодог. Хөгжүүлэгчид хэн болохыг баталгаажуулж, нийтэлсэн багцын нэрийг бүртгүүлэх ёстой. Бүртгэлтэй, баталгаажсан хөгжүүлэгчгүй програмуудыг хамгаалалт гарч ирсний дараа ердийн аргаар суулгах боломжгүй.</string>
+    <string name="rollout_what_it_means" formatted="false">Энэ нь F-Droid, шууд APK татан авалт, хобби төслүүд гэх мэт бие даасан, нээлттэй эхийн түгээлт дээр хамгийн хэцүү байдаг. Google-ийн хэлснээр энэ нь аюулгүй байдал, үл мэдэгдэх хортой програмыг зогсоох тухай юм. Keep Android Open кампанит ажил, F-Droid болон EFF зэрэг шүүмжлэгчид үүнийг хаалгач унтраах унтраалга гэж үздэг: төв бүртгэл, засгийн газрын ID, хураамж, таны төхөөрөмж юунд итгэхийг бүрэн хянах боломжтой.</string>
+    <string name="rollout_advanced_note" formatted="false">Дэвшилтэт урсгалыг Android үйлдлийн системээр бус Google Play үйлчилгээгээр дамжуулдаг тул Google нь үйлдлийн системийн шинэчлэл эсвэл хэрэглэгчийн зөвшөөрөлгүйгээр хүссэн үедээ өөрчлөх, хязгаарлах, устгах боломжтой. 24 цагийн саатал нь санаатайгаар саад учруулж байгаа бөгөөд та болон таны ажиллуулахаар сонгосон програм хангамжийн хооронд зогсох бас нэг алхам юм.</string>
+    <string-array name="timeline_dates">
+        <item>2025 оны наймдугаар сарын 25</item>
+        <item>2026 оны гуравдугаар сарын 19</item>
+        <item>2026 оны зургадугаар сар</item>
+        <item>2026 оны зургадугаар сарын 18</item>
+        <item>2026 оны долдугаар сар</item>
+        <item>2026 оны наймдугаар сар</item>
+        <item>2026 оны есдүгээр сарын 30</item>
+        <item>2027 он</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Хөтөлбөрийг зарлаж байна</item>
+        <item>\"Дэвшилтэт урсгал\" илчлэв</item>
+        <item>Android Developer Verifier нь төхөөрөмжүүд рүү илгээгддэг</item>
+        <item>Анхны хөөргөлт батлагдсан</item>
+        <item>Хөгжүүлэгчийн API нээгдэнэ</item>
+        <item>Глобал консол, хязгаарлагдмал данс, дэвшилтэт урсгал</item>
+        <item>Дөрвөн улсад мөрдүүлэх ажил эхэлдэг</item>
+        <item>Дэлхий даяар нэвтрүүлэх</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google 2027 оноос эхлэн Android-д зориулсан програмуудыг Google Play-ээс гадуур суулгасан программуудыг оруулаад баталгаажсан хөгжүүлэгчид бүртгүүлэх ёстойг зарлаж байна.</item>
+        <item>Хүчирхэг хэрэглэгчид зориудаар төвөгтэй байдаг: Хөгжүүлэгчийн сонголтыг идэвхжүүлж, таныг албадаагүй гэдгээ баталгаажуулаад дахин эхлүүлээд 24 цаг хүлээнэ үү, баталгаажуулаагүй суулгацыг зөвшөөрнө үү.</item>
+        <item>Арын системийн үйлчилгээ (com.google.android.verifier) ​​нь Google Системийн шинэчлэлтүүдээр дамжуулан баталгаажсан төхөөрөмжүүдэд шилждэг бөгөөд хэрэгжих хүртэл идэвхгүй хэвээр байна.</item>
+        <item>2026 оны 9-р сарын 30-ны өдрөөс эхлэн долоон дэлгүүр, дөрвөн улсад мөрдүүлэхийг Google баталж байна.</item>
+        <item>Android Developer ID Status API-г дэлхий даяар эхлүүлж, Android Developer Console API болон хязгаарлагдмал түгээлтийн бүртгэлүүдэд эрт хандалт хийж эхэлнэ.</item>
+        <item>Хязгаарлагдмал түгээлтийн бүртгэлүүд (үнэгүй, 20 хүртэлх төхөөрөмж, засгийн газрын ID байхгүй) болон Консол API-г дэлхий даяар эхлүүлнэ. Баталгаажаагүй хажуугаар ачаалах дэвшилтэт урсгал гарч эхэлж байна.</item>
+        <item>Андройд 7+ үйлдлийн системтэй баталгаажсан төхөөрөмж дээр Бразил, Индонез, Сингапур, Тайландын хэрэглэгчдэд хамгаалалт шууд хэрэгжинэ. Баталгаажаагүй хөгжүүлэгчдийн программыг оролцогч дэлгүүрүүд дээр блоклодог: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore болон GetApps.</item>
+        <item>Баталгаажуулалтыг бүх апп болон бүс нутагт өргөжүүлсэн. 2027 оны 1-р сарын 1 хүртэл Android нээлттэй платформ болох хүртэл тоолно.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Бүрэн түгээлт</item>
+        <item>Хязгаарлагдмал хуваарилалт</item>
+        <item>Бүртгэлгүй програмуудыг хажуу тийш ачаалж байна</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Тийм - засгийн газрын үнэмлэх, хураамж</item>
+        <item>Үгүй - ID эсвэл бүртгэлийн хураамж байхгүй</item>
+        <item>Үгүй, гэхдээ өндөр үрэлттэй</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Таны сонгосон ямар ч дэлгүүр эсвэл суваг</item>
+        <item>QR код эсвэл холбоосоор гар барих замаар 20 хүртэлх төхөөрөмж</item>
+        <item>АХБ (чөлөөт) эсвэл дэвшилтэт урсгал</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Таны хэрэглэгчдийн хувьд юу ч өөрчлөгдөхгүй</item>
+        <item>Хэрэглэгчид өөрсдийн таньдаг хөгжүүлэгчийн суулгах урилгыг хүлээн авдаг</item>
+        <item>Хөгжүүлэгчийн сонголтууд, дахин эхлүүлж, 24 цаг хүлээгээд дараа нь ямар ч байсан суулгаарай</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Байгууллага, мэргэжлийн хөгжүүлэгчид</item>
+        <item>Оюутнууд, хоббичид болон хувийн хэрэглээ</item>
+        <item>Баталгаажаагүй хөгжүүлэгчид болон хүчирхэг хэрэглэгчид</item>
+    </string-array>
+    <string name="act_title" formatted="false">Яг одоо хөдөл - дуу хоолойгоо сонс</string>
+    <string name="act_intro">Зохицуулагчид өртсөн хүмүүсийн саналыг сонсохыг хүсч байна. Эелдэг бөгөөд тодорхой байж, холбоо барьж буй байгууллагынхаа албан ёсны хэлээр бичиж, бичгээр хүлээн зөвшөөрч, %1$s-г хуулж авснаар кампанит ажил ялалтыг хянах боломжтой болно.</string>
+    <string name="act_open_composer" formatted="false">Имэйл зохиогчийг нээнэ үү</string>
+    <string name="act_copy" formatted="false">Хуулбарлах</string>
+    <string name="act_share" formatted="false">Хуваалцах</string>
+    <string name="act_clipboard_label" formatted="false">Android Нээлттэй захидал хадгал</string>
+    <string name="act_us_title" formatted="false">АНУ - засгийн газарт имэйл илгээнэ үү</string>
+    <string name="act_us_intro" formatted="false">Хууль зүйн яам болон FTC нь монополийн эсрэг тайланг онлайн маягтаар дамжуулан авдаг. Тэдгээрийг ашиглаж, өөрийн төлөөлөгч, сенатортой шууд холбоо бариарай.</string>
+    <string name="act_world_title" formatted="false">Дэлхийн өөр газар</string>
+    <string name="act_groups_title" formatted="false">Хэрэглэгч ба дижитал эрхийн бүлгүүд</string>
+    <string name="act_more_title" formatted="false">Туслах өөр аргууд</string>
+    <string name="act_more_body" formatted="false">• Төхөөрөмж дээрээ F-Droid суулгана уу.\n• Google-н хөгжүүлэгчийн баталгаажуулалтын судалгаанд хариулна уу.\n• Олон нийтийн сүлжээнд нийтэлж, keepandroidopen.org сайт руу холбоно уу.\n• change.org өргөдөлд гарын үсэг зурна уу.\n• Вэбсайтдаа цаг тоолох баннер нэмнэ үү.</string>
+    <string name="act_all_actions" formatted="false">Keepandroidopen.org дээрх бүх үйлдлүүд</string>
+    <string name="action_email" formatted="false">Имэйл</string>
+    <string name="action_open" formatted="false">Нээлттэй</string>
+    <string-array name="us_contact_regions">
+        <item>АНУ</item>
+        <item>АНУ</item>
+        <item>АНУ</item>
+        <item>АНУ</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>АНУ-ын Хууль зүйн яам - Монополияны эсрэг хэлтэс</item>
+        <item>АНУ-ын Холбооны Худалдааны Комисс - Монополийн эсрэг</item>
+        <item>Төлөөлөгчөө олоорой</item>
+        <item>АНУ-ын сенаторуудтай холбоо бариарай</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Монополийн эсрэг тайланг онлайнаар илгээнэ үү.</item>
+        <item>Монополийн эсрэг гомдол гаргах.</item>
+        <item>АНУ-ын танхим дахь төлөөлөгчтэйгээ холбогдоно уу.</item>
+        <item>Мужийнхаа сенаторуудыг хоёуланг нь хайж олоод холбоо бариарай.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Европын холбоо</item>
+        <item>Европын холбоо</item>
+        <item>Их Британи</item>
+        <item>Бразил</item>
+        <item>Сингапур</item>
+        <item>Тайланд</item>
+        <item>Индонез</item>
+        <item>Австрали</item>
+        <item>Канад</item>
+        <item>Энэтхэг</item>
+        <item>Япон</item>
+        <item>Өмнөд Солонгос</item>
+        <item>Мексик</item>
+        <item>Aotearoa / Шинэ Зеланд</item>
+        <item>Тайвань</item>
+        <item>Швейцарь</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>ЕХ-ны монополийн эсрэг (DG COMP)</item>
+        <item>Дижитал зах зээлийн тухай хуулийн баг</item>
+        <item>Өрсөлдөөн ба зах зээлийн газар</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Худалдааны Өрсөлдөөний Хороо (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Канадын өрсөлдөөний товчоо</item>
+        <item>Энэтхэгийн өрсөлдөөний комисс</item>
+        <item>Японы Шударга худалдааны хороо</item>
+        <item>Солонгосын Шударга худалдааны хороо</item>
+        <item>Үндэсний монополиогийн эсрэг комисс</item>
+        <item>Худалдааны комисс</item>
+        <item>Шударга худалдааны хороо</item>
+        <item>Өрсөлдөөний комисс (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Европын комиссын өрсөлдөөний байгууллагад имэйл илгээнэ үү.</item>
+        <item>ЕХ-ны DMA иргэдийн тусламжийн газартай холбогдоно уу.</item>
+        <item>Их Британийн CMA-д мэдээлэх.</item>
+        <item>Бразил улс хууль хэрэгжүүлэх эхний давалгаанд орж байна.</item>
+        <item>Сингапур улс хууль хэрэгжүүлэх эхний давалгаанд орж байна.</item>
+        <item>Тайланд хууль хэрэгжүүлэх эхний давалгаанд орж байна.</item>
+        <item>Индонез улс хууль сахиулах эхний давалгаанд орж байна.</item>
+        <item>Австралийн Өрсөлдөөн ба Хэрэглэгчийн Комисст тайлагнана.</item>
+        <item>Өрсөлдөөний товчоонд гомдол гарга.</item>
+        <item>Өрсөлдөөний эсрэг үйл ажиллагааны талаар CCI-тэй холбоо барина уу.</item>
+        <item>JFTC / Mobile Software Competition Act-тай холбогдоно уу.</item>
+        <item>KFTC-тэй холбоо барина уу.</item>
+        <item>Мексикт монополийн эсрэг гомдол гарга.</item>
+        <item>Өрсөлдөөний эсрэг үйлдлүүдийг мэдээлэх.</item>
+        <item>Тайваны FTC-тэй холбоо барина уу.</item>
+        <item>Хууль бус үйлдлүүдийг мэдээлэх.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Глобал</item>
+        <item>Глобал</item>
+        <item>Европ</item>
+        <item>Европ</item>
+        <item>Глобал</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Цахим хилийн сан</item>
+        <item>Үнэгүй програм хангамжийн сан</item>
+        <item>Чөлөөт програм хангамжийн сан Европ</item>
+        <item>Европын дижитал эрх (EDRi)</item>
+        <item>Програм хангамжийн эрх чөлөөг хамгаалах</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Аппликэйшний хаалганы хамгаалалт ба интернетийн цензур.</item>
+        <item>Програм хангамжийн эрх чөлөө ба хэрэглэгчийн хяналт.</item>
+        <item>Европ дахь програм хангамжийн эрх чөлөө.</item>
+        <item>Дижитал эрхийн сурталчилгаа.</item>
+        <item>Олон нийтэд тулгуурласан үнэгүй програм хангамж.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">миний засгийн газар</string>
+    <string name="letter_subject" formatted="false">Google-ийн Android хөгжүүлэгчийн баталгаажуулалтыг түгжихийг зогсооно уу</string>
+    <string name="letter_template">Эрхэм %1$s төлөөлөгч,\n\nБи санаа зовж буй Андройдын хэрэглэгч болон танай харьяаллын иргэний хувьд бичиж байна.\n\n2026 оны 9-р сарын 30-наас эхлэн хэд хэдэн зах зээлд хэрэгжиж, 2027 онд дэлхий даяар өргөжин тэлж байгаа Google-ийн Android хөгжүүлэгчийн баталгаажуулалтын хөтөлбөр нь баталгаажсан төхөөрөмжүүдэд суулгахын тулд Андройд програм бүрийг төвлөрсөн баталгаажуулсан хөгжүүлэгчид бүртгүүлэх шаардлагатай болно. Хөгжүүлэгчид засгийн газрын үнэмлэхийг гаргаж, Google-ийн нөхцөлийг зөвшөөрч, төлбөр төлж, одоогийн болон ирээдүйн програмын танигч бүрийг жагсаах ёстой.\n\nЭнэ нь аюулгүй байдлыг мэдэгдэхүйц сайжруулж чадахгүй. Энэ нь хүмүүс эзэмшдэг төхөөрөмж дээрээ ямар программ хангамж ажиллуулахыг шийдэх эрхийг ганц хувийн компанид өгдөг бөгөөд F-Droid гэх мэт бие даасан, нээлттэй эхийн түгээлтийг дагаж мөрддөггүй бөгөөд ажиллахаа больж болзошгүй юм.\n\nБи танаас хүндэтгэлтэйгээр гуйж байна:\n\n1. Энэхүү хөтөлбөр нь өрсөлдөөнд харшлах, хаалгачны албан тушаалыг урвуулан ашигласан үйлдэл мөн эсэхийг шалгах.\n2. Нээлттэй эх сурвалж болон арилжааны бус түгээлтээс чөлөөлөхийн тулд Google-г дарж, төвлөрсөн бүртгэлээс гадуур ачааллыг хадгалах боломжтой.\n3. Хэрэглэгчийн худалдан авсан техник хангамж дээрээ өөрийн сонгосон программ хангамжийг ажиллуулах эрхийг хамгаалах.\n\nЭнэ мессежийг бичгээр хүлээн зөвшөөрч, танай оффис ямар арга хэмжээ авахыг надад мэдэгдэнэ үү.\n\nБи мөн %2$s дээрх Android Open-ийг хадгалах кампанит ажлыг хуулж байна.\n\nХүндэтгэсэн,\n[Таны нэр]\n[Таны хот ба улс]</string>
+    <string name="toast_no_app" formatted="false">Ямар ч програм энэ холбоосыг нээж чадахгүй</string>
+    <string name="toast_no_email" formatted="false">Ямар ч имэйл програм суулгаагүй байна</string>
+    <string name="chooser_send_email" formatted="false">Имэйл илгээх</string>
+    <string name="chooser_share" formatted="false">Хуваалцах</string>
+    <string name="toast_copied" formatted="false">Түр санах ой руу хуулсан</string>
+    <string name="settings_title" formatted="false">Тохиргоо</string>
+    <string name="settings_language_title" formatted="false">Програмын хэл</string>
+    <string name="settings_language_summary" formatted="false">Програмын ашигладаг хэлийг сонгоно уу. Та мөн төхөөрөмжийн тохиргооноос үүнийг өөрчилж болно.</string>
+    <string name="settings_system_default" formatted="false">Системийн өгөгдмөл</string>
+    <string name="settings_language_search" formatted="false">Хэл хайх</string>
+    <string name="settings_theme_title" formatted="false">Сэдэв</string>
+    <string name="settings_theme_summary" formatted="false">Апп хэрхэн харагдахыг сонгоно уу.</string>
+    <string name="theme_system" formatted="false">Системийг дагаж мөрдөх</string>
+    <string name="theme_light" formatted="false">Гэрэл</string>
+    <string name="theme_dark" formatted="false">Харанхуй</string>
+    <string name="theme_amoled" formatted="false">AMOLED (цэвэр хар)</string>
+    <string name="settings_accent_title" formatted="false">Өргөлтийн өнгө</string>
+    <string name="settings_accent_summary" formatted="false">Аппликешн дээр ашигласан тодруулсан өнгийг сонгоно уу.</string>
+    <string name="accent_default" formatted="false">Өгөгдмөл (кампанит ажлын улаан)</string>
+    <string name="accent_red" formatted="false">Улаан</string>
+    <string name="accent_orange" formatted="false">Улбар шар</string>
+    <string name="accent_yellow" formatted="false">Шар</string>
+    <string name="accent_green" formatted="false">Ногоон</string>
+    <string name="accent_teal" formatted="false">Цайвар</string>
+    <string name="accent_blue" formatted="false">Цэнхэр</string>
+    <string name="accent_purple" formatted="false">Нил ягаан</string>
+    <string name="accent_pink" formatted="false">Ягаан</string>
+    <string name="settings_colorblendr_warning" formatted="false">Анхаар: Хэрэв ColorBlendr эсвэл таны дарсан өөр материал идэвхтэй байвал таныг идэвхгүй болгох хүртэл таны өргөлтийн өнгө ажиллахгүй байж магадгүй.</string>
+    <string name="settings_about_title" formatted="false">тухай</string>
+    <string name="settings_version">%1$s хувилбар</string>
+    <string name="settings_open_source" formatted="false">Нээлттэй эх сурвалж (MIT). Албан ёсны Keep Android Open кампанит ажилтай холбоогүй эсвэл дэмжигдээгүй.</string>
+</resources>

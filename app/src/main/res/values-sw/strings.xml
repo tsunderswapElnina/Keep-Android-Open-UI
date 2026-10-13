@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Muda uliosalia</string>
+    <string name="tab_rollout" formatted="false">Usambazaji</string>
+    <string name="tab_act_now" formatted="false">Chukua Hatua Sasa</string>
+    <string name="cd_open_site" formatted="false">Fungua keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Mipangilio</string>
+    <string name="cd_back" formatted="false">Nyuma</string>
+    <string name="countdown_campaign" formatted="false">Muda wa kuhesabu kampeni</string>
+    <string name="countdown_elapsed" formatted="false">Muda ulipita tangu kampeni ilipotangazwa hadharani kuelekea Januari 1, 2027.</string>
+    <string name="countdown_what_means" formatted="false">Nini maana ya kuhesabu</string>
+    <string name="countdown_read_faq" formatted="false">Soma Maswali Yanayoulizwa Mara kwa Mara</string>
+    <string name="countdown_campaign_btn" formatted="false">Kampeni</string>
+    <string name="countdown_footnote" formatted="false">Lengo la muda uliosalia linalingana na bango lililochapishwa kwenye keepandroidopen.org. Programu husasishwa mara moja kwa sekunde wakati imefunguliwa.</string>
+    <string name="countdown_expired" formatted="false">ANDROID SASA NI MIFUNGO ILIYOFUNGWA</string>
+    <string name="countdown_running" formatted="false">ANDROID INAKUWA MIFUNGO ILIYOFUNGWA NDANI</string>
+    <string name="unit_days" formatted="false">siku</string>
+    <string name="unit_hours" formatted="false">masaa</string>
+    <string name="unit_minutes" formatted="false">dakika</string>
+    <string name="unit_seconds" formatted="false">sekunde</string>
+    <string name="rollout_title" formatted="false">Uthibitishaji wa Msanidi Programu wa Android ni nini?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Nini maana yake kweli</string>
+    <string name="rollout_timeline_title" formatted="false">Ratiba ya uchapishaji</string>
+    <string name="rollout_paths_title" formatted="false">Chagua njia yako ya uthibitishaji</string>
+    <string name="rollout_advanced_title" formatted="false">\"Mtiririko wa hali ya juu\" sio suluhisho</string>
+    <string name="rollout_dev_page" formatted="false">Ukurasa rasmi wa msanidi wa Google</string>
+    <string name="rollout_open_letter" formatted="false">Soma barua ya wazi</string>
+    <string name="label_identity" formatted="false">Utambulisho</string>
+    <string name="label_distribution" formatted="false">Usambazaji</string>
+    <string name="label_ux" formatted="false">Uzoefu wa mtumiaji</string>
+    <string name="label_best_for" formatted="false">Bora kwa</string>
+    <string name="rollout_summary" formatted="false">Uthibitishaji wa Msanidi Programu wa Android ni mpango wa Google unaounganisha kila programu na utambulisho wa msanidi programu aliyeidhinishwa kabla ya kusakinishwa kwenye vifaa vya Android vilivyoidhinishwa. Wasanidi lazima wathibitishe wao ni nani na kusajili majina ya vifurushi wanavyochapisha. Programu zisizo na msanidi programu aliyesajiliwa, aliyethibitishwa haziwezi tena kusakinishwa kwa njia ya kawaida pindi ulinzi utakapotolewa.</string>
+    <string name="rollout_what_it_means" formatted="false">Hushughulika zaidi na usambazaji huru na wa chanzo huria kama vile F-Droid, upakuaji wa moja kwa moja wa APK na miradi ya hobby. Google inasema inahusu usalama na kukomesha programu hasidi isiyojulikana. Wakosoaji ikiwa ni pamoja na kampeni ya Weka Android Open, F-Droid na EFF wanasema ni swichi ya kuua mlinda mlango: usajili wa kati, kitambulisho cha serikali, ada na udhibiti kamili wa kile kifaa chako kinaruhusiwa kuamini.</string>
+    <string name="rollout_advanced_note" formatted="false">Mtiririko wa hali ya juu hutolewa kupitia huduma za Google Play, wala si Mfumo wa Uendeshaji wa Android, kwa hivyo Google inaweza kuibadilisha, kuizuia au kuiondoa wakati wowote bila sasisho la Mfumo wa Uendeshaji au idhini ya mtumiaji. Kuchelewa kwa saa 24 kunasumbua kimakusudi na ni hatua moja zaidi ambayo inasimama kati yako na programu unayochagua kuendesha.</string>
+    <string-array name="timeline_dates">
+        <item>Agosti 25, 2025</item>
+        <item>Machi 19, 2026</item>
+        <item>Juni 2026</item>
+        <item>Juni 18, 2026</item>
+        <item>Julai 2026</item>
+        <item>Agosti 2026</item>
+        <item>Septemba 30, 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Mpango huo unatangazwa</item>
+        <item>\"Mtiririko wa juu\" umefunuliwa</item>
+        <item>Kithibitishaji cha Msanidi Programu wa Android husafirisha hadi kwenye vifaa</item>
+        <item>Uzinduzi wa awali umethibitishwa</item>
+        <item>API za Wasanidi programu hufunguliwa</item>
+        <item>Kiweko cha kimataifa, akaunti chache, mtiririko wa hali ya juu</item>
+        <item>Utekelezaji huanza katika nchi nne</item>
+        <item>Utoaji wa kimataifa</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google inatangaza kuwa kuanzia mwaka wa 2027, ni lazima programu za Android zisajiliwe kwa msanidi programu aliyeidhinishwa, ikiwa ni pamoja na programu zilizosakinishwa nje ya Google Play.</item>
+        <item>Watumiaji wa nishati hupata njia ngumu ya kutoroka kimakusudi: washa Chaguo za Wasanidi Programu, thibitisha kuwa haulazimishwi, anzisha upya, kisha usubiri saa 24 kabla ya kuruhusu usakinishaji ambao haujathibitishwa.</item>
+        <item>Huduma ya mfumo wa usuli (com.google.android.verifier) ​​inasukumwa kupitia Masasisho ya Mfumo wa Google hadi kwenye vifaa vilivyoidhinishwa na hukaa kimya hadi utekelezeji.</item>
+        <item>Google inathibitisha kwamba utekelezaji utaanza Septemba 30, 2026, katika maduka saba na nchi nne.</item>
+        <item>API ya Hali ya Kitambulisho cha Msanidi Programu wa Android huzinduliwa duniani kote na ufikiaji wa mapema huanza kwa API ya Dashibodi ya Wasanidi Programu wa Android na akaunti chache za usambazaji.</item>
+        <item>Akaunti chache za usambazaji (bila malipo, hadi vifaa 20, hakuna kitambulisho cha serikali) na API ya Console inazinduliwa duniani kote. Mtiririko wa hali ya juu wa upakiaji kando ambao haujathibitishwa huanza kutolewa.</item>
+        <item>Ulinzi huonyeshwa moja kwa moja kwa watumiaji nchini Brazili, Indonesia, Singapore na Thailand kwenye vifaa vilivyoidhinishwa vinavyotumia Android 7+. Programu kutoka kwa wasanidi ambao hawajathibitishwa zimezuiwa kwenye maduka yanayoshiriki: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore na GetApps.</item>
+        <item>Uthibitishaji umepanuliwa kwa programu na maeneo yote. Weka Android Open huhesabiwa hadi Januari 1, 2027, wakati Android inakuwa mfumo uliofungwa.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Usambazaji kamili</item>
+        <item>Usambazaji mdogo</item>
+        <item>Inapakia programu ambazo hazijasajiliwa</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Ndiyo - kitambulisho cha serikali na ada</item>
+        <item>Hapana - hakuna kitambulisho au ada ya usajili</item>
+        <item>Hapana - lakini msuguano wa juu</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Hifadhi au kituo chochote unachochagua</item>
+        <item>Hadi vifaa 20 kupitia msimbo wa QR au kiungo cha kupeana mkono</item>
+        <item>ADB (isiyoruhusiwa) au mtiririko wa juu</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Hakuna mabadiliko kwa watumiaji wako</item>
+        <item>Watumiaji wanakubali mwaliko wa kusakinisha kutoka kwa msanidi wanamjua</item>
+        <item>Chaguo za Wasanidi Programu, anzisha upya, subiri kwa saa 24, kisha usakinishe hata hivyo</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Mashirika na watengenezaji wa kitaalamu</item>
+        <item>Wanafunzi, hobbyists na matumizi binafsi</item>
+        <item>Watengenezaji na watumiaji wa nishati ambao hawajathibitishwa</item>
+    </string-array>
+    <string name="act_title" formatted="false">Chukua hatua sasa - fanya sauti yako isikike</string>
+    <string name="act_intro">Wadhibiti wanataka kusikia kutoka kwa watu ambao wameathirika. Kuwa mstaarabu na mahususi, andika katika lugha rasmi ya shirika unalowasiliana naye, omba uthibitisho wa maandishi na unakili %1$s ili kampeni iweze kufuatilia ushindi.</string>
+    <string name="act_open_composer" formatted="false">Fungua mtunzi wa barua pepe</string>
+    <string name="act_copy" formatted="false">Nakili</string>
+    <string name="act_share" formatted="false">Shiriki</string>
+    <string name="act_clipboard_label" formatted="false">Weka herufi ya Android Open</string>
+    <string name="act_us_title" formatted="false">Marekani - barua pepe kwa serikali</string>
+    <string name="act_us_intro" formatted="false">Idara ya Haki na FTC huchukua ripoti za kutokuaminiana kupitia fomu za mtandaoni. Zitumie, na uwasiliane na mwakilishi wako na maseneta moja kwa moja.</string>
+    <string name="act_world_title" formatted="false">Mahali pengine duniani</string>
+    <string name="act_groups_title" formatted="false">Vikundi vya haki za watumiaji na dijitali</string>
+    <string name="act_more_title" formatted="false">Njia zaidi za kusaidia</string>
+    <string name="act_more_body" formatted="false">• Sakinisha F-Droid kwenye vifaa vyako.\n• Jibu utafiti wa uthibitishaji wa msanidi wa Google.\n• Chapisha kwenye mitandao ya kijamii na kiungo cha keepandroidopen.org.\n• Saini ombi la change.org.\n• Ongeza bango la siku zijazo kwenye tovuti yako.</string>
+    <string name="act_all_actions" formatted="false">Vitendo vyote kwenye keepandroidopen.org</string>
+    <string name="action_email" formatted="false">Barua pepe</string>
+    <string name="action_open" formatted="false">Fungua</string>
+    <string-array name="us_contact_regions">
+        <item>Marekani</item>
+        <item>Marekani</item>
+        <item>Marekani</item>
+        <item>Marekani</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Idara ya Haki ya Marekani - Kitengo cha Kuzuia Uaminifu</item>
+        <item>Tume ya Biashara ya Shirikisho la Marekani - Antitrust</item>
+        <item>Tafuta Mwakilishi wa Baraza lako</item>
+        <item>Wasiliana na Maseneta wako wa Marekani</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Peana ripoti ya kutokuaminika mtandaoni.</item>
+        <item>Weka malalamiko dhidi ya uaminifu.</item>
+        <item>Wasiliana na mwakilishi wako katika Ikulu ya Marekani.</item>
+        <item>Tafuta na uwasiliane na maseneta wote wa jimbo lako.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Umoja wa Ulaya</item>
+        <item>Umoja wa Ulaya</item>
+        <item>Uingereza</item>
+        <item>Brazili</item>
+        <item>Singapore</item>
+        <item>Thailand</item>
+        <item>Indonesia</item>
+        <item>Australia</item>
+        <item>Kanada</item>
+        <item>India</item>
+        <item>Japani</item>
+        <item>Korea Kusini</item>
+        <item>Mexico</item>
+        <item>Aotearoa / New Zealand</item>
+        <item>Taiwan</item>
+        <item>Uswisi</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU Antitrust (DG COMP)</item>
+        <item>Timu ya Sheria ya Masoko ya Dijiti</item>
+        <item>Mamlaka ya Ushindani na Masoko</item>
+        <item>KADE</item>
+        <item>CCCS</item>
+        <item>Tume ya Ushindani wa Biashara (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Ofisi ya Ushindani Kanada</item>
+        <item>Tume ya Ushindani ya India</item>
+        <item>Tume ya Biashara ya Haki ya Japani</item>
+        <item>Tume ya Biashara ya Haki ya Korea</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>Tume ya Biashara</item>
+        <item>Tume ya Biashara ya Haki</item>
+        <item>Tume ya Ushindani (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Tuma barua pepe kwa mamlaka ya ushindani ya Tume ya Ulaya.</item>
+        <item>Wasiliana na dawati la usaidizi la raia wa EU DMA.</item>
+        <item>Ripoti kwa CMA ya Uingereza.</item>
+        <item>Brazil iko katika wimbi la kwanza la utekelezaji.</item>
+        <item>Singapore iko katika wimbi la kwanza la utekelezaji.</item>
+        <item>Thailand iko katika wimbi la kwanza la utekelezaji.</item>
+        <item>Indonesia iko katika wimbi la kwanza la utekelezaji.</item>
+        <item>Ripoti kwa Tume ya Ushindani na Watumiaji ya Australia.</item>
+        <item>Tuma malalamiko kwa Ofisi ya Ushindani.</item>
+        <item>Wasiliana na CCI kuhusu tabia ya kupinga ushindani.</item>
+        <item>Wasiliana na dawati la Sheria ya Mashindano ya Programu ya JFTC / Simu.</item>
+        <item>Wasiliana na KFTC.</item>
+        <item>Tuma malalamiko ya kutokuaminika nchini Mexico.</item>
+        <item>Ripoti tabia ya kupinga ushindani.</item>
+        <item>Wasiliana na Taiwan FTC.</item>
+        <item>Ripoti vitendo visivyo halali.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Ulimwenguni</item>
+        <item>Ulimwenguni</item>
+        <item>Ulaya</item>
+        <item>Ulaya</item>
+        <item>Ulimwenguni</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Foundation</item>
+        <item>Free Software Foundation</item>
+        <item>Free Software Foundation Ulaya</item>
+        <item>Haki za Dijiti za Ulaya (EDRi)</item>
+        <item>Uhifadhi wa Uhuru wa Programu</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Ulindaji lango la programu na udhibiti wa mtandao.</item>
+        <item>Uhuru wa programu na udhibiti wa mtumiaji.</item>
+        <item>Uhuru wa programu huko Uropa.</item>
+        <item>Utetezi wa haki za kidijitali.</item>
+        <item>Programu ya bure inayoendeshwa na jumuiya.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">serikali yangu</string>
+    <string name="letter_subject" formatted="false">Simamisha kufuli kwa Uthibitishaji wa Msanidi Programu wa Android</string>
+    <string name="letter_template">Mpendwa mwakilishi wa %1$s,\n\nNinaandika kama mtumiaji wa Android anayehusika na kama raia katika eneo la mamlaka yako.\n\nMpango wa Google wa Uthibitishaji kwa Wasanidi Programu wa Android, unaotekelezwa kuanzia tarehe 30 Septemba 2026 katika masoko kadhaa na kupanuka duniani kote mnamo 2027, utahitaji kila programu ya Android isajiliwe kwa msanidi aliyeidhinishwa na serikali kuu kabla ya kusakinishwa kwenye vifaa vilivyoidhinishwa. Ni lazima wasanidi wawasilishe kitambulisho cha serikali, wakubali sheria na masharti ya Google, walipe ada na waorodheshe kila kitambulisho cha sasa na cha baadaye cha programu.\n\nHii haiboreshi usalama kwa njia ya maana. Inaipa kampuni moja ya kibinafsi mamlaka ya kuamua ni programu gani watu wanaruhusiwa kutumia kwenye vifaa wanavyomiliki, na inatishia usambazaji huru na wa chanzo huria kama vile F-Droid, ambayo haiwezi kutii na inaweza kukoma kuwepo.\n\nNinakuuliza kwa heshima:\n\n1. Chunguza ikiwa programu hii haina ushindani na inajumuisha matumizi mabaya ya nafasi ya mlinda lango.\n2. Bonyeza Google ili kusamehe usambazaji wa chanzo huria na usio wa kibiashara, na kuweka upakiaji kando bila usajili wa kati.\n3. Linda haki ya watumiaji kuendesha programu wanayochagua kwenye maunzi waliyonunua.\n\nTafadhali kiri ujumbe huu kwa maandishi na nijulishe ni hatua gani ofisi yako inachukua.\n\nPia ninakili kampeni ya Keep Android Open katika %2$s.\n\nKwa dhati,\n[Jina lako]\n[Mji na nchi yako]</string>
+    <string name="toast_no_app" formatted="false">Hakuna programu inayoweza kufungua kiungo hiki</string>
+    <string name="toast_no_email" formatted="false">Hakuna programu ya barua pepe iliyosakinishwa</string>
+    <string name="chooser_send_email" formatted="false">Tuma barua pepe</string>
+    <string name="chooser_share" formatted="false">Shiriki</string>
+    <string name="toast_copied" formatted="false">Imenakiliwa kwenye ubao wa kunakili</string>
+    <string name="settings_title" formatted="false">Mipangilio</string>
+    <string name="settings_language_title" formatted="false">Lugha ya programu</string>
+    <string name="settings_language_summary" formatted="false">Chagua lugha inayotumiwa na programu. Unaweza pia kuibadilisha kutoka kwa mipangilio ya kifaa chako.</string>
+    <string name="settings_system_default" formatted="false">Chaguomsingi ya mfumo</string>
+    <string name="settings_language_search" formatted="false">Tafuta lugha</string>
+    <string name="settings_theme_title" formatted="false">Mandhari</string>
+    <string name="settings_theme_summary" formatted="false">Chagua jinsi programu inavyoonekana.</string>
+    <string name="theme_system" formatted="false">Fuata mfumo</string>
+    <string name="theme_light" formatted="false">Mwanga</string>
+    <string name="theme_dark" formatted="false">Giza</string>
+    <string name="theme_amoled" formatted="false">AMOLED (nyeusi safi)</string>
+    <string name="settings_accent_title" formatted="false">Rangi ya msisitizo</string>
+    <string name="settings_accent_summary" formatted="false">Chagua rangi ya kuangazia inayotumika kwenye programu.</string>
+    <string name="accent_default" formatted="false">Chaguomsingi (nyekundu ya kampeni)</string>
+    <string name="accent_red" formatted="false">Nyekundu</string>
+    <string name="accent_orange" formatted="false">Chungwa</string>
+    <string name="accent_yellow" formatted="false">Njano</string>
+    <string name="accent_green" formatted="false">Kijani</string>
+    <string name="accent_teal" formatted="false">Teal</string>
+    <string name="accent_blue" formatted="false">Bluu</string>
+    <string name="accent_purple" formatted="false">Zambarau</string>
+    <string name="accent_pink" formatted="false">Pink</string>
+    <string name="settings_colorblendr_warning" formatted="false">Kumbuka: ikiwa ColorBlendr au Nyenzo nyingine Unayobatilisha inatumika, rangi ya lafudhi yako inaweza isitumike hadi ukizime.</string>
+    <string name="settings_about_title" formatted="false">Kuhusu</string>
+    <string name="settings_version">Toleo la %1$s</string>
+    <string name="settings_open_source" formatted="false">Chanzo wazi (MIT). Haihusiani na au kuidhinishwa na kampeni rasmi ya Keep Android Open.</string>
+</resources>

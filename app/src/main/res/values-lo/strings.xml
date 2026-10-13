@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">ນັບຖອຍຫຼັງ</string>
+    <string name="tab_rollout" formatted="false">ການເປີດຕົວ</string>
+    <string name="tab_act_now" formatted="false">ປະຕິບັດດຽວນີ້</string>
+    <string name="cd_open_site" formatted="false">ເປີດ Keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">ການຕັ້ງຄ່າ</string>
+    <string name="cd_back" formatted="false">ກັບຄືນໄປບ່ອນ</string>
+    <string name="countdown_campaign" formatted="false">ແຄມເປນນັບຖອຍຫຼັງ</string>
+    <string name="countdown_elapsed" formatted="false">ເວລາຜ່ານໄປນັບຕັ້ງແຕ່ການໂຄສະນາຫາສຽງໄດ້ເປີດເປັນສາທາລະນະໃນວັນທີ 1 ມັງກອນ 2027.</string>
+    <string name="countdown_what_means" formatted="false">ການນັບຖອຍຫຼັງຫມາຍຄວາມວ່າແນວໃດ</string>
+    <string name="countdown_read_faq" formatted="false">ອ່ານ FAQ</string>
+    <string name="countdown_campaign_btn" formatted="false">ແຄມເປນ</string>
+    <string name="countdown_footnote" formatted="false">ເປົ້າໝາຍການນັບຖອຍຫຼັງກົງກັບປ້າຍໂຄສະນາທີ່ເຜີຍແຜ່ຢູ່ keepandroidopen.org. ແອັບຯອັບເດດຫນຶ່ງຄັ້ງຕໍ່ວິນາທີໃນຂະນະທີ່ມັນເປີດຢູ່.</string>
+    <string name="countdown_expired" formatted="false">ດຽວນີ້ Android ເປັນແພລດຟອມທີ່ຖືກລັອກ</string>
+    <string name="countdown_running" formatted="false">ANDROID ກາຍເປັນແພລດຟອມທີ່ຖືກລັອກລົງໃນ</string>
+    <string name="unit_days" formatted="false">ມື້</string>
+    <string name="unit_hours" formatted="false">ຊົ່ວໂມງ</string>
+    <string name="unit_minutes" formatted="false">ນາທີ</string>
+    <string name="unit_seconds" formatted="false">ວິນາທີ</string>
+    <string name="rollout_title" formatted="false">ການຢັ້ງຢືນນັກພັດທະນາ Android ແມ່ນຫຍັງ?</string>
+    <string name="rollout_what_it_means_title" formatted="false">ມັນຫມາຍຄວາມວ່າແນວໃດ</string>
+    <string name="rollout_timeline_title" formatted="false">ໄລຍະເວລາການເປີດຕົວ</string>
+    <string name="rollout_paths_title" formatted="false">ເລືອກເສັ້ນທາງການຢັ້ງຢືນຂອງທ່ານ</string>
+    <string name="rollout_advanced_title" formatted="false">\"ການໄຫຼເຂົ້າຂັ້ນສູງ\" ບໍ່ແມ່ນການແກ້ໄຂ</string>
+    <string name="rollout_dev_page" formatted="false">ຫນ້ານັກພັດທະນາຢ່າງເປັນທາງການຂອງ Google</string>
+    <string name="rollout_open_letter" formatted="false">ອ່ານຈົດໝາຍເປີດ</string>
+    <string name="label_identity" formatted="false">ເອກະລັກ</string>
+    <string name="label_distribution" formatted="false">ການແຜ່ກະຈາຍ</string>
+    <string name="label_ux" formatted="false">ປະສົບການຂອງຜູ້ໃຊ້</string>
+    <string name="label_best_for" formatted="false">ດີທີ່ສຸດສໍາລັບ</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification ແມ່ນໂຄງການຂອງ Google ທີ່ເຊື່ອມຕໍ່ທຸກແອັບຯກັບຕົວຕົນຂອງນັກພັດທະນາທີ່ຢືນຢັນແລ້ວ ກ່ອນທີ່ມັນຈະຕິດຕັ້ງຢູ່ໃນອຸປະກອນ Android ທີ່ໄດ້ຮັບການຮັບຮອງ. ນັກພັດທະນາຕ້ອງກວດສອບວ່າພວກເຂົາແມ່ນໃຜແລະລົງທະບຽນຊື່ແພັກເກັດທີ່ພວກເຂົາເຜີຍແຜ່. ແອັບທີ່ບໍ່ມີການລົງທະບຽນ, ຜູ້ພັດທະນາທີ່ຢັ້ງຢືນແລ້ວບໍ່ສາມາດຖືກຕິດຕັ້ງແບບປົກກະຕິໄດ້ອີກເມື່ອການປົກປ້ອງອອກມາ.</string>
+    <string name="rollout_what_it_means" formatted="false">ມັນຍາກທີ່ສຸດໃນການແຈກຢາຍເອກະລາດ ແລະແຫຼ່ງເປີດເຊັ່ນ F-Droid, ດາວໂຫຼດ APK ໂດຍກົງ ແລະໂຄງການອະດິເລກ. Google ກ່າວວ່າມັນແມ່ນກ່ຽວກັບຄວາມປອດໄພແລະການຢຸດເຊົາ malware ທີ່ບໍ່ເປີດເຜີຍຊື່. ນັກວິຈານລວມທັງແຄມເປນ Keep Android Open, F-Droid ແລະ EFF ກ່າວວ່າມັນເປັນການປິດປະຕູ: ການລົງທະບຽນສູນກາງ, ID ຂອງລັດຖະບານ, ຄ່າບໍລິການ, ແລະການຄວບຄຸມຢ່າງເຕັມທີ່ກ່ຽວກັບສິ່ງທີ່ອຸປະກອນຂອງທ່ານໄດ້ຮັບອະນຸຍາດໃຫ້ໄວ້ວາງໃຈ.</string>
+    <string name="rollout_advanced_note" formatted="false">ການໄຫຼເຂົ້າຂັ້ນສູງແມ່ນສົ່ງຜ່ານບໍລິການ Google Play, ບໍ່ແມ່ນ Android OS, ດັ່ງນັ້ນ Google ສາມາດປ່ຽນແປງ, ຈຳກັດ ຫຼືລຶບມັນອອກໄດ້ທຸກເວລາໂດຍບໍ່ມີການອັບເດດ OS ຫຼືການຍິນຍອມຂອງຜູ້ໃຊ້. ຄວາມລ່າຊ້າ 24 ຊົ່ວໂມງແມ່ນເປັນການລົບກວນໂດຍເຈດຕະນາ ແລະເປັນອີກບາດກ້າວໜຶ່ງທີ່ຢືນຢູ່ລະຫວ່າງຕົວທ່ານກັບຊອບແວທີ່ທ່ານເລືອກແລ່ນ.</string>
+    <string-array name="timeline_dates">
+        <item>ວັນທີ 25 ສິງຫາ 2025</item>
+        <item>ວັນທີ 19 ມີນາ 2026</item>
+        <item>ເດືອນມິຖຸນາ 2026</item>
+        <item>ວັນທີ 18 ມິຖຸນາ 2026</item>
+        <item>ກໍລະກົດ 2026</item>
+        <item>ສິງຫາ 2026</item>
+        <item>ວັນທີ 30 ກັນຍາ 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>ໂຄງການໄດ້ຖືກປະກາດ</item>
+        <item>\"ການໄຫຼເຂົ້າຂັ້ນສູງ\" ຖືກເປີດເຜີຍ</item>
+        <item>Android Developer Verifier ສົ່ງໄປໃຫ້ອຸປະກອນ</item>
+        <item>ຢືນຢັນການເປີດຕົວໃນເບື້ອງຕົ້ນ</item>
+        <item>Developer APIs ເປີດຂຶ້ນ</item>
+        <item>Global console, ບັນຊີຈໍາກັດ, ການໄຫຼເຂົ້າຂັ້ນສູງ</item>
+        <item>ການບັງຄັບໃຊ້ເລີ່ມຕົ້ນໃນສີ່ປະເທດ</item>
+        <item>ເປີດຕົວທົ່ວໂລກ</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>ກູໂກປະກາດວ່າເລີ່ມຕົ້ນໃນປີ 2027, ແອັບຯສໍາລັບ Android ຕ້ອງໄດ້ຮັບການລົງທະບຽນກັບຜູ້ພັດທະນາທີ່ໄດ້ຮັບການຢັ້ງຢືນ, ລວມທັງແອັບຯທີ່ຕິດຕັ້ງຢູ່ນອກ Google Play.</item>
+        <item>ຜູ້ໃຊ້ພະລັງງານໄດ້ຮັບການຫລົບຫນີທີ່ຫຍຸ້ງຍາກໂດຍເຈດຕະນາ: ເປີດໃຊ້ຕົວເລືອກນັກພັດທະນາ, ຢືນຢັນວ່າທ່ານບໍ່ໄດ້ຖືກບີບບັງຄັບ, ເລີ່ມຕົ້ນໃຫມ່, ຫຼັງຈາກນັ້ນລໍຖ້າ 24 ຊົ່ວໂມງກ່ອນທີ່ທ່ານຈະອະນຸຍາດໃຫ້ຕິດຕັ້ງທີ່ບໍ່ໄດ້ຢືນຢັນ.</item>
+        <item>ບໍລິການລະບົບພື້ນຫຼັງ (com.google.android.verifier) ​​ຈະຖືກສົ່ງຜ່ານການອັບເດດລະບົບ Google ໄປຫາອຸປະກອນທີ່ໄດ້ຮັບການຮັບຮອງ ແລະຈະຢູ່ຊື່ໆຈົນກວ່າຈະມີຜົນບັງຄັບໃຊ້.</item>
+        <item>Google ຢືນຢັນການບັງຄັບໃຊ້ເລີ່ມແຕ່ວັນທີ 30 ກັນຍາ 2026, ໃນທົ່ວ 7 ຮ້ານ ແລະ 4 ປະເທດ.</item>
+        <item>API ສະຖານະ ID ນັກພັດທະນາ Android ເປີດຕົວທົ່ວໂລກ ແລະການເຂົ້າເຖິງເບື້ອງຕົ້ນເລີ່ມຕົ້ນສໍາລັບ Android Developer Console API ແລະບັນຊີການແຈກຢາຍທີ່ຈຳກັດ.</item>
+        <item>ບັນຊີການແຈກຢາຍແບບຈຳກັດ (ຟຣີ, ສູງສຸດ 20 ອຸປະກອນ, ບໍ່ມີ ID ຂອງລັດຖະບານ) ແລະ Console API ເປີດຕົວທົ່ວໂລກ. ການໄຫຼເຂົ້າຂັ້ນສູງສຳລັບການໂຫຼດດ້ານຂ້າງທີ່ບໍ່ໄດ້ຮັບການຢືນຢັນຈະເລີ່ມອອກມາ.</item>
+        <item>ການປົກປ້ອງສາມາດໃຊ້ໄດ້ກັບຜູ້ໃຊ້ໃນປະເທດບຣາຊິນ, ອິນໂດເນເຊຍ, ສິງກະໂປ ແລະ ໄທ ໃນອຸປະກອນທີ່ໄດ້ຮັບການຮັບຮອງທີ່ໃຊ້ Android 7+. ແອັບຈາກຜູ້ພັດທະນາທີ່ບໍ່ໄດ້ຮັບການຢັ້ງຢືນຈະຖືກບລັອກຢູ່ໃນຮ້ານຄ້າທີ່ເຂົ້າຮ່ວມ: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore ແລະ GetApps.</item>
+        <item>ການຢັ້ງຢືນແມ່ນຂະຫຍາຍໄປທຸກແອັບ ແລະ ພາກພື້ນ. ໃຫ້ Android Open ນັບລົງໄປຮອດວັນທີ 1 ມັງກອນ 2027, ເມື່ອ Android ກາຍເປັນແພລດຟອມທີ່ຖືກລັອກ.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>ການແຜ່ກະຈາຍເຕັມ</item>
+        <item>ການແຜ່ກະຈາຍຈໍາກັດ</item>
+        <item>ການໂຫຼດແອັບທີ່ບໍ່ໄດ້ລົງທະບຽນຂ້າງຄຽງ</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>ແມ່ນ — ບັດປະຈຳຕົວຂອງລັດຖະບານ ແລະຄ່າທຳນຽມ</item>
+        <item>ບໍ່ — ບໍ່ມີ ID ຫຼືຄ່າລົງທະບຽນ</item>
+        <item>ບໍ່ — ແຕ່ friction ສູງ</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>ຮ້ານຄ້າຫຼືຊ່ອງທາງໃດກໍ່ຕາມທີ່ທ່ານເລືອກ</item>
+        <item>ສູງເຖິງ 20 ອຸປະກອນຜ່ານລະຫັດ QR ຫຼືການຈັບມືກັນ</item>
+        <item>ADB (ຍົກເວັ້ນ) ຫຼືການໄຫຼເຂົ້າຂັ້ນສູງ</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>ບໍ່ມີຫຍັງປ່ຽນແປງສໍາລັບຜູ້ໃຊ້ຂອງທ່ານ</item>
+        <item>ຜູ້ໃຊ້ຍອມຮັບການເຊີນຕິດຕັ້ງຈາກນັກພັດທະນາທີ່ພວກເຂົາຮູ້ຈັກ</item>
+        <item>ຕົວເລືອກນັກພັດທະນາ, ຣີສະຕາດ, ລໍຖ້າ 24 ຊົ່ວໂມງ, ຈາກນັ້ນຕິດຕັ້ງຕໍ່ໄປ</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>ອົງການຈັດຕັ້ງແລະນັກພັດທະນາມືອາຊີບ</item>
+        <item>ນັກສຶກສາ, hobbyists ແລະການນໍາໃຊ້ສ່ວນບຸກຄົນ</item>
+        <item>ຜູ້ພັດທະນາທີ່ບໍ່ໄດ້ຮັບການຢັ້ງຢືນ ແລະຜູ້ໃຊ້ພະລັງງານ</item>
+    </string-array>
+    <string name="act_title" formatted="false">ປະ​ຕິ​ບັດ​ດຽວ​ນີ້ — ເຮັດ​ໃຫ້​ສຽງ​ຂອງ​ທ່ານ​ໄດ້​ຍິນ​</string>
+    <string name="act_intro">ຜູ້ຄວບຄຸມຕ້ອງການໄດ້ຍິນຈາກບຸກຄົນທີ່ໄດ້ຮັບຜົນກະທົບ. ມີຄວາມສຸພາບ ແລະສະເພາະເຈາະຈົງ, ຂຽນເປັນພາສາທາງການຂອງຮ່າງກາຍທີ່ທ່ານຕິດຕໍ່, ຂໍການຮັບຮູ້ເປັນລາຍລັກອັກສອນ ແລະຄັດລອກ %1$s ເພື່ອໃຫ້ແຄມເປນສາມາດຕິດຕາມໄຊຊະນະໄດ້.</string>
+    <string name="act_open_composer" formatted="false">ເປີດຕົວຂຽນອີເມວ</string>
+    <string name="act_copy" formatted="false">ສຳເນົາ</string>
+    <string name="act_share" formatted="false">ແບ່ງປັນ</string>
+    <string name="act_clipboard_label" formatted="false">ຮັກສາຈົດໝາຍເປີດ Android</string>
+    <string name="act_us_title" formatted="false">ສະຫະລັດ — ສົ່ງອີເມວຫາລັດຖະບານ</string>
+    <string name="act_us_intro" formatted="false">ພະແນກຍຸຕິທໍາແລະ FTC ເອົາບົດລາຍງານຕ້ານການໄວ້ວາງໃຈໂດຍຜ່ານແບບຟອມອອນໄລນ໌. ໃຊ້ພວກມັນ, ແລະຕິດຕໍ່ຜູ້ຕາງຫນ້າຂອງທ່ານແລະສະມາຊິກວຽງຈັນຝົນໂດຍກົງ.</string>
+    <string name="act_world_title" formatted="false">ຢູ່ບ່ອນອື່ນໃນໂລກ</string>
+    <string name="act_groups_title" formatted="false">ກຸ່ມສິດທິຂອງຜູ້ບໍລິໂພກ ແລະດິຈິຕອນ</string>
+    <string name="act_more_title" formatted="false">ວິທີການເພີ່ມເຕີມເພື່ອຊ່ວຍ</string>
+    <string name="act_more_body" formatted="false">• ຕິດຕັ້ງ F-Droid ໃນອຸປະກອນຂອງທ່ານ.\n• ຕອບແບບສຳຫຼວດການຢັ້ງຢືນນັກພັດທະນາຂອງ Google.\n• ປະກາດໃນສື່ສັງຄົມ ແລະເຊື່ອມຕໍ່ກັບ Keepandroidopen.org.\n• ລົງນາມໃນຄໍາຮ້ອງຟ້ອງ change.org.\n•ເພີ່ມປ້າຍໂຄສະນານັບຖອຍຫຼັງໃສ່ເວັບໄຊທ໌ຂອງທ່ານ.</string>
+    <string name="act_all_actions" formatted="false">ການກະທຳທັງໝົດຢູ່ keepandroidopen.org</string>
+    <string name="action_email" formatted="false">ອີເມວ</string>
+    <string name="action_open" formatted="false">ເປີດ</string>
+    <string-array name="us_contact_regions">
+        <item>ສະຫະລັດ</item>
+        <item>ສະຫະລັດ</item>
+        <item>ສະຫະລັດ</item>
+        <item>ສະຫະລັດ</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>ກະ​ຊວງ​ຍຸ​ຕິ​ທໍາ​ຂອງ​ສະ​ຫະ​ລັດ - ພະ​ແນກ Antitrust​</item>
+        <item>ຄະນະກຳມາທິການການຄ້າຂອງລັດຖະບານກາງສະຫະລັດ - ຕ້ານຄວາມໄວ້ວາງໃຈ</item>
+        <item>ຊອກຫາຜູ້ຕາງຫນ້າສະພາຂອງທ່ານ</item>
+        <item>ຕິດຕໍ່ສະມາຊິກສະພາສູງສະຫະລັດຂອງທ່ານ</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>ສົ່ງບົດລາຍງານຕ້ານການໄວ້ວາງໃຈທາງອອນລາຍ.</item>
+        <item>ຍື່ນຄໍາຮ້ອງຮຽນຕ້ານການໄວ້ວາງໃຈ.</item>
+        <item>ຕິດຕໍ່ຜູ້ຕາງຫນ້າຂອງທ່ານໃນສະພາສະຫະລັດ.</item>
+        <item>ຊອກຫາ ແລະຕິດຕໍ່ສະມາຊິກວຽງຈັນຝົນຂອງລັດທັງສອງ.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>ສະຫະພາບເອີຣົບ</item>
+        <item>ສະຫະພາບເອີຣົບ</item>
+        <item>ສະຫະລາຊະອານາຈັກ</item>
+        <item>ບຣາຊິນ</item>
+        <item>ສິງກະໂປ</item>
+        <item>ປະເທດໄທ</item>
+        <item>ອິນໂດເນເຊຍ</item>
+        <item>ອອສເຕຣເລຍ</item>
+        <item>ການາດາ</item>
+        <item>ປະເທດອິນເດຍ</item>
+        <item>ຍີ່ປຸ່ນ</item>
+        <item>ເກົາຫຼີ</item>
+        <item>ເມັກຊິໂກ</item>
+        <item>Aotearoa / ນິວຊີແລນ</item>
+        <item>ໄຕ້ຫວັນ</item>
+        <item>ສະວິດເຊີແລນ</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU Antitrust (DG COMP)</item>
+        <item>ທີມງານກົດຫມາຍວ່າດ້ວຍການຕະຫຼາດດິຈິຕອນ</item>
+        <item>ອຳນາດການແຂ່ງຂັນ ແລະການຕະຫຼາດ</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>ຄະນະກໍາມະການແຂ່ງຂັນການຄ້າ (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>ຫ້ອງການແຂ່ງຂັນການາດາ</item>
+        <item>ຄະ​ນະ​ກໍາ​ມະ​ການ​ແຂ່ງ​ຂັນ​ຂອງ​ອິນ​ເດຍ​</item>
+        <item>ຄະ​ນະ​ກໍາ​ມະ​ການ​ຄ້າ​ຍຸ​ຕິ​ທໍາ​ຍີ່​ປຸ່ນ​</item>
+        <item>ຄະ​ນະ​ກໍາ​ມະ​ການ​ຄ້າ​ຍຸດ​ຕິ​ທໍາ​ເກົາ​ຫຼີ​</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>ຄະນະກໍາມະການການຄ້າ</item>
+        <item>ຄະນະກໍາມະການການຄ້າຍຸດຕິທໍາ</item>
+        <item>ຄະນະກໍາມະການແຂ່ງຂັນ (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>ສົ່ງອີເມວຫາອຳນາດການແຂ່ງຂັນຂອງຄະນະກຳມາທິການເອີຣົບ.</item>
+        <item>ຕິດຕໍ່ຝ່າຍຊ່ວຍເຫຼືອພົນລະເມືອງ EU DMA.</item>
+        <item>ລາຍງານຕໍ່ CMA ຂອງອັງກິດ.</item>
+        <item>Brazil ແມ່ນຢູ່ໃນຄື້ນທໍາອິດບັງຄັບໃຊ້.</item>
+        <item>ສິງກະ​ໂປ​ແມ່ນ​ຢູ່​ໃນ​ຂະ​ບວນການ​ບັງຄັບ​ໃຊ້​ຄັ້ງ​ທຳ​ອິດ.</item>
+        <item>ປະ​ເທດ​ໄທ​ແມ່ນ​ຢູ່​ໃນ​ຄື້ນ​ການ​ບັງ​ຄັບ​ໃຊ້​ຄັ້ງ​ທໍາ​ອິດ​.</item>
+        <item>ອິນໂດເນເຊຍແມ່ນຢູ່ໃນຄື້ນທໍາອິດບັງຄັບໃຊ້.</item>
+        <item>ລາຍງານຕໍ່ຄະນະກໍາມະການແຂ່ງຂັນ ແລະຜູ້ບໍລິໂພກຂອງອົດສະຕຣາລີ.</item>
+        <item>ຍື່ນຄໍາຮ້ອງທຸກກັບສໍານັກງານແຂ່ງຂັນ.</item>
+        <item>ຕິດຕໍ່ CCI ກ່ຽວກັບການປະພຶດຕໍ່ຕ້ານການແຂ່ງຂັນ.</item>
+        <item>ຕິດຕໍ່ JFTC / Mobile Software Competition Act desk.</item>
+        <item>ຕິດຕໍ່ KFTC.</item>
+        <item>ຍື່ນຄໍາຮ້ອງຮຽນຕ້ານການໄວ້ວາງໃຈໃນເມັກຊິໂກ.</item>
+        <item>ລາຍງານການປະພຶດຕ້ານການແຂ່ງຂັນ.</item>
+        <item>ຕິດຕໍ່ໄຕ້ຫວັນ FTC.</item>
+        <item>ລາຍງານການປະຕິບັດທີ່ຜິດກົດໝາຍ.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>ທົ່ວໂລກ</item>
+        <item>ທົ່ວໂລກ</item>
+        <item>ເອີຣົບ</item>
+        <item>ເອີຣົບ</item>
+        <item>ທົ່ວໂລກ</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>ມູນນິທິ Electronic Frontier</item>
+        <item>ມູນນິທິຊອບແວຟຣີ</item>
+        <item>Free Software Foundation Europe</item>
+        <item>ສິດທິດິຈິຕອນເອີຣົບ (EDRi)</item>
+        <item>ການອະນຸລັກເສລີພາບຂອງຊອບແວ</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>App gatekeeping ແລະການ censorship ອິນເຕີເນັດ.</item>
+        <item>ສິດເສລີພາບໃນຊອບແວ ແລະການຄວບຄຸມຜູ້ໃຊ້.</item>
+        <item>ສິດເສລີພາບດ້ານຊອບແວໃນເອີຣົບ.</item>
+        <item>ການສົ່ງເສີມສິດທິດິຈິຕອນ.</item>
+        <item>ຊອບແວຟຣີຂັບເຄື່ອນໂດຍຊຸມຊົນ.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">ລັດຖະບານຂອງຂ້ອຍ</string>
+    <string name="letter_subject" formatted="false">ຢຸດການລັອກການຢືນຢັນນັກພັດທະນາ Android ຂອງ Google</string>
+    <string name="letter_template">ເຖິງຕົວແທນ %1$s ທີ່ຮັກແພງ,\n\nຂ້ອຍກໍາລັງຂຽນເປັນຜູ້ໃຊ້ Android ທີ່ກ່ຽວຂ້ອງແລະເປັນພົນລະເມືອງຢູ່ໃນເຂດປົກຄອງຂອງເຈົ້າ.\n\nໂຄງການຢັ້ງຢືນນັກພັດທະນາ Android ຂອງ Google, ບັງຄັບໃຊ້ຕັ້ງແຕ່ວັນທີ 30 ກັນຍາ 2026 ໃນຫຼາຍຕະຫຼາດ ແລະຂະຫຍາຍໄປທົ່ວໂລກໃນປີ 2027, ຈະຮຽກຮ້ອງໃຫ້ທຸກແອັບ Android ລົງທະບຽນກັບຜູ້ພັດທະນາທີ່ຜ່ານການຢັ້ງຢືນຈາກສູນກາງກ່ອນທີ່ມັນຈະຕິດຕັ້ງຢູ່ໃນອຸປະກອນທີ່ໄດ້ຮັບການຮັບຮອງ. ນັກພັດທະນາຕ້ອງສົ່ງການລະບຸຕົວຕົນຂອງລັດຖະບານ, ຕົກລົງເຫັນດີກັບເງື່ອນໄຂຂອງ Google, ຈ່າຍຄ່າບໍລິການແລະລາຍຊື່ທຸກຕົວລະບຸແອັບຯໃນປະຈຸບັນແລະໃນອະນາຄົດ.\n\nນີ້ບໍ່ໄດ້ຫມາຍຄວາມວ່າການປັບປຸງຄວາມປອດໄພ. ມັນມອບໃຫ້ບໍລິສັດເອກະຊົນດຽວມີອໍານາດໃນການຕັດສິນໃຈວ່າຊອບແວທີ່ຄົນໄດ້ຮັບອະນຸຍາດໃຫ້ແລ່ນໃນອຸປະກອນທີ່ເຂົາເຈົ້າເປັນເຈົ້າຂອງ, ແລະມັນຂົ່ມຂູ່ການແຈກຢາຍເອກະລາດແລະແຫຼ່ງເປີດເຊັ່ນ F-Droid, ເຊິ່ງບໍ່ສາມາດປະຕິບັດຕາມແລະອາດຈະຢຸດເຊົາ.\n\nຂ້າ​ພະ​ເຈົ້າ​ຂໍ​ຄວາມ​ນັບ​ຖື​ວ່າ​:\n\n1. ສືບສວນວ່າໂຄງການນີ້ແມ່ນຕ້ານການແຂ່ງຂັນແລະເຮັດໃຫ້ເກີດການລ່ວງລະເມີດຕໍາແຫນ່ງຜູ້ຮັກສາປະຕູ.\n2. ກົດ Google ເພື່ອຍົກເວັ້ນການແຈກຢາຍແຫຼ່ງເປີດແລະບໍ່ແມ່ນການຄ້າ, ແລະເພື່ອຮັກສາການໂຫຼດດ້ານຂ້າງໂດຍບໍ່ເສຍຄ່າຈາກການລົງທະບຽນສູນກາງ.\n3. ປົກປ້ອງສິດຂອງຜູ້ໃຊ້ໃນການດໍາເນີນການຊອບແວທີ່ເຂົາເຈົ້າເລືອກໃນຮາດແວທີ່ເຂົາເຈົ້າຊື້.\n\nກະລຸນາຮັບຮູ້ຂໍ້ຄວາມນີ້ເປັນລາຍລັກອັກສອນ ແລະບອກໃຫ້ຂ້ອຍຮູ້ວ່າຫ້ອງການຂອງເຈົ້າປະຕິບັດແນວໃດ.\n\nຂ້ອຍກຳລັງສຳເນົາແຄມເປນ Keep Android Open ຢູ່ %2$s.\n\nດ້ວຍຄວາມນັບຖື,\n[ຊື່ຂອງເຈົ້າ]\n[ເມືອງ​ແລະ​ປະ​ເທດ​ຂອງ​ທ່ານ​]</string>
+    <string name="toast_no_app" formatted="false">ບໍ່ມີແອັບໃດສາມາດເປີດລິ້ງນີ້ໄດ້</string>
+    <string name="toast_no_email" formatted="false">ບໍ່ມີແອັບຯອີເມວຖືກຕິດຕັ້ງ</string>
+    <string name="chooser_send_email" formatted="false">ສົ່ງອີເມວ</string>
+    <string name="chooser_share" formatted="false">ແບ່ງປັນ</string>
+    <string name="toast_copied" formatted="false">ສຳເນົາໃສ່ຄລິບບອດແລ້ວ</string>
+    <string name="settings_title" formatted="false">ການຕັ້ງຄ່າ</string>
+    <string name="settings_language_title" formatted="false">ພາສາແອັບ</string>
+    <string name="settings_language_summary" formatted="false">ເລືອກພາສາທີ່ໃຊ້ໂດຍແອັບຯ. ທ່ານຍັງສາມາດປ່ຽນມັນໄດ້ຈາກການຕັ້ງຄ່າອຸປະກອນຂອງທ່ານ.</string>
+    <string name="settings_system_default" formatted="false">ຄ່າເລີ່ມຕົ້ນຂອງລະບົບ</string>
+    <string name="settings_language_search" formatted="false">ຊອກຫາພາສາ</string>
+    <string name="settings_theme_title" formatted="false">ຫົວຂໍ້</string>
+    <string name="settings_theme_summary" formatted="false">ເລືອກວິທີເບິ່ງແອັບ.</string>
+    <string name="theme_system" formatted="false">ປະຕິບັດຕາມລະບົບ</string>
+    <string name="theme_light" formatted="false">ແສງສະຫວ່າງ</string>
+    <string name="theme_dark" formatted="false">ມືດ</string>
+    <string name="theme_amoled" formatted="false">AMOLED (ສີດໍາບໍລິສຸດ)</string>
+    <string name="settings_accent_title" formatted="false">ສີສຳນຽງ</string>
+    <string name="settings_accent_summary" formatted="false">ເລືອກສີໄຮໄລ້ທີ່ໃຊ້ໃນທົ່ວແອັບ.</string>
+    <string name="accent_default" formatted="false">ຄ່າເລີ່ມຕົ້ນ (ແຄມເປນສີແດງ)</string>
+    <string name="accent_red" formatted="false">ສີແດງ</string>
+    <string name="accent_orange" formatted="false">ສີສົ້ມ</string>
+    <string name="accent_yellow" formatted="false">ສີເຫຼືອງ</string>
+    <string name="accent_green" formatted="false">ສີຂຽວ</string>
+    <string name="accent_teal" formatted="false">ສີນ້ຳຕານ</string>
+    <string name="accent_blue" formatted="false">ສີຟ້າ</string>
+    <string name="accent_purple" formatted="false">ສີມ່ວງ</string>
+    <string name="accent_pink" formatted="false">ສີບົວ</string>
+    <string name="settings_colorblendr_warning" formatted="false">ແຈ້ງເຕືອນ: ຖ້າ ColorBlendr ຫຼືອຸປະກອນອື່ນທີ່ທ່ານຂຽນທັບມີການເຄື່ອນໄຫວ, ສີສຳນຽງຂອງທ່ານອາດຈະບໍ່ນຳໃຊ້ຈົນກວ່າທ່ານຈະປິດໃຊ້ງານມັນ.</string>
+    <string name="settings_about_title" formatted="false">ກ່ຽວກັບ</string>
+    <string name="settings_version">ລຸ້ນ %1$s</string>
+    <string name="settings_open_source" formatted="false">ແຫຼ່ງເປີດ (MIT). ບໍ່ກ່ຽວຂ້ອງກັບ ຫຼືຮັບຮອງໂດຍແຄມເປນ Keep Android Open ຢ່າງເປັນທາງການ.</string>
+</resources>

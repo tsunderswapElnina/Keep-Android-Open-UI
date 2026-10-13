@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Numărătoare inversă</string>
+    <string name="tab_rollout" formatted="false">Lansarea</string>
+    <string name="tab_act_now" formatted="false">Acționează acum</string>
+    <string name="cd_open_site" formatted="false">Deschideți keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Setări</string>
+    <string name="cd_back" formatted="false">Spate</string>
+    <string name="countdown_campaign" formatted="false">Numărătoare inversă pentru campanie</string>
+    <string name="countdown_elapsed" formatted="false">Timpul scurs de când campania a devenit publică spre 1 ianuarie 2027.</string>
+    <string name="countdown_what_means" formatted="false">Ce înseamnă numărătoarea inversă</string>
+    <string name="countdown_read_faq" formatted="false">Citiți întrebările frecvente</string>
+    <string name="countdown_campaign_btn" formatted="false">Campania</string>
+    <string name="countdown_footnote" formatted="false">Ținta numărătoarea inversă se potrivește cu bannerul publicat pe keepandroidopen.org. Aplicația se actualizează o dată pe secundă când este deschisă.</string>
+    <string name="countdown_expired" formatted="false">ANDROID ESTE ACUM O PLATFORMĂ BLOCATĂ</string>
+    <string name="countdown_running" formatted="false">ANDROID DEVINE O PLATFORMĂ BLOCATĂ ÎN</string>
+    <string name="unit_days" formatted="false">zile</string>
+    <string name="unit_hours" formatted="false">ore</string>
+    <string name="unit_minutes" formatted="false">minute</string>
+    <string name="unit_seconds" formatted="false">secunde</string>
+    <string name="rollout_title" formatted="false">Ce este Android Developer Verification?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Ce înseamnă cu adevărat</string>
+    <string name="rollout_timeline_title" formatted="false">Cronologia lansării</string>
+    <string name="rollout_paths_title" formatted="false">Alegeți calea de verificare</string>
+    <string name="rollout_advanced_title" formatted="false">„Fluxul avansat” nu este o soluție</string>
+    <string name="rollout_dev_page" formatted="false">Pagina oficială pentru dezvoltatori Google</string>
+    <string name="rollout_open_letter" formatted="false">Citiți scrisoarea deschisă</string>
+    <string name="label_identity" formatted="false">Identitate</string>
+    <string name="label_distribution" formatted="false">Distributie</string>
+    <string name="label_ux" formatted="false">Experiența utilizatorului</string>
+    <string name="label_best_for" formatted="false">Cel mai bun pentru</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification este un program Google care leagă fiecare aplicație la o identitate de dezvoltator verificată înainte de a putea fi instalată pe dispozitive Android certificate. Dezvoltatorii trebuie să verifice cine sunt și să înregistreze numele pachetelor pe care le publică. Aplicațiile fără un dezvoltator înregistrat și verificat nu mai pot fi instalate în mod obișnuit odată ce protecția este lansată.</string>
+    <string name="rollout_what_it_means" formatted="false">Cel mai greu aterizează pe distribuția independentă și open-source, cum ar fi F-Droid, descărcări directe APK și proiecte de hobby. Google spune că este vorba despre siguranță și oprirea programelor malware anonime. Criticii, inclusiv campania Keep Android Open, F-Droid și EFF spun că este un kill switch-ul de control: înregistrare centrală, ID guvernamental, o taxă și control deplin asupra în care dispozitivul tău are încredere.</string>
+    <string name="rollout_advanced_note" formatted="false">Fluxul avansat este furnizat prin serviciile Google Play, nu prin sistemul de operare Android, astfel încât Google îl poate modifica, restricționa sau elimina oricând fără o actualizare a sistemului de operare sau consimțământul utilizatorului. Întârzierea de 24 de ore este în mod intenționat perturbatoare și este încă un pas care se află între dvs. și software-ul pe care alegeți să îl rulați.</string>
+    <string-array name="timeline_dates">
+        <item>25 august 2025</item>
+        <item>19 martie 2026</item>
+        <item>iunie 2026</item>
+        <item>18 iunie 2026</item>
+        <item>iulie 2026</item>
+        <item>august 2026</item>
+        <item>30 septembrie 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Programul este anunțat</item>
+        <item>„Fluxul avansat” este dezvăluit</item>
+        <item>Android Developer Verifier este livrat pe dispozitive</item>
+        <item>Lansarea inițială a fost confirmată</item>
+        <item>Se deschid API-urile pentru dezvoltatori</item>
+        <item>Consolă globală, conturi limitate, flux avansat</item>
+        <item>Aplicarea legii începe în patru țări</item>
+        <item>Lansare globală</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google anunță că începând cu 2027, aplicațiile pentru Android trebuie să fie înregistrate la un dezvoltator verificat, inclusiv aplicațiile instalate în afara Google Play.</item>
+        <item>Utilizatorii cu putere primesc o trapă de evadare în mod deliberat greoaie: activați Opțiuni pentru dezvoltatori, confirmați că nu sunteți constrâns, reporniți, apoi așteptați 24 de ore înainte de a permite instalările neverificate.</item>
+        <item>Un serviciu de sistem de fundal (com.google.android.verifier) ​​este transmis prin Actualizările de sistem Google către dispozitivele certificate și rămâne inactiv până la aplicare.</item>
+        <item>Google confirmă că aplicarea începe la 30 septembrie 2026, în șapte magazine și patru țări.</item>
+        <item>API-ul Android Developer ID Status se lansează la nivel global și începe accesul timpuriu pentru API-ul Android Developer Console și pentru conturile de distribuție limitată.</item>
+        <item>Conturile de distribuție limitate (gratuit, până la 20 de dispozitive, fără ID guvernamentală) și API-ul Console sunt lansate în întreaga lume. Fluxul avansat pentru încărcarea laterală neverificată începe să se desfășoare.</item>
+        <item>Protecțiile sunt disponibile pentru utilizatorii din Brazilia, Indonezia, Singapore și Thailanda pe dispozitivele certificate care rulează Android 7+. Aplicațiile de la dezvoltatori neverificați sunt blocate în magazinele participante: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore și GetApps.</item>
+        <item>Verificarea este extinsă la toate aplicațiile și regiunile. Păstrați Android Open numărătoarea inversă până la 1 ianuarie 2027, când Android devine o platformă blocată.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Distributie completa</item>
+        <item>Distribuție limitată</item>
+        <item>Încărcarea laterală a aplicațiilor neînregistrate</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Da — act de identitate guvernamental și o taxă</item>
+        <item>Nu — fără ID sau taxă de înregistrare</item>
+        <item>Nu, dar frecare mare</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Orice magazin sau canal pe care îl alegeți</item>
+        <item>Până la 20 de dispozitive prin cod QR sau strângere de mână prin link</item>
+        <item>ADB (exceptat) sau fluxul avansat</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Nu se schimbă nimic pentru utilizatorii dvs</item>
+        <item>Utilizatorii acceptă o invitație de instalare de la un dezvoltator pe care îl cunosc</item>
+        <item>Opțiuni pentru dezvoltatori, reporniți, așteptați 24 de ore, apoi instalați oricum</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Organizații și dezvoltatori profesioniști</item>
+        <item>Studenți, pasionați și uz personal</item>
+        <item>Dezvoltatori neverificați și utilizatori cu putere</item>
+    </string-array>
+    <string name="act_title" formatted="false">Acționează acum – fă-ți vocea auzită</string>
+    <string name="act_intro">Autoritățile de reglementare doresc să audă de la persoanele care sunt afectate. Fiți politicos și specific, scrieți într-o limbă oficială a organismului pe care îl contactați, solicitați o confirmare scrisă și copiați %1$s, astfel încât campania să poată urmări victoriile.</string>
+    <string name="act_open_composer" formatted="false">Deschideți compozitorul de e-mail</string>
+    <string name="act_copy" formatted="false">Copie</string>
+    <string name="act_share" formatted="false">Distribuie</string>
+    <string name="act_clipboard_label" formatted="false">Păstrați scrisoarea Android Open</string>
+    <string name="act_us_title" formatted="false">Statele Unite ale Americii - e-mail guvernului</string>
+    <string name="act_us_intro" formatted="false">Departamentul de Justiție și FTC preiau rapoartele antitrust prin formulare online. Folosiți-le și contactați-vă direct reprezentantul și senatorii.</string>
+    <string name="act_world_title" formatted="false">În altă parte în lume</string>
+    <string name="act_groups_title" formatted="false">Grupuri pentru drepturile consumatorilor și digitale</string>
+    <string name="act_more_title" formatted="false">Mai multe moduri de a ajuta</string>
+    <string name="act_more_body" formatted="false">• Instalați F-Droid pe dispozitivele dvs.\n• Răspundeți la sondajul Google de verificare a dezvoltatorilor.\n• Postați pe rețelele de socializare și trimiteți un link către keepandroidopen.org.\n• Semnați petiția change.org.\n• Adăugați bannerul de numărătoare inversă pe site-ul dvs. web.</string>
+    <string name="act_all_actions" formatted="false">Toate acțiunile la keepandroidopen.org</string>
+    <string name="action_email" formatted="false">E-mail</string>
+    <string name="action_open" formatted="false">Deschide</string>
+    <string-array name="us_contact_regions">
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+        <item>Statele Unite</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Departamentul de Justiție al SUA – Divizia Antitrust</item>
+        <item>Comisia Federală de Comerț din SUA – Antitrust</item>
+        <item>Găsește-ți reprezentantul Camerei</item>
+        <item>Contactați-vă senatorii americani</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Trimiteți un raport antitrust online.</item>
+        <item>Depuneți o plângere antitrust.</item>
+        <item>Contactați reprezentantul dvs. în Casa SUA.</item>
+        <item>Găsiți și contactați ambii senatori ai statului dvs.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Uniunea Europeană</item>
+        <item>Uniunea Europeană</item>
+        <item>Regatul Unit</item>
+        <item>Brazilia</item>
+        <item>Singapore</item>
+        <item>Tailanda</item>
+        <item>Indonezia</item>
+        <item>Australia</item>
+        <item>Canada</item>
+        <item>India</item>
+        <item>Japonia</item>
+        <item>Coreea de Sud</item>
+        <item>Mexic</item>
+        <item>Aotearoa / Noua Zeelandă</item>
+        <item>Taiwan</item>
+        <item>Elveţia</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>UE Antitrust (DG COMP)</item>
+        <item>Echipa Digital Markets Act</item>
+        <item>Autoritatea pentru Concurență și Piețe</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Comisia pentru Concurență în Comerț (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Biroul de Concurență din Canada</item>
+        <item>Comisia Concurenței din India</item>
+        <item>Comisia Japoniei pentru Comerț Echitabil</item>
+        <item>Comisia de comerț echitabil din Coreea</item>
+        <item>Comisia Națională Antimonopol</item>
+        <item>Comisia de Comerț</item>
+        <item>Comisia pentru comerț echitabil</item>
+        <item>Comisia de Concurență (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Trimiteți un e-mail autorității de concurență a Comisiei Europene.</item>
+        <item>Contactați biroul de asistență pentru cetățeni DMA al UE.</item>
+        <item>Raportați la CMA din Regatul Unit.</item>
+        <item>Brazilia se află în primul val de aplicare.</item>
+        <item>Singapore se află în primul val de aplicare.</item>
+        <item>Thailanda se află în primul val de aplicare.</item>
+        <item>Indonezia se află în primul val de aplicare.</item>
+        <item>Raportați către Comisia Australiană pentru Concurență și Consumatori.</item>
+        <item>Depuneți o plângere la Biroul Concurenței.</item>
+        <item>Contactați CCI în legătură cu comportamentul anticoncurențial.</item>
+        <item>Contactați biroul JFTC / Mobile Software Competition Act.</item>
+        <item>Contactați KFTC.</item>
+        <item>Depuneți o plângere antitrust în Mexic.</item>
+        <item>Raportați comportamentul anticoncurențial.</item>
+        <item>Contactați FTC din Taiwan.</item>
+        <item>Raportați practicile ilegale.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Global</item>
+        <item>Global</item>
+        <item>Europa</item>
+        <item>Europa</item>
+        <item>Global</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Foundation</item>
+        <item>Free Software Foundation</item>
+        <item>Free Software Foundation Europa</item>
+        <item>Drepturi digitale europene (EDRi)</item>
+        <item>Software Freedom Conservancy</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Pastrarea aplicației și cenzura internetului.</item>
+        <item>Libertate software și control utilizator.</item>
+        <item>Libertatea software-ului în Europa.</item>
+        <item>Advocacy pentru drepturile digitale.</item>
+        <item>Software gratuit condus de comunitate.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">guvernul meu</string>
+    <string name="letter_subject" formatted="false">Opriți blocarea Google Android Developer Verification</string>
+    <string name="letter_template">Stimate reprezentant %1$s,\n\nVă scriu ca utilizator Android îngrijorat și ca cetățean în jurisdicția dumneavoastră.\n\nProgramul Google de verificare a dezvoltatorilor Android, aplicat începând cu 30 septembrie 2026 pe mai multe piețe și extins la nivel global în 2027, va necesita ca fiecare aplicație Android să fie înregistrată la un dezvoltator verificat central înainte de a putea fi instalată pe dispozitive certificate. Dezvoltatorii trebuie să trimită o identificare guvernamentală, să accepte termenii Google, să plătească o taxă și să enumere fiecare identificator de aplicație actual și viitor.\n\nAcest lucru nu îmbunătățește în mod semnificativ securitatea. Oferă unei singure companii private puterea de a decide ce software li se permite oamenilor să ruleze pe dispozitivele pe care le dețin și amenință distribuția independentă și open-source, cum ar fi F-Droid, care nu se poate conforma și poate înceta să mai existe.\n\nCu respect te rog:\n\n1. Investigați dacă acest program este anticoncurențial și constituie un abuz de poziție de gatekeeper.\n2. Apăsați pe Google pentru a scuti distribuția cu sursă deschisă și non-comercială și pentru a menține încărcarea laterală fără înregistrarea centralizată.\n3. Protejați dreptul utilizatorilor de a rula software-ul pe care l-au ales pe hardware-ul achiziționat.\n\nVă rugăm să confirmați acest mesaj în scris și să-mi spuneți ce măsuri ia biroul dvs.\n\nDe asemenea, copiez campania Keep Android Open la %2$s.\n\nCu stimă,\n[Numele tău]\n[Orașul și țara dvs.]</string>
+    <string name="toast_no_app" formatted="false">Nicio aplicație nu poate deschide acest link</string>
+    <string name="toast_no_email" formatted="false">Nu este instalată nicio aplicație de e-mail</string>
+    <string name="chooser_send_email" formatted="false">Trimite e-mail</string>
+    <string name="chooser_share" formatted="false">Distribuie</string>
+    <string name="toast_copied" formatted="false">Copiat în clipboard</string>
+    <string name="settings_title" formatted="false">Setări</string>
+    <string name="settings_language_title" formatted="false">Limba aplicației</string>
+    <string name="settings_language_summary" formatted="false">Alegeți limba folosită de aplicație. De asemenea, îl puteți modifica din setările dispozitivului.</string>
+    <string name="settings_system_default" formatted="false">Implicit de sistem</string>
+    <string name="settings_language_search" formatted="false">Căutați limbi</string>
+    <string name="settings_theme_title" formatted="false">Temă</string>
+    <string name="settings_theme_summary" formatted="false">Alegeți cum arată aplicația.</string>
+    <string name="theme_system" formatted="false">Urmăriți sistemul</string>
+    <string name="theme_light" formatted="false">Aprinde</string>
+    <string name="theme_dark" formatted="false">Întuneric</string>
+    <string name="theme_amoled" formatted="false">AMOLED (negru pur)</string>
+    <string name="settings_accent_title" formatted="false">Culoare de accent</string>
+    <string name="settings_accent_summary" formatted="false">Alegeți culoarea de evidențiere folosită în aplicație.</string>
+    <string name="accent_default" formatted="false">Implicit (roșu campanie)</string>
+    <string name="accent_red" formatted="false">Roşu</string>
+    <string name="accent_orange" formatted="false">Portocale</string>
+    <string name="accent_yellow" formatted="false">Galben</string>
+    <string name="accent_green" formatted="false">Verde</string>
+    <string name="accent_teal" formatted="false">Teal</string>
+    <string name="accent_blue" formatted="false">Albastru</string>
+    <string name="accent_purple" formatted="false">Violet</string>
+    <string name="accent_pink" formatted="false">Roz</string>
+    <string name="settings_colorblendr_warning" formatted="false">Atenție: dacă ColorBlendr sau alt material pe care îl înlocuiți este activ, este posibil ca culoarea dvs. de accent să nu se aplice până când nu o dezactivați.</string>
+    <string name="settings_about_title" formatted="false">Despre</string>
+    <string name="settings_version">Versiunea %1$s</string>
+    <string name="settings_open_source" formatted="false">Sursă deschisă (MIT). Nu este afiliat sau susținut de campania oficială Keep Android Open.</string>
+</resources>

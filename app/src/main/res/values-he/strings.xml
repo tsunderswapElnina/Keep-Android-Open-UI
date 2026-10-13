@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">סְפִירָה לְאָחוֹר</string>
+    <string name="tab_rollout" formatted="false">הגלישה</string>
+    <string name="tab_act_now" formatted="false">פעל עכשיו</string>
+    <string name="cd_open_site" formatted="false">פתח את keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">הגדרות</string>
+    <string name="cd_back" formatted="false">בְּחֲזָרָה</string>
+    <string name="countdown_campaign" formatted="false">ספירה לאחור של הקמפיין</string>
+    <string name="countdown_elapsed" formatted="false">הזמן שחלף מאז פרסום הקמפיין לציבור לקראת 1 בינואר 2027.</string>
+    <string name="countdown_what_means" formatted="false">מה המשמעות של הספירה לאחור</string>
+    <string name="countdown_read_faq" formatted="false">קרא את השאלות הנפוצות</string>
+    <string name="countdown_campaign_btn" formatted="false">הקמפיין</string>
+    <string name="countdown_footnote" formatted="false">יעד הספירה לאחור תואם את הבאנר שפורסם ב-keepandroidopen.org. האפליקציה מתעדכנת פעם בשנייה כשהיא פתוחה.</string>
+    <string name="countdown_expired" formatted="false">אנדרואיד היא כעת פלטפורמה נעולה</string>
+    <string name="countdown_running" formatted="false">אנדרואיד הופכת לפלטפורמה ננעלת</string>
+    <string name="unit_days" formatted="false">ימים</string>
+    <string name="unit_hours" formatted="false">שעות</string>
+    <string name="unit_minutes" formatted="false">פּרוֹטוֹקוֹל</string>
+    <string name="unit_seconds" formatted="false">שניות</string>
+    <string name="rollout_title" formatted="false">מהו אימות מפתח אנדרואיד?</string>
+    <string name="rollout_what_it_means_title" formatted="false">מה זה אומר באמת</string>
+    <string name="rollout_timeline_title" formatted="false">ציר הזמן של ההפצה</string>
+    <string name="rollout_paths_title" formatted="false">בחר את נתיב האימות שלך</string>
+    <string name="rollout_advanced_title" formatted="false">\"הזרימה המתקדמת\" אינה פתרון</string>
+    <string name="rollout_dev_page" formatted="false">דף המפתחים הרשמי של גוגל</string>
+    <string name="rollout_open_letter" formatted="false">קרא את המכתב הפתוח</string>
+    <string name="label_identity" formatted="false">זֶהוּת</string>
+    <string name="label_distribution" formatted="false">הֲפָצָה</string>
+    <string name="label_ux" formatted="false">חווית משתמש</string>
+    <string name="label_best_for" formatted="false">הכי טוב עבור</string>
+    <string name="rollout_summary" formatted="false">אימות מפתחים של אנדרואיד היא תוכנית Google המקשרת כל אפליקציה לזהות מפתח מאומת לפני שניתן להתקין אותה במכשירי אנדרואיד מאושרים. על המפתחים לאמת מי הם ולרשום את שמות החבילות שהם מפרסמים. לא ניתן עוד להתקין אפליקציות ללא מפתח רשום ומאומת בדרך הרגילה לאחר שההגנות מתגלגלות.</string>
+    <string name="rollout_what_it_means" formatted="false">זה נוחת הכי קשה בהפצה עצמאית וקוד פתוח כמו F-Droid, הורדות APK ישירות ופרויקטים תחביבים. גוגל אומרת שזה קשור לבטיחות ולעצירת תוכנות זדוניות אנונימיות. מבקרים כולל מסע הפרסום Keep Android Open, F-Droid וה-EFF אומרים שזהו מתג הרג שומר סף: רישום מרכזי, תעודה מזהה ממשלתית, עמלה ושליטה מלאה על מה שהמכשיר שלך רשאי לסמוך עליו.</string>
+    <string name="rollout_advanced_note" formatted="false">הזרימה המתקדמת מועברת דרך שירותי Google Play, לא מערכת ההפעלה אנדרואיד, כך שגוגל יכולה לשנות, להגביל או להסיר אותה בכל עת ללא עדכון מערכת ההפעלה או הסכמת המשתמש. העיכוב של 24 שעות משבש בכוונה והוא עוד צעד שעומד בינך לבין תוכנה שתבחר להפעיל.</string>
+    <string-array name="timeline_dates">
+        <item>25 באוגוסט 2025</item>
+        <item>19 במרץ 2026</item>
+        <item>יוני 2026</item>
+        <item>18 ביוני 2026</item>
+        <item>יולי 2026</item>
+        <item>אוגוסט 2026</item>
+        <item>30 בספטמבר 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>התוכנית מוכרזת</item>
+        <item>\"הזרימה המתקדמת\" מתגלה</item>
+        <item>Android Developer Verifier נשלח למכשירים</item>
+        <item>ההשקה הראשונית אושרה</item>
+        <item>ממשקי API למפתחים נפתחים</item>
+        <item>קונסולה גלובלית, חשבונות מוגבלים, זרימה מתקדמת</item>
+        <item>האכיפה מתחילה בארבע מדינות</item>
+        <item>השקה גלובלית</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>גוגל מודיעה שהחל משנת 2027, יש לרשום אפליקציות לאנדרואיד למפתח מאומת, כולל אפליקציות המותקנות מחוץ ל-Google Play.</item>
+        <item>משתמשים חזקים מקבלים פתח מילוט מסורבל בכוונה: הפעל את אפשרויות המפתחים, אשר שלא כופה עליך, הפעל מחדש, ואז המתן 24 שעות לפני שאתה עשוי לאפשר התקנות לא מאומתות.</item>
+        <item>שירות מערכת רקע (com.google.android.verifier) ​​נדחף דרך עדכוני המערכת של Google למכשירים מאושרים ונשאר רדום עד לאכיפה.</item>
+        <item>גוגל מאשרת שהאכיפה מתחילה ב-30 בספטמבר 2026, בשבע חנויות ובארבע מדינות.</item>
+        <item>ה-Android Developer ID Status API מושק ברחבי העולם ומתחילה גישה מוקדמת עבור ה-Android Developer Console API וחשבונות הפצה מוגבלים.</item>
+        <item>חשבונות הפצה מוגבלים (חינם, עד 20 מכשירים, ללא מזהה ממשלתי) והשקת ה-API של Console ברחבי העולם. הזרימה המתקדמת להעמסת צד לא מאומתת מתחילה להתגלגל.</item>
+        <item>ההגנות יופעלו עבור משתמשים בברזיל, אינדונזיה, סינגפור ותאילנד במכשירים מאושרים עם Android 7+. אפליקציות ממפתחים לא מאומתים חסומות בחנויות המשתתפות: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore ו-GetApps.</item>
+        <item>האימות מורחב לכל האפליקציות והאזורים. Keep Android Open סופר לאחור עד 1 בינואר 2027, כאשר אנדרואיד הופך לפלטפורמה נעולה.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>הפצה מלאה</item>
+        <item>הפצה מוגבלת</item>
+        <item>טעינת צד של אפליקציות לא רשומות</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>כן - תעודה מזהה ממשלתית ותשלום</item>
+        <item>לא - ללא תעודת זהות או דמי רישום</item>
+        <item>לא - אבל חיכוך גבוה</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>כל חנות או ערוץ שתבחרו</item>
+        <item>עד 20 מכשירים באמצעות קוד QR או לחיצת יד קישור</item>
+        <item>ADB (פטור) או הזרימה המתקדמת</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>שום דבר לא משתנה עבור המשתמשים שלך</item>
+        <item>משתמשים מקבלים הזמנה להתקנה ממפתח שהם מכירים</item>
+        <item>אפשרויות מפתחים, הפעלה מחדש, המתנה של 24 שעות, ואז התקן בכל זאת</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>ארגונים ומפתחים מקצועיים</item>
+        <item>סטודנטים, חובבים ושימוש אישי</item>
+        <item>מפתחים לא מאומתים ומשתמשי כוח</item>
+    </string-array>
+    <string name="act_title" formatted="false">פעל עכשיו - השמיע את קולך</string>
+    <string name="act_intro">הרגולטורים רוצים לשמוע מאנשים שנפגעו. היו מנומסים וספציפיים, כתבו בשפה הרשמית של הגוף שאליו אתם פונים, בקשו אישור בכתב והעתיקו %1$s כדי שהקמפיין יוכל לעקוב אחר ניצחונות.</string>
+    <string name="act_open_composer" formatted="false">פתח את מחבר הדוא\"ל</string>
+    <string name="act_copy" formatted="false">לְהַעְתִיק</string>
+    <string name="act_share" formatted="false">לַחֲלוֹק</string>
+    <string name="act_clipboard_label" formatted="false">שמור על מכתב פתוח של Android</string>
+    <string name="act_us_title" formatted="false">ארצות הברית - שלח דוא\"ל לממשלה</string>
+    <string name="act_us_intro" formatted="false">משרד המשפטים וה-FTC מקבלים דוחות על הגבלים עסקיים באמצעות טפסים מקוונים. השתמש בהם, וצור קשר ישירות עם הנציג והסנטורים שלך.</string>
+    <string name="act_world_title" formatted="false">במקומות אחרים בעולם</string>
+    <string name="act_groups_title" formatted="false">קבוצות צרכנים וזכויות דיגיטליות</string>
+    <string name="act_more_title" formatted="false">דרכים נוספות לעזור</string>
+    <string name="act_more_body" formatted="false">• התקן את F-Droid במכשירים שלך.\n• ענה על סקר אימות המפתחים של גוגל.\n• פרסם במדיה חברתית וקישור ל-keepandroidopen.org.\n• חתמו על העצומה של change.org.\n• הוסף את הבאנר לספירה לאחור לאתר שלך.</string>
+    <string name="act_all_actions" formatted="false">כל הפעולות ב-keepandroidopen.org</string>
+    <string name="action_email" formatted="false">אֶלֶקטרוֹנִי</string>
+    <string name="action_open" formatted="false">לִפְתוֹחַ</string>
+    <string-array name="us_contact_regions">
+        <item>אַרצוֹת הַבְּרִית</item>
+        <item>אַרצוֹת הַבְּרִית</item>
+        <item>אַרצוֹת הַבְּרִית</item>
+        <item>אַרצוֹת הַבְּרִית</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>משרד המשפטים האמריקאי - אגף ההגבלים העסקיים</item>
+        <item>נציבות הסחר הפדרלית של ארה\"ב - הגבלים עסקיים</item>
+        <item>מצא את נציג הבית שלך</item>
+        <item>צור קשר עם הסנטורים שלך בארה\"ב</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>שלח דו\"ח הגבלים עסקיים באינטרנט.</item>
+        <item>הגש תלונה על הגבלים עסקיים.</item>
+        <item>צור קשר עם הנציג שלך בבית ארה\"ב.</item>
+        <item>מצא וצור קשר עם שני הסנאטורים של המדינה שלך.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>האיחוד האירופי</item>
+        <item>האיחוד האירופי</item>
+        <item>בְּרִיטַנִיָה</item>
+        <item>בְּרָזִיל</item>
+        <item>סינגפור</item>
+        <item>תאילנד</item>
+        <item>אִינדוֹנֵזִיָה</item>
+        <item>אוֹסטְרַלִיָה</item>
+        <item>קנדה</item>
+        <item>הוֹדוּ</item>
+        <item>יַפָּן</item>
+        <item>דרום קוריאה</item>
+        <item>מקסיקו</item>
+        <item>Aotearoa / ניו זילנד</item>
+        <item>טייוואן</item>
+        <item>שוויץ</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>הגבלים עסקיים באיחוד האירופי (DG COMP)</item>
+        <item>צוות חוק השווקים הדיגיטליים</item>
+        <item>רשות התחרות והשווקים</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>הוועדה לתחרות סחר (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>לשכת התחרות קנדה</item>
+        <item>ועדת התחרות של הודו</item>
+        <item>ועדת הסחר ההוגן של יפן</item>
+        <item>ועדת הסחר ההוגן של קוריאה</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>ועדת המסחר</item>
+        <item>ועדת סחר הוגן</item>
+        <item>ועדת התחרות (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>דוא\"ל לרשות התחרות של הנציבות האירופית.</item>
+        <item>צור קשר עם דלפק העזרה של אזרחי DMA של האיחוד האירופי.</item>
+        <item>דווח ל-CMA בבריטניה.</item>
+        <item>ברזיל נמצאת בגל האכיפה הראשון.</item>
+        <item>סינגפור נמצאת בגל האכיפה הראשון.</item>
+        <item>תאילנד נמצאת בגל האכיפה הראשון.</item>
+        <item>אינדונזיה נמצאת בגל האכיפה הראשון.</item>
+        <item>דיווח לוועדת התחרות והצרכנות האוסטרלית.</item>
+        <item>הגש תלונה ללשכת התחרות.</item>
+        <item>פנה ל-CCI לגבי התנהגות אנטי-תחרותית.</item>
+        <item>פנה לדלפק JFTC / Mobile Software Competition Act.</item>
+        <item>פנה ל- KFTC.</item>
+        <item>הגש תלונה על הגבלים עסקיים במקסיקו.</item>
+        <item>דווח על התנהלות אנטי-תחרותית.</item>
+        <item>צור קשר עם ה-FTC של טייוואן.</item>
+        <item>דווח על שיטות לא חוקיות.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>גלוֹבָּלִי</item>
+        <item>גלוֹבָּלִי</item>
+        <item>אֵירוֹפָּה</item>
+        <item>אֵירוֹפָּה</item>
+        <item>גלוֹבָּלִי</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Foundation</item>
+        <item>קרן תוכנה חופשית</item>
+        <item>קרן תוכנה חופשית אירופה</item>
+        <item>זכויות דיגיטליות באירופה (EDRI)</item>
+        <item>Software Freedom Conservancy</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>שמירת סף של אפליקציה וצנזורה באינטרנט.</item>
+        <item>חופש תוכנה ושליטה על המשתמש.</item>
+        <item>חופש תוכנה באירופה.</item>
+        <item>הגנה על זכויות דיגיטליות.</item>
+        <item>תוכנה חינמית מונעת על ידי קהילה.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">הממשלה שלי</string>
+    <string name="letter_subject" formatted="false">עצור את נעילת האימות למפתחי Android של Google</string>
+    <string name="letter_template">נציג %1$s היקר,\n\nאני כותב כמשתמש אנדרואיד מודאג וכאזרח בתחום השיפוט שלך.\n\nתוכנית אימות המפתחים של אנדרואיד של גוגל, שנאכפת החל מה-30 בספטמבר 2026 במספר שווקים ומתרחבת ברחבי העולם ב-2027, תחייב כל אפליקציית אנדרואיד להירשם למפתח מאומת מרכזי לפני שניתן יהיה להתקין אותה במכשירים מאושרים. על המפתחים להגיש זיהוי ממשלתי, להסכים לתנאים של Google, לשלם עמלה ולפרט כל מזהה אפליקציה נוכחי ועתידי.\n\nזה לא משפר משמעותית את האבטחה. היא מעניקה לחברה פרטית יחידה את הכוח להחליט אילו תוכנות מותר לאנשים להפעיל במכשירים שבבעלותם, והיא מאיימת על הפצה עצמאית וקוד פתוח כמו F-Droid, שלא יכולה לעמוד בדרישות ועלולה להפסיק להתקיים.\n\nאני מבקש ממך בכבוד:\n\n1. בדוק האם תוכנית זו נוגדת תחרות ומהווה ניצול לרעה של עמדת שומר סף.\n2. לחץ על Google כדי לפטור הפצה בקוד פתוח ולא מסחרי, וכדי לשמור על טעינת צד ללא רישום מרוכז.\n3. להגן על זכותם של המשתמשים להפעיל תוכנה לבחירתם בחומרה שרכשו.\n\nאנא אשר הודעה זו בכתב והודיע ​​לי באיזו פעולה נוקט משרדך.\n\nאני גם מעתיק את מסע הפרסום Keep Android Open ב-%2$s.\n\nבכבוד רב,\n[השם שלך]\n[העיר והמדינה שלך]</string>
+    <string name="toast_no_app" formatted="false">אף אפליקציה לא יכולה לפתוח את הקישור הזה</string>
+    <string name="toast_no_email" formatted="false">לא מותקנת אפליקציית אימייל</string>
+    <string name="chooser_send_email" formatted="false">שלח אימייל</string>
+    <string name="chooser_share" formatted="false">לַחֲלוֹק</string>
+    <string name="toast_copied" formatted="false">הועתק ללוח</string>
+    <string name="settings_title" formatted="false">הגדרות</string>
+    <string name="settings_language_title" formatted="false">שפת האפליקציה</string>
+    <string name="settings_language_summary" formatted="false">בחר את השפה שבה משתמשת האפליקציה. אתה יכול גם לשנות את זה מהגדרות המכשיר שלך.</string>
+    <string name="settings_system_default" formatted="false">ברירת המחדל של המערכת</string>
+    <string name="settings_language_search" formatted="false">חיפוש שפות</string>
+    <string name="settings_theme_title" formatted="false">נוֹשֵׂא</string>
+    <string name="settings_theme_summary" formatted="false">בחר איך האפליקציה תיראה.</string>
+    <string name="theme_system" formatted="false">עקוב אחר המערכת</string>
+    <string name="theme_light" formatted="false">אוֹר</string>
+    <string name="theme_dark" formatted="false">כֵּהֶה</string>
+    <string name="theme_amoled" formatted="false">AMOLED (שחור טהור)</string>
+    <string name="settings_accent_title" formatted="false">צבע מבטא</string>
+    <string name="settings_accent_summary" formatted="false">בחר את צבע ההדגשה המשמש בכל האפליקציה.</string>
+    <string name="accent_default" formatted="false">ברירת מחדל (אדום מסע פרסום)</string>
+    <string name="accent_red" formatted="false">אָדוֹם</string>
+    <string name="accent_orange" formatted="false">כָּתוֹם</string>
+    <string name="accent_yellow" formatted="false">צָהוֹב</string>
+    <string name="accent_green" formatted="false">יָרוֹק</string>
+    <string name="accent_teal" formatted="false">צהבהב</string>
+    <string name="accent_blue" formatted="false">כְּחוֹל</string>
+    <string name="accent_purple" formatted="false">סָגוֹל</string>
+    <string name="accent_pink" formatted="false">וָרוֹד</string>
+    <string name="settings_colorblendr_warning" formatted="false">שים לב: אם ColorBlendr או חומר אחר שאתה מעקף פעיל, ייתכן שצבע המבטא שלך לא יחול עד שתבטל אותו.</string>
+    <string name="settings_about_title" formatted="false">אוֹדוֹת</string>
+    <string name="settings_version">גרסה %1$s</string>
+    <string name="settings_open_source" formatted="false">קוד פתוח (MIT). אינו מזוהה עם או מאושר על ידי מסע הפרסום הרשמי של Keep Android Open.</string>
+</resources>

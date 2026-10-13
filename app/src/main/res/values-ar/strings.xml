@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">العد التنازلي</string>
+    <string name="tab_rollout" formatted="false">الطرح</string>
+    <string name="tab_act_now" formatted="false">التصرف الآن</string>
+    <string name="cd_open_site" formatted="false">افتح keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">إعدادات</string>
+    <string name="cd_back" formatted="false">خلف</string>
+    <string name="countdown_campaign" formatted="false">العد التنازلي للحملة</string>
+    <string name="countdown_elapsed" formatted="false">انقضى الوقت منذ أن أصبحت الحملة علنية في الأول من كانون الثاني (يناير) 2027.</string>
+    <string name="countdown_what_means" formatted="false">ماذا يعني العد التنازلي</string>
+    <string name="countdown_read_faq" formatted="false">اقرأ الأسئلة الشائعة</string>
+    <string name="countdown_campaign_btn" formatted="false">الحملة</string>
+    <string name="countdown_footnote" formatted="false">يتطابق هدف العد التنازلي مع الشعار المنشور على keepandroidopen.org. يتم تحديث التطبيق مرة واحدة في الثانية أثناء فتحه.</string>
+    <string name="countdown_expired" formatted="false">أصبح Android الآن منصة مغلقة</string>
+    <string name="countdown_running" formatted="false">أصبح Android منصة مغلقة في</string>
+    <string name="unit_days" formatted="false">أيام</string>
+    <string name="unit_hours" formatted="false">ساعات</string>
+    <string name="unit_minutes" formatted="false">دقائق</string>
+    <string name="unit_seconds" formatted="false">ثواني</string>
+    <string name="rollout_title" formatted="false">ما هو التحقق من مطور Android؟</string>
+    <string name="rollout_what_it_means_title" formatted="false">ما يعنيه حقا</string>
+    <string name="rollout_timeline_title" formatted="false">الجدول الزمني للطرح</string>
+    <string name="rollout_paths_title" formatted="false">اختر مسار التحقق الخاص بك</string>
+    <string name="rollout_advanced_title" formatted="false">\"التدفق المتقدم\" ليس حلاً</string>
+    <string name="rollout_dev_page" formatted="false">صفحة المطور الرسمية لجوجل</string>
+    <string name="rollout_open_letter" formatted="false">اقرأ الرسالة المفتوحة</string>
+    <string name="label_identity" formatted="false">هوية</string>
+    <string name="label_distribution" formatted="false">توزيع</string>
+    <string name="label_ux" formatted="false">تجربة المستخدم</string>
+    <string name="label_best_for" formatted="false">الأفضل ل</string>
+    <string name="rollout_summary" formatted="false">التحقق من مطور Android هو برنامج من Google يربط كل تطبيق بهوية مطور تم التحقق منها قبل أن يتم تثبيته على أجهزة Android المعتمدة. يجب على المطورين التحقق من هويتهم وتسجيل أسماء الحزم التي ينشرونها. لم يعد من الممكن تثبيت التطبيقات التي لا تحتوي على مطور مسجل ومعتمد بالطريقة العادية بمجرد بدء إجراءات الحماية.</string>
+    <string name="rollout_what_it_means" formatted="false">يكون الأمر أصعب على التوزيع المستقل والمفتوح المصدر مثل F-Droid، وتنزيلات APK المباشرة، ومشاريع الهوايات. تقول Google إن الأمر يتعلق بالسلامة وإيقاف البرامج الضارة المجهولة. يقول النقاد، بما في ذلك حملة Keep Android Open وF-Droid وEFF، إنه مفتاح إيقاف لحارس البوابة: التسجيل المركزي، والهوية الحكومية، والرسوم، والتحكم الكامل في ما يُسمح لجهازك بالوثوق به.</string>
+    <string name="rollout_advanced_note" formatted="false">يتم تسليم التدفق المتقدم من خلال خدمات Google Play، وليس نظام التشغيل Android، بحيث يمكن لـ Google تغييره أو تقييده أو إزالته في أي وقت دون تحديث نظام التشغيل أو موافقة المستخدم. يعد التأخير لمدة 24 ساعة أمرًا مزعجًا عن عمد، وهو يمثل خطوة أخرى تقف بينك وبين البرنامج الذي تختار تشغيله.</string>
+    <string-array name="timeline_dates">
+        <item>25 أغسطس 2025</item>
+        <item>19 مارس 2026</item>
+        <item>يونيو 2026</item>
+        <item>18 يونيو 2026</item>
+        <item>يوليو 2026</item>
+        <item>أغسطس 2026</item>
+        <item>30 سبتمبر 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>يتم الإعلان عن البرنامج</item>
+        <item>تم الكشف عن \"التدفق المتقدم\".</item>
+        <item>يتم شحن Android Developer Verifier إلى الأجهزة</item>
+        <item>تم تأكيد الإطلاق الأولي</item>
+        <item>يتم فتح واجهات برمجة تطبيقات المطورين</item>
+        <item>وحدة تحكم عالمية، حسابات محدودة، تدفق متقدم</item>
+        <item>ويبدأ التنفيذ في أربعة بلدان</item>
+        <item>طرح عالمي</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>تعلن Google أنه بدءًا من عام 2027، يجب تسجيل تطبيقات Android لمطور معتمد، بما في ذلك التطبيقات المثبتة خارج Google Play.</item>
+        <item>يحصل المستخدمون المتميزون على فتحة هروب مرهقة عن عمد: قم بتمكين خيارات المطور، وتأكد من عدم تعرضك للإكراه، ثم أعد التشغيل، ثم انتظر 24 ساعة قبل أن تسمح بعمليات التثبيت التي لم يتم التحقق منها.</item>
+        <item>يتم دفع خدمة نظام الخلفية (com.google.android.verifier) ​​من خلال تحديثات نظام Google إلى الأجهزة المعتمدة وتظل في حالة خاملة حتى يتم التنفيذ.</item>
+        <item>تؤكد Google أن التنفيذ سيبدأ في 30 سبتمبر 2026 عبر سبعة متاجر وأربعة بلدان.</item>
+        <item>يتم إطلاق واجهة برمجة تطبيقات حالة معرف مطور Android عالميًا ويبدأ الوصول المبكر لواجهة برمجة تطبيقات Android Developer Console وحسابات التوزيع المحدودة.</item>
+        <item>حسابات توزيع محدودة (مجانية، ما يصل إلى 20 جهازًا، بدون معرف حكومي) وإطلاق Console API في جميع أنحاء العالم. يبدأ التدفق المتقدم للتحميل الجانبي الذي لم يتم التحقق منه.</item>
+        <item>يتم إطلاق الحماية للمستخدمين في البرازيل وإندونيسيا وسنغافورة وتايلاند على الأجهزة المعتمدة التي تعمل بنظام التشغيل Android 7+. يتم حظر التطبيقات من المطورين الذين لم يتم التحقق منهم في المتاجر المشاركة: Google Play، وHONOR App Market، وOPPO App Market، وGalaxy Store، وPalm Store، وV-Appstore، وGetApps.</item>
+        <item>يتم توسيع التحقق ليشمل جميع التطبيقات والمناطق. يستمر العد التنازلي لـ Keep Android Open حتى 1 يناير 2027، عندما يصبح Android نظامًا أساسيًا مقفلاً.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>التوزيع الكامل</item>
+        <item>توزيع محدود</item>
+        <item>التحميل الجانبي للتطبيقات غير المسجلة</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>نعم - بطاقة هوية حكومية ورسوم</item>
+        <item>لا - لا يوجد هوية أو رسوم تسجيل</item>
+        <item>لا، ولكن احتكاك عالي</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>أي متجر أو قناة تختارها</item>
+        <item>ما يصل إلى 20 جهازًا عبر رمز الاستجابة السريعة أو مصافحة الارتباط</item>
+        <item>ADB (معفى) أو التدفق المتقدم</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>لا شيء يتغير بالنسبة للمستخدمين</item>
+        <item>يقبل المستخدمون دعوة التثبيت من مطور يعرفونه</item>
+        <item>خيارات المطور، أعد التشغيل، انتظر لمدة 24 ساعة، ثم قم بالتثبيت على أي حال</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>المنظمات والمطورين المحترفين</item>
+        <item>الطلاب والهواة والاستخدام الشخصي</item>
+        <item>المطورين والمستخدمين المتميزين الذين لم يتم التحقق منهم</item>
+    </string-array>
+    <string name="act_title" formatted="false">تصرف الآن – اجعل صوتك مسموعا</string>
+    <string name="act_intro">يريد المنظمون أن يسمعوا من الأفراد المتأثرين. كن مهذبًا ومحددًا، واكتب باللغة الرسمية للهيئة التي تتصل بها، واطلب إقرارًا كتابيًا، وانسخ %1$s حتى تتمكن الحملة من تتبع الانتصارات.</string>
+    <string name="act_open_composer" formatted="false">افتح مؤلف البريد الإلكتروني</string>
+    <string name="act_copy" formatted="false">ينسخ</string>
+    <string name="act_share" formatted="false">يشارك</string>
+    <string name="act_clipboard_label" formatted="false">حافظ على Android مفتوحًا</string>
+    <string name="act_us_title" formatted="false">الولايات المتحدة - أرسل بريدًا إلكترونيًا إلى الحكومة</string>
+    <string name="act_us_intro" formatted="false">تأخذ وزارة العدل ولجنة التجارة الفيدرالية تقارير مكافحة الاحتكار من خلال النماذج عبر الإنترنت. استخدمها واتصل بممثلك وأعضاء مجلس الشيوخ مباشرة.</string>
+    <string name="act_world_title" formatted="false">في مكان آخر من العالم</string>
+    <string name="act_groups_title" formatted="false">مجموعات حقوق المستهلك والرقمية</string>
+    <string name="act_more_title" formatted="false">المزيد من الطرق للمساعدة</string>
+    <string name="act_more_body" formatted="false">• تثبيت F-Droid على أجهزتك.\n• الإجابة على استبيان التحقق من مطوري Google.\n• النشر على وسائل التواصل الاجتماعي والارتباط بـ keepandroidopen.org.\n• قم بالتوقيع على عريضة Change.org.\n• إضافة شعار العد التنازلي إلى موقع الويب الخاص بك.</string>
+    <string name="act_all_actions" formatted="false">جميع الإجراءات في keepandroidopen.org</string>
+    <string name="action_email" formatted="false">بريد إلكتروني</string>
+    <string name="action_open" formatted="false">يفتح</string>
+    <string-array name="us_contact_regions">
+        <item>الولايات المتحدة</item>
+        <item>الولايات المتحدة</item>
+        <item>الولايات المتحدة</item>
+        <item>الولايات المتحدة</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>وزارة العدل الأمريكية – قسم مكافحة الاحتكار</item>
+        <item>لجنة التجارة الفيدرالية الأمريكية – مكافحة الاحتكار</item>
+        <item>ابحث عن ممثل مجلس النواب الخاص بك</item>
+        <item>اتصل بأعضاء مجلس الشيوخ الأمريكي</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>إرسال تقرير مكافحة الاحتكار عبر الإنترنت.</item>
+        <item>تقديم شكوى ضد الاحتكار.</item>
+        <item>اتصل بممثلك في مجلس النواب الأمريكي.</item>
+        <item>ابحث عن أعضاء مجلس الشيوخ في ولايتك واتصل بهم.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>الاتحاد الأوروبي</item>
+        <item>الاتحاد الأوروبي</item>
+        <item>المملكة المتحدة</item>
+        <item>البرازيل</item>
+        <item>سنغافورة</item>
+        <item>تايلاند</item>
+        <item>أندونيسيا</item>
+        <item>أستراليا</item>
+        <item>كندا</item>
+        <item>الهند</item>
+        <item>اليابان</item>
+        <item>كوريا الجنوبية</item>
+        <item>المكسيك</item>
+        <item>أوتياروا / نيوزيلندا</item>
+        <item>تايوان</item>
+        <item>سويسرا</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>الاتحاد الأوروبي لمكافحة الاحتكار (DG COMP)</item>
+        <item>فريق قانون الأسواق الرقمية</item>
+        <item>هيئة المنافسة والأسواق</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>لجنة المنافسة التجارية (OTCC)</item>
+        <item>KPPU</item>
+        <item>لجنة التنسيق الإدارية</item>
+        <item>مكتب المنافسة كندا</item>
+        <item>لجنة المنافسة في الهند</item>
+        <item>لجنة التجارة العادلة اليابانية</item>
+        <item>لجنة التجارة العادلة الكورية</item>
+        <item>اللجنة الوطنية لمكافحة الاحتكار</item>
+        <item>لجنة التجارة</item>
+        <item>لجنة التجارة العادلة</item>
+        <item>لجنة المنافسة (ويكو)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>أرسل بريدًا إلكترونيًا إلى هيئة المنافسة التابعة للمفوضية الأوروبية.</item>
+        <item>اتصل بمكتب مساعدة المواطنين التابع لـ EU DMA.</item>
+        <item>تقديم تقرير إلى هيئة أسواق المال في المملكة المتحدة.</item>
+        <item>البرازيل في موجة التنفيذ الأولى.</item>
+        <item>سنغافورة في موجة التنفيذ الأولى.</item>
+        <item>تايلاند في موجة التنفيذ الأولى.</item>
+        <item>إندونيسيا في موجة التنفيذ الأولى.</item>
+        <item>تقديم تقرير إلى لجنة المنافسة والمستهلك الأسترالية.</item>
+        <item>تقديم شكوى إلى مكتب المنافسة.</item>
+        <item>اتصل بـ CCI بشأن السلوكيات المناهضة للمنافسة.</item>
+        <item>اتصل بمكتب JFTC / قانون منافسة برامج الهاتف المحمول.</item>
+        <item>اتصل بـ KFTC.</item>
+        <item>تقديم شكوى ضد الاحتكار في المكسيك.</item>
+        <item>الإبلاغ عن السلوك المخالف للمنافسة.</item>
+        <item>اتصل بلجنة التجارة الفيدرالية التايوانية.</item>
+        <item>الإبلاغ عن الممارسات غير القانونية.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>عالمي</item>
+        <item>عالمي</item>
+        <item>أوروبا</item>
+        <item>أوروبا</item>
+        <item>عالمي</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>مؤسسة الحدود الإلكترونية</item>
+        <item>مؤسسة البرمجيات الحرة</item>
+        <item>مؤسسة البرمجيات الحرة أوروبا</item>
+        <item>الحقوق الرقمية الأوروبية (EDRI)</item>
+        <item>منظمة حماية حرية البرمجيات</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>حراسة بوابة التطبيق والرقابة على الإنترنت.</item>
+        <item>حرية البرمجيات والتحكم في المستخدم.</item>
+        <item>حرية البرمجيات في أوروبا</item>
+        <item>الدفاع عن الحقوق الرقمية.</item>
+        <item>البرمجيات الحرة التي يحركها المجتمع.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">حكومتي</string>
+    <string name="letter_subject" formatted="false">أوقف تأمين التحقق من مطور برامج Android من Google</string>
+    <string name="letter_template">عزيزي ممثل %1$s،\n\nأنا أكتب كمستخدم Android معني وكمواطن في ولايتك القضائية.\n\nسيتطلب برنامج التحقق من مطوري برامج Android من Google، والذي سيتم تطبيقه اعتبارًا من 30 سبتمبر 2026 في العديد من الأسواق والتوسع عالميًا في عام 2027، تسجيل كل تطبيق Android لدى مطور تم التحقق منه مركزيًا قبل أن يتم تثبيته على الأجهزة المعتمدة. يجب على المطورين تقديم هوية حكومية والموافقة على شروط Google ودفع رسوم وإدراج كل معرف التطبيق الحالي والمستقبلي.\n\nوهذا لا يؤدي إلى تحسين الأمن بشكل هادف. فهو يمنح شركة خاصة واحدة سلطة تحديد البرامج التي يُسمح للأشخاص بتشغيلها على الأجهزة التي يمتلكونها، ويهدد التوزيع المستقل ومفتوح المصدر مثل F-Droid، الذي لا يمكنه الامتثال وقد يتوقف عن الوجود.\n\nوأطلب منك بكل احترام:\n\n1. التحقق مما إذا كان هذا البرنامج مخالفًا للمنافسة ويشكل إساءة استخدام لمنصب حارس البوابة.\n2. اضغط على Google لإعفاء التوزيع مفتوح المصدر وغير التجاري، والحفاظ على التحميل الجانبي خاليًا من التسجيل المركزي.\n3. حماية حق المستخدمين في تشغيل البرامج التي يختارونها على الأجهزة التي اشتروها.\n\nيرجى الإقرار بهذه الرسالة كتابيًا وإخباري بالإجراء الذي سيتخذه مكتبك.\n\nأقوم أيضًا بنسخ حملة Keep Android Open على %2$s.\n\nمع خالص التقدير،\n[اسمك]\n[مدينتك وبلدك]</string>
+    <string name="toast_no_app" formatted="false">لا يمكن لأي تطبيق فتح هذا الرابط</string>
+    <string name="toast_no_email" formatted="false">لم يتم تثبيت أي تطبيق بريد إلكتروني</string>
+    <string name="chooser_send_email" formatted="false">إرسال البريد الإلكتروني</string>
+    <string name="chooser_share" formatted="false">يشارك</string>
+    <string name="toast_copied" formatted="false">تم النسخ إلى الحافظة</string>
+    <string name="settings_title" formatted="false">إعدادات</string>
+    <string name="settings_language_title" formatted="false">لغة التطبيق</string>
+    <string name="settings_language_summary" formatted="false">اختر اللغة التي يستخدمها التطبيق. ويمكنك أيضًا تغييره من إعدادات جهازك.</string>
+    <string name="settings_system_default" formatted="false">الافتراضي للنظام</string>
+    <string name="settings_language_search" formatted="false">لغات البحث</string>
+    <string name="settings_theme_title" formatted="false">سمة</string>
+    <string name="settings_theme_summary" formatted="false">اختر كيف يبدو التطبيق.</string>
+    <string name="theme_system" formatted="false">اتبع النظام</string>
+    <string name="theme_light" formatted="false">ضوء</string>
+    <string name="theme_dark" formatted="false">مظلم</string>
+    <string name="theme_amoled" formatted="false">أموليد (أسود نقي)</string>
+    <string name="settings_accent_title" formatted="false">لون مميز</string>
+    <string name="settings_accent_summary" formatted="false">اختر لون التمييز المستخدم عبر التطبيق.</string>
+    <string name="accent_default" formatted="false">الافتراضي (الحملة الحمراء)</string>
+    <string name="accent_red" formatted="false">أحمر</string>
+    <string name="accent_orange" formatted="false">البرتقالي</string>
+    <string name="accent_yellow" formatted="false">أصفر</string>
+    <string name="accent_green" formatted="false">أخضر</string>
+    <string name="accent_teal" formatted="false">البط البري</string>
+    <string name="accent_blue" formatted="false">أزرق</string>
+    <string name="accent_purple" formatted="false">أرجواني</string>
+    <string name="accent_pink" formatted="false">لون القرنفل</string>
+    <string name="settings_colorblendr_warning" formatted="false">تنبيه: إذا كان ColorBlendr أو مادة أخرى قمت بتجاوزها نشطة، فقد لا يتم تطبيق لون التمييز الخاص بك حتى تقوم بتعطيله.</string>
+    <string name="settings_about_title" formatted="false">عن</string>
+    <string name="settings_version">الإصدار %1$s</string>
+    <string name="settings_open_source" formatted="false">المصدر المفتوح (MIT). غير تابع أو معتمد من قبل حملة Keep Android Open الرسمية.</string>
+</resources>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Countdown</string>
+    <string name="tab_rollout" formatted="false">The Rollout</string>
+    <string name="tab_act_now" formatted="false">Tumindak Saiki</string>
+    <string name="cd_open_site" formatted="false">Bukak keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Setelan</string>
+    <string name="cd_back" formatted="false">Mbalik</string>
+    <string name="countdown_campaign" formatted="false">Kampanye countdown</string>
+    <string name="countdown_elapsed" formatted="false">Wektu wis suwe wiwit kampanye dibukak menyang 1 Januari 2027.</string>
+    <string name="countdown_what_means" formatted="false">Apa tegese countdown</string>
+    <string name="countdown_read_faq" formatted="false">Waca FAQ</string>
+    <string name="countdown_campaign_btn" formatted="false">Kampanye</string>
+    <string name="countdown_footnote" formatted="false">Target countdown cocog karo spanduk sing diterbitake ing keepandroidopen.org. Aplikasi nganyari sapisan saben detik nalika mbukak.</string>
+    <string name="countdown_expired" formatted="false">ANDROID SAIKI PLATFORM DIKUNCI</string>
+    <string name="countdown_running" formatted="false">ANDROID DADI PLATFORM DIKUNCI DI</string>
+    <string name="unit_days" formatted="false">dina</string>
+    <string name="unit_hours" formatted="false">jam</string>
+    <string name="unit_minutes" formatted="false">menit</string>
+    <string name="unit_seconds" formatted="false">detik</string>
+    <string name="rollout_title" formatted="false">Apa Verifikasi Pangembang Android?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Apa tegese</string>
+    <string name="rollout_timeline_title" formatted="false">Garis wektu rollout</string>
+    <string name="rollout_paths_title" formatted="false">Pilih jalur verifikasi sampeyan</string>
+    <string name="rollout_advanced_title" formatted="false">\"Alur maju\" dudu solusi</string>
+    <string name="rollout_dev_page" formatted="false">Kaca pangembang resmi Google</string>
+    <string name="rollout_open_letter" formatted="false">Maca layang mbukak</string>
+    <string name="label_identity" formatted="false">jati diri</string>
+    <string name="label_distribution" formatted="false">Distribusi</string>
+    <string name="label_ux" formatted="false">Pengalaman pangguna</string>
+    <string name="label_best_for" formatted="false">Paling apik kanggo</string>
+    <string name="rollout_summary" formatted="false">Verifikasi Pangembang Android minangka program Google sing ngubungake saben app menyang identitas pangembang sing wis diverifikasi sadurunge bisa diinstal ing piranti Android sing wis disertifikasi. Pangembang kudu verifikasi sapa dheweke lan ndhaptar jeneng paket sing diterbitake. Aplikasi tanpa pangembang sing wis kadhaptar lan wis diverifikasi ora bisa diinstal maneh kanthi cara normal sawise proteksi diluncurake.</string>
+    <string name="rollout_what_it_means" formatted="false">Iku paling angel kanggo distribusi independen lan mbukak-sumber kayata F-Droid, download APK langsung, lan proyek hobi. Google ujar manawa babagan safety lan mungkasi malware anonim. Kritikus kalebu kampanye Keep Android Open, F-Droid lan EFF ujar manawa saklar mateni gatekeeper: registrasi pusat, ID pemerintah, ragad, lan kontrol lengkap babagan apa sing dipercaya piranti sampeyan.</string>
+    <string name="rollout_advanced_note" formatted="false">Aliran lanjut dikirim liwat layanan Google Play, dudu OS Android, supaya Google bisa ngganti, matesi utawa mbusak kapan wae tanpa nganyari OS utawa idin pangguna. Wektu tundha 24 jam kanthi sengaja ngganggu lan minangka salah sawijining langkah liyane sing ana ing antarane sampeyan lan piranti lunak sing sampeyan pilih.</string>
+    <string-array name="timeline_dates">
+        <item>25 Agustus 2025</item>
+        <item>19 Maret 2026</item>
+        <item>Juni 2026</item>
+        <item>18 Juni 2026</item>
+        <item>Juli 2026</item>
+        <item>Agustus 2026</item>
+        <item>30 September 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Program kasebut diumumake</item>
+        <item>\"Alur maju\" dicethakaké</item>
+        <item>Android Developer Verifier dikirim menyang piranti</item>
+        <item>Peluncuran awal dikonfirmasi</item>
+        <item>API pangembang mbukak</item>
+        <item>Konsol global, akun winates, aliran maju</item>
+        <item>Penegakan diwiwiti ing papat negara</item>
+        <item>Rollout global</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google ngumumake yen wiwit taun 2027, aplikasi kanggo Android kudu didaftar menyang pangembang sing wis diverifikasi, kalebu aplikasi sing diinstal ing njaba Google Play.</item>
+        <item>Pangguna daya entuk hatch uwal kanthi sengaja: aktifake Pilihan Pangembang, konfirmasi yen sampeyan ora dipeksa, miwiti maneh, banjur ngenteni 24 jam sadurunge ngidini instalasi sing durung diverifikasi.</item>
+        <item>Layanan sistem latar mburi (com.google.android.verifier) ​​di-push liwat Google System Updates menyang piranti sing disertifikasi lan tetep ora aktif nganti penegakan.</item>
+        <item>Google negesake penegakan diwiwiti tanggal 30 September 2026, ing pitung toko lan papat negara.</item>
+        <item>Android Developer ID Status API diluncurake sacara global lan akses awal diwiwiti kanggo Android Developer Console API lan akun distribusi winates.</item>
+        <item>Akun distribusi winates (gratis, nganti 20 piranti, ora ana ID pemerintah) lan Console API diluncurake ing saindenging jagad. Aliran lanjut kanggo sideloading sing durung diverifikasi wiwit diluncurake.</item>
+        <item>Proteksi urip kanggo pangguna ing Brazil, Indonesia, Singapura lan Thailand ing piranti sing disertifikasi sing nganggo Android 7+. Aplikasi saka pangembang sing durung diverifikasi diblokir ing toko sing melu: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore lan GetApps.</item>
+        <item>Verifikasi ditambahi menyang kabeh aplikasi lan wilayah. Tansah Android Open count mudhun nganti 1 Januari 2027, nalika Android dadi platform sing dikunci.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Distribusi lengkap</item>
+        <item>Distribusi winates</item>
+        <item>Sideloading app ora kadhaptar</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Ya - ID pemerintah lan ragad</item>
+        <item>Ora - ora ID utawa biaya registrasi</item>
+        <item>Ora - nanging gesekan dhuwur</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Sembarang toko utawa saluran sing sampeyan pilih</item>
+        <item>Nganti 20 piranti liwat kode QR utawa salaman link</item>
+        <item>ADB (exempt) utawa aliran maju</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Ora ana owah-owahan kanggo pangguna sampeyan</item>
+        <item>Pangguna nampa undhangan instalasi saka pangembang sing padha ngerti</item>
+        <item>Opsi Pangembang, miwiti maneh, ngenteni 24 jam, banjur instal wae</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Organisasi lan pangembang profesional</item>
+        <item>Siswa, hobi lan panggunaan pribadi</item>
+        <item>Pangembang lan pangguna daya sing ora diverifikasi</item>
+    </string-array>
+    <string name="act_title" formatted="false">Tumindak saiki - nggawe swara sampeyan krungu</string>
+    <string name="act_intro">Regulator pengin krungu saka individu sing kena pengaruh. Dadi sopan lan spesifik, nulis nganggo basa resmi saka badan sing sampeyan hubungi, njaluk pangakuan sing ditulis, lan nyalin %1$s supaya kampanye bisa nglacak kemenangan.</string>
+    <string name="act_open_composer" formatted="false">Bukak komposer email</string>
+    <string name="act_copy" formatted="false">Nyalin</string>
+    <string name="act_share" formatted="false">Nuduhake</string>
+    <string name="act_clipboard_label" formatted="false">Tansah Android Open letter</string>
+    <string name="act_us_title" formatted="false">Amerika Serikat - email pemerintah</string>
+    <string name="act_us_intro" formatted="false">Departemen Kehakiman lan FTC njupuk laporan antitrust liwat formulir online. Gunakake, lan langsung hubungi wakil lan senator sampeyan.</string>
+    <string name="act_world_title" formatted="false">Nang endi wae ing donya</string>
+    <string name="act_groups_title" formatted="false">Klompok hak konsumen &amp; digital</string>
+    <string name="act_more_title" formatted="false">Liyane cara kanggo mbantu</string>
+    <string name="act_more_body" formatted="false">• Instal F-Droid ing piranti sampeyan.\n• Njawab survey verifikasi pangembang Google.\n• Kirim ing media sosial lan pranala menyang keepandroidopen.org.\n• Mlebu petisi change.org.\n• Tambah spanduk mundur menyang situs web sampeyan.</string>
+    <string name="act_all_actions" formatted="false">Kabeh tumindak ing keepandroidopen.org</string>
+    <string name="action_email" formatted="false">Email</string>
+    <string name="action_open" formatted="false">Mbukak</string>
+    <string-array name="us_contact_regions">
+        <item>Amerika Serikat</item>
+        <item>Amerika Serikat</item>
+        <item>Amerika Serikat</item>
+        <item>Amerika Serikat</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Departemen Kehakiman AS - Divisi Antitrust</item>
+        <item>Komisi Perdagangan Federal AS - Antitrust</item>
+        <item>Temokake Wakil DPR sampeyan</item>
+        <item>Hubungi Senator AS sampeyan</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Kirim laporan antitrust online.</item>
+        <item>Ngajokake keluhan antitrust.</item>
+        <item>Hubungi wakil sampeyan ing Gedung AS.</item>
+        <item>Temokake lan hubungi loro senator negara sampeyan.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Uni Eropa</item>
+        <item>Uni Eropa</item>
+        <item>Inggris</item>
+        <item>Brasil</item>
+        <item>Singapura</item>
+        <item>Thailand</item>
+        <item>Indonesia</item>
+        <item>Australia</item>
+        <item>Kanada</item>
+        <item>India</item>
+        <item>Jepang</item>
+        <item>Korea Kidul</item>
+        <item>Meksiko</item>
+        <item>Aotearoa / New Zealand</item>
+        <item>Taiwan</item>
+        <item>Swiss</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>Antitrust EU (DG COMP)</item>
+        <item>Tim Digital Markets Act</item>
+        <item>Otoritas Kompetisi &amp; Pasar</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Komisi Persaingan Perdagangan (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Biro Kompetisi Kanada</item>
+        <item>Komisi Kompetisi India</item>
+        <item>Komisi Perdagangan Adil Jepang</item>
+        <item>Komisi Perdagangan Adil Korea</item>
+        <item>Komisi Nasional Antimonopolio</item>
+        <item>Komisi Perdagangan</item>
+        <item>Komisi Perdagangan Adil</item>
+        <item>Komisi Kompetisi (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Email otoritas kompetisi Komisi Eropa.</item>
+        <item>Hubungi helpdesk warga EU DMA.</item>
+        <item>Laporan menyang UK CMA.</item>
+        <item>Brasil ana ing gelombang penegakan pisanan.</item>
+        <item>Singapura ana ing gelombang penegakan pisanan.</item>
+        <item>Thailand ana ing gelombang penegakan pisanan.</item>
+        <item>Indonesia ing gelombang penegakan pisanan.</item>
+        <item>Laporan menyang Komisi Kompetisi lan Konsumen Australia.</item>
+        <item>Ngajokake keluhan menyang Biro Kompetisi.</item>
+        <item>Hubungi CCI babagan tumindak anti-kompetitif.</item>
+        <item>Hubungi meja JFTC / Mobile Software Competition Act.</item>
+        <item>Hubungi KFTC.</item>
+        <item>Ngajokake keluhan antitrust ing Meksiko.</item>
+        <item>Laporan tumindak anti-kompetitif.</item>
+        <item>Hubungi Taiwan FTC.</item>
+        <item>Nglaporake praktik sing ora sah.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Global</item>
+        <item>Global</item>
+        <item>Eropah</item>
+        <item>Eropah</item>
+        <item>Global</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Yayasan Frontier Elektronik</item>
+        <item>Free Software Foundation</item>
+        <item>Free Software Foundation Eropah</item>
+        <item>Hak Digital Eropa (EDRi)</item>
+        <item>Konservasi Kebebasan Perangkat Lunak</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>App gatekeeping lan censorship internet.</item>
+        <item>Kabebasan piranti lunak lan kontrol pangguna.</item>
+        <item>Kabebasan piranti lunak ing Eropa.</item>
+        <item>Advokasi hak digital.</item>
+        <item>Piranti lunak gratis sing didhukung komunitas.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">pamrentahanku</string>
+    <string name="letter_subject" formatted="false">Mungkasi kunci Verifikasi Pangembang Android Google</string>
+    <string name="letter_template">Dear wakil %1$s,\n\nAku nulis minangka pangguna Android sing prihatin lan minangka warga negara ing yurisdiksi sampeyan.\n\nProgram Verifikasi Pangembang Android Google, sing dileksanakake wiwit tanggal 30 September 2026 ing sawetara pasar lan berkembang sacara global ing taun 2027, bakal mbutuhake saben aplikasi Android didaftar menyang pangembang sing wis diverifikasi pusat sadurunge bisa diinstal ing piranti sing disertifikasi. Pangembang kudu ngirim identifikasi pemerintah, setuju karo syarat Google, mbayar ragad lan dhaptar saben pengenal app saiki lan mbesuk.\n\nIki ora ateges nambah keamanan. Iki menehi kekuwatan kanggo perusahaan pribadi kanggo mutusake piranti lunak sing diidini nganggo piranti sing diduweni, lan ngancam distribusi bebas lan sumber terbuka kayata F-Droid, sing ora bisa tundhuk lan bisa uga ora ana.\n\nkula nyuwun agunging pangaksami:\n\n1. Neliti apa program iki anti-kompetitif lan minangka penyalahgunaan posisi gatekeeper.\n2. Pencet Google kanggo mbebasake distribusi open-source lan non-komersial, lan supaya sideloading bebas saka registrasi terpusat.\n3. Nglindhungi hak pangguna kanggo mbukak piranti lunak sing dipilih ing hardware sing dituku.\n\nMangga ngakoni pesen iki kanthi nulis lan kabari aku apa sing ditindakake kantor sampeyan.\n\nAku uga nyalin kampanye Keep Android Open ing %2$s.\n\nIkhlas,\n[Jenengmu]\n[Kutha lan negara sampeyan]</string>
+    <string name="toast_no_app" formatted="false">Ora ana app sing bisa mbukak link iki</string>
+    <string name="toast_no_email" formatted="false">Ora ana aplikasi email sing diinstal</string>
+    <string name="chooser_send_email" formatted="false">Kirimi email</string>
+    <string name="chooser_share" formatted="false">Nuduhake</string>
+    <string name="toast_copied" formatted="false">Disalin menyang clipboard</string>
+    <string name="settings_title" formatted="false">Setelan</string>
+    <string name="settings_language_title" formatted="false">Basa aplikasi</string>
+    <string name="settings_language_summary" formatted="false">Pilih basa sing digunakake app. Sampeyan uga bisa ngganti saka setelan piranti.</string>
+    <string name="settings_system_default" formatted="false">Default sistem</string>
+    <string name="settings_language_search" formatted="false">Telusuri basa</string>
+    <string name="settings_theme_title" formatted="false">Tema</string>
+    <string name="settings_theme_summary" formatted="false">Pilih carane app katon.</string>
+    <string name="theme_system" formatted="false">Ikut sistem</string>
+    <string name="theme_light" formatted="false">cahya</string>
+    <string name="theme_dark" formatted="false">peteng</string>
+    <string name="theme_amoled" formatted="false">AMOLED (ireng murni)</string>
+    <string name="settings_accent_title" formatted="false">Warna aksen</string>
+    <string name="settings_accent_summary" formatted="false">Pilih warna sorotan sing digunakake ing app.</string>
+    <string name="accent_default" formatted="false">Default (abang kampanye)</string>
+    <string name="accent_red" formatted="false">abang</string>
+    <string name="accent_orange" formatted="false">Oranye</string>
+    <string name="accent_yellow" formatted="false">kuning</string>
+    <string name="accent_green" formatted="false">Ijo</string>
+    <string name="accent_teal" formatted="false">Teal</string>
+    <string name="accent_blue" formatted="false">Biru</string>
+    <string name="accent_purple" formatted="false">wungu</string>
+    <string name="accent_pink" formatted="false">Jambon</string>
+    <string name="settings_colorblendr_warning" formatted="false">Heads up: yen ColorBlendr utawa Material liyane sing sampeyan timpa aktif, werna aksen sampeyan bisa uga ora ditrapake nganti sampeyan mateni.</string>
+    <string name="settings_about_title" formatted="false">Babagan</string>
+    <string name="settings_version">Versi %1$s</string>
+    <string name="settings_open_source" formatted="false">Sumber terbuka (MIT). Ora afiliasi karo utawa disetujoni dening kampanye Keep Android Open resmi.</string>
+</resources>

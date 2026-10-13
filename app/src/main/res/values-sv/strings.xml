@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Nedräkning</string>
+    <string name="tab_rollout" formatted="false">Utrullningen</string>
+    <string name="tab_act_now" formatted="false">Agera nu</string>
+    <string name="cd_open_site" formatted="false">Öppna keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Inställningar</string>
+    <string name="cd_back" formatted="false">Tillbaka</string>
+    <string name="countdown_campaign" formatted="false">Kampanjens nedräkning</string>
+    <string name="countdown_elapsed" formatted="false">Tiden har gått sedan kampanjen offentliggjordes mot den 1 januari 2027.</string>
+    <string name="countdown_what_means" formatted="false">Vad nedräkningen betyder</string>
+    <string name="countdown_read_faq" formatted="false">Läs FAQ</string>
+    <string name="countdown_campaign_btn" formatted="false">Kampanjen</string>
+    <string name="countdown_footnote" formatted="false">Nedräkningsmålet matchar bannern som publiceras på keepandroidopen.org. Appen uppdateras en gång per sekund medan den är öppen.</string>
+    <string name="countdown_expired" formatted="false">ANDROID ÄR NU EN LÅST PLATTFORM</string>
+    <string name="countdown_running" formatted="false">ANDROID BLIR EN LÅST PLATTFORM I</string>
+    <string name="unit_days" formatted="false">dagar</string>
+    <string name="unit_hours" formatted="false">timmar</string>
+    <string name="unit_minutes" formatted="false">minuter</string>
+    <string name="unit_seconds" formatted="false">sekunder</string>
+    <string name="rollout_title" formatted="false">Vad är Android Developer Verification?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Vad det egentligen betyder</string>
+    <string name="rollout_timeline_title" formatted="false">Tidslinjen för utbyggnaden</string>
+    <string name="rollout_paths_title" formatted="false">Välj din verifieringsväg</string>
+    <string name="rollout_advanced_title" formatted="false">Det \"avancerade flödet\" är ingen lösning</string>
+    <string name="rollout_dev_page" formatted="false">Googles officiella utvecklarsida</string>
+    <string name="rollout_open_letter" formatted="false">Läs det öppna brevet</string>
+    <string name="label_identity" formatted="false">Identitet</string>
+    <string name="label_distribution" formatted="false">Distribution</string>
+    <string name="label_ux" formatted="false">Användarupplevelse</string>
+    <string name="label_best_for" formatted="false">Bäst för</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification är ett Google-program som länkar varje app till en verifierad utvecklaridentitet innan den kan installeras på certifierade Android-enheter. Utvecklare måste verifiera vilka de är och registrera paketnamnen de publicerar. Appar utan en registrerad, verifierad utvecklare kan inte längre installeras på vanligt sätt när skydden rullar ut.</string>
+    <string name="rollout_what_it_means" formatted="false">Det landar svårast på oberoende och öppen källkodsdistribution som F-Droid, direkta APK-nedladdningar och hobbyprojekt. Google säger att det handlar om säkerhet och att stoppa anonym skadlig programvara. Kritiker inklusive Keep Android Open-kampanjen, F-Droid och EFF säger att det är en gatekeeper kill switch: central registrering, statligt ID, en avgift och full kontroll över vad din enhet får lita på.</string>
+    <string name="rollout_advanced_note" formatted="false">Det avancerade flödet levereras via Google Play-tjänster, inte Android OS, så Google kan ändra, begränsa eller ta bort det när som helst utan en OS-uppdatering eller användarens samtycke. 24-timmarsfördröjningen är avsiktligt störande och är ytterligare ett steg som står mellan dig och programvaran du väljer att köra.</string>
+    <string-array name="timeline_dates">
+        <item>25 augusti 2025</item>
+        <item>19 mars 2026</item>
+        <item>juni 2026</item>
+        <item>18 juni 2026</item>
+        <item>juli 2026</item>
+        <item>augusti 2026</item>
+        <item>30 september 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Programmet tillkännages</item>
+        <item>Det \"avancerade flödet\" avslöjas</item>
+        <item>Android Developer Verifier skickas till enheter</item>
+        <item>Inledande lansering bekräftad</item>
+        <item>API:er för utvecklare öppnas</item>
+        <item>Global konsol, begränsade konton, avancerat flöde</item>
+        <item>Verkställighet börjar i fyra länder</item>
+        <item>Global utrullning</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google meddelar att från och med 2027 måste appar för Android registreras hos en verifierad utvecklare, inklusive appar installerade utanför Google Play.</item>
+        <item>Avancerade användare får en medvetet besvärlig flyktlucka: aktivera utvecklaralternativ, bekräfta att du inte tvingas, starta om och vänta sedan 24 timmar innan du kan tillåta overifierade installationer.</item>
+        <item>En bakgrundssystemtjänst (com.google.android.verifier) ​​skickas genom Googles systemuppdateringar till certifierade enheter och förblir vilande tills den verkställs.</item>
+        <item>Google bekräftar att tillämpningen börjar den 30 september 2026 i sju butiker och fyra länder.</item>
+        <item>Android Developer ID Status API lanseras globalt och tidig åtkomst börjar för Android Developer Console API och begränsade distributionskonton.</item>
+        <item>Begränsade distributionskonton (gratis, upp till 20 enheter, inget statligt ID) och Console API lanseras över hela världen. Det avancerade flödet för overifierad sidlastning börjar rulla ut.</item>
+        <item>Skydd aktiveras för användare i Brasilien, Indonesien, Singapore och Thailand på certifierade enheter som kör Android 7+. Appar från overifierade utvecklare blockeras i de deltagande butikerna: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore och GetApps.</item>
+        <item>Verifieringen utökas till alla appar och regioner. Keep Android Open räknar ner till 1 januari 2027, då Android blir en låst plattform.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Full distribution</item>
+        <item>Begränsad distribution</item>
+        <item>Sidladdar oregistrerade appar</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Ja — myndighets-ID och en avgift</item>
+        <item>Nej – ingen ID eller registreringsavgift</item>
+        <item>Nej - men hög friktion</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Vilken butik eller kanal du väljer</item>
+        <item>Upp till 20 enheter via QR-kod eller länkhandslag</item>
+        <item>ADB (exempt) eller det avancerade flödet</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Ingenting förändras för dina användare</item>
+        <item>Användare accepterar en installationsinbjudan från en utvecklare de känner</item>
+        <item>Utvecklaralternativ, omstart, 24-timmars väntan och installera sedan ändå</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Organisationer och professionella utvecklare</item>
+        <item>Studenter, hobbyister och personligt bruk</item>
+        <item>Overifierade utvecklare och avancerade användare</item>
+    </string-array>
+    <string name="act_title" formatted="false">Agera nu – gör din röst hörd</string>
+    <string name="act_intro">Tillsynsmyndigheter vill höra från personer som är drabbade. Var artig och specifik, skriv på ett officiellt språk för den instans du kontaktar, be om en skriftlig bekräftelse och kopiera %1$s så att kampanjen kan spåra segrar.</string>
+    <string name="act_open_composer" formatted="false">Öppna e-postskrivaren</string>
+    <string name="act_copy" formatted="false">Kopiera</string>
+    <string name="act_share" formatted="false">Dela</string>
+    <string name="act_clipboard_label" formatted="false">Behåll Android öppet brev</string>
+    <string name="act_us_title" formatted="false">USA - mejla regeringen</string>
+    <string name="act_us_intro" formatted="false">Justitiedepartementet och FTC tar emot antitrustrapporter via onlineformulär. Använd dem och kontakta din egen representant och senatorer direkt.</string>
+    <string name="act_world_title" formatted="false">På andra håll i världen</string>
+    <string name="act_groups_title" formatted="false">Grupper för konsument- och digitala rättigheter</string>
+    <string name="act_more_title" formatted="false">Fler sätt att hjälpa till</string>
+    <string name="act_more_body" formatted="false">• Installera F-Droid på dina enheter.\n• Svara på Googles verifieringsenkät för utvecklare.\n• Lägg upp på sociala medier och länka till keepandroidopen.org.\n• Underteckna change.org-uppropet.\n• Lägg till nedräkningsbannern på din webbplats.</string>
+    <string name="act_all_actions" formatted="false">Alla åtgärder på keepandroidopen.org</string>
+    <string name="action_email" formatted="false">E-post</string>
+    <string name="action_open" formatted="false">Öppna</string>
+    <string-array name="us_contact_regions">
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>USA:s justitiedepartementet – Antitrust Division</item>
+        <item>US Federal Trade Commission – Antitrust</item>
+        <item>Hitta din husrepresentant</item>
+        <item>Kontakta dina amerikanska senatorer</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Skicka in en antitrustrapport online.</item>
+        <item>Lämna in ett antitrustklagomål.</item>
+        <item>Kontakta din representant i US House.</item>
+        <item>Hitta och kontakta båda din delstats senatorer.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Europeiska unionen</item>
+        <item>Europeiska unionen</item>
+        <item>Storbritannien</item>
+        <item>Brasilien</item>
+        <item>Singapore</item>
+        <item>Thailand</item>
+        <item>Indonesien</item>
+        <item>Australien</item>
+        <item>Kanada</item>
+        <item>Indien</item>
+        <item>Japan</item>
+        <item>Sydkorea</item>
+        <item>Mexiko</item>
+        <item>Aotearoa / Nya Zeeland</item>
+        <item>Taiwan</item>
+        <item>Schweiz</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU Antitrust (GD COMP)</item>
+        <item>Digital Markets Act-teamet</item>
+        <item>Konkurrens- och marknadsmyndigheten</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Trade Competition Commission (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Konkurrensbyrån Kanada</item>
+        <item>Indiens konkurrenskommission</item>
+        <item>Japan Fair Trade Commission</item>
+        <item>Korea Fair Trade Commission</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>Handelskommissionen</item>
+        <item>Fair Trade Commission</item>
+        <item>Konkurrenskommissionen (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Skicka e-post till Europeiska kommissionens konkurrensmyndighet.</item>
+        <item>Kontakta EU DMA-medborgarhjälpen.</item>
+        <item>Rapportera till UK CMA.</item>
+        <item>Brasilien är i den första tillsynsvågen.</item>
+        <item>Singapore är i den första tillsynsvågen.</item>
+        <item>Thailand är i den första tillsynsvågen.</item>
+        <item>Indonesien är i den första tillsynsvågen.</item>
+        <item>Rapportera till Australian Competition and Consumer Commission.</item>
+        <item>Lämna in ett klagomål till konkurrensmyndigheten.</item>
+        <item>Kontakta CCI angående konkurrensbegränsande beteende.</item>
+        <item>Kontakta JFTC / Mobile Software Competition Act-disken.</item>
+        <item>Kontakta KFTC.</item>
+        <item>Lämna in ett antitrustklagomål i Mexiko.</item>
+        <item>Rapportera konkurrensbegränsande beteende.</item>
+        <item>Kontakta Taiwan FTC.</item>
+        <item>Rapportera olagliga metoder.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Global</item>
+        <item>Global</item>
+        <item>Europa</item>
+        <item>Europa</item>
+        <item>Global</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Foundation</item>
+        <item>Free Software Foundation</item>
+        <item>Free Software Foundation Europe</item>
+        <item>Europeiska digitala rättigheter (EDRI)</item>
+        <item>Software Freedom Conservancy</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>App gatekeeping och internetcensur.</item>
+        <item>Programfrihet och användarkontroll.</item>
+        <item>Programfrihet i Europa.</item>
+        <item>Digital rättighetsförespråkande.</item>
+        <item>Community-driven fri programvara.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">min regering</string>
+    <string name="letter_subject" formatted="false">Stoppa låsningen av Googles Android Developer Verification</string>
+    <string name="letter_template">Bästa %1$s representant,\n\nJag skriver som en bekymrad Android-användare och som medborgare i din jurisdiktion.\n\nGoogles Android Developer Verification-program, som tillämpas från och med den 30 september 2026 på flera marknader och expanderar globalt under 2027, kommer att kräva att varje Android-app registreras hos en centralt verifierad utvecklare innan den kan installeras på certifierade enheter. Utvecklare måste skicka in myndighetsidentifikation, godkänna Googles villkor, betala en avgift och lista alla nuvarande och framtida appidentifierare.\n\nDetta förbättrar inte säkerheten på ett meningsfullt sätt. Det ger ett enskilt privat företag makten att bestämma vilken mjukvara som personer får köra på de enheter de äger, och det hotar oberoende och öppen källkodsdistribution som F-Droid, som inte kan följa och kan upphöra att existera.\n\nJag ber dig med respekt:\n\n1. Undersök om detta program är konkurrensbegränsande och utgör ett missbruk av en portvaktsposition.\n2. Tryck på Google för att undanta öppen källkod och icke-kommersiell distribution och för att hålla sidladdning fri från centraliserad registrering.\n3. Skydda användarnas rätt att köra programvara som de väljer på hårdvara de köpt.\n\nVänligen bekräfta detta meddelande skriftligen och låt mig veta vad ditt kontor vidtar.\n\nJag kopierar också kampanjen Keep Android Open på %2$s.\n\nMed vänlig hälsning,\n[Ditt namn]\n[Din stad och ditt land]</string>
+    <string name="toast_no_app" formatted="false">Ingen app kan öppna denna länk</string>
+    <string name="toast_no_email" formatted="false">Ingen e-postapp är installerad</string>
+    <string name="chooser_send_email" formatted="false">Skicka e-post</string>
+    <string name="chooser_share" formatted="false">Dela</string>
+    <string name="toast_copied" formatted="false">Kopierade till urklipp</string>
+    <string name="settings_title" formatted="false">Inställningar</string>
+    <string name="settings_language_title" formatted="false">Appens språk</string>
+    <string name="settings_language_summary" formatted="false">Välj språket som används av appen. Du kan också ändra det från enhetens inställningar.</string>
+    <string name="settings_system_default" formatted="false">Systemstandard</string>
+    <string name="settings_language_search" formatted="false">Sök efter språk</string>
+    <string name="settings_theme_title" formatted="false">Tema</string>
+    <string name="settings_theme_summary" formatted="false">Välj hur appen ser ut.</string>
+    <string name="theme_system" formatted="false">Följ systemet</string>
+    <string name="theme_light" formatted="false">Ljus</string>
+    <string name="theme_dark" formatted="false">Mörk</string>
+    <string name="theme_amoled" formatted="false">AMOLED (ren svart)</string>
+    <string name="settings_accent_title" formatted="false">Accentfärg</string>
+    <string name="settings_accent_summary" formatted="false">Välj markeringsfärgen som används i appen.</string>
+    <string name="accent_default" formatted="false">Standard (kampanj röd)</string>
+    <string name="accent_red" formatted="false">Röd</string>
+    <string name="accent_orange" formatted="false">Orange</string>
+    <string name="accent_yellow" formatted="false">Gul</string>
+    <string name="accent_green" formatted="false">Grön</string>
+    <string name="accent_teal" formatted="false">Kricka</string>
+    <string name="accent_blue" formatted="false">Blå</string>
+    <string name="accent_purple" formatted="false">Purpur</string>
+    <string name="accent_pink" formatted="false">Rosa</string>
+    <string name="settings_colorblendr_warning" formatted="false">Observera: om ColorBlendr eller annat material som du åsidosätter är aktivt, kanske din accentfärg inte gäller förrän du inaktiverar den.</string>
+    <string name="settings_about_title" formatted="false">Om</string>
+    <string name="settings_version">Version %1$s</string>
+    <string name="settings_open_source" formatted="false">Öppen källkod (MIT). Inte ansluten till eller godkänd av den officiella Keep Android Open-kampanjen.</string>
+</resources>

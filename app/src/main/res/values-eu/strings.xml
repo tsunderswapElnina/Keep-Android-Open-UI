@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Atzerako kontaketa</string>
+    <string name="tab_rollout" formatted="false">Ibilaldia</string>
+    <string name="tab_act_now" formatted="false">Jardu ezazu orain</string>
+    <string name="cd_open_site" formatted="false">Ireki keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Ezarpenak</string>
+    <string name="cd_back" formatted="false">Itzuli</string>
+    <string name="countdown_campaign" formatted="false">Kanpaina atzerako kontaketa</string>
+    <string name="countdown_elapsed" formatted="false">Kanpaina publiko egin zenetik 2027ko urtarrilaren 1era igaro zen denbora.</string>
+    <string name="countdown_what_means" formatted="false">Zer esan nahi du atzerako kontaketa</string>
+    <string name="countdown_read_faq" formatted="false">Irakurri FAQ</string>
+    <string name="countdown_campaign_btn" formatted="false">Kanpaina</string>
+    <string name="countdown_footnote" formatted="false">Atzerako kontaketa helburua keepandroidopen.org webgunean argitaratutako pankartarekin bat dator. Aplikazioa segundoan behin eguneratzen da irekita dagoen bitartean.</string>
+    <string name="countdown_expired" formatted="false">ANDROID BLOKEATUTAKO PLATAFORMA DA ORAIN</string>
+    <string name="countdown_running" formatted="false">ANDROID PLATAFORMA BERRATU BIDERATZEN DA</string>
+    <string name="unit_days" formatted="false">egunak</string>
+    <string name="unit_hours" formatted="false">orduak</string>
+    <string name="unit_minutes" formatted="false">minutuak</string>
+    <string name="unit_seconds" formatted="false">segundoak</string>
+    <string name="rollout_title" formatted="false">Zer da Android Garatzaileen Egiaztapena?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Benetan esan nahi duena</string>
+    <string name="rollout_timeline_title" formatted="false">Inplementazioaren kronograma</string>
+    <string name="rollout_paths_title" formatted="false">Aukeratu zure egiaztapen-bidea</string>
+    <string name="rollout_advanced_title" formatted="false">\"Flux aurreratua\" ez da irtenbidea</string>
+    <string name="rollout_dev_page" formatted="false">Google-ren garatzaileen orri ofiziala</string>
+    <string name="rollout_open_letter" formatted="false">Irakurri gutun irekia</string>
+    <string name="label_identity" formatted="false">Identitatea</string>
+    <string name="label_distribution" formatted="false">Banaketa</string>
+    <string name="label_ux" formatted="false">Erabiltzaile esperientzia</string>
+    <string name="label_best_for" formatted="false">Onena</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification aplikazio guztiak egiaztatutako garatzaile-identitate batekin lotzen dituen Google programa da, egiaztatutako Android gailuetan instalatu aurretik. Garatzaileek nor diren egiaztatu eta argitaratzen dituzten pakete-izenak erregistratu behar dituzte. Erregistratutako eta egiaztatutako garatzailerik ez duten aplikazioak ezin dira gehiago modu arruntean instalatu babesak zabaldu ondoren.</string>
+    <string name="rollout_what_it_means" formatted="false">Gogorrena da banaketa independente eta kode irekian, hala nola F-Droid, APK deskarga zuzenak eta zaletasun proiektuetan. Google-k dio segurtasuna eta malware anonimoa geldiaraztea dela. Keep Android Open kanpaina, F-Droid eta EFF, besteak beste, kritikoek diote atezainaren hilketa-etengailu bat dela: erregistro zentrala, gobernuaren IDa, kuota bat eta zure gailuak fidagarria denaren gaineko kontrol osoa.</string>
+    <string name="rollout_advanced_note" formatted="false">Fluxu aurreratua Google Play zerbitzuen bidez ematen da, ez Android OS, beraz Google-k edozein unetan aldatu, mugatu edo kendu dezake sistema eragilearen eguneratzerik edo erabiltzailearen baimenik gabe. 24 orduko atzerapena nahita eten egiten du eta zure eta exekutatu nahi duzun softwarearen artean dagoen urrats bat gehiago da.</string>
+    <string-array name="timeline_dates">
+        <item>2025eko abuztuaren 25a</item>
+        <item>2026ko martxoaren 19a</item>
+        <item>2026ko ekaina</item>
+        <item>2026ko ekainaren 18a</item>
+        <item>2026ko uztaila</item>
+        <item>2026ko abuztua</item>
+        <item>2026ko irailaren 30a</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Egitaraua iragarrita dago</item>
+        <item>\"Emari aurreratua\" agerian geratzen da</item>
+        <item>Android Developer Verifier gailuetara bidaltzen da</item>
+        <item>Hasierako abiarazpena baieztatu da</item>
+        <item>Garatzaileen APIak irekitzen dira</item>
+        <item>Kontsola globala, kontu mugatuak, fluxu aurreratua</item>
+        <item>Betearazpena lau herrialdetan hasten da</item>
+        <item>Hedapen globala</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google-k jakinarazten du 2027tik aurrera Android-erako aplikazioak egiaztatutako garatzaile batean erregistratu behar direla, Google Play-tik kanpo instalatutako aplikazioak barne.</item>
+        <item>Erabiltzaile boteretsuak nahita astuna den ihes-estotila lortzen dute: gaitu Garatzaileen Aukerak, berretsi ez zarela behartuta, berrabiarazi eta 24 ordu itxaron egiaztatu gabeko instalazioak baimendu aurretik.</item>
+        <item>Atzeko planoko sistema-zerbitzu bat (com.google.android.verifier) ​​Google System Updates-en bidez bidaltzen da ziurtatutako gailuetara eta inaktibatuta egongo da indarrean dagoen arte.</item>
+        <item>Google-k baieztatu du betearaztea 2026ko irailaren 30ean hasiko dela zazpi dendatan eta lau herrialdetan.</item>
+        <item>Android Developer ID Status APIa mundu osoan abiarazten da eta Android Developer Console APIrako eta banaketa-kontu mugatuetarako sarbidea goiztiarra hasten da.</item>
+        <item>Banaketa-kontu mugatuak (doan, 20 gailu gehienez, gobernu-identifikaziorik gabe) eta kontsolaren APIa mundu osoan abiarazten dute. Egiaztatu gabeko albo-kargarako fluxu aurreratua zabaltzen hasten da.</item>
+        <item>Babesak martxan jartzen dira Brasil, Indonesia, Singapur eta Thailandiako erabiltzaileentzat Android 7+ bertsioa duten gailu ziurtatuetan. Egiaztatu gabeko garatzaileen aplikazioak blokeatuta daude parte hartzen duten dendetan: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore eta GetApps.</item>
+        <item>Egiaztapena aplikazio eta eskualde guztietara hedatzen da. Mantendu Android irekita 2027ko urtarrilaren 1era arte, Android blokeatutako plataforma bihurtzen denean.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Banaketa osoa</item>
+        <item>Banaketa mugatua</item>
+        <item>Erregistratu gabeko aplikazioak alboko kargatzea</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Bai — gobernuaren NAN eta kuota</item>
+        <item>Ez: ez dago NAN edo matrikula-kuotarik</item>
+        <item>Ez, baina marruskadura handia</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Aukeratzen duzun edozein denda edo kanal</item>
+        <item>Gehienez 20 gailu QR kodearen bidez edo estekaren eskutik</item>
+        <item>ADB (salbuetsita) edo fluxu aurreratua</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Ez da ezer aldatzen zure erabiltzaileentzat</item>
+        <item>Erabiltzaileek ezagutzen duten garatzaile baten instalatzeko gonbidapena onartzen dute</item>
+        <item>Garatzaileen aukerak, berrabiarazi, 24 orduko itxaron eta gero instalatu hala ere</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Erakundeak eta garatzaile profesionalak</item>
+        <item>Ikasleak, zaletuak eta erabilera pertsonala</item>
+        <item>Egiaztatu gabeko garatzaileak eta erabiltzaile indartsuak</item>
+    </string-array>
+    <string name="act_title" formatted="false">Jardu ezazu orain: entzun ezazu zure ahotsa</string>
+    <string name="act_intro">Arautzaileek kaltetutako pertsonen berri izan nahi dute. Izan adeitsu eta zehatza, idatzi harremanetan jartzen zaren erakundeko hizkuntza ofizial batean, eskatu idatzizko aitorpena eta kopiatu %1$s kanpainak garaipenen jarraipena egin dezan.</string>
+    <string name="act_open_composer" formatted="false">Ireki posta elektronikoaren konpositorea</string>
+    <string name="act_copy" formatted="false">Kopiatu</string>
+    <string name="act_share" formatted="false">Partekatu</string>
+    <string name="act_clipboard_label" formatted="false">Mantendu Android Open gutuna</string>
+    <string name="act_us_title" formatted="false">Estatu Batuak: mezu elektroniko bat gobernuari</string>
+    <string name="act_us_intro" formatted="false">Justizia Sailak eta FTCk lineako inprimakien bidez hartzen dituzte lehiaren aurkako txostenak. Erabili itzazu eta jarri harremanetan zuzenean zure ordezkariarekin eta senatariekin.</string>
+    <string name="act_world_title" formatted="false">Munduko beste leku batzuetan</string>
+    <string name="act_groups_title" formatted="false">Kontsumitzaileen eta eskubide digitalen taldeak</string>
+    <string name="act_more_title" formatted="false">Laguntzeko modu gehiago</string>
+    <string name="act_more_body" formatted="false">• Instalatu F-Droid zure gailuetan.\n• Erantzun Google-ren garatzaileen egiaztapen-inkestari.\n• Sare sozialetan argitaratu eta keepandroidopen.org-era estekatu.\n• Sinatu change.org eskaera.\n• Gehitu atzerako kontaketa pankarta zure webgunean.</string>
+    <string name="act_all_actions" formatted="false">Ekintza guztiak keepandroidopen.org webgunean</string>
+    <string name="action_email" formatted="false">Posta elektronikoa</string>
+    <string name="action_open" formatted="false">Ireki</string>
+    <string-array name="us_contact_regions">
+        <item>Estatu Batuak</item>
+        <item>Estatu Batuak</item>
+        <item>Estatu Batuak</item>
+        <item>Estatu Batuak</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>AEBetako Justizia Saila - Lege Antitrustaren Dibisioa</item>
+        <item>AEBetako Merkataritza Batzorde Federala - Lehiakortasunaren aurkakoa</item>
+        <item>Aurkitu zure Ganberako ordezkaria</item>
+        <item>Jarri harremanetan AEBetako senatariekin</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Bidali trustaren aurkako txostena sarean.</item>
+        <item>Aurkeztu monopolioaren aurkako salaketa.</item>
+        <item>Jarri harremanetan AEBetako Etxeko ordezkariarekin.</item>
+        <item>Bilatu eta jarri harremanetan zure estatuko bi senatariekin.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Europar Batasuna</item>
+        <item>Europar Batasuna</item>
+        <item>Erresuma Batua</item>
+        <item>Brasil</item>
+        <item>Singapur</item>
+        <item>Thailandia</item>
+        <item>Indonesia</item>
+        <item>Australia</item>
+        <item>Kanada</item>
+        <item>India</item>
+        <item>Japonia</item>
+        <item>Hego Korea</item>
+        <item>Mexiko</item>
+        <item>Aotearoa / Zelanda Berria</item>
+        <item>Taiwan</item>
+        <item>Suitza</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>Europar Batasuneko Konfiantza Antikoa (DG COMP)</item>
+        <item>Digital Markets Act taldea</item>
+        <item>Lehiaren eta Merkatuen Agintaritza</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Merkataritza Lehiaren Batzordea (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Lehiaketa Bulegoa Kanada</item>
+        <item>Indiako Lehiaren Batzordea</item>
+        <item>Japoniako Bidezko Merkataritzaren Batzordea</item>
+        <item>Korea Bidezko Merkataritzaren Batzordea</item>
+        <item>Monopolioaren aurkako Batzorde Nazionala</item>
+        <item>Merkataritza Batzordea</item>
+        <item>Bidezko Merkataritzaren Batzordea</item>
+        <item>Lehiaketa Batzordea (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Posta elektronikoz bidali Europako Batzordeko lehia-agintaritzari.</item>
+        <item>Jarri harremanetan EU DMA herritarren laguntza-zerbitzuarekin.</item>
+        <item>Erresuma Batuko CMAri jakinarazi.</item>
+        <item>Brasil lehen betearazpen olatuan dago.</item>
+        <item>Singapur lehen betearazpen olatuan dago.</item>
+        <item>Thailandia lehen betearazpen olatuan dago.</item>
+        <item>Indonesia lehen betearazpen olatuan dago.</item>
+        <item>Txostena Australiako Lehiaren eta Kontsumo Batzordeari.</item>
+        <item>Erreklamazioa aurkeztu Lehiaren Bulegoan.</item>
+        <item>Jarri harremanetan CCIrekin lehiaren aurkako jokabideei buruz.</item>
+        <item>Jarri harremanetan JFTC / Mobile Software Competition Act bulegoarekin.</item>
+        <item>Jarri harremanetan KFTC-rekin.</item>
+        <item>Konfiantza-kontrako salaketa jarri Mexikon.</item>
+        <item>Lehiaren aurkako jokabideen berri ematea.</item>
+        <item>Jarri harremanetan Taiwaneko FTC-rekin.</item>
+        <item>Legez kanpoko praktikak salatu.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Globala</item>
+        <item>Globala</item>
+        <item>Europa</item>
+        <item>Europa</item>
+        <item>Globala</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Fundazioa</item>
+        <item>Free Software Foundation</item>
+        <item>Free Software Foundation Europe</item>
+        <item>Europako Eskubide Digitalak (EDRi)</item>
+        <item>Software Freedom Conservancy</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Aplikazioen atea eta Interneteko zentsura.</item>
+        <item>Software askatasuna eta erabiltzaileen kontrola.</item>
+        <item>Software askatasuna Europan.</item>
+        <item>Eskubide digitalen defentsa.</item>
+        <item>Komunitateak bultzatutako software librea.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">nire gobernua</string>
+    <string name="letter_subject" formatted="false">Gelditu Google-ren Android Garatzaileen Egiaztapenaren blokeoa</string>
+    <string name="letter_template">%1$s ordezkari agurgarria:\n\nAndroid erabiltzaile kezkatu gisa eta zure jurisdikzioko herritar gisa idazten ari naiz.\n\nGoogle-ren Android Garatzaileen Egiaztapen-programak, 2026ko irailaren 30etik aurrera hainbat merkatutan ezarri eta 2027an mundu osoan hedatuko denak, Android-eko aplikazio guztiak zentralki egiaztatutako garatzaile batean erregistratu beharko ditu gailu ziurtatuetan instalatu ahal izateko. Garatzaileek gobernuaren identifikazioa aurkeztu behar dute, Google-ren baldintzak onartu, kuota bat ordaindu eta uneko eta etorkizuneko aplikazioen identifikatzaile guztiak zerrendatu behar dituzte.\n\nHorrek ez du segurtasuna nabarmen hobetzen. Konpainia pribatu bakar bati ematen dio eskumena nork bere gailuetan exekutatzeko baimena duten software pertsonek erabakitzeko, eta mehatxatzen du F-Droid bezalako banaketa independente eta kode irekikoa, bete ezin duena eta existitzeari utzi diezaiokeena.\n\nErrespetuz eskatzen dizut:\n\n1. Ikertu ea programa hau lehiaren aurkakoa den eta atezainen postuaren gehiegikeria den.\n2. Sakatu Google kode irekiko eta komertziala ez den banaketa salbuesteko eta alboko kargak erregistro zentralizaturik gabe mantentzeko.\n3. Babestu erabiltzaileek erositako hardwarean aukeratzen duten softwarea exekutatzeko duten eskubidea.\n\nMesedez, onartu mezu hau idatziz eta esan iezadazu zure bulegoak zer ekintza egiten duen.\n\nKeep Android Open kanpaina ere kopiatzen ari naiz %2$s helbidean.\n\nBihotzez,\n[Zure izena]\n[Zure hiria eta herrialdea]</string>
+    <string name="toast_no_app" formatted="false">Aplikazio batek ezin du esteka hau ireki</string>
+    <string name="toast_no_email" formatted="false">Ez dago posta elektronikoko aplikaziorik instalatuta</string>
+    <string name="chooser_send_email" formatted="false">Bidali mezu elektronikoa</string>
+    <string name="chooser_share" formatted="false">Partekatu</string>
+    <string name="toast_copied" formatted="false">Arbelean kopiatu da</string>
+    <string name="settings_title" formatted="false">Ezarpenak</string>
+    <string name="settings_language_title" formatted="false">Aplikazioaren hizkuntza</string>
+    <string name="settings_language_summary" formatted="false">Aukeratu aplikazioak erabiltzen duen hizkuntza. Zure gailuaren ezarpenetatik ere alda dezakezu.</string>
+    <string name="settings_system_default" formatted="false">Sistema lehenetsia</string>
+    <string name="settings_language_search" formatted="false">Bilatu hizkuntzak</string>
+    <string name="settings_theme_title" formatted="false">Gaia</string>
+    <string name="settings_theme_summary" formatted="false">Aukeratu aplikazioaren itxura.</string>
+    <string name="theme_system" formatted="false">Jarraitu sistema</string>
+    <string name="theme_light" formatted="false">Argia</string>
+    <string name="theme_dark" formatted="false">Iluna</string>
+    <string name="theme_amoled" formatted="false">AMOLED (beltza hutsa)</string>
+    <string name="settings_accent_title" formatted="false">Azentu kolorea</string>
+    <string name="settings_accent_summary" formatted="false">Aukeratu aplikazioan erabilitako kolore nabarmena.</string>
+    <string name="accent_default" formatted="false">Lehenetsia (kanpaina gorria)</string>
+    <string name="accent_red" formatted="false">Gorria</string>
+    <string name="accent_orange" formatted="false">Laranja</string>
+    <string name="accent_yellow" formatted="false">Horia</string>
+    <string name="accent_green" formatted="false">Berdea</string>
+    <string name="accent_teal" formatted="false">Zertzeta</string>
+    <string name="accent_blue" formatted="false">Urdina</string>
+    <string name="accent_purple" formatted="false">Morea</string>
+    <string name="accent_pink" formatted="false">Arrosa</string>
+    <string name="settings_colorblendr_warning" formatted="false">Adi: ColorBlendr edo gainidazten duzun beste material bat aktibo badago, baliteke zure azentu kolorea ez aplikatzea desgaitu arte.</string>
+    <string name="settings_about_title" formatted="false">Buruz</string>
+    <string name="settings_version">%1$s bertsioa</string>
+    <string name="settings_open_source" formatted="false">Kode irekia (MIT). Keep Android Open kanpaina ofizialarekin afiliatuta edo babestuta ez dago.</string>
+</resources>

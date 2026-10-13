@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Visszaszámlálás</string>
+    <string name="tab_rollout" formatted="false">A kiterjesztés</string>
+    <string name="tab_act_now" formatted="false">Cselekedj most</string>
+    <string name="cd_open_site" formatted="false">Nyissa meg a keepandroidopen.org-ot</string>
+    <string name="cd_settings" formatted="false">Beállítások elemre</string>
+    <string name="cd_back" formatted="false">Vissza</string>
+    <string name="countdown_campaign" formatted="false">Kampány visszaszámlálás</string>
+    <string name="countdown_elapsed" formatted="false">A kampány 2027. január 1-jei nyilvánossá tétele óta eltelt idő.</string>
+    <string name="countdown_what_means" formatted="false">Mit jelent a visszaszámlálás</string>
+    <string name="countdown_read_faq" formatted="false">Olvassa el a GYIK-et</string>
+    <string name="countdown_campaign_btn" formatted="false">A kampány</string>
+    <string name="countdown_footnote" formatted="false">A visszaszámlálás célja megegyezik a keepandroidopen.org oldalon közzétett szalaghirdetéssel. Az alkalmazás másodpercenként egyszer frissül, amíg nyitva van.</string>
+    <string name="countdown_expired" formatted="false">AZ ANDROID MOST EGY LEZÁRVA PLATFORM</string>
+    <string name="countdown_running" formatted="false">AZ ANDROID LEZÁRT PLATFORMÁ VÁL</string>
+    <string name="unit_days" formatted="false">napokon</string>
+    <string name="unit_hours" formatted="false">óra</string>
+    <string name="unit_minutes" formatted="false">jegyzőkönyv</string>
+    <string name="unit_seconds" formatted="false">másodpercig</string>
+    <string name="rollout_title" formatted="false">Mi az Android fejlesztői ellenőrzés?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Mit jelent valójában</string>
+    <string name="rollout_timeline_title" formatted="false">A közzétételi idővonal</string>
+    <string name="rollout_paths_title" formatted="false">Válassza ki az ellenőrzési útvonalat</string>
+    <string name="rollout_advanced_title" formatted="false">A „fejlett áramlás” nem megoldás</string>
+    <string name="rollout_dev_page" formatted="false">A Google hivatalos fejlesztői oldala</string>
+    <string name="rollout_open_letter" formatted="false">Olvasd el a nyílt levelet</string>
+    <string name="label_identity" formatted="false">Identitás</string>
+    <string name="label_distribution" formatted="false">Elosztás</string>
+    <string name="label_ux" formatted="false">Felhasználói élmény</string>
+    <string name="label_best_for" formatted="false">A legjobb</string>
+    <string name="rollout_summary" formatted="false">Az Android Developer Verification egy olyan Google-program, amely minden alkalmazást egy ellenőrzött fejlesztői személyazonossághoz kapcsol, mielőtt telepíthető lenne tanúsított Android-eszközökre. A fejlesztőknek ellenőrizniük kell, hogy kik ők, és regisztrálniuk kell az általuk közzétett csomagneveket. A regisztrált, ellenőrzött fejlesztővel nem rendelkező alkalmazások a védelmek bevezetése után már nem telepíthetők a szokásos módon.</string>
+    <string name="rollout_what_it_means" formatted="false">A legnehezebben a független és nyílt forráskódú terjesztéseknél, például az F-Droidnál, a közvetlen APK-letöltéseknél és a hobbiprojekteknél éri el. A Google szerint a biztonságról és az anonim rosszindulatú programok leállításáról van szó. A kritikusok, beleértve a Keep Android Open kampányt, az F-Droidot és az EFF-et, azt mondják, hogy ez egy gatekeeper kill switch: központi regisztráció, állami azonosító, díj és teljes körű ellenőrzés a felett, hogy miben bízhat meg az eszköz.</string>
+    <string name="rollout_advanced_note" formatted="false">A speciális folyamat a Google Play-szolgáltatásokon keresztül történik, nem az Android operációs rendszeren, így a Google bármikor módosíthatja, korlátozhatja vagy eltávolíthatja azt az operációs rendszer frissítése vagy a felhasználó beleegyezése nélkül. A 24 órás késleltetés szándékosan zavaró, és egy újabb lépés, amely Ön és a futtatni kívánt szoftver között áll.</string>
+    <string-array name="timeline_dates">
+        <item>2025. augusztus 25</item>
+        <item>2026. március 19</item>
+        <item>2026. június</item>
+        <item>2026. június 18</item>
+        <item>2026. július</item>
+        <item>2026. augusztus</item>
+        <item>2026. szeptember 30</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>A programot meghirdetik</item>
+        <item>A „fejlett áramlás” feltárul</item>
+        <item>Az Android Developer Verifier az eszközökre érkezik</item>
+        <item>Az első indítás megerősítve</item>
+        <item>Megnyílnak a fejlesztői API-k</item>
+        <item>Globális konzol, korlátozott fiókok, speciális áramlás</item>
+        <item>A végrehajtás négy országban kezdődik</item>
+        <item>Globális bevezetés</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>A Google bejelentette, hogy 2027-től az Android-alkalmazásokat egy ellenőrzött fejlesztőnél kell regisztrálni, beleértve a Google Playen kívül telepített alkalmazásokat is.</item>
+        <item>A tapasztalt felhasználók szándékosan nehézkes menekülési nyílást kapnak: engedélyezze a Fejlesztői beállításokat, ellenőrizze, hogy nem kényszerítik rá, indítsa újra, majd várjon 24 órát, mielőtt engedélyezheti az ellenőrizetlen telepítéseket.</item>
+        <item>A Google rendszerfrissítéseken keresztül egy háttérrendszer-szolgáltatás (com.google.android.verifier) ​​kerül át a tanúsított eszközökre, és a végrehajtásig alvó állapotban marad.</item>
+        <item>A Google megerősíti, hogy a betartatás 2026. szeptember 30-án kezdődik hét üzletben és négy országban.</item>
+        <item>Az Android Developer ID Status API globálisan elindul, és megkezdődik a korai hozzáférés az Android Developer Console API-hoz és a korlátozott terjesztési fiókokhoz.</item>
+        <item>Korlátozott terjesztési fiókok (ingyenes, legfeljebb 20 eszköz, kormányzati azonosító nélkül) és a Console API világszerte elindul. Megkezdődik a nem ellenőrzött oldalbetöltés fejlett folyama.</item>
+        <item>A védelmek életbe lépnek Brazíliában, Indonéziában, Szingapúrban és Thaiföldön az Android 7+ rendszert futtató, tanúsítvánnyal rendelkező eszközökön. A nem ellenőrzött fejlesztőktől származó alkalmazások le vannak tiltva a résztvevő üzletekben: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore és GetApps.</item>
+        <item>Az ellenőrzés minden alkalmazásra és régióra kiterjed. Az Android Open megtartása 2027. január 1-jéig számol, amikor is az Android zárolt platformmá válik.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Teljes terjesztés</item>
+        <item>Korlátozott forgalmazás</item>
+        <item>Nem regisztrált alkalmazások oldalbetöltése</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Igen – állami igazolvány és díj</item>
+        <item>Nem – nincs azonosító vagy regisztrációs díj</item>
+        <item>Nem – de nagy a súrlódás</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Bármelyik üzlet vagy csatorna, amelyet választott</item>
+        <item>Akár 20 eszköz QR-kóddal vagy link kézfogással</item>
+        <item>ADB (mentes) vagy a speciális folyamat</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Semmi sem változik a felhasználók számára</item>
+        <item>A felhasználók elfogadják egy általuk ismert fejlesztő telepítési meghívását</item>
+        <item>Fejlesztői beállítások, újraindítás, 24 órás várakozás, majd telepítés</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Szervezetek és szakmai fejlesztők</item>
+        <item>Diákok, amatőrök és személyes használatra</item>
+        <item>Ellenőrizetlen fejlesztők és gyakorlott felhasználók</item>
+    </string-array>
+    <string name="act_title" formatted="false">Cselekedjen most – hallassa a hangját</string>
+    <string name="act_intro">A szabályozók hallani akarnak az érintett személyektől. Legyen udvarias és konkrét, írjon annak a szervnek a hivatalos nyelvén, amellyel kapcsolatba lép, kérjen írásbeli elismervényt, és másolja be a %1$s fájlt, hogy a kampány nyomon tudja követni a győzelmeket.</string>
+    <string name="act_open_composer" formatted="false">Nyissa meg az e-mail-írót</string>
+    <string name="act_copy" formatted="false">Másolat</string>
+    <string name="act_share" formatted="false">Részesedés</string>
+    <string name="act_clipboard_label" formatted="false">Tartsa Android Nyitott levelet</string>
+    <string name="act_us_title" formatted="false">Egyesült Államok – e-mailt a kormánynak</string>
+    <string name="act_us_intro" formatted="false">Az Igazságügyi Minisztérium és az FTC online űrlapokon keresztül fogadja el a trösztellenes jelentéseket. Használja őket, és forduljon közvetlenül saját képviselőjéhez és szenátoraihoz.</string>
+    <string name="act_world_title" formatted="false">Máshol a világon</string>
+    <string name="act_groups_title" formatted="false">Fogyasztói és digitális jogi csoportok</string>
+    <string name="act_more_title" formatted="false">További segítségnyújtási módok</string>
+    <string name="act_more_body" formatted="false">• Telepítse az F-Droidot eszközeire.\n• Válaszoljon a Google fejlesztői ellenőrző felmérésére.\n• Tegye közzé a közösségi médiában, és hivatkozzon a keepandroidopen.org webhelyre.\n• Írja alá a change.org petíciót.\n• Adja hozzá a visszaszámláló szalaghirdetést a webhelyéhez.</string>
+    <string name="act_all_actions" formatted="false">Minden művelet a keepandroidopen.org webhelyen</string>
+    <string name="action_email" formatted="false">Email</string>
+    <string name="action_open" formatted="false">Nyitott</string>
+    <string-array name="us_contact_regions">
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Az Egyesült Államok Igazságügyi Minisztériuma – Trösztellenes osztály</item>
+        <item>Amerikai Szövetségi Kereskedelmi Bizottság – Antitröszt</item>
+        <item>Keresse meg a ház képviselőjét</item>
+        <item>Lépjen kapcsolatba az Egyesült Államok szenátoraival</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Trösztellenes jelentés benyújtása online.</item>
+        <item>Trösztellenes panasz benyújtása.</item>
+        <item>Lépjen kapcsolatba a képviselőjével az Egyesült Államok Házában.</item>
+        <item>Keresse meg és vegye fel a kapcsolatot állama mindkét szenátorával.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Európai Unió</item>
+        <item>Európai Unió</item>
+        <item>Egyesült Királyság</item>
+        <item>Brazília</item>
+        <item>Szingapúr</item>
+        <item>Thaiföld</item>
+        <item>Indonézia</item>
+        <item>Ausztrália</item>
+        <item>Kanada</item>
+        <item>India</item>
+        <item>Japán</item>
+        <item>Dél-Korea</item>
+        <item>Mexikó</item>
+        <item>Aotearoa / Új-Zéland</item>
+        <item>Tajvan</item>
+        <item>Svájc</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU Antitröszt (DG COMP)</item>
+        <item>A Digital Markets Act csapata</item>
+        <item>Verseny- és Piacfelügyelet</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Kereskedelmi Versenybizottság (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Kanadai Versenyhivatal</item>
+        <item>Indiai Versenybizottság</item>
+        <item>Japán Fair Trade Commission</item>
+        <item>Korea Fair Trade Commission</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>Kereskedelmi Bizottság</item>
+        <item>Fair Trade Commission</item>
+        <item>Versenybizottság (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>E-mail küldése az Európai Bizottság versenyhatóságának.</item>
+        <item>Lépjen kapcsolatba az EU DMA állampolgári ügyfélszolgálatával.</item>
+        <item>Jelentés az Egyesült Királyság CMA-jának.</item>
+        <item>Brazília az első végrehajtási hullámban van.</item>
+        <item>Szingapúr az első végrehajtási hullámban van.</item>
+        <item>Thaiföld az első végrehajtási hullámban van.</item>
+        <item>Indonézia az első végrehajtási hullámban van.</item>
+        <item>Jelentés az Ausztrál Verseny- és Fogyasztóvédelmi Bizottságnak.</item>
+        <item>Tegyen panaszt a Versenyhivatalnál.</item>
+        <item>Versenyellenes magatartással kapcsolatban forduljon a CCI-hez.</item>
+        <item>Lépjen kapcsolatba a JFTC / Mobile Software Competition Act pultjával.</item>
+        <item>Vegye fel a kapcsolatot a KFTC-vel.</item>
+        <item>Trösztellenes panasz benyújtása Mexikóban.</item>
+        <item>Versenyellenes magatartás bejelentése.</item>
+        <item>Vegye fel a kapcsolatot a tajvani FTC-vel.</item>
+        <item>Jelentse a jogellenes gyakorlatokat.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Globális</item>
+        <item>Globális</item>
+        <item>Európa</item>
+        <item>Európa</item>
+        <item>Globális</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Foundation</item>
+        <item>Szabad Szoftver Alapítvány</item>
+        <item>Free Software Foundation Europe</item>
+        <item>Európai digitális jogok (EDRI)</item>
+        <item>Software Freedom Conservancy</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Alkalmazáskapu-őrzés és internetes cenzúra.</item>
+        <item>Szoftverszabadság és felhasználói kontroll.</item>
+        <item>Szoftverszabadság Európában.</item>
+        <item>Digitális jogok képviselete.</item>
+        <item>Közösség által vezérelt ingyenes szoftver.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">a kormányom</string>
+    <string name="letter_subject" formatted="false">Állítsa le a Google Android fejlesztői ellenőrzési zárolását</string>
+    <string name="letter_template">Kedves %1$s képviselő!\n\nAggódó Android-felhasználóként és az Ön joghatósága alá tartozó állampolgárként írok.\n\nA Google Android Developer Verification programja, amelyet 2026. szeptember 30-tól vezetnek be több piacon, és 2027-ben globálisan kibővül, minden Android-alkalmazást regisztrálni kell egy központilag ellenőrzött fejlesztőnél, mielőtt telepíthető lenne a tanúsított eszközökre. A fejlesztőknek be kell nyújtaniuk a hivatalos személyazonosító okmányt, el kell fogadniuk a Google feltételeit, díjat kell fizetniük, és felsorolniuk kell minden jelenlegi és jövőbeni alkalmazásazonosítót.\n\nEz érdemben nem javítja a biztonságot. Egyetlen magáncéget ruház át annak eldöntésére, hogy az emberek mely szoftvereket futtathatják a tulajdonukban lévő eszközökön, és veszélyezteti a független és nyílt forráskódú terjesztést, például az F-Droidot, amely nem tud megfelelni, és megszűnhet.\n\nTisztelettel kérem, hogy:\n\n1. Vizsgálja meg, hogy ez a program versenyellenes-e, és visszaélés-e a kapuőr pozíciójával.\n2. Nyomja meg a Google-t, hogy mentesítse a nyílt forráskódú és a nem kereskedelmi terjesztést, és hogy a sideloading mentes legyen a központosított regisztrációtól.\n3. Védje meg a felhasználók azon jogát, hogy általuk választott szoftvert futtathassanak a megvásárolt hardveren.\n\nKérjük, írásban fogadja ezt az üzenetet, és tudassa velem, milyen lépéseket tesz az irodája.\n\nMásolom a Keep Android Open kampányt is itt: %2$s.\n\nTisztelettel:\n[a neved]\n[Az Ön városa és országa]</string>
+    <string name="toast_no_app" formatted="false">Ezt a linket egyetlen alkalmazás sem tudja megnyitni</string>
+    <string name="toast_no_email" formatted="false">Nincs telepítve e-mail alkalmazás</string>
+    <string name="chooser_send_email" formatted="false">E-mail küldése</string>
+    <string name="chooser_share" formatted="false">Részesedés</string>
+    <string name="toast_copied" formatted="false">Vágólapra másolva</string>
+    <string name="settings_title" formatted="false">Beállítások elemre</string>
+    <string name="settings_language_title" formatted="false">Alkalmazás nyelve</string>
+    <string name="settings_language_summary" formatted="false">Válassza ki az alkalmazás által használt nyelvet. Az eszköz beállításaiban is módosíthatja.</string>
+    <string name="settings_system_default" formatted="false">Rendszer alapértelmezett</string>
+    <string name="settings_language_search" formatted="false">Nyelvek keresése</string>
+    <string name="settings_theme_title" formatted="false">Téma</string>
+    <string name="settings_theme_summary" formatted="false">Válassza ki az alkalmazás megjelenését.</string>
+    <string name="theme_system" formatted="false">Kövesse a rendszert</string>
+    <string name="theme_light" formatted="false">Fény</string>
+    <string name="theme_dark" formatted="false">Sötét</string>
+    <string name="theme_amoled" formatted="false">AMOLED (tiszta fekete)</string>
+    <string name="settings_accent_title" formatted="false">Kiemelt szín</string>
+    <string name="settings_accent_summary" formatted="false">Válassza ki az alkalmazásban használt kiemelő színt.</string>
+    <string name="accent_default" formatted="false">Alapértelmezett (kampány piros)</string>
+    <string name="accent_red" formatted="false">Piros</string>
+    <string name="accent_orange" formatted="false">Narancs</string>
+    <string name="accent_yellow" formatted="false">Sárga</string>
+    <string name="accent_green" formatted="false">Zöld</string>
+    <string name="accent_teal" formatted="false">Böjti réce</string>
+    <string name="accent_blue" formatted="false">Kék</string>
+    <string name="accent_purple" formatted="false">Lila</string>
+    <string name="accent_pink" formatted="false">Rózsaszín</string>
+    <string name="settings_colorblendr_warning" formatted="false">Figyelem: ha a ColorBlendr vagy más felülbírált anyag aktív, előfordulhat, hogy a kiemelő szín nem érvényesül, amíg le nem tiltja.</string>
+    <string name="settings_about_title" formatted="false">Körülbelül</string>
+    <string name="settings_version">%1$s verzió</string>
+    <string name="settings_open_source" formatted="false">Nyílt forráskódú (MIT). Nem áll kapcsolatban a hivatalos Keep Android Open kampánnyal, és nem támogatja azt.</string>
+</resources>

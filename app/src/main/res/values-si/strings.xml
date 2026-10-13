@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">ගණන් කිරීම</string>
+    <string name="tab_rollout" formatted="false">පෙරළීම</string>
+    <string name="tab_act_now" formatted="false">දැන් ක්‍රියා කරන්න</string>
+    <string name="cd_open_site" formatted="false">Keepandroidopen.org විවෘත කරන්න</string>
+    <string name="cd_settings" formatted="false">සැකසීම්</string>
+    <string name="cd_back" formatted="false">ආපසු</string>
+    <string name="countdown_campaign" formatted="false">ව්‍යාපාරය ගණන් කිරීම</string>
+    <string name="countdown_elapsed" formatted="false">ප්‍රචාරණය 2027 ජනවාරි 1 දක්වා ප්‍රසිද්ධියට පත් වූ දා සිට කාලය ගෙවී ගියේය.</string>
+    <string name="countdown_what_means" formatted="false">ගණන් කිරීම යන්නෙන් අදහස් කරන්නේ කුමක්ද?</string>
+    <string name="countdown_read_faq" formatted="false">නිතර අසන පැන කියවන්න</string>
+    <string name="countdown_campaign_btn" formatted="false">උද්ඝෝෂණය</string>
+    <string name="countdown_footnote" formatted="false">ගණන් කිරීමේ ඉලක්කය Keepandroidopen.org හි ප්‍රකාශිත බැනරයට ගැලපේ. යෙදුම විවෘතව තිබියදී තත්පරයකට වරක් යාවත්කාලීන වේ.</string>
+    <string name="countdown_expired" formatted="false">ඇන්ඩ්‍රොයිඩ් දැන් අගුලු දමා ඇති වේදිකාවකි</string>
+    <string name="countdown_running" formatted="false">ඇන්ඩ්‍රොයිඩ් අගුලු දැමූ වේදිකාවක් බවට පත්වේ</string>
+    <string name="unit_days" formatted="false">දින</string>
+    <string name="unit_hours" formatted="false">පැය</string>
+    <string name="unit_minutes" formatted="false">මිනිත්තු</string>
+    <string name="unit_seconds" formatted="false">තත්පර</string>
+    <string name="rollout_title" formatted="false">Android Developer Verification යනු කුමක්ද?</string>
+    <string name="rollout_what_it_means_title" formatted="false">ඇත්තටම එහි තේරුම කුමක්ද</string>
+    <string name="rollout_timeline_title" formatted="false">පෙරළීමේ කාලරාමුව</string>
+    <string name="rollout_paths_title" formatted="false">ඔබගේ සත්‍යාපන මාර්ගය තෝරන්න</string>
+    <string name="rollout_advanced_title" formatted="false">\"උසස් ප්රවාහය\" විසඳුමක් නොවේ</string>
+    <string name="rollout_dev_page" formatted="false">Google හි නිල සංවර්ධක පිටුව</string>
+    <string name="rollout_open_letter" formatted="false">විවෘත ලිපිය කියවන්න</string>
+    <string name="label_identity" formatted="false">අනන්යතාව</string>
+    <string name="label_distribution" formatted="false">බෙදා හැරීම</string>
+    <string name="label_ux" formatted="false">පරිශීලක අත්දැකීම්</string>
+    <string name="label_best_for" formatted="false">සඳහා හොඳම</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification යනු සහතික කළ Android උපාංග මත ස්ථාපනය කිරීමට පෙර සෑම යෙදුමක්ම සත්‍යාපිත සංවර්ධක අනන්‍යතාවයකට සම්බන්ධ කරන Google වැඩසටහනකි. සංවර්ධකයින් ඔවුන් කවුරුන්ද යන්න සත්‍යාපනය කළ යුතු අතර ඔවුන් ප්‍රකාශයට පත් කරන පැකේජ නම් ලියාපදිංචි කළ යුතුය. ලියාපදිංචි, සත්‍යාපිත සංවර්ධකයෙකු නොමැති යෙදුම් ආරක්‍ෂාව ක්‍රියාත්මක වූ පසු සාමාන්‍ය ආකාරයෙන් ස්ථාපනය කළ නොහැක.</string>
+    <string name="rollout_what_it_means" formatted="false">එය F-Droid, සෘජු APK බාගැනීම්, සහ විනෝදාංශ ව්‍යාපෘති වැනි ස්වාධීන සහ විවෘත මූලාශ්‍ර බෙදාහැරීම් සඳහා වඩාත් අපහසු වේ. ගූගල් පවසන්නේ එය ආරක්ෂාව සහ නිර්නාමික අනිෂ්ට මෘදුකාංග නැවැත්වීමයි. Keep Android Open ව්‍යාපාරය, F-Droid සහ EFF ඇතුළු විවේචකයින් පවසන්නේ එය ගේට්කීපර් කිල් ස්විචයක් බවයි: මධ්‍යම ලියාපදිංචිය, රජයේ හැඳුනුම්පත, ගාස්තුවක් සහ ඔබේ උපාංගයට විශ්වාස කිරීමට අවසර දී ඇති දේ පිළිබඳ පූර්ණ පාලනය.</string>
+    <string name="rollout_advanced_note" formatted="false">උසස් ප්‍රවාහය Android OS හරහා නොව Google Play සේවා හරහා බෙදා හරිනු ලැබේ, එබැවින් Google හට OS යාවත්කාලීන කිරීමකින් හෝ පරිශීලක අනුමැතියකින් තොරව ඕනෑම අවස්ථාවක එය වෙනස් කිරීමට, සීමා කිරීමට හෝ ඉවත් කිරීමට හැකිය. පැය 24 ප්‍රමාදය හිතාමතාම කඩාකප්පල් කරන අතර ඔබ සහ ඔබ ධාවනය කිරීමට තෝරා ගන්නා මෘදුකාංග අතර පවතින තවත් එක් පියවරකි.</string>
+    <string-array name="timeline_dates">
+        <item>2025 අගෝස්තු 25</item>
+        <item>2026 මාර්තු 19</item>
+        <item>2026 ජූනි</item>
+        <item>ජූනි 18, 2026</item>
+        <item>2026 ජූලි</item>
+        <item>2026 අගෝස්තු</item>
+        <item>සැප්තැම්බර් 30, 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>වැඩසටහන නිවේදනය කරයි</item>
+        <item>\"උසස් ප්රවාහය\" හෙළිදරව් වේ</item>
+        <item>Android Developer Verifier උපාංග වෙත නැව්ගත කරයි</item>
+        <item>මූලික දියත් කිරීම තහවුරු කර ඇත</item>
+        <item>සංවර්ධක API විවෘත වේ</item>
+        <item>ගෝලීය කොන්සෝලය, සීමිත ගිණුම්, උසස් ප්‍රවාහය</item>
+        <item>බලාත්මක කිරීම රටවල් හතරකින් ආරම්භ වේ</item>
+        <item>ගෝලීය පෙරළීම</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google නිවේදනය කරන්නේ 2027 දී Android සඳහා වන යෙදුම් Google Play වෙතින් පිටත ස්ථාපනය කර ඇති යෙදුම් ඇතුළුව සත්‍යාපිත සංවර්ධකයෙකු වෙත ලියාපදිංචි කළ යුතු බවයි.</item>
+        <item>බල භාවිතා කරන්නන් හිතාමතාම කරදරකාරී ගැලවීමක් ලබා ගනී: සංවර්ධක විකල්ප සබල කරන්න, ඔබට බලකෙරෙන්නේ නැති බව තහවුරු කරන්න, නැවත ආරම්භ කරන්න, පසුව ඔබ සත්‍යාපනය නොකළ ස්ථාපනයන්ට ඉඩ දීමට පැය 24ක් රැඳී සිටින්න.</item>
+        <item>පසුබිම් පද්ධති සේවාවක් (com.google.android.verifier) ​​Google පද්ධති යාවත්කාලීන හරහා සහතික කළ උපාංග වෙත තල්ලු කර බලාත්මක වන තෙක් අක්‍රියව පවතී.</item>
+        <item>2026 සැප්තැම්බර් 30 දින වෙළඳසැල් හතක් සහ රටවල් හතරක් හරහා බලාත්මක කිරීම ආරම්භ වන බව Google තහවුරු කරයි.</item>
+        <item>Android Developer ID Status API ගෝලීයව දියත් වන අතර Android Developer Console API සහ සීමිත බෙදාහැරීමේ ගිණුම් සඳහා මුල් ප්‍රවේශය ආරම්භ වේ.</item>
+        <item>සීමිත බෙදාහැරීමේ ගිණුම් (නොමිලේ, උපාංග 20ක් දක්වා, රජයේ හැඳුනුම්පත නැත) සහ Console API ලොව පුරා දියත් කිරීම. සත්‍යාපනය නොකළ පැති පැටවීම සඳහා උසස් ප්‍රවාහය පෙරළීමට පටන් ගනී.</item>
+        <item>Android 7+ ධාවනය වන සහතික කළ උපාංගවල බ්‍රසීලය, ඉන්දුනීසියාව, සිංගප්පූරුව සහ තායිලන්තයේ පරිශීලකයින් සඳහා ආරක්‍ෂාව සජීවී වේ. සත්‍යාපනය නොකළ සංවර්ධකයින්ගේ යෙදුම් සහභාගී වන වෙළඳසැල් වල අවහිර කර ඇත: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore සහ GetApps.</item>
+        <item>සත්‍යාපනය සියලු යෙදුම් සහ කලාප වෙත පුළුල් කර ඇත. ඇන්ඩ්‍රොයිඩ් අගුලු දැමූ වේදිකාවක් බවට පත් වන විට, 2027 ජනවාරි 1 වන දින දක්වා ඇන්ඩ්‍රොයිඩ් විවෘතව තබා ගන්න.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>සම්පූර්ණ බෙදා හැරීම</item>
+        <item>සීමිත බෙදා හැරීම</item>
+        <item>ලියාපදිංචි නොකළ යෙදුම් පැති පැටවීම</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>ඔව් - රජයේ හැඳුනුම්පත සහ ගාස්තුවක්</item>
+        <item>නැත - හැඳුනුම්පත හෝ ලියාපදිංචි ගාස්තු නැත</item>
+        <item>නැත - නමුත් අධික ඝර්ෂණය</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>ඔබ තෝරා ගන්නා ඕනෑම වෙළඳසැලක් හෝ නාලිකාවක්</item>
+        <item>QR කේතය හෝ සම්බන්ධක අතට අත දීම හරහා උපාංග 20ක් දක්වා</item>
+        <item>ADB (නිදහස්) හෝ උසස් ප්රවාහය</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>ඔබගේ පරිශීලකයින් සඳහා කිසිවක් වෙනස් නොවේ</item>
+        <item>පරිශීලකයන් තමන් දන්නා සංවර්ධකයෙකුගෙන් ස්ථාපන ආරාධනයක් පිළිගනී</item>
+        <item>සංවර්ධක විකල්ප, නැවත ආරම්භ කරන්න, පැය 24 රැඳී සිටින්න, පසුව කෙසේ හෝ ස්ථාපනය කරන්න</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>සංවිධාන සහ වෘත්තීය සංවර්ධකයින්</item>
+        <item>සිසුන්, විනෝදාංශ කරන්නන් සහ පුද්ගලික භාවිතය</item>
+        <item>සත්‍යාපනය නොකළ සංවර්ධකයින් සහ බල භාවිතා කරන්නන්</item>
+    </string-array>
+    <string name="act_title" formatted="false">දැන් ක්‍රියා කරන්න - ඔබේ හඬ ඇසෙන්න</string>
+    <string name="act_intro">නියාමකයින්ට පීඩාවට පත් වූ පුද්ගලයන්ගෙන් ඇසීමට අවශ්‍යයි. ආචාරශීලී සහ නිශ්චිත වන්න, ඔබ සම්බන්ධ කර ගන්නා ආයතනයේ නිල භාෂාවකින් ලියන්න, ලිඛිත පිළිගැනීමක් ඉල්ලන්න, සහ %1$s පිටපත් කරන්න එවිට ව්‍යාපාරයට ජයග්‍රහණ හඹා යා හැක.</string>
+    <string name="act_open_composer" formatted="false">ඊමේල් රචකය විවෘත කරන්න</string>
+    <string name="act_copy" formatted="false">පිටපත් කරන්න</string>
+    <string name="act_share" formatted="false">බෙදාගන්න</string>
+    <string name="act_clipboard_label" formatted="false">Android විවෘත ලිපියක් තබා ගන්න</string>
+    <string name="act_us_title" formatted="false">එක්සත් ජනපදය - රජයට ඊමේල් කරන්න</string>
+    <string name="act_us_intro" formatted="false">අධිකරණ දෙපාර්තමේන්තුව සහ FTC ඔන්ලයින් පෝරම හරහා විශ්වාසභංග වාර්තා ලබා ගනී. ඒවා භාවිතා කරන්න, සහ ඔබේම නියෝජිතයා සහ සෙනෙට් සභිකයින් කෙලින්ම සම්බන්ධ කරගන්න.</string>
+    <string name="act_world_title" formatted="false">ලෝකයේ වෙනත් තැනක</string>
+    <string name="act_groups_title" formatted="false">පාරිභෝගික සහ ඩිජිටල් හිමිකම් කණ්ඩායම්</string>
+    <string name="act_more_title" formatted="false">උදව් කිරීමට තවත් ක්රම</string>
+    <string name="act_more_body" formatted="false">• ඔබගේ උපාංග මත F-Droid ස්ථාපනය කරන්න.\n• Google හි සංවර්ධක සත්‍යාපන සමීක්ෂණයට පිළිතුරු දෙන්න.\n• සමාජ මාධ්‍යවල පළ කර Keepandroidopen.org වෙත සම්බන්ධ කරන්න.\n• change.org පෙත්සම අත්සන් කරන්න.\n• ඔබේ වෙබ් අඩවියට ගණන් කිරීමේ බැනරය එක් කරන්න.</string>
+    <string name="act_all_actions" formatted="false">Keepandroidopen.org හි සියලුම ක්‍රියා</string>
+    <string name="action_email" formatted="false">ඊමේල් කරන්න</string>
+    <string name="action_open" formatted="false">විවෘත කරන්න</string>
+    <string-array name="us_contact_regions">
+        <item>එක්සත් ජනපදය</item>
+        <item>එක්සත් ජනපදය</item>
+        <item>එක්සත් ජනපදය</item>
+        <item>එක්සත් ජනපදය</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>එක්සත් ජනපද අධිකරණ දෙපාර්තමේන්තුව - විශ්වාස විරෝධී අංශය</item>
+        <item>එක්සත් ජනපද ෆෙඩරල් වෙළඳ කොමිසම - Antitrust</item>
+        <item>ඔබේ නිවසේ නියෝජිතයා සොයා ගන්න</item>
+        <item>ඔබේ එක්සත් ජනපද සෙනෙට් සභිකයින් අමතන්න</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>විශ්වාසභංග වාර්තාවක් මාර්ගගතව ඉදිරිපත් කරන්න.</item>
+        <item>විශ්වාසභංග පැමිණිල්ලක් ගොනු කරන්න.</item>
+        <item>එක්සත් ජනපද මන්දිරයේ ඔබේ නියෝජිතයා අමතන්න.</item>
+        <item>ඔබේ ප්‍රාන්තයේ සෙනෙට් සභිකයින් දෙදෙනාම සොයාගෙන සම්බන්ධ කරගන්න.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>යුරෝපනු සංගමය</item>
+        <item>යුරෝපනු සංගමය</item>
+        <item>එක්සත් රාජධානිය</item>
+        <item>බ්රසීලය</item>
+        <item>සිංගප්පූරුව</item>
+        <item>තායිලන්තය</item>
+        <item>ඉන්දුනීසියාව</item>
+        <item>ඕස්ට්රේලියාව</item>
+        <item>කැනඩාව</item>
+        <item>ඉන්දියාව</item>
+        <item>ජපානය</item>
+        <item>දකුණු කොරියාව</item>
+        <item>මෙක්සිකෝව</item>
+        <item>Aotearoa / නවසීලන්තය</item>
+        <item>තායිවානය</item>
+        <item>ස්විට්සර්ලන්තය</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU Antitrust (DG COMP)</item>
+        <item>ඩිජිටල් වෙළෙඳපොළ පනත කණ්ඩායම</item>
+        <item>තරඟ සහ වෙළඳපල අධිකාරිය</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>වෙළඳ තරඟ කොමිසම (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>කැනඩාවේ තරඟ කාර්යාංශය</item>
+        <item>ඉන්දියාවේ තරඟ කොමිසම</item>
+        <item>ජපන් සාධාරණ වෙළඳ කොමිසම</item>
+        <item>කොරියානු සාධාරණ වෙළඳ කොමිසම</item>
+        <item>Comisión ජාතික Antimonopolio</item>
+        <item>වාණිජ කොමිෂන් සභාව</item>
+        <item>සාධාරණ වෙළඳ කොමිසම</item>
+        <item>තරඟ කොමිසම (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>යුරෝපීය කොමිසමේ තරඟ අධිකාරියට විද්‍යුත් තැපැල් කරන්න.</item>
+        <item>EU DMA පුරවැසි උපකාරක සේවාව අමතන්න.</item>
+        <item>UK CMA වෙත වාර්තා කරන්න.</item>
+        <item>බ්‍රසීලය පළමු බලාත්මක රැල්ලේ සිටී.</item>
+        <item>සිංගප්පූරුව පළමු බලාත්මක රැල්ලේ සිටී.</item>
+        <item>තායිලන්තය පළමු බලාත්මක රැල්ලේ සිටී.</item>
+        <item>ඉන්දුනීසියාව පළමු බලාත්මක රැල්ලේ සිටී.</item>
+        <item>ඕස්ට්‍රේලියානු තරඟකාරිත්වය සහ පාරිභෝගික කොමිසම වෙත වාර්තා කරන්න.</item>
+        <item>තරඟ කාර්යාංශයට පැමිණිල්ලක් ගොනු කරන්න.</item>
+        <item>තරඟකාරී විරෝධී හැසිරීම ගැන CCI අමතන්න.</item>
+        <item>JFTC / Mobile Software Competition Act desk අමතන්න.</item>
+        <item>KFTC අමතන්න.</item>
+        <item>මෙක්සිකෝවේ විශ්වාසභංග පැමිණිල්ලක් ගොනු කරන්න.</item>
+        <item>තරඟකාරී විරෝධී හැසිරීම වාර්තා කරන්න.</item>
+        <item>Taiwan FTC අමතන්න.</item>
+        <item>නීති විරෝධී භාවිතයන් වාර්තා කරන්න.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>ගෝලීය</item>
+        <item>ගෝලීය</item>
+        <item>යුරෝපය</item>
+        <item>යුරෝපය</item>
+        <item>ගෝලීය</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>ඉලෙක්ට්‍රොනික් ෆ්‍රොන්ටියර් පදනම</item>
+        <item>නිදහස් මෘදුකාංග පදනම</item>
+        <item>නිදහස් මෘදුකාංග පදනම යුරෝපය</item>
+        <item>යුරෝපීය ඩිජිටල් අයිතිවාසිකම් (EDRi)</item>
+        <item>මෘදුකාංග නිදහස් සංරක්ෂණය</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>යෙදුම් දොරටු පාලනය සහ අන්තර්ජාල වාරණය.</item>
+        <item>මෘදුකාංග නිදහස සහ පරිශීලක පාලනය.</item>
+        <item>යුරෝපයේ මෘදුකාංග නිදහස.</item>
+        <item>ඩිජිටල් අයිතිවාසිකම් වෙනුවෙන් පෙනී සිටීම.</item>
+        <item>ප්‍රජාව විසින් මෙහෙයවන නිදහස් මෘදුකාංග.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">මගේ රජය</string>
+    <string name="letter_subject" formatted="false">Google හි Android Developer Verification lockdown නවත්වන්න</string>
+    <string name="letter_template">හිතවත් %1$s නියෝජිතයා,\n\nමම ලියන්නේ සැලකිලිමත් Android පරිශීලකයෙකු ලෙස සහ ඔබේ අධිකරණ බල ප්‍රදේශයේ පුරවැසියෙකු ලෙසය.\n\nGoogle හි Android සංවර්ධක සත්‍යාපන වැඩසටහන, 2026 සැප්තැම්බර් 30 සිට වෙළඳපල කිහිපයක බලාත්මක කර 2027 දී ගෝලීය වශයෙන් ව්‍යාප්ත වන අතර, සහතික කළ උපාංගවල ස්ථාපනය කිරීමට පෙර සෑම Android යෙදුමක්ම මධ්‍යගතව සත්‍යාපිත සංවර්ධකයෙකු වෙත ලියාපදිංචි කිරීම අවශ්‍ය වේ. සංවර්ධකයින් රජයේ හැඳුනුම්පත ඉදිරිපත් කළ යුතුය, Google හි නියමයන්ට එකඟ විය යුතුය, ගාස්තුවක් ගෙවිය යුතුය සහ සෑම වත්මන් සහ අනාගත යෙදුම් හඳුනාගැනීමක් ලැයිස්තුගත කළ යුතුය.\n\nමෙය අර්ථවත් ලෙස ආරක්ෂාව වැඩි දියුණු නොකරයි. පුද්ගලයන්ට තමන් සතු උපාංග මත ධාවනය කිරීමට අවසර ඇත්තේ කුමන මෘදුකාංගද යන්න තීරණය කිරීමේ බලය තනි පුද්ගලික සමාගමකට ලබා දෙන අතර, එය F-Droid වැනි ස්වාධීන සහ විවෘත මූලාශ්‍ර බෙදා හැරීමට තර්ජනය කරයි, ඒවාට අනුකූල විය නොහැකි සහ පැවැත්ම නතර විය හැක.\n\nමම ඔබෙන් ගෞරවයෙන් ඉල්ලා සිටින්නේ:\n\n1. මෙම වැඩසටහන තරඟකාරී නොවන අතර දොරටු පාලක තනතුරක් අනිසි ලෙස භාවිතා කිරීමක්ද යන්න විමර්ශනය කරන්න.\n2. විවෘත මූලාශ්‍ර සහ වාණිජ නොවන බෙදාහැරීම් නිදහස් කිරීමට සහ මධ්‍යගත ලියාපදිංචියෙන් තොරව පැති පැටවීම තබා ගැනීමට Google ඔබන්න.\n3. තමන් මිලදී ගත් දෘඩාංග මත තමන් කැමති මෘදුකාංග ධාවනය කිරීමට පරිශීලකයින්ට ඇති අයිතිය ආරක්ෂා කරන්න.\n\nකරුණාකර මෙම පණිවිඩය ලිඛිතව පිළිගෙන ඔබේ කාර්යාලය ගන්නා ක්‍රියාමාර්ගය මට දන්වන්න.\n\nමම Keep Android Open ව්‍යාපාරයද %2$s හි පිටපත් කරමි.\n\nඅවංකව,\n[ඔබේ නම]\n[ඔබේ නගරය සහ රට]</string>
+    <string name="toast_no_app" formatted="false">කිසිම යෙදුමකට මෙම සබැඳිය විවෘත කළ නොහැක</string>
+    <string name="toast_no_email" formatted="false">ඊමේල් යෙදුමක් ස්ථාපනය කර නැත</string>
+    <string name="chooser_send_email" formatted="false">ඊමේල් යවන්න</string>
+    <string name="chooser_share" formatted="false">බෙදාගන්න</string>
+    <string name="toast_copied" formatted="false">පසුරු පුවරුවට පිටපත් කර ඇත</string>
+    <string name="settings_title" formatted="false">සැකසීම්</string>
+    <string name="settings_language_title" formatted="false">යෙදුම් භාෂාව</string>
+    <string name="settings_language_summary" formatted="false">යෙදුම භාවිතා කරන භාෂාව තෝරන්න. ඔබට එය ඔබගේ උපාංග සැකසීම් වලින්ද වෙනස් කළ හැක.</string>
+    <string name="settings_system_default" formatted="false">පද්ධති පෙරනිමිය</string>
+    <string name="settings_language_search" formatted="false">භාෂා සොයන්න</string>
+    <string name="settings_theme_title" formatted="false">තේමාව</string>
+    <string name="settings_theme_summary" formatted="false">යෙදුම පෙනෙන ආකාරය තෝරන්න.</string>
+    <string name="theme_system" formatted="false">පද්ධතිය අනුගමනය කරන්න</string>
+    <string name="theme_light" formatted="false">ආලෝකය</string>
+    <string name="theme_dark" formatted="false">අඳුරු</string>
+    <string name="theme_amoled" formatted="false">AMOLED (පිරිසිදු කළු)</string>
+    <string name="settings_accent_title" formatted="false">උච්චාරණ වර්ණය</string>
+    <string name="settings_accent_summary" formatted="false">යෙදුම හරහා භාවිතා කරන උද්දීපන වර්ණය තෝරන්න.</string>
+    <string name="accent_default" formatted="false">පෙරනිමි (ප්‍රචාරක රතු)</string>
+    <string name="accent_red" formatted="false">රතු</string>
+    <string name="accent_orange" formatted="false">දොඩම්</string>
+    <string name="accent_yellow" formatted="false">කහ</string>
+    <string name="accent_green" formatted="false">කොළ පාටයි</string>
+    <string name="accent_teal" formatted="false">ටීල්</string>
+    <string name="accent_blue" formatted="false">නිල්</string>
+    <string name="accent_purple" formatted="false">දම් පාට</string>
+    <string name="accent_pink" formatted="false">රෝස</string>
+    <string name="settings_colorblendr_warning" formatted="false">අනතුරු ඇඟවීම්: ColorBlendr හෝ ඔබ අභිබවා යන වෙනත් ද්‍රව්‍ය සක්‍රිය නම්, ඔබ එය අක්‍රිය කරන තෙක් ඔබේ උච්චාරණ වර්ණය අදාළ නොවනු ඇත.</string>
+    <string name="settings_about_title" formatted="false">ගැන</string>
+    <string name="settings_version">අනුවාදය %1$s</string>
+    <string name="settings_open_source" formatted="false">විවෘත මූලාශ්ර (MIT). නිල Keep Android විවෘත ව්‍යාපාරයට අනුබද්ධ හෝ අනුමත කර නැත.</string>
+</resources>

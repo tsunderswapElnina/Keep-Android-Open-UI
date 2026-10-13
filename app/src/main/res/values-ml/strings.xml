@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">കൗണ്ട്ഡൗൺ</string>
+    <string name="tab_rollout" formatted="false">റോൾഔട്ട്</string>
+    <string name="tab_act_now" formatted="false">ഇപ്പോൾ പ്രവർത്തിക്കുക</string>
+    <string name="cd_open_site" formatted="false">Keepandroidopen.org തുറക്കുക</string>
+    <string name="cd_settings" formatted="false">ക്രമീകരണങ്ങൾ</string>
+    <string name="cd_back" formatted="false">തിരികെ</string>
+    <string name="countdown_campaign" formatted="false">പ്രചാരണ കൗണ്ട്ഡൗൺ</string>
+    <string name="countdown_elapsed" formatted="false">2027 ജനുവരി 1-ന് കാമ്പെയ്ൻ പരസ്യമായത് മുതൽ സമയം കഴിഞ്ഞു.</string>
+    <string name="countdown_what_means" formatted="false">കൗണ്ട്ഡൗൺ എന്താണ് അർത്ഥമാക്കുന്നത്</string>
+    <string name="countdown_read_faq" formatted="false">പതിവുചോദ്യങ്ങൾ വായിക്കുക</string>
+    <string name="countdown_campaign_btn" formatted="false">പ്രചാരണം</string>
+    <string name="countdown_footnote" formatted="false">Keepandroidopen.org-ൽ പ്രസിദ്ധീകരിച്ച ബാനറുമായി കൗണ്ട്ഡൗൺ ടാർഗെറ്റ് പൊരുത്തപ്പെടുന്നു. ആപ്പ് തുറന്നിരിക്കുമ്പോൾ സെക്കൻഡിൽ ഒരിക്കൽ അപ്ഡേറ്റ് ചെയ്യുന്നു.</string>
+    <string name="countdown_expired" formatted="false">ആൻഡ്രോയിഡ് ഇപ്പോൾ ഒരു ലോക്ക് ഡൗൺ പ്ലാറ്റ്‌ഫോമാണ്</string>
+    <string name="countdown_running" formatted="false">ആൻഡ്രോയിഡ് ഒരു ലോക്ക് ഡൗൺ പ്ലാറ്റ്‌ഫോമായി മാറുന്നു</string>
+    <string name="unit_days" formatted="false">ദിവസങ്ങൾ</string>
+    <string name="unit_hours" formatted="false">മണിക്കൂറുകൾ</string>
+    <string name="unit_minutes" formatted="false">മിനിറ്റ്</string>
+    <string name="unit_seconds" formatted="false">സെക്കൻ്റുകൾ</string>
+    <string name="rollout_title" formatted="false">എന്താണ് ആൻഡ്രോയിഡ് ഡെവലപ്പർ വെരിഫിക്കേഷൻ?</string>
+    <string name="rollout_what_it_means_title" formatted="false">ശരിക്കും എന്താണ് അർത്ഥമാക്കുന്നത്</string>
+    <string name="rollout_timeline_title" formatted="false">റോൾഔട്ട് ടൈംലൈൻ</string>
+    <string name="rollout_paths_title" formatted="false">നിങ്ങളുടെ സ്ഥിരീകരണ പാത തിരഞ്ഞെടുക്കുക</string>
+    <string name="rollout_advanced_title" formatted="false">\"വിപുലമായ ഒഴുക്ക്\" ഒരു പരിഹാരമല്ല</string>
+    <string name="rollout_dev_page" formatted="false">Google-ൻ്റെ ഔദ്യോഗിക ഡെവലപ്പർ പേജ്</string>
+    <string name="rollout_open_letter" formatted="false">തുറന്ന കത്ത് വായിക്കുക</string>
+    <string name="label_identity" formatted="false">ഐഡൻ്റിറ്റി</string>
+    <string name="label_distribution" formatted="false">വിതരണം</string>
+    <string name="label_ux" formatted="false">ഉപയോക്തൃ അനുഭവം</string>
+    <string name="label_best_for" formatted="false">മികച്ചത്</string>
+    <string name="rollout_summary" formatted="false">ആൻഡ്രോയിഡ് ഡെവലപ്പർ വെരിഫിക്കേഷൻ എന്നത് സർട്ടിഫൈഡ് ആൻഡ്രോയിഡ് ഉപകരണങ്ങളിൽ ഇൻസ്‌റ്റാൾ ചെയ്യുന്നതിന് മുമ്പ് എല്ലാ ആപ്പിനെയും വെരിഫൈഡ് ഡെവലപ്പർ ഐഡൻ്റിറ്റിയിലേക്ക് ലിങ്ക് ചെയ്യുന്ന ഒരു Google പ്രോഗ്രാമാണ്. ഡവലപ്പർമാർ അവർ ആരാണെന്ന് പരിശോധിച്ചുറപ്പിക്കുകയും അവർ പ്രസിദ്ധീകരിക്കുന്ന പാക്കേജ് പേരുകൾ രജിസ്റ്റർ ചെയ്യുകയും വേണം. രജിസ്‌റ്റർ ചെയ്‌തതും പരിശോധിച്ചുറപ്പിച്ചതുമായ ഡവലപ്പർ ഇല്ലാത്ത ആപ്പുകൾ, പരിരക്ഷകൾ പുറത്തിറങ്ങിക്കഴിഞ്ഞാൽ സാധാരണ രീതിയിൽ ഇൻസ്റ്റാൾ ചെയ്യാൻ കഴിയില്ല.</string>
+    <string name="rollout_what_it_means" formatted="false">F-Droid, നേരിട്ടുള്ള APK ഡൗൺലോഡുകൾ, ഹോബി പ്രോജക്‌റ്റുകൾ എന്നിവ പോലുള്ള സ്വതന്ത്രവും ഓപ്പൺ സോഴ്‌സ് വിതരണവുമാണ് ഇത് ഏറ്റവും കഠിനമാക്കുന്നത്. ഇത് സുരക്ഷയെ കുറിച്ചും അജ്ഞാത മാൽവെയറുകൾ നിർത്തുന്നതിനെ കുറിച്ചുമാണ് ഗൂഗിൾ പറയുന്നത്. Keep Android ഓപ്പൺ കാമ്പെയ്ൻ, F-Droid, EFF എന്നിവയുൾപ്പെടെയുള്ള വിമർശകർ പറയുന്നത് ഇതൊരു ഗേറ്റ്കീപ്പർ കിൽ സ്വിച്ച് ആണെന്നാണ്: സെൻട്രൽ രജിസ്‌ട്രേഷൻ, ഗവൺമെൻ്റ് ഐഡി, ഫീസ്, നിങ്ങളുടെ ഉപകരണത്തെ വിശ്വസിക്കാൻ അനുവദിച്ചിരിക്കുന്നതിൻ്റെ പൂർണ്ണ നിയന്ത്രണം.</string>
+    <string name="rollout_advanced_note" formatted="false">വിപുലമായ ഫ്ലോ ഡെലിവർ ചെയ്യുന്നത് Google Play സേവനങ്ങളിലൂടെയാണ്, Android OS അല്ല, അതിനാൽ OS അപ്‌ഡേറ്റോ ഉപയോക്തൃ സമ്മതമോ ഇല്ലാതെ Google-ന് ഏത് സമയത്തും ഇത് മാറ്റാനും നിയന്ത്രിക്കാനും നീക്കംചെയ്യാനും കഴിയും. 24 മണിക്കൂർ കാലതാമസം മനഃപൂർവ്വം തടസ്സപ്പെടുത്തുന്നതാണ്, നിങ്ങൾ പ്രവർത്തിപ്പിക്കാൻ തിരഞ്ഞെടുക്കുന്ന സോഫ്‌റ്റ്‌വെയറിനും ഇടയിൽ നിൽക്കുന്ന മറ്റൊരു ഘട്ടമാണിത്.</string>
+    <string-array name="timeline_dates">
+        <item>ഓഗസ്റ്റ് 25, 2025</item>
+        <item>മാർച്ച് 19, 2026</item>
+        <item>ജൂൺ 2026</item>
+        <item>ജൂൺ 18, 2026</item>
+        <item>ജൂലൈ 2026</item>
+        <item>ഓഗസ്റ്റ് 2026</item>
+        <item>സെപ്റ്റംബർ 30, 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>പരിപാടി പ്രഖ്യാപിച്ചു</item>
+        <item>\"വിപുലമായ ഒഴുക്ക്\" വെളിപ്പെടുന്നു</item>
+        <item>Android ഡെവലപ്പർ വെരിഫയർ ഉപകരണങ്ങളിലേക്ക് അയയ്ക്കുന്നു</item>
+        <item>പ്രാരംഭ വിക്ഷേപണം സ്ഥിരീകരിച്ചു</item>
+        <item>ഡെവലപ്പർ API-കൾ തുറക്കുന്നു</item>
+        <item>ഗ്ലോബൽ കൺസോൾ, പരിമിതമായ അക്കൗണ്ടുകൾ, വിപുലമായ ഒഴുക്ക്</item>
+        <item>നാല് രാജ്യങ്ങളിൽ എൻഫോഴ്‌സ്‌മെൻ്റ് ആരംഭിക്കുന്നു</item>
+        <item>ഗ്ലോബൽ റോൾഔട്ട്</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>2027 മുതൽ ആൻഡ്രോയിഡിനുള്ള ആപ്പുകൾ ഗൂഗിൾ പ്ലേയ്‌ക്ക് പുറത്ത് ഇൻസ്‌റ്റാൾ ചെയ്‌തിരിക്കുന്ന ആപ്പുകൾ ഉൾപ്പെടെ വെരിഫൈഡ് ഡെവലപ്പർക്ക് രജിസ്റ്റർ ചെയ്യണമെന്ന് ഗൂഗിൾ പ്രഖ്യാപിക്കുന്നു.</item>
+        <item>പവർ ഉപയോക്താക്കൾക്ക് മനപ്പൂർവ്വം ബുദ്ധിമുട്ടുള്ള ഒരു രക്ഷപ്പെടൽ ഹാച്ച് ലഭിക്കുന്നു: ഡെവലപ്പർ ഓപ്‌ഷനുകൾ പ്രവർത്തനക്ഷമമാക്കുക, നിങ്ങൾ നിർബന്ധിതനല്ലെന്ന് സ്ഥിരീകരിക്കുക, പുനരാരംഭിക്കുക, തുടർന്ന് സ്ഥിരീകരിക്കാത്ത ഇൻസ്റ്റാളുകൾ അനുവദിക്കുന്നതിന് 24 മണിക്കൂർ കാത്തിരിക്കുക.</item>
+        <item>ഒരു പശ്ചാത്തല സിസ്റ്റം സേവനം (com.google.android.verifier) ​​Google സിസ്‌റ്റം അപ്‌ഡേറ്റുകളിലൂടെ സാക്ഷ്യപ്പെടുത്തിയ ഉപകരണങ്ങളിലേക്ക് മാറ്റുകയും അത് നടപ്പിലാക്കുന്നത് വരെ പ്രവർത്തനരഹിതമായി തുടരുകയും ചെയ്യും.</item>
+        <item>ഏഴ് സ്‌റ്റോറുകളിലും നാല് രാജ്യങ്ങളിലും 2026 സെപ്റ്റംബർ 30-ന് എൻഫോഴ്‌സ്‌മെൻ്റ് ആരംഭിക്കുമെന്ന് Google സ്ഥിരീകരിക്കുന്നു.</item>
+        <item>ആൻഡ്രോയിഡ് ഡെവലപ്പർ ഐഡി സ്റ്റാറ്റസ് എപിഐ ആഗോളതലത്തിൽ സമാരംഭിക്കുകയും ആൻഡ്രോയിഡ് ഡെവലപ്പർ കൺസോൾ എപിഐയ്ക്കും പരിമിതമായ വിതരണ അക്കൗണ്ടുകൾക്കുമായി നേരത്തെയുള്ള ആക്‌സസ് ആരംഭിക്കുകയും ചെയ്യുന്നു.</item>
+        <item>പരിമിതമായ വിതരണ അക്കൗണ്ടുകളും (സൗജന്യമായി, 20 ഉപകരണങ്ങൾ വരെ, സർക്കാർ ഐഡി ഇല്ല) കൺസോൾ API ലോകമെമ്പാടും സമാരംഭിക്കുന്നു. പരിശോധിച്ചുറപ്പിക്കാത്ത സൈഡ്‌ലോഡിംഗിനായുള്ള വിപുലമായ ഒഴുക്ക് ആരംഭിക്കുന്നു.</item>
+        <item>ബ്രസീൽ, ഇന്തോനേഷ്യ, സിംഗപ്പൂർ, തായ്‌ലൻഡ് എന്നിവിടങ്ങളിലെ ഉപയോക്താക്കൾക്ക് Android 7+ പ്രവർത്തിക്കുന്ന സർട്ടിഫൈഡ് ഉപകരണങ്ങളിൽ പരിരക്ഷകൾ തത്സമയമാകും. പങ്കെടുക്കുന്ന സ്റ്റോറുകളിൽ സ്ഥിരീകരിക്കാത്ത ഡെവലപ്പർമാരിൽ നിന്നുള്ള ആപ്പുകൾ ബ്ലോക്ക് ചെയ്‌തിരിക്കുന്നു: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore, GetApps.</item>
+        <item>എല്ലാ ആപ്പുകളിലേക്കും പ്രദേശങ്ങളിലേക്കും പരിശോധിച്ചുറപ്പിക്കൽ വിപുലീകരിച്ചു. ആൻഡ്രോയിഡ് ലോക്ക് ഡൗൺ പ്ലാറ്റ്‌ഫോമായി മാറുമ്പോൾ, 2027 ജനുവരി 1 വരെ ആൻഡ്രോയ്‌ഡ് ഓപ്പൺ ആയി സൂക്ഷിക്കുക.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>പൂർണ്ണ വിതരണം</item>
+        <item>പരിമിതമായ വിതരണം</item>
+        <item>രജിസ്റ്റർ ചെയ്യാത്ത ആപ്പുകൾ സൈഡ്‌ലോഡ് ചെയ്യുന്നു</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>അതെ - സർക്കാർ ഐഡിയും ഒരു ഫീസും</item>
+        <item>ഇല്ല - ഐഡിയോ രജിസ്ട്രേഷൻ ഫീസോ ഇല്ല</item>
+        <item>ഇല്ല - എന്നാൽ ഉയർന്ന ഘർഷണം</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>നിങ്ങൾ തിരഞ്ഞെടുക്കുന്ന ഏതെങ്കിലും സ്റ്റോറോ ചാനലോ</item>
+        <item>QR കോഡ് അല്ലെങ്കിൽ ലിങ്ക് ഹാൻഡ്‌ഷേക്ക് വഴി 20 ഉപകരണങ്ങൾ വരെ</item>
+        <item>ADB (ഒഴിവാക്കൽ) അല്ലെങ്കിൽ വിപുലമായ ഒഴുക്ക്</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>നിങ്ങളുടെ ഉപയോക്താക്കൾക്ക് മാറ്റമൊന്നുമില്ല</item>
+        <item>ഉപയോക്താക്കൾ അവർക്കറിയാവുന്ന ഒരു ഡവലപ്പറിൽ നിന്നുള്ള ഒരു ഇൻസ്റ്റാളേഷൻ ക്ഷണം സ്വീകരിക്കുന്നു</item>
+        <item>ഡെവലപ്പർ ഓപ്‌ഷനുകൾ, പുനരാരംഭിക്കുക, 24 മണിക്കൂർ കാത്തിരിക്കുക, തുടർന്ന് എന്തായാലും ഇൻസ്റ്റാൾ ചെയ്യുക</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>ഓർഗനൈസേഷനുകളും പ്രൊഫഷണൽ ഡെവലപ്പർമാരും</item>
+        <item>വിദ്യാർത്ഥികൾ, ഹോബികൾ, വ്യക്തിഗത ഉപയോഗം</item>
+        <item>സ്ഥിരീകരിക്കാത്ത ഡെവലപ്പർമാരും പവർ ഉപയോക്താക്കളും</item>
+    </string-array>
+    <string name="act_title" formatted="false">ഇപ്പോൾ പ്രവർത്തിക്കുക - നിങ്ങളുടെ ശബ്ദം കേൾക്കുക</string>
+    <string name="act_intro">ബാധിക്കപ്പെട്ട വ്യക്തികളിൽ നിന്ന് കേൾക്കാൻ റെഗുലേറ്റർമാർ ആഗ്രഹിക്കുന്നു. മര്യാദയും വ്യക്തതയും പുലർത്തുക, നിങ്ങൾ ബന്ധപ്പെടുന്ന ബോഡിയുടെ ഔദ്യോഗിക ഭാഷയിൽ എഴുതുക, രേഖാമൂലമുള്ള അംഗീകാരം ആവശ്യപ്പെടുക, %1$s പകർത്തുക, അങ്ങനെ കാമ്പെയ്‌നിന് വിജയങ്ങൾ ട്രാക്കുചെയ്യാനാകും.</string>
+    <string name="act_open_composer" formatted="false">ഇമെയിൽ കമ്പോസർ തുറക്കുക</string>
+    <string name="act_copy" formatted="false">പകർത്തുക</string>
+    <string name="act_share" formatted="false">പങ്കിടുക</string>
+    <string name="act_clipboard_label" formatted="false">ആൻഡ്രോയിഡ് ഓപ്പൺ ലെറ്റർ സൂക്ഷിക്കുക</string>
+    <string name="act_us_title" formatted="false">യുണൈറ്റഡ് സ്റ്റേറ്റ്സ് - സർക്കാരിന് ഇമെയിൽ ചെയ്യുക</string>
+    <string name="act_us_intro" formatted="false">നീതിന്യായ വകുപ്പും എഫ്‌ടിസിയും ഓൺലൈൻ ഫോമുകൾ വഴി ആൻ്റിട്രസ്റ്റ് റിപ്പോർട്ടുകൾ എടുക്കുന്നു. അവ ഉപയോഗിക്കുക, നിങ്ങളുടെ സ്വന്തം പ്രതിനിധിയെയും സെനറ്റർമാരെയും നേരിട്ട് ബന്ധപ്പെടുക.</string>
+    <string name="act_world_title" formatted="false">ലോകത്ത് മറ്റെവിടെയെങ്കിലും</string>
+    <string name="act_groups_title" formatted="false">ഉപഭോക്തൃ, ഡിജിറ്റൽ അവകാശ ഗ്രൂപ്പുകൾ</string>
+    <string name="act_more_title" formatted="false">സഹായിക്കാൻ കൂടുതൽ വഴികൾ</string>
+    <string name="act_more_body" formatted="false">• നിങ്ങളുടെ ഉപകരണങ്ങളിൽ F-Droid ഇൻസ്റ്റാൾ ചെയ്യുക.\n• Google-ൻ്റെ ഡെവലപ്പർ സ്ഥിരീകരണ സർവേയ്ക്ക് ഉത്തരം നൽകുക.\n• സോഷ്യൽ മീഡിയയിൽ പോസ്‌റ്റ് ചെയ്‌ത് Keepandroidopen.org-ലേക്ക് ലിങ്ക് ചെയ്യുക.\n• change.org ഹർജിയിൽ ഒപ്പിടുക.\n• നിങ്ങളുടെ വെബ്‌സൈറ്റിലേക്ക് കൗണ്ട്ഡൗൺ ബാനർ ചേർക്കുക.</string>
+    <string name="act_all_actions" formatted="false">Keepandroidopen.org-ലെ എല്ലാ പ്രവർത്തനങ്ങളും</string>
+    <string name="action_email" formatted="false">ഇമെയിൽ</string>
+    <string name="action_open" formatted="false">തുറക്കുക</string>
+    <string-array name="us_contact_regions">
+        <item>യുണൈറ്റഡ് സ്റ്റേറ്റ്സ്</item>
+        <item>യുണൈറ്റഡ് സ്റ്റേറ്റ്സ്</item>
+        <item>യുണൈറ്റഡ് സ്റ്റേറ്റ്സ്</item>
+        <item>യുണൈറ്റഡ് സ്റ്റേറ്റ്സ്</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>യുഎസ് ഡിപ്പാർട്ട്മെൻ്റ് ഓഫ് ജസ്റ്റിസ് - ആൻ്റിട്രസ്റ്റ് ഡിവിഷൻ</item>
+        <item>യുഎസ് ഫെഡറൽ ട്രേഡ് കമ്മീഷൻ - ആൻ്റിട്രസ്റ്റ്</item>
+        <item>നിങ്ങളുടെ ഭവന പ്രതിനിധിയെ കണ്ടെത്തുക</item>
+        <item>നിങ്ങളുടെ യുഎസ് സെനറ്റർമാരെ ബന്ധപ്പെടുക</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>ഒരു ആൻ്റിട്രസ്റ്റ് റിപ്പോർട്ട് ഓൺലൈനായി സമർപ്പിക്കുക.</item>
+        <item>ഒരു ആൻ്റിട്രസ്റ്റ് പരാതി ഫയൽ ചെയ്യുക.</item>
+        <item>യുഎസ് ഹൗസിലെ നിങ്ങളുടെ പ്രതിനിധിയെ ബന്ധപ്പെടുക.</item>
+        <item>നിങ്ങളുടെ രണ്ട് സംസ്ഥാന സെനറ്റർമാരെയും കണ്ടെത്തി ബന്ധപ്പെടുക.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>യൂറോപ്യന് യൂണിയന്</item>
+        <item>യൂറോപ്യന് യൂണിയന്</item>
+        <item>യുണൈറ്റഡ് കിംഗ്ഡം</item>
+        <item>ബ്രസീൽ</item>
+        <item>സിംഗപ്പൂർ</item>
+        <item>തായ്ലൻഡ്</item>
+        <item>ഇന്തോനേഷ്യ</item>
+        <item>ഓസ്ട്രേലിയ</item>
+        <item>കാനഡ</item>
+        <item>ഇന്ത്യ</item>
+        <item>ജപ്പാൻ</item>
+        <item>ദക്ഷിണ കൊറിയ</item>
+        <item>മെക്സിക്കോ</item>
+        <item>Aotearoa / ന്യൂസിലാൻഡ്</item>
+        <item>തായ്‌വാൻ</item>
+        <item>സ്വിറ്റ്സർലൻഡ്</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU ആൻ്റിട്രസ്റ്റ് (DG COMP)</item>
+        <item>ഡിജിറ്റൽ മാർക്കറ്റ് ആക്ട് ടീം</item>
+        <item>മത്സരം &amp; മാർക്കറ്റ് അതോറിറ്റി</item>
+        <item>CADE</item>
+        <item>സി.സി.സി.എസ്</item>
+        <item>ട്രേഡ് കോംപറ്റീഷൻ കമ്മീഷൻ (OTCC)</item>
+        <item>കെ.പി.പി.യു</item>
+        <item>ACCC</item>
+        <item>മത്സര ബ്യൂറോ കാനഡ</item>
+        <item>കോമ്പറ്റീഷൻ കമ്മീഷൻ ഓഫ് ഇന്ത്യ</item>
+        <item>ജപ്പാൻ ഫെയർ ട്രേഡ് കമ്മീഷൻ</item>
+        <item>കൊറിയ ഫെയർ ട്രേഡ് കമ്മീഷൻ</item>
+        <item>ദേശീയ ആൻ്റിമോണോപോളിയോ</item>
+        <item>കൊമേഴ്സ് കമ്മീഷൻ</item>
+        <item>ഫെയർ ട്രേഡ് കമ്മീഷൻ</item>
+        <item>മത്സര കമ്മീഷൻ (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>യൂറോപ്യൻ കമ്മീഷൻ മത്സര അതോറിറ്റിക്ക് ഇമെയിൽ ചെയ്യുക.</item>
+        <item>EU DMA പൗരൻ്റെ ഹെൽപ്പ്‌ഡെസ്‌കുമായി ബന്ധപ്പെടുക.</item>
+        <item>യുകെ സിഎംഎയ്ക്ക് റിപ്പോർട്ട് ചെയ്യുക.</item>
+        <item>ബ്രസീൽ ആദ്യ എൻഫോഴ്‌സ്‌മെൻ്റ് തരംഗത്തിലാണ്.</item>
+        <item>സിംഗപ്പൂർ ആദ്യ എൻഫോഴ്‌സ്‌മെൻ്റ് തരംഗത്തിലാണ്.</item>
+        <item>ആദ്യ എൻഫോഴ്‌സ്‌മെൻ്റ് തരംഗത്തിലാണ് തായ്‌ലൻഡ്.</item>
+        <item>ഇന്തോനേഷ്യയാണ് ആദ്യ എൻഫോഴ്സ്മെൻ്റ് തരംഗത്തിൽ.</item>
+        <item>ഓസ്‌ട്രേലിയൻ മത്സരത്തിനും ഉപഭോക്തൃ കമ്മീഷനും റിപ്പോർട്ട് ചെയ്യുക.</item>
+        <item>മത്സര ബ്യൂറോയിൽ പരാതി നൽകുക.</item>
+        <item>മത്സര വിരുദ്ധ പെരുമാറ്റത്തെക്കുറിച്ച് CCI യെ ബന്ധപ്പെടുക.</item>
+        <item>JFTC / മൊബൈൽ സോഫ്റ്റ്‌വെയർ കോംപറ്റീഷൻ ആക്റ്റ് ഡെസ്‌കുമായി ബന്ധപ്പെടുക.</item>
+        <item>KFTC-യെ ബന്ധപ്പെടുക.</item>
+        <item>മെക്സിക്കോയിൽ ഒരു ആൻ്റിട്രസ്റ്റ് പരാതി ഫയൽ ചെയ്യുക.</item>
+        <item>മത്സര വിരുദ്ധ പെരുമാറ്റം റിപ്പോർട്ട് ചെയ്യുക.</item>
+        <item>തായ്‌വാൻ FTC-യെ ബന്ധപ്പെടുക.</item>
+        <item>നിയമവിരുദ്ധമായ നടപടികൾ റിപ്പോർട്ട് ചെയ്യുക.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>ആഗോള</item>
+        <item>ആഗോള</item>
+        <item>യൂറോപ്പ്</item>
+        <item>യൂറോപ്പ്</item>
+        <item>ആഗോള</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>ഇലക്ട്രോണിക് ഫ്രോണ്ടിയർ ഫൗണ്ടേഷൻ</item>
+        <item>സ്വതന്ത്ര സോഫ്റ്റ്‌വെയർ ഫൗണ്ടേഷൻ</item>
+        <item>സ്വതന്ത്ര സോഫ്റ്റ്‌വെയർ ഫൗണ്ടേഷൻ യൂറോപ്പ്</item>
+        <item>യൂറോപ്യൻ ഡിജിറ്റൽ അവകാശങ്ങൾ (EDRi)</item>
+        <item>സോഫ്റ്റ്‌വെയർ ഫ്രീഡം കൺസർവൻസി</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>ആപ്പ് ഗേറ്റ് കീപ്പിംഗും ഇൻ്റർനെറ്റ് സെൻസർഷിപ്പും.</item>
+        <item>സോഫ്റ്റ്‌വെയർ സ്വാതന്ത്ര്യവും ഉപയോക്തൃ നിയന്ത്രണവും.</item>
+        <item>യൂറോപ്പിൽ സോഫ്റ്റ്‌വെയർ സ്വാതന്ത്ര്യം.</item>
+        <item>ഡിജിറ്റൽ അവകാശ വാദങ്ങൾ.</item>
+        <item>കമ്മ്യൂണിറ്റി നയിക്കുന്ന സ്വതന്ത്ര സോഫ്റ്റ്‌വെയർ.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">എൻ്റെ സർക്കാർ</string>
+    <string name="letter_subject" formatted="false">ഗൂഗിളിൻ്റെ ആൻഡ്രോയിഡ് ഡെവലപ്പർ വെരിഫിക്കേഷൻ ലോക്ക്ഡൗൺ നിർത്തുക</string>
+    <string name="letter_template">പ്രിയ %1$s പ്രതിനിധി,\n\nആശങ്കാകുലനായ ഒരു ആൻഡ്രോയിഡ് ഉപയോക്താവെന്ന നിലയിലും നിങ്ങളുടെ അധികാരപരിധിയിലുള്ള ഒരു പൗരൻ എന്ന നിലയിലും ഞാൻ എഴുതുന്നു.\n\nഗൂഗിളിൻ്റെ ആൻഡ്രോയിഡ് ഡെവലപ്പർ വെരിഫിക്കേഷൻ പ്രോഗ്രാം, 2026 സെപ്തംബർ 30 മുതൽ വിവിധ വിപണികളിൽ നടപ്പിലാക്കുകയും 2027-ൽ ആഗോളതലത്തിൽ വിപുലീകരിക്കുകയും ചെയ്യുന്നു, സർട്ടിഫൈഡ് ഉപകരണങ്ങളിൽ ഇൻസ്റ്റാൾ ചെയ്യുന്നതിന് മുമ്പ് എല്ലാ Android ആപ്പുകളും കേന്ദ്രീകൃതമായി പരിശോധിച്ചുറപ്പിച്ച ഒരു ഡെവലപ്പർക്ക് രജിസ്റ്റർ ചെയ്യേണ്ടത് ആവശ്യമാണ്. ഡെവലപ്പർമാർ സർക്കാർ ഐഡൻ്റിഫിക്കേഷൻ സമർപ്പിക്കുകയും Google-ൻ്റെ നിബന്ധനകൾ അംഗീകരിക്കുകയും ഫീസ് നൽകുകയും നിലവിലുള്ളതും ഭാവിയിലെ എല്ലാ ആപ്പ് ഐഡൻ്റിഫയറും ലിസ്റ്റ് ചെയ്യുകയും വേണം.\n\nഇത് അർത്ഥവത്തായ സുരക്ഷ മെച്ചപ്പെടുത്തുന്നില്ല. തങ്ങളുടെ ഉടമസ്ഥതയിലുള്ള ഉപകരണങ്ങളിൽ ഏതൊക്കെ സോഫ്‌റ്റ്‌വെയറുകൾ പ്രവർത്തിപ്പിക്കാൻ അനുവദിക്കണമെന്ന് തീരുമാനിക്കാനുള്ള അധികാരം ഇത് ഒരു സ്വകാര്യ കമ്പനിയെ ഏൽപ്പിക്കുന്നു, കൂടാതെ അത് അനുസരിക്കാൻ കഴിയാത്തതും നിലനിൽക്കാത്തതുമായ F-Droid പോലുള്ള സ്വതന്ത്രവും ഓപ്പൺ സോഴ്‌സ് വിതരണത്തെ ഭീഷണിപ്പെടുത്തുന്നു.\n\nഞാൻ നിങ്ങളോട് ബഹുമാനത്തോടെ ചോദിക്കുന്നു:\n\n1. ഈ പ്രോഗ്രാം മത്സര വിരുദ്ധമാണോ കൂടാതെ ഒരു ഗേറ്റ്കീപ്പർ സ്ഥാനം ദുരുപയോഗം ചെയ്യുന്നതാണോ എന്ന് അന്വേഷിക്കുക.\n2. ഓപ്പൺ സോഴ്സ്, നോൺ-കൊമേഴ്സ്യൽ ഡിസ്ട്രിബ്യൂഷൻ എന്നിവ ഒഴിവാക്കാനും കേന്ദ്രീകൃത രജിസ്ട്രേഷൻ ഇല്ലാതെ സൈഡ്ലോഡിംഗ് നിലനിർത്താനും Google അമർത്തുക.\n3. ഉപയോക്താക്കൾ വാങ്ങിയ ഹാർഡ്‌വെയറിൽ അവർ തിരഞ്ഞെടുക്കുന്ന സോഫ്റ്റ്‌വെയർ പ്രവർത്തിപ്പിക്കാനുള്ള അവകാശം സംരക്ഷിക്കുക.\n\nദയവായി ഈ സന്ദേശം രേഖാമൂലം അംഗീകരിക്കുകയും നിങ്ങളുടെ ഓഫീസ് എന്ത് നടപടി സ്വീകരിക്കുമെന്ന് എന്നെ അറിയിക്കുകയും ചെയ്യുക.\n\n%2$s-ലെ Keep Android ഓപ്പൺ കാമ്പെയ്‌നും ഞാൻ പകർത്തുകയാണ്.\n\nആത്മാർത്ഥതയോടെ,\n[നിങ്ങളുടെ പേര്]\n[നിങ്ങളുടെ നഗരവും രാജ്യവും]</string>
+    <string name="toast_no_app" formatted="false">ഒരു ആപ്പിനും ഈ ലിങ്ക് തുറക്കാൻ കഴിയില്ല</string>
+    <string name="toast_no_email" formatted="false">ഇമെയിൽ ആപ്പൊന്നും ഇൻസ്റ്റാൾ ചെയ്തിട്ടില്ല</string>
+    <string name="chooser_send_email" formatted="false">ഇമെയിൽ അയയ്ക്കുക</string>
+    <string name="chooser_share" formatted="false">പങ്കിടുക</string>
+    <string name="toast_copied" formatted="false">ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തി</string>
+    <string name="settings_title" formatted="false">ക്രമീകരണങ്ങൾ</string>
+    <string name="settings_language_title" formatted="false">ആപ്പ് ഭാഷ</string>
+    <string name="settings_language_summary" formatted="false">ആപ്പ് ഉപയോഗിക്കുന്ന ഭാഷ തിരഞ്ഞെടുക്കുക. നിങ്ങളുടെ ഉപകരണ ക്രമീകരണത്തിൽ നിന്ന് നിങ്ങൾക്ക് ഇത് മാറ്റാനും കഴിയും.</string>
+    <string name="settings_system_default" formatted="false">സിസ്റ്റം ഡിഫോൾട്ട്</string>
+    <string name="settings_language_search" formatted="false">ഭാഷകൾ തിരയുക</string>
+    <string name="settings_theme_title" formatted="false">തീം</string>
+    <string name="settings_theme_summary" formatted="false">ആപ്പ് എങ്ങനെയുണ്ടെന്ന് തിരഞ്ഞെടുക്കുക.</string>
+    <string name="theme_system" formatted="false">സിസ്റ്റം പിന്തുടരുക</string>
+    <string name="theme_light" formatted="false">വെളിച്ചം</string>
+    <string name="theme_dark" formatted="false">ഇരുട്ട്</string>
+    <string name="theme_amoled" formatted="false">AMOLED (ശുദ്ധമായ കറുപ്പ്)</string>
+    <string name="settings_accent_title" formatted="false">ആക്സൻ്റ് നിറം</string>
+    <string name="settings_accent_summary" formatted="false">ആപ്പിലുടനീളം ഉപയോഗിക്കുന്ന ഹൈലൈറ്റ് നിറം തിരഞ്ഞെടുക്കുക.</string>
+    <string name="accent_default" formatted="false">ഡിഫോൾട്ട് (കാമ്പെയ്ൻ ചുവപ്പ്)</string>
+    <string name="accent_red" formatted="false">ചുവപ്പ്</string>
+    <string name="accent_orange" formatted="false">ഓറഞ്ച്</string>
+    <string name="accent_yellow" formatted="false">മഞ്ഞ</string>
+    <string name="accent_green" formatted="false">പച്ച</string>
+    <string name="accent_teal" formatted="false">ടീൽ</string>
+    <string name="accent_blue" formatted="false">നീല</string>
+    <string name="accent_purple" formatted="false">പർപ്പിൾ</string>
+    <string name="accent_pink" formatted="false">പിങ്ക്</string>
+    <string name="settings_colorblendr_warning" formatted="false">മുന്നറിയിപ്പ്: ColorBlendr അല്ലെങ്കിൽ നിങ്ങൾ അസാധുവാക്കുന്ന മറ്റൊരു മെറ്റീരിയൽ സജീവമാണെങ്കിൽ, അത് പ്രവർത്തനരഹിതമാക്കുന്നത് വരെ നിങ്ങളുടെ ആക്സൻ്റ് നിറം ബാധകമായേക്കില്ല.</string>
+    <string name="settings_about_title" formatted="false">കുറിച്ച്</string>
+    <string name="settings_version">പതിപ്പ് %1$s</string>
+    <string name="settings_open_source" formatted="false">ഓപ്പൺ സോഴ്സ് (എംഐടി). ഔദ്യോഗിക Keep Android ഓപ്പൺ കാമ്പെയ്‌നുമായി അഫിലിയേറ്റ് ചെയ്‌തിട്ടില്ല അല്ലെങ്കിൽ അംഗീകരിച്ചിട്ടില്ല.</string>
+</resources>

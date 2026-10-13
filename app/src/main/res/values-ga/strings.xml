@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Comhaireamh síos</string>
+    <string name="tab_rollout" formatted="false">An Rolla Amach</string>
+    <string name="tab_act_now" formatted="false">Acht anois</string>
+    <string name="cd_open_site" formatted="false">Oscail keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Socruithe</string>
+    <string name="cd_back" formatted="false">Ar ais</string>
+    <string name="countdown_campaign" formatted="false">Comhaireamh síos feachtas</string>
+    <string name="countdown_elapsed" formatted="false">Tá an t-am caite ó chuaigh an feachtas poiblí i dtreo 1 Eanáir 2027.</string>
+    <string name="countdown_what_means" formatted="false">Cad a chiallaíonn an comhaireamh síos</string>
+    <string name="countdown_read_faq" formatted="false">Léigh na Ceisteanna Coitianta</string>
+    <string name="countdown_campaign_btn" formatted="false">An feachtas</string>
+    <string name="countdown_footnote" formatted="false">Tagann an sprioc comhairimh síos leis an mbratach a foilsíodh ag keepandroidopen.org. Nuashonraíonn an app uair sa soicind agus é oscailte.</string>
+    <string name="countdown_expired" formatted="false">IS ARÁN FAOI LÁIDIR í Android ANOIS</string>
+    <string name="countdown_running" formatted="false">éiríonn Android ina ardán faoi ghlas</string>
+    <string name="unit_days" formatted="false">laethanta</string>
+    <string name="unit_hours" formatted="false">uair an chloig</string>
+    <string name="unit_minutes" formatted="false">nóiméad</string>
+    <string name="unit_seconds" formatted="false">soicind</string>
+    <string name="rollout_title" formatted="false">Cad é Fíorú Forbróra Android?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Cad a chiallaíonn sé i ndáiríre</string>
+    <string name="rollout_timeline_title" formatted="false">Amlíne an rolladh amach</string>
+    <string name="rollout_paths_title" formatted="false">Roghnaigh do chonair fíoraithe</string>
+    <string name="rollout_advanced_title" formatted="false">Ní réiteach é an “ardshreabhadh”.</string>
+    <string name="rollout_dev_page" formatted="false">Leathanach forbróir oifigiúil Google</string>
+    <string name="rollout_open_letter" formatted="false">Léigh an litir oscailte</string>
+    <string name="label_identity" formatted="false">Féiniúlacht</string>
+    <string name="label_distribution" formatted="false">Dáileadh</string>
+    <string name="label_ux" formatted="false">Taithí úsáideora</string>
+    <string name="label_best_for" formatted="false">Is fearr le haghaidh</string>
+    <string name="rollout_summary" formatted="false">Is clár Google é Fíorú Forbróra Android a nascann gach aip le haitheantas forbróra fíoraithe sular féidir é a shuiteáil ar ghléasanna deimhnithe Android. Ní mór d’fhorbróirí a fhíorú cé hiad féin agus na hainmneacha pacáiste a fhoilsíonn siad a chlárú. Ní féidir feidhmchláir gan forbróir cláraithe, fíoraithe a shuiteáil ar an ngnáthbhealach a thuilleadh nuair a bheidh na cosaintí i bhfeidhm.</string>
+    <string name="rollout_what_it_means" formatted="false">Is deacra é dáileadh neamhspleách agus foinse oscailte ar nós F-Droid, íoslódálacha díreacha APK, agus tionscadail chaitheamh aimsire. Deir Google go bhfuil sé faoi shábháilteacht agus stop a chur le malware gan ainm. Deir léirmheastóirí lena n-áirítear an feachtas Coinnigh Android Oscailte, F-Droid agus an EFF gur lasc marú geataí é: clárú lárnach, ID an rialtais, táille, agus smacht iomlán ar a bhfuil cead ag do ghléas muinín a bheith agat.</string>
+    <string name="rollout_advanced_note" formatted="false">Seachadtar an t-ardsreabhadh trí sheirbhísí Google Play, ní an Android OS, mar sin is féidir le Google é a athrú, a shrianadh nó a bhaint ag am ar bith gan nuashonrú OS nó toiliú úsáideora. Cuireann an mhoill 24 uair an chloig isteach d’aon ghnó agus is céim amháin eile í a sheasann idir tú féin agus na bogearraí a roghnaíonn tú a rith.</string>
+    <string-array name="timeline_dates">
+        <item>25 Lúnasa, 2025</item>
+        <item>19 Márta, 2026</item>
+        <item>Meitheamh 2026</item>
+        <item>18 Meitheamh, 2026</item>
+        <item>Iúil 2026</item>
+        <item>Lúnasa 2026</item>
+        <item>30 Meán Fómhair, 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Tá an clár fógartha</item>
+        <item>Nochtar an “ardshreabhadh”.</item>
+        <item>Seoltar Fíoraitheoir Forbróir Android chuig gléasanna</item>
+        <item>Deimhníodh an seoladh tosaigh</item>
+        <item>Osclaítear APIanna Forbróra</item>
+        <item>Consól domhanda, cuntais theoranta, ardsreabhadh</item>
+        <item>Tosaíonn forfheidhmiú i gceithre thír</item>
+        <item>Rolladh amach domhanda</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Fógraíonn Google, ag tosú i 2027, nach mór aipeanna do Android a chlárú le forbróir fíoraithe, lena n-áirítear aipeanna atá suiteáilte lasmuigh de Google Play.</item>
+        <item>Faigheann úsáideoirí cumhachta póirse éalaithe d’aon ghnó achrannach: cumasaigh Roghanna Forbróirí, deimhnigh nach bhfuil tú á ghéarú, atosú, ansin fan 24 uair sula bhféadfaidh tú suiteálacha neamhfhíoraithe a cheadú.</item>
+        <item>Déantar seirbhís chórais chúlra (com.google.android.verifier) ​​a bhrú trí Nuashonruithe Córas Google chuig gléasanna deimhnithe agus fanann sé díomhaoin go dtí go gcuirtear i bhfeidhm é.</item>
+        <item>Deimhníonn Google go gcuirfear tús le forfheidhmiú 30 Meán Fómhair, 2026, ar fud seacht siopa agus ceithre thír.</item>
+        <item>Seolann API Stádas Aitheantais Fhorbróra Android ar fud an domhain agus cuirtear tús le rochtain luath ar an Android Developer Console API agus cuntais dáileacháin teoranta.</item>
+        <item>Cuntais dáileacháin teoranta (saor in aisce, suas le 20 feiste, gan aitheantas rialtais) agus seoladh API Console ar fud an domhain. Tosaíonn an sreabhadh chun cinn maidir le taobhlódáil neamhfhíoraithe a rolladh amach.</item>
+        <item>Téann cosaintí beo d’úsáideoirí sa Bhrasaíl, san Indinéis, i Singeapór agus sa Téalainn ar fheistí deimhnithe a ritheann Android 7+. Cuirtear bac ar aipeanna ó fhorbróirí neamhfhíoraithe ar na siopaí rannpháirteacha: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore agus GetApps.</item>
+        <item>Leathnaítear an fíorú chuig gach feidhmchlár agus réigiún. Coinnigh comhaireamh Android Open síos go dtí 1 Eanáir, 2027, nuair a bheidh Android ina ardán faoi ghlas.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Dáileadh iomlán</item>
+        <item>Dáileadh teoranta</item>
+        <item>Sideloading apps neamhchláraithe</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Is féidir - aitheantas rialtais agus táille</item>
+        <item>Ní hea - níl aon aitheantas nó táille clárúcháin</item>
+        <item>Níl - ach cuimilte ard</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Aon siopa nó cainéal a roghnaíonn tú</item>
+        <item>Suas le 20 gléas trí chód QR nó trí chroitheadh ​​láimhe nasc</item>
+        <item>ADB (díolmhaithe) nó an sreabhadh chun cinn</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Ní athraíonn aon rud do d\'úsáideoirí</item>
+        <item>Glacann úsáideoirí le cuireadh suiteála ó fhorbróir a bhfuil aithne acu air</item>
+        <item>Roghanna Forbróirí, atosú, fan 24 uair an chloig, ansin suiteáil ar aon nós</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Eagraíochtaí agus forbróirí gairmiúla</item>
+        <item>Mic léinn, caitheamh aimsire agus úsáid phearsanta</item>
+        <item>Forbróirí neamhfhíoraithe agus úsáideoirí cumhachta</item>
+    </string-array>
+    <string name="act_title" formatted="false">Acht anois — éisteadh do ghuth</string>
+    <string name="act_intro">Ba mhaith le rialtóirí cloisteáil ó dhaoine aonair a bhfuil tionchar orthu. Bí dea-bhéasach agus sainiúil, scríobh i dteanga oifigiúil an chomhlachta lena ndéanann tú teagmháil, iarr admháil scríofa, agus cóipeáil %1$s ionas gur féidir leis an bhfeachtas buanna a rianú.</string>
+    <string name="act_open_composer" formatted="false">Oscail an cumadóir ríomhphoist</string>
+    <string name="act_copy" formatted="false">Cóip</string>
+    <string name="act_share" formatted="false">Comhroinn</string>
+    <string name="act_clipboard_label" formatted="false">Coinnigh litir oscailte Android</string>
+    <string name="act_us_title" formatted="false">Stáit Aontaithe Mheiriceá - seol ríomhphost chuig an rialtas</string>
+    <string name="act_us_intro" formatted="false">Glacann an Roinn Dlí agus Cirt agus an FTC tuarascálacha frith-iontaobhais trí fhoirmeacha ar líne. Bain úsáid astu, agus déan teagmháil dhíreach le d’ionadaí agus le do Sheanadóirí féin.</string>
+    <string name="act_world_title" formatted="false">Áit eile ar domhan</string>
+    <string name="act_groups_title" formatted="false">Grúpaí cearta tomhaltóirí agus cearta digiteacha</string>
+    <string name="act_more_title" formatted="false">Tuilleadh bealaí chun cabhrú leat</string>
+    <string name="act_more_body" formatted="false">• Suiteáil F-Droid ar do feistí.\n• Freagair suirbhé fíoraithe forbróra Google.\n• Postáil ar na meáin shóisialta agus nasc chuig keepandroidopen.org.\n• Sínigh an achainí change.org.\n• Cuir an bhratach comhaireamh síos le do shuíomh Gréasáin.</string>
+    <string name="act_all_actions" formatted="false">Gach gníomh ag keepandroidopen.org</string>
+    <string name="action_email" formatted="false">Ríomhphost</string>
+    <string name="action_open" formatted="false">Oscail</string>
+    <string-array name="us_contact_regions">
+        <item>Stáit Aontaithe Mheiriceá</item>
+        <item>Stáit Aontaithe Mheiriceá</item>
+        <item>Stáit Aontaithe Mheiriceá</item>
+        <item>Stáit Aontaithe Mheiriceá</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>An Roinn Dlí agus Cirt SAM — An Rannán Frith-iontaobhais</item>
+        <item>Coimisiún Trádála Chónaidhme na SA - Antitrust</item>
+        <item>Aimsigh d’Ionadaí Tí</item>
+        <item>Déan teagmháil le do Sheanadóirí SAM</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Cuir isteach tuairisc antitrust ar líne.</item>
+        <item>Íoslódáil gearán in aghaidh muiníne.</item>
+        <item>Déan teagmháil le d’ionadaí i dTeach SAM.</item>
+        <item>Aimsigh agus déan teagmháil le beirt sheanadóir do stáit.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Aontas Eorpach</item>
+        <item>Aontas Eorpach</item>
+        <item>An Ríocht Aontaithe</item>
+        <item>an Bhrasaíl</item>
+        <item>Singeapór</item>
+        <item>Téalainn</item>
+        <item>Indinéis</item>
+        <item>Astráil</item>
+        <item>Ceanada</item>
+        <item>India</item>
+        <item>tSeapáin</item>
+        <item>An Chóiré Theas</item>
+        <item>Meicsiceo</item>
+        <item>Aotearoa / An Nua-Shéalainn</item>
+        <item>Taiwan</item>
+        <item>Eilvéis</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>Antitrust an AE (DG COMP)</item>
+        <item>Foireann Acht na Margaí Digiteacha</item>
+        <item>An tÚdarás Iomaíochta agus Margaí</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>An Coimisiún um Iomaíocht Trádála (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Biúró Iomaíochta Ceanada</item>
+        <item>Coimisiún Iomaíochta na hIndia</item>
+        <item>Coimisiún Cóirthrádála na Seapáine</item>
+        <item>Coimisiún Cóirthrádála na Cóiré</item>
+        <item>An Coimisiún Náisiúnta Antimonopolio</item>
+        <item>An Coimisiún Tráchtála</item>
+        <item>An Coimisiún Cóir-Thrádála</item>
+        <item>An Coimisiún Iomaíochta (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Seol ríomhphost chuig údarás iomaíochta an Choimisiúin Eorpaigh.</item>
+        <item>Déan teagmháil le deasc chabhrach saoránach DMA an AE.</item>
+        <item>Tuairisc a thabhairt do CMA na RA.</item>
+        <item>Tá an Bhrasaíl sa chéad tonn forfheidhmithe.</item>
+        <item>Tá Singeapór sa chéad tonn forfheidhmithe.</item>
+        <item>Tá an Téalainn sa chéad tonn forfheidhmithe.</item>
+        <item>Tá an Indinéis sa chéad tonn forfheidhmithe.</item>
+        <item>Tuarascáil do Choimisiún Iomaíochta agus Tomhaltóirí na hAstráile.</item>
+        <item>Gearán a chomhdú leis an mBiúró Iomaíochta.</item>
+        <item>Déan teagmháil leis an CCI maidir le hiompar frithiomaíoch.</item>
+        <item>Déan teagmháil leis an deasc JFTC / an tAcht um Iomaíocht Bogearraí Soghluaiste.</item>
+        <item>Déan teagmháil leis an KFTC.</item>
+        <item>Gearán antitrust a chomhdú i Meicsiceo.</item>
+        <item>Tuairiscigh iompar frithiomaíoch.</item>
+        <item>Déan teagmháil le FTC Taiwan.</item>
+        <item>Tuairiscigh cleachtais neamhdhleathacha.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Domhanda</item>
+        <item>Domhanda</item>
+        <item>Eoraip</item>
+        <item>Eoraip</item>
+        <item>Domhanda</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Fondúireacht Teorainneacha Leictreonach</item>
+        <item>Fondúireacht bogearraí saor in aisce,</item>
+        <item>Fondúireacht bogearraí eoraip saor in aisce,</item>
+        <item>Cearta Digiteacha Eorpacha (EDRi)</item>
+        <item>Caomhnú Saoirse Bogearraí</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Geata aip agus cinsireacht idirlín.</item>
+        <item>Saoirse bogearraí agus rialú úsáideora.</item>
+        <item>Saor in aisce bogearraí san Eoraip.</item>
+        <item>Tacaíocht chearta digiteacha.</item>
+        <item>Bogearraí saor in aisce atá bunaithe ar an bpobal.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">mo rialtas</string>
+    <string name="letter_subject" formatted="false">Cuir stop le glasáil Fhíorú Forbróra Android Google</string>
+    <string name="letter_template">Ionadaí %1$s a chara,\n\nTáim ag scríobh mar úsáideoir Android imníoch agus mar shaoránach i do dhlínse.\n\nÉileoidh clár Fíorú Forbróirí Android Google, a forfheidhmíodh ag tosú 30 Meán Fómhair, 2026 i roinnt margaí agus a leathnóidh ar fud an domhain in 2027, gach aip Android a chlárú le forbróir atá fíoraithe go lárnach sular féidir é a shuiteáil ar fheistí deimhnithe. Ní mór d\'fhorbróirí aitheantas rialtais a chur isteach, aontú le téarmaí Google, táille a íoc agus liosta a dhéanamh de gach aitheantóir aipe reatha agus amach anseo.\n\nNí chuireann sé seo feabhas bríoch ar shlándáil. Tugann sé an chumhacht do chuideachta phríobháideach amháin a chinneadh cé na bogearraí a cheadaítear do dhaoine a rith ar na gléasanna ar leo iad, agus tá dáileadh neamhspleách agus foinse oscailte mar F-Droid i mbaol, nach féidir a chomhlíonadh agus a d\'fhéadfadh deireadh a bheith ann.\n\nIarraim ort le meas:\n\n1. Fiosraigh an bhfuil an clár seo frithiomaíoch agus an ionann é agus mí-úsáid as seasamh geataí.\n2. Brúigh ar Google chun dáileadh foinse oscailte agus neamhthráchtála a dhíolmhú, agus chun sideloading a choinneáil saor ó chlárú láraithe.\n3. Ceart na n-úsáideoirí a chosaint bogearraí dá rogha féin a rith ar chrua-earraí a cheannaigh siad.\n\nAdmhaigh an teachtaireacht seo i scríbhinn le do thoil agus cuir in iúl dom cad a dhéanann d’oifig.\n\nTá an feachtas Coinnigh Android Oscailte á chóipeáil agam freisin ag %2$s.\n\nLe meas,\n[D\'ainm]\n[do chathair agus do thír]</string>
+    <string name="toast_no_app" formatted="false">Ní féidir le haip ar bith an nasc seo a oscailt</string>
+    <string name="toast_no_email" formatted="false">Níl aon app ríomhphoist suiteáilte</string>
+    <string name="chooser_send_email" formatted="false">Seol ríomhphost</string>
+    <string name="chooser_share" formatted="false">Comhroinn</string>
+    <string name="toast_copied" formatted="false">Cóipeáladh chuig an ngearrthaisce</string>
+    <string name="settings_title" formatted="false">Socruithe</string>
+    <string name="settings_language_title" formatted="false">Teanga app</string>
+    <string name="settings_language_summary" formatted="false">Roghnaigh an teanga a úsáideann an aip. Is féidir leat é a athrú freisin ó do shocruithe gléis.</string>
+    <string name="settings_system_default" formatted="false">Réamhshocrú córais</string>
+    <string name="settings_language_search" formatted="false">Cuardaigh teangacha</string>
+    <string name="settings_theme_title" formatted="false">Téama</string>
+    <string name="settings_theme_summary" formatted="false">Roghnaigh conas a bhreathnaíonn an app.</string>
+    <string name="theme_system" formatted="false">Lean an córas</string>
+    <string name="theme_light" formatted="false">Solas</string>
+    <string name="theme_dark" formatted="false">Dorcha</string>
+    <string name="theme_amoled" formatted="false">AMOLED (dubh íon)</string>
+    <string name="settings_accent_title" formatted="false">Dath accent</string>
+    <string name="settings_accent_summary" formatted="false">Roghnaigh an dath aibhsithe a úsáidtear ar fud na haipe.</string>
+    <string name="accent_default" formatted="false">Réamhshocrú (feachtas dearg)</string>
+    <string name="accent_red" formatted="false">Dearg</string>
+    <string name="accent_orange" formatted="false">Oráiste</string>
+    <string name="accent_yellow" formatted="false">Buí</string>
+    <string name="accent_green" formatted="false">Glas</string>
+    <string name="accent_teal" formatted="false">Teal</string>
+    <string name="accent_blue" formatted="false">Gorm</string>
+    <string name="accent_purple" formatted="false">Corcra</string>
+    <string name="accent_pink" formatted="false">Bándearg</string>
+    <string name="settings_colorblendr_warning" formatted="false">Chun tosaigh: má sháraíonn ColorBlendr nó Ábhar eile a sháraíonn tú go bhfuil sé gníomhach, ní fhéadfaidh dath do chaint a bheith i bhfeidhm go dtí go ndíchumasóidh tú é.</string>
+    <string name="settings_about_title" formatted="false">Maidir</string>
+    <string name="settings_version">Leagan %1$s</string>
+    <string name="settings_open_source" formatted="false">Foinse oscailte (MIT). Níl sé cleamhnaithe le nó formhuinithe ag an bhfeachtas oifigiúil Keep Android Open.</string>
+</resources>

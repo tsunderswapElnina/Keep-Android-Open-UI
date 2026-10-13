@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Odštevanje</string>
+    <string name="tab_rollout" formatted="false">Uvedba</string>
+    <string name="tab_act_now" formatted="false">Ukrepajte zdaj</string>
+    <string name="cd_open_site" formatted="false">Odprite keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">nastavitve</string>
+    <string name="cd_back" formatted="false">Nazaj</string>
+    <string name="countdown_campaign" formatted="false">Odštevanje akcije</string>
+    <string name="countdown_elapsed" formatted="false">Čas je pretekel od javne objave kampanje do 1. januarja 2027.</string>
+    <string name="countdown_what_means" formatted="false">Kaj pomeni odštevanje</string>
+    <string name="countdown_read_faq" formatted="false">Preberite pogosta vprašanja</string>
+    <string name="countdown_campaign_btn" formatted="false">Kampanja</string>
+    <string name="countdown_footnote" formatted="false">Cilj odštevanja se ujema s pasico, objavljeno na keepandroidopen.org. Ko je aplikacija odprta, se posodobi enkrat na sekundo.</string>
+    <string name="countdown_expired" formatted="false">ANDROID JE ZDAJ ZAKLENENA PLATFORMA</string>
+    <string name="countdown_running" formatted="false">ANDROID POSTANE ZAKLENENA PLATFORMA V</string>
+    <string name="unit_days" formatted="false">dni</string>
+    <string name="unit_hours" formatted="false">ure</string>
+    <string name="unit_minutes" formatted="false">minut</string>
+    <string name="unit_seconds" formatted="false">sekund</string>
+    <string name="rollout_title" formatted="false">Kaj je preverjanje razvijalca za Android?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Kaj v resnici pomeni</string>
+    <string name="rollout_timeline_title" formatted="false">Časovnica uvajanja</string>
+    <string name="rollout_paths_title" formatted="false">Izberite svojo pot preverjanja</string>
+    <string name="rollout_advanced_title" formatted="false">»Napredni tok« ni rešitev</string>
+    <string name="rollout_dev_page" formatted="false">Googlova uradna stran za razvijalce</string>
+    <string name="rollout_open_letter" formatted="false">Preberite odprto pismo</string>
+    <string name="label_identity" formatted="false">Identiteta</string>
+    <string name="label_distribution" formatted="false">Distribucija</string>
+    <string name="label_ux" formatted="false">Uporabniška izkušnja</string>
+    <string name="label_best_for" formatted="false">Najboljše za</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification je Googlov program, ki vsako aplikacijo poveže s preverjeno identiteto razvijalca, preden jo je mogoče namestiti v certificirane naprave Android. Razvijalci morajo preveriti, kdo so, in registrirati imena paketov, ki jih objavijo. Aplikacije brez registriranega, preverjenega razvijalca po uvedbi zaščite ni več mogoče namestiti na običajen način.</string>
+    <string name="rollout_what_it_means" formatted="false">Najtežje pristane pri neodvisni in odprtokodni distribuciji, kot je F-Droid, neposredni prenosi APK-jev in hobi projekti. Google pravi, da gre za varnost in zaustavitev anonimne zlonamerne programske opreme. Kritiki, vključno s kampanjo Keep Android Open, F-Droid in EFF, pravijo, da gre za ključno stikalo: centralna registracija, vladna izkaznica, pristojbina in popoln nadzor nad tem, čemu lahko vaša naprava zaupa.</string>
+    <string name="rollout_advanced_note" formatted="false">Napredni tok je na voljo prek storitev Google Play in ne operacijskega sistema Android, zato ga lahko Google kadar koli spremeni, omeji ali odstrani brez posodobitve OS ali soglasja uporabnika. 24-urna zamuda je namenoma moteča in je še en korak med vami in programsko opremo, ki jo izberete.</string>
+    <string-array name="timeline_dates">
+        <item>25. avgust 2025</item>
+        <item>19. marec 2026</item>
+        <item>junij 2026</item>
+        <item>18. junij 2026</item>
+        <item>julij 2026</item>
+        <item>avgust 2026</item>
+        <item>30. september 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Program je objavljen</item>
+        <item>Razkrije se \"napredni tok\".</item>
+        <item>Android Developer Verifier se pošilja napravam</item>
+        <item>Začetni zagon potrjen</item>
+        <item>Odprejo se API-ji za razvijalce</item>
+        <item>Globalna konzola, omejeni računi, napreden tok</item>
+        <item>Izvrševanje se začne v štirih državah</item>
+        <item>Globalna uvedba</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google napoveduje, da morajo biti od leta 2027 aplikacije za Android registrirane pri preverjenem razvijalcu, vključno z aplikacijami, nameščenimi zunaj Google Play.</item>
+        <item>Izkušeni uporabniki dobijo namenoma okoren izhod v sili: omogočite možnosti za razvijalce, potrdite, da niste prisiljeni, znova zaženite in nato počakajte 24 ur, preden lahko dovolite nepreverjene namestitve.</item>
+        <item>Sistemska storitev v ozadju (com.google.android.verifier) ​​je prek Googlovih sistemskih posodobitev potisnjena v certificirane naprave in ostane v stanju mirovanja do uveljavitve.</item>
+        <item>Google potrjuje, da se uveljavljanje začne 30. septembra 2026 v sedmih trgovinah in štirih državah.</item>
+        <item>Android Developer ID Status API se zažene globalno in zgodnji dostop se začne za Android Developer Console API in račune za omejeno distribucijo.</item>
+        <item>Omejeni računi za distribucijo (brezplačno, do 20 naprav, brez vladne izkaznice) in konzolni API so predstavljeni po vsem svetu. Začne se uvajati napredni tok za nepreverjeno stransko nalaganje.</item>
+        <item>Zaščite so na voljo za uporabnike v Braziliji, Indoneziji, Singapurju in na Tajskem v certificiranih napravah s sistemom Android 7+. Aplikacije nepreverjenih razvijalcev so blokirane v sodelujočih trgovinah: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore in GetApps.</item>
+        <item>Preverjanje je razširjeno na vse aplikacije in regije. Keep Android Open odšteva do 1. januarja 2027, ko Android postane zaklenjena platforma.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Popolna distribucija</item>
+        <item>Omejena distribucija</item>
+        <item>Stransko nalaganje neregistriranih aplikacij</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Da – državna osebna izkaznica in pristojbina</item>
+        <item>Ne — brez osebne izkaznice ali registracije</item>
+        <item>Ne — ampak veliko trenje</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Katera koli trgovina ali kanal, ki ga izberete</item>
+        <item>Do 20 naprav prek kode QR ali rokovanja s povezavo</item>
+        <item>ADB (izvzeto) ali napredni tok</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Za vaše uporabnike se nič ne spremeni</item>
+        <item>Uporabniki sprejmejo povabilo za namestitev od razvijalca, ki ga poznajo</item>
+        <item>Možnosti za razvijalce, ponovni zagon, 24-urno čakanje, nato vseeno namestite</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Organizacije in profesionalni razvijalci</item>
+        <item>Študenti, ljubitelji in osebna uporaba</item>
+        <item>Nepreverjeni razvijalci in napredni uporabniki</item>
+    </string-array>
+    <string name="act_title" formatted="false">Ukrepajte zdaj – naj se vaš glas sliši</string>
+    <string name="act_intro">Regulatorji želijo slišati posameznike, ki so prizadeti. Bodite vljudni in natančni, pišite v uradnem jeziku organa, s katerim kontaktirate, prosite za pisno potrditev in kopirajte %1$s, da lahko kampanja spremlja zmage.</string>
+    <string name="act_open_composer" formatted="false">Odprite sestavljalnik e-pošte</string>
+    <string name="act_copy" formatted="false">Kopiraj</string>
+    <string name="act_share" formatted="false">Delite</string>
+    <string name="act_clipboard_label" formatted="false">Ohrani Android Open letter</string>
+    <string name="act_us_title" formatted="false">Združene države – pošljite e-pošto vladi</string>
+    <string name="act_us_intro" formatted="false">Ministrstvo za pravosodje in FTC sprejemata protimonopolne prijave prek spletnih obrazcev. Uporabite jih in kontaktirajte neposredno svojega predstavnika in senatorje.</string>
+    <string name="act_world_title" formatted="false">Drugje po svetu</string>
+    <string name="act_groups_title" formatted="false">Skupine za potrošnike in digitalne pravice</string>
+    <string name="act_more_title" formatted="false">Več načinov za pomoč</string>
+    <string name="act_more_body" formatted="false">• Namestite F-Droid na svoje naprave.\n• Odgovorite na Googlovo anketo o preverjanju razvijalcev.\n• Objavite na družbenih medijih in povežite na keepandroidopen.org.\n• Podpišite peticijo change.org.\n• Dodajte pasico z odštevanjem na svojo spletno stran.</string>
+    <string name="act_all_actions" formatted="false">Vsa dejanja na keepandroidopen.org</string>
+    <string name="action_email" formatted="false">E-pošta</string>
+    <string name="action_open" formatted="false">Odpri</string>
+    <string-array name="us_contact_regions">
+        <item>Združene države Amerike</item>
+        <item>Združene države Amerike</item>
+        <item>Združene države Amerike</item>
+        <item>Združene države Amerike</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Ministrstvo za pravosodje ZDA – Protimonopolni oddelek</item>
+        <item>Zvezna komisija ZDA za trgovino – protimonopolna politika</item>
+        <item>Poiščite svojega predstavniškega doma</item>
+        <item>Obrnite se na svoje ameriške senatorje</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Oddajte protimonopolno poročilo na spletu.</item>
+        <item>Vložite protimonopolno pritožbo.</item>
+        <item>Obrnite se na svojega predstavnika v ameriškem predstavniškem domu.</item>
+        <item>Poiščite in kontaktirajte oba senatorja vaše države.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Evropska unija</item>
+        <item>Evropska unija</item>
+        <item>Združeno kraljestvo</item>
+        <item>Brazilija</item>
+        <item>Singapur</item>
+        <item>Tajska</item>
+        <item>Indonezija</item>
+        <item>Avstralija</item>
+        <item>Kanada</item>
+        <item>Indija</item>
+        <item>Japonska</item>
+        <item>Južna Koreja</item>
+        <item>Mehika</item>
+        <item>Aotearoa / Nova Zelandija</item>
+        <item>Tajvan</item>
+        <item>Švica</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>Protimonopolna politika EU (DG COMP)</item>
+        <item>Ekipa Zakona o digitalnih trgih</item>
+        <item>Organ za konkurenco in trge</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Komisija za trgovinsko konkurenco (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Kanadski urad za konkurenco</item>
+        <item>Indijska komisija za konkurenco</item>
+        <item>Japonska komisija za pravično trgovino</item>
+        <item>Korejska komisija za pravično trgovino</item>
+        <item>Nacionalna protimonopolska komisija</item>
+        <item>Komisija za trgovino</item>
+        <item>Komisija za pravično trgovino</item>
+        <item>Komisija za konkurenco (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Pošljite e-pošto organu Evropske komisije za konkurenco.</item>
+        <item>Obrnite se na službo za pomoč državljanom EU DMA.</item>
+        <item>Poročaj CMA Združenega kraljestva.</item>
+        <item>Brazilija je v prvem valu uveljavljanja.</item>
+        <item>Singapur je v prvem valu uveljavljanja.</item>
+        <item>Tajska je v prvem valu uveljavljanja.</item>
+        <item>Indonezija je v prvem valu uveljavljanja.</item>
+        <item>Prijavite avstralski komisiji za konkurenco in potrošnike.</item>
+        <item>Vložite pritožbo pri uradu za konkurenco.</item>
+        <item>Obrnite se na CCI glede protikonkurenčnega ravnanja.</item>
+        <item>Obrnite se na službo JFTC / Mobile Software Competition Act.</item>
+        <item>Obrnite se na KFTC.</item>
+        <item>Vložite protimonopolno pritožbo v Mehiki.</item>
+        <item>Prijavite protikonkurenčno ravnanje.</item>
+        <item>Obrnite se na tajvansko FTC.</item>
+        <item>Prijavite nezakonite prakse.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Globalno</item>
+        <item>Globalno</item>
+        <item>Evropi</item>
+        <item>Evropi</item>
+        <item>Globalno</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Foundation</item>
+        <item>Free Software Foundation</item>
+        <item>Free Software Foundation Europe</item>
+        <item>Evropske digitalne pravice (EDRi)</item>
+        <item>Ohranjanje svobode programske opreme</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Nadzor aplikacij in internetna cenzura.</item>
+        <item>Programska svoboda in nadzor uporabnika.</item>
+        <item>Svoboda programske opreme v Evropi.</item>
+        <item>Zagovorništvo digitalnih pravic.</item>
+        <item>Brezplačna programska oprema, ki jo vodi skupnost.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">moja vlada</string>
+    <string name="letter_subject" formatted="false">Ustavite Googlovo zaklepanje preverjanja razvijalcev za Android</string>
+    <string name="letter_template">Spoštovani predstavnik %1$s,\n\nPišem kot zaskrbljeni uporabnik Androida in kot državljan v vaši pristojnosti.\n\nGooglov program za preverjanje razvijalcev za Android, ki bo začel veljati 30. septembra 2026 na več trgih in se bo leta 2027 razširil po vsem svetu, bo zahteval, da je vsaka aplikacija za Android registrirana pri centralno preverjenem razvijalcu, preden jo bo mogoče namestiti v certificirane naprave. Razvijalci morajo predložiti državno identifikacijo, se strinjati z Googlovimi pogoji, plačati pristojbino in navesti vsak trenutni in prihodnji identifikator aplikacije.\n\nTo ne izboljša bistveno varnosti. Enemu zasebnemu podjetju daje pooblastilo za odločanje o tem, katero programsko opremo lahko ljudje uporabljajo na napravah, ki jih imajo v lasti, in ogroža neodvisno in odprtokodno distribucijo, kot je F-Droid, ki ne more izpolnjevati in lahko preneha obstajati.\n\nSpoštljivo vas prosim, da:\n\n1. Raziščite, ali je ta program protikonkurenčen in ali predstavlja zlorabo položaja vratarja.\n2. Pritisnite Google, da izvzamete odprtokodno in nekomercialno distribucijo ter ohranite stransko nalaganje brez centralizirane registracije.\n3. Zaščitite pravico uporabnikov, da poganjajo programsko opremo po svoji izbiri na strojni opremi, ki so jo kupili.\n\nProsim, pisno potrdite prejem tega sporočila in mi sporočite, kaj je sprejel vaš urad.\n\nPrav tako kopiram kampanjo Keep Android Open na %2$s.\n\nS spoštovanjem,\n[vaše ime]\n[Vaše mesto in država]</string>
+    <string name="toast_no_app" formatted="false">Nobena aplikacija ne more odpreti te povezave</string>
+    <string name="toast_no_email" formatted="false">E-poštna aplikacija ni nameščena</string>
+    <string name="chooser_send_email" formatted="false">Pošlji e-pošto</string>
+    <string name="chooser_share" formatted="false">Delite</string>
+    <string name="toast_copied" formatted="false">Kopirano v odložišče</string>
+    <string name="settings_title" formatted="false">nastavitve</string>
+    <string name="settings_language_title" formatted="false">Jezik aplikacije</string>
+    <string name="settings_language_summary" formatted="false">Izberite jezik, ki ga uporablja aplikacija. Spremenite ga lahko tudi v nastavitvah naprave.</string>
+    <string name="settings_system_default" formatted="false">Sistemsko privzeto</string>
+    <string name="settings_language_search" formatted="false">Iskanje jezikov</string>
+    <string name="settings_theme_title" formatted="false">Tema</string>
+    <string name="settings_theme_summary" formatted="false">Izberite, kako izgleda aplikacija.</string>
+    <string name="theme_system" formatted="false">Sledite sistemu</string>
+    <string name="theme_light" formatted="false">Svetloba</string>
+    <string name="theme_dark" formatted="false">Temno</string>
+    <string name="theme_amoled" formatted="false">AMOLED (čista črna)</string>
+    <string name="settings_accent_title" formatted="false">Poudarjena barva</string>
+    <string name="settings_accent_summary" formatted="false">Izberite barvo osvetlitve, ki se uporablja v aplikaciji.</string>
+    <string name="accent_default" formatted="false">Privzeto (rdeča oglaševalska akcija)</string>
+    <string name="accent_red" formatted="false">Rdeča</string>
+    <string name="accent_orange" formatted="false">Oranžna</string>
+    <string name="accent_yellow" formatted="false">Rumena</string>
+    <string name="accent_green" formatted="false">zelena</string>
+    <string name="accent_teal" formatted="false">Teal</string>
+    <string name="accent_blue" formatted="false">Modra</string>
+    <string name="accent_purple" formatted="false">Vijolična</string>
+    <string name="accent_pink" formatted="false">Roza</string>
+    <string name="settings_colorblendr_warning" formatted="false">Pozor: če je ColorBlendr ali drug material, ki ga preglasite, aktiven, vaša barva poudarka morda ne bo veljala, dokler je ne onemogočite.</string>
+    <string name="settings_about_title" formatted="false">O tem</string>
+    <string name="settings_version">Različica %1$s</string>
+    <string name="settings_open_source" formatted="false">Odprta koda (MIT). Ni povezan ali podprt z uradno kampanjo Keep Android Open.</string>
+</resources>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">ቆጠራ</string>
+    <string name="tab_rollout" formatted="false">ልቀቱ</string>
+    <string name="tab_act_now" formatted="false">አሁን እርምጃ ይውሰዱ</string>
+    <string name="cd_open_site" formatted="false">Keepandroidpen.orgን ይክፈቱ</string>
+    <string name="cd_settings" formatted="false">ቅንብሮች</string>
+    <string name="cd_back" formatted="false">ተመለስ</string>
+    <string name="countdown_campaign" formatted="false">የዘመቻ ቆጠራ</string>
+    <string name="countdown_elapsed" formatted="false">ዘመቻው ወደ ጃንዋሪ 1፣ 2027 ይፋ ከሆነ ጊዜ አልፏል።</string>
+    <string name="countdown_what_means" formatted="false">ቆጠራው ምን ማለት ነው።</string>
+    <string name="countdown_read_faq" formatted="false">የሚጠየቁ ጥያቄዎችን ያንብቡ</string>
+    <string name="countdown_campaign_btn" formatted="false">ዘመቻው</string>
+    <string name="countdown_footnote" formatted="false">የመቁጠር ዒላማ በ keepandroidopen.org ላይ ከታተመው ባነር ጋር ይዛመዳል። መተግበሪያው ክፍት ሆኖ በሴኮንድ አንድ ጊዜ ይዘምናል።</string>
+    <string name="countdown_expired" formatted="false">አንድሮይድ አሁን የተቆለፈ-ታች መድረክ ነው።</string>
+    <string name="countdown_running" formatted="false">አንድሮይድ የተቆለፈ-ታች መድረክ ይሆናል።</string>
+    <string name="unit_days" formatted="false">ቀናት</string>
+    <string name="unit_hours" formatted="false">ሰዓታት</string>
+    <string name="unit_minutes" formatted="false">ደቂቃዎች</string>
+    <string name="unit_seconds" formatted="false">ሰከንዶች</string>
+    <string name="rollout_title" formatted="false">አንድሮይድ ገንቢ ማረጋገጫ ምንድን ነው?</string>
+    <string name="rollout_what_it_means_title" formatted="false">በእውነቱ ምን ማለት ነው</string>
+    <string name="rollout_timeline_title" formatted="false">የታቀደው የጊዜ መስመር</string>
+    <string name="rollout_paths_title" formatted="false">የማረጋገጫ መንገድዎን ይምረጡ</string>
+    <string name="rollout_advanced_title" formatted="false">\"የተራቀቀ ፍሰት\" መፍትሄ አይደለም</string>
+    <string name="rollout_dev_page" formatted="false">የጉግል ይፋዊ የገንቢ ገጽ</string>
+    <string name="rollout_open_letter" formatted="false">ክፍት ደብዳቤውን ያንብቡ</string>
+    <string name="label_identity" formatted="false">ማንነት</string>
+    <string name="label_distribution" formatted="false">ስርጭት</string>
+    <string name="label_ux" formatted="false">የተጠቃሚ ተሞክሮ</string>
+    <string name="label_best_for" formatted="false">ምርጥ ለ</string>
+    <string name="rollout_summary" formatted="false">አንድሮይድ ገንቢ ማረጋገጫ እያንዳንዱ መተግበሪያ በተረጋገጡ አንድሮይድ መሳሪያዎች ላይ ከመጫኑ በፊት ከተረጋገጠ የገንቢ ማንነት ጋር የሚያገናኝ የጉግል ፕሮግራም ነው። ገንቢዎች ማን እንደሆኑ ማረጋገጥ እና የሚያትሟቸውን የጥቅል ስሞች መመዝገብ አለባቸው። ያልተመዘገቡ፣ የተረጋገጠ ገንቢ ያልሆኑ መተግበሪያዎች ጥበቃዎቹ ከወጡ በኋላ በተለመደው መንገድ መጫን አይችሉም።</string>
+    <string name="rollout_what_it_means" formatted="false">እንደ F-Droid፣ ቀጥተኛ የኤፒኬ ማውረዶች እና የትርፍ ጊዜ ማሳለፊያ ፕሮጀክቶች ባሉ ገለልተኛ እና ክፍት ምንጭ ስርጭት ላይ በጣም ከባድ ነው። ጎግል ስለ ደህንነት እና ማንነታቸው ያልታወቀ ማልዌር ማቆም ነው ብሏል። የKeep አንድሮይድ ክፈት ዘመቻን፣ F-Droid እና EFFን ጨምሮ ተቺዎች በረኛ ግድያ መቀየሪያ ነው ይላሉ፡ ማእከላዊ ምዝገባ፣ የመንግስት መታወቂያ፣ ክፍያ እና መሳሪያዎ እንዲታመን በተፈቀደለት ላይ ሙሉ ቁጥጥር።</string>
+    <string name="rollout_advanced_note" formatted="false">የላቀ ፍሰቱ የሚደርሰው በGoogle Play አገልግሎቶች ነው እንጂ በአንድሮይድ ስርዓተ ክወና አይደለም፣ ስለዚህ Google ያለ OS ዝማኔ ወይም የተጠቃሚ ፍቃድ በማንኛውም ጊዜ ሊለውጠው፣ ሊገድበው ወይም ሊያስወግደው ይችላል። የ24-ሰአት መዘግየት ሆን ተብሎ የሚረብሽ እና በእርስዎ እና በመረጡት ሶፍትዌር መካከል የሚቆም አንድ ተጨማሪ እርምጃ ነው።</string>
+    <string-array name="timeline_dates">
+        <item>ኦገስት 25 ቀን 2025</item>
+        <item>መጋቢት 19 ቀን 2026 ዓ.ም</item>
+        <item>ሰኔ 2026</item>
+        <item>ሰኔ 18፣ 2026</item>
+        <item>ጁላይ 2026</item>
+        <item>ኦገስት 2026</item>
+        <item>ሴፕቴምበር 30 ቀን 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>ፕሮግራሙ ይፋ ሆኗል።</item>
+        <item>\"የተራቀቀ ፍሰት\" ይገለጣል</item>
+        <item>አንድሮይድ ገንቢ አረጋጋጭ ወደ መሳሪያዎች ይላካል</item>
+        <item>የመጀመርያ ማስጀመር ተረጋግጧል</item>
+        <item>የገንቢ ኤፒአይዎች ይከፈታሉ</item>
+        <item>ዓለም አቀፍ ኮንሶል፣ የተገደበ መለያዎች፣ የላቀ ፍሰት</item>
+        <item>ማስፈጸም የሚጀምረው በአራት አገሮች ነው።</item>
+        <item>ዓለም አቀፍ ልቀት</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>ከ2027 ጀምሮ ለአንድሮይድ መተግበሪያዎች ከGoogle Play ውጭ ​​የተጫኑ መተግበሪያዎችን ጨምሮ ለተረጋገጠ ገንቢ መመዝገብ እንዳለባቸው ጎግል አስታውቋል።</item>
+        <item>የኃይል ተጠቃሚዎች ሆን ተብሎ ከባድ የማምለጫ ይፈለፈላሉ፡ የገንቢ አማራጮችን ያንቁ፣ እየተገደዱ እንዳልሆነ ያረጋግጡ፣ እንደገና ያስጀምሩ፣ ከዚያ ያልተረጋገጡ ጭነቶችን ከመፍቀድዎ በፊት 24 ሰዓታት ይጠብቁ።</item>
+        <item>የበስተጀርባ ስርዓት አገልግሎት (com.google.android.verifier) ​​በGoogle ስርዓት ዝመናዎች ወደተረጋገጡ መሳሪያዎች ተገፋ እና እስኪተገበር ድረስ በእንቅልፍ ይቆያል።</item>
+        <item>ጉግል በሴፕቴምበር 30፣ 2026 በሰባት መደብሮች እና በአራት ሀገራት ተፈጻሚነት መጀመሩን ያረጋግጣል።</item>
+        <item>የአንድሮይድ ገንቢ መታወቂያ ሁኔታ ኤፒአይ በአለምአቀፍ ደረጃ ይጀምራል እና ለAndroid ገንቢ መሥሪያ ኤፒአይ እና ለተገደበ የስርጭት መለያዎች ቅድመ መዳረሻ ይጀምራል።</item>
+        <item>የተገደበ የማከፋፈያ መለያዎች (ነጻ፣ እስከ 20 መሳሪያዎች፣ ምንም የመንግስት መታወቂያ የለም) እና የኮንሶል ኤፒአይ በዓለም ዙሪያ ይጀምራል። ያልተረጋገጠ የጎን ጭነት የላቀ ፍሰት መልቀቅ ይጀምራል።</item>
+        <item>በብራዚል፣ ኢንዶኔዥያ፣ ሲንጋፖር እና ታይላንድ ውስጥ ላሉ ተጠቃሚዎች አንድሮይድ 7+ በሚያሄዱ የተረጋገጡ መሳሪያዎች ጥበቃዎች በቀጥታ ይሰራሉ። ያልተረጋገጡ ገንቢዎች መተግበሪያዎች በተሳታፊ መደብሮች ላይ ታግደዋል፡ Google Play፣ HONOR App Market፣ OPPO App Market፣ Galaxy Store፣ Palm Store፣ V-Appstore እና GetApps።</item>
+        <item>ማረጋገጫ ወደ ሁሉም መተግበሪያዎች እና ክልሎች ተዘርግቷል። አንድሮይድ የተቆለፈ መድረክ በሚሆንበት ጊዜ አንድሮይድ ክፍት ቆጠራዎችን እስከ ጃንዋሪ 1፣ 2027 አቆይ።</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>ሙሉ ስርጭት</item>
+        <item>የተወሰነ ስርጭት</item>
+        <item>ያልተመዘገቡ መተግበሪያዎችን በጎን በመጫን ላይ</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>አዎ - የመንግስት መታወቂያ እና ክፍያ</item>
+        <item>አይ - ምንም መታወቂያ ወይም የምዝገባ ክፍያ የለም።</item>
+        <item>አይደለም - ግን ከፍተኛ ግጭት</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>የመረጡት ማንኛውም ሱቅ ወይም ጣቢያ</item>
+        <item>በQR ኮድ ወይም በአገናኝ መጨባበጥ እስከ 20 መሳሪያዎች</item>
+        <item>ADB (ነፃ) ወይም የላቀ ፍሰት</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>ለተጠቃሚዎችህ ምንም ለውጥ የለም።</item>
+        <item>ተጠቃሚዎች ከሚያውቁት ገንቢ የመጫኛ ግብዣን ይቀበላሉ።</item>
+        <item>የገንቢ አማራጮች፣ እንደገና ይጀምሩ፣ 24-ሰዓት ይጠብቁ፣ ከዚያ ለማንኛውም ይጫኑ</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>ድርጅቶች እና ሙያዊ ገንቢዎች</item>
+        <item>ተማሪዎች, የትርፍ ጊዜ ማሳለፊያዎች እና የግል አጠቃቀም</item>
+        <item>ያልተረጋገጡ ገንቢዎች እና የኃይል ተጠቃሚዎች</item>
+    </string-array>
+    <string name="act_title" formatted="false">አሁን እርምጃ ይውሰዱ - ድምጽዎን ያሰሙ</string>
+    <string name="act_intro">ተቆጣጣሪዎች ከተጎዱት ግለሰቦች መስማት ይፈልጋሉ. ትሁት እና ልዩ ይሁኑ፣ እርስዎ በሚያገኙት አካል ኦፊሴላዊ ቋንቋ ይፃፉ፣ የጽሁፍ እውቅና ይጠይቁ እና %1$s ቅዳ ዘመቻው ድሎችን መከታተል ይችላል።</string>
+    <string name="act_open_composer" formatted="false">የኢሜል አቀናባሪውን ይክፈቱ</string>
+    <string name="act_copy" formatted="false">ቅዳ</string>
+    <string name="act_share" formatted="false">አጋራ</string>
+    <string name="act_clipboard_label" formatted="false">አንድሮይድ ክፍት ፊደል አቆይ</string>
+    <string name="act_us_title" formatted="false">ዩናይትድ ስቴትስ - ለመንግስት ኢሜይል ያድርጉ</string>
+    <string name="act_us_intro" formatted="false">የፍትህ መምሪያ እና የኤፍቲሲ ፀረ እምነት ሪፖርቶችን በመስመር ላይ ቅጾች ይወስዳሉ። ተጠቀምባቸው እና የራስህ ተወካይ እና ሴናተሮችን በቀጥታ አግኝ።</string>
+    <string name="act_world_title" formatted="false">በአለም ውስጥ ሌላ ቦታ</string>
+    <string name="act_groups_title" formatted="false">የሸማቾች እና ዲጂታል መብቶች ቡድኖች</string>
+    <string name="act_more_title" formatted="false">ለማገዝ ተጨማሪ መንገዶች</string>
+    <string name="act_more_body" formatted="false">• በመሳሪያዎችዎ ላይ F-Droidን ይጫኑ።\n• የጎግል ገንቢ ማረጋገጫ ዳሰሳን መልሱ።\n• በማህበራዊ ሚዲያ ላይ ይለጥፉ እና ወደ keepandroidopen.org አገናኝ።\n• የ Change.org አቤቱታ ይፈርሙ።\n• የመቁጠሪያውን ባነር ወደ ድር ጣቢያዎ ያክሉ።</string>
+    <string name="act_all_actions" formatted="false">በ keepandroidopen.org ላይ ያሉ ሁሉም ድርጊቶች</string>
+    <string name="action_email" formatted="false">ኢሜይል</string>
+    <string name="action_open" formatted="false">ክፈት</string>
+    <string-array name="us_contact_regions">
+        <item>ዩናይትድ ስቴተት</item>
+        <item>ዩናይትድ ስቴተት</item>
+        <item>ዩናይትድ ስቴተት</item>
+        <item>ዩናይትድ ስቴተት</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>የዩኤስ የፍትህ ዲፓርትመንት - ፀረ እምነት ክፍል</item>
+        <item>የዩኤስ የፌዴራል ንግድ ኮሚሽን - ፀረ-እምነት</item>
+        <item>የእርስዎን የቤት ተወካይ ያግኙ</item>
+        <item>የእርስዎን የአሜሪካ ሴናተሮች ያነጋግሩ</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>በመስመር ላይ የፀረ-እምነት ሪፖርት ያቅርቡ።</item>
+        <item>ፀረ እምነት ቅሬታ ያቅርቡ።</item>
+        <item>በUS House ውስጥ ተወካይዎን ያነጋግሩ።</item>
+        <item>ሁለቱንም የክልልዎን ሴናተሮች ያግኙ እና ያነጋግሩ።</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>የአውሮፓ ህብረት</item>
+        <item>የአውሮፓ ህብረት</item>
+        <item>የተባበሩት የንጉሥ ግዛት</item>
+        <item>ብራዚል</item>
+        <item>ስንጋፖር</item>
+        <item>ታይላንድ</item>
+        <item>ኢንዶኔዥያ</item>
+        <item>አውስትራሊያ</item>
+        <item>ካናዳ</item>
+        <item>ሕንድ</item>
+        <item>ጃፓን</item>
+        <item>ደቡብ ኮሪያ</item>
+        <item>ሜክስኮ</item>
+        <item>Aotearoa / ኒውዚላንድ</item>
+        <item>ታይዋን</item>
+        <item>ስዊዘሪላንድ</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>የአውሮፓ ህብረት ፀረ-ታማኝነት (DG COMP)</item>
+        <item>የዲጂታል ገበያዎች ህግ ቡድን</item>
+        <item>ውድድር እና ገበያ ባለስልጣን</item>
+        <item>CADE</item>
+        <item>ሲሲሲኤስ</item>
+        <item>የንግድ ውድድር ኮሚሽን (ኦቲሲሲ)</item>
+        <item>KPPU</item>
+        <item>ኤሲሲሲ</item>
+        <item>የውድድር ቢሮ ካናዳ</item>
+        <item>የህንድ ውድድር ኮሚሽን</item>
+        <item>የጃፓን ፍትሃዊ ንግድ ኮሚሽን</item>
+        <item>የኮሪያ ፍትሃዊ ንግድ ኮሚሽን</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>የንግድ ኮሚሽን</item>
+        <item>ፍትሃዊ ንግድ ኮሚሽን</item>
+        <item>የውድድር ኮሚሽን (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>ለአውሮፓ ኮሚሽን ውድድር ባለስልጣን ኢሜይል ያድርጉ።</item>
+        <item>የአውሮፓ ህብረት ዲኤምኤ ዜጋ የእርዳታ ዴስክን ያነጋግሩ።</item>
+        <item>ለ UK CMA ሪፖርት ያድርጉ።</item>
+        <item>ብራዚል በመጀመሪያው የማስፈጸሚያ ማዕበል ውስጥ ትገኛለች።</item>
+        <item>ሲንጋፖር በመጀመሪያው የማስፈጸሚያ ማዕበል ውስጥ ትገኛለች።</item>
+        <item>ታይላንድ የመጀመሪያው የማስፈጸሚያ ማዕበል ውስጥ ነች።</item>
+        <item>ኢንዶኔዥያ በመጀመርያው የማስፈጸሚያ ማዕበል ውስጥ ትገኛለች።</item>
+        <item>ለአውስትራሊያ ውድድር እና ሸማቾች ኮሚሽን ሪፖርት ያድርጉ።</item>
+        <item>ለውድድር ቢሮ ቅሬታ ያቅርቡ።</item>
+        <item>ስለ ፀረ-ውድድር ባህሪ CCIን ያነጋግሩ።</item>
+        <item>የJFTC/የሞባይል ሶፍትዌር ውድድር ህግ ዴስክን ያነጋግሩ።</item>
+        <item>KFTCን ያነጋግሩ።</item>
+        <item>በሜክሲኮ ውስጥ የፀረ እምነት ቅሬታ ያቅርቡ።</item>
+        <item>ፀረ-ውድድር ባህሪን ሪፖርት አድርግ።</item>
+        <item>የታይዋን ኤፍቲሲ ያነጋግሩ።</item>
+        <item>ሕገወጥ ድርጊቶችን ሪፖርት አድርግ።</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>ዓለም አቀፍ</item>
+        <item>ዓለም አቀፍ</item>
+        <item>አውሮፓ</item>
+        <item>አውሮፓ</item>
+        <item>ዓለም አቀፍ</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>ኤሌክትሮኒክ ፍሮንትየር ፋውንዴሽን</item>
+        <item>ነፃ የሶፍትዌር ፋውንዴሽን</item>
+        <item>ነፃ የሶፍትዌር ፋውንዴሽን አውሮፓ</item>
+        <item>የአውሮፓ ዲጂታል መብቶች (EDRI)</item>
+        <item>የሶፍትዌር ነፃነት ጥበቃ</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>የመተግበሪያ በር ጥበቃ እና የበይነመረብ ሳንሱር።</item>
+        <item>የሶፍትዌር ነጻነት እና የተጠቃሚ ቁጥጥር.</item>
+        <item>በአውሮፓ ውስጥ የሶፍትዌር ነፃነት.</item>
+        <item>የዲጂታል መብቶች ተሟጋችነት።</item>
+        <item>በማህበረሰብ የሚመራ ነፃ ሶፍትዌር።</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">የኔ መንግስት</string>
+    <string name="letter_subject" formatted="false">የጉግል አንድሮይድ ገንቢ ማረጋገጫ መቆለፊያን ያቁሙ</string>
+    <string name="letter_template">ውድ የ%1$s ተወካይ፣\n\nየምጽፈው እንደ አንድሮይድ ተጠቃሚ እና እንደ ዜጋ በእርስዎ ስልጣን ነው።\n\nከሴፕቴምበር 30 ቀን 2026 ጀምሮ በተለያዩ ገበያዎች የሚተገበረው እና በ2027 በአለም አቀፍ ደረጃ የሚስፋፋው የGoogle አንድሮይድ ገንቢ ማረጋገጫ ፕሮግራም እያንዳንዱ አንድሮይድ መተግበሪያ በተረጋገጡ መሳሪያዎች ላይ ከመጫኑ በፊት በማእከላዊ ለተረጋገጠ ገንቢ መመዝገብ አለበት። ገንቢዎች የመንግስት መታወቂያ ማስገባት፣ በGoogle ውሎች መስማማት፣ ክፍያ መክፈል እና እያንዳንዱን የአሁኑን እና የወደፊቱን መተግበሪያ ለዪ መዘርዘር አለባቸው።\n\nይህ ደህንነትን ትርጉም ባለው መልኩ አያሻሽለውም። ለአንድ የግል ኩባንያ ሰዎች የትኞቹን ሶፍትዌሮች በያዙት መሣሪያ እንዲሠሩ እንደሚፈቀድ የመወሰን ሥልጣንን ይሰጣል፣ እና እንደ ኤፍ-ድሮይድ ያሉ ገለልተኛ እና ክፍት ምንጭ ስርጭትን አደጋ ላይ ይጥላል።\n\nበአክብሮት እጠይቃችኋለሁ፡-\n\n1. ይህ ፕሮግራም ፀረ-ውድድር መሆኑን እና የበር ጠባቂ ቦታን አላግባብ መጠቀምን እንደሚያካትት መርምር።\n2. ክፍት ምንጭ እና ንግድ ነክ ያልሆኑ ስርጭቶችን ለማስወገድ እና የጎን ጭነትን ከማዕከላዊ ምዝገባ ነጻ ለማድረግ ጎግልን ይጫኑ።\n3. ተጠቃሚዎች በገዙት ሃርድዌር ላይ የመረጡትን ሶፍትዌር የማስኬድ መብታቸውን ይጠብቁ።\n\nእባኮትን ይህንን መልእክት በጽሁፍ እውቅና ይስጡ እና ቢሮዎ ምን እርምጃ እንደሚወስድ ያሳውቁኝ።\n\nእንዲሁም የKeep አንድሮይድ ክፍት ዘመቻን በ%2$s እየገለበጥኩ ነው።\n\nከሰላምታ ጋር\n[ስምህ]\n(ከተማዎ እና ሀገርዎ)</string>
+    <string name="toast_no_app" formatted="false">ምንም መተግበሪያ ይህን ሊንክ መክፈት አይችልም።</string>
+    <string name="toast_no_email" formatted="false">ምንም የኢሜይል መተግበሪያ አልተጫነም።</string>
+    <string name="chooser_send_email" formatted="false">ኢሜይል ላክ</string>
+    <string name="chooser_share" formatted="false">አጋራ</string>
+    <string name="toast_copied" formatted="false">ወደ ቅንጥብ ሰሌዳ ተቀድቷል።</string>
+    <string name="settings_title" formatted="false">ቅንብሮች</string>
+    <string name="settings_language_title" formatted="false">የመተግበሪያ ቋንቋ</string>
+    <string name="settings_language_summary" formatted="false">መተግበሪያው የሚጠቀምበትን ቋንቋ ይምረጡ። እንዲሁም ከመሣሪያዎ ቅንብሮች ሆነው ሊቀይሩት ይችላሉ።</string>
+    <string name="settings_system_default" formatted="false">የስርዓት ነባሪ</string>
+    <string name="settings_language_search" formatted="false">ቋንቋዎችን ይፈልጉ</string>
+    <string name="settings_theme_title" formatted="false">ጭብጥ</string>
+    <string name="settings_theme_summary" formatted="false">መተግበሪያው እንዴት እንደሚመስል ይምረጡ።</string>
+    <string name="theme_system" formatted="false">ስርዓትን ተከተል</string>
+    <string name="theme_light" formatted="false">ብርሃን</string>
+    <string name="theme_dark" formatted="false">ጨለማ</string>
+    <string name="theme_amoled" formatted="false">AMOLED (ንጹህ ጥቁር)</string>
+    <string name="settings_accent_title" formatted="false">የአነጋገር ቀለም</string>
+    <string name="settings_accent_summary" formatted="false">በመላው መተግበሪያ ጥቅም ላይ የዋለውን የድምቀት ቀለም ይምረጡ።</string>
+    <string name="accent_default" formatted="false">ነባሪ (ዘመቻ ቀይ)</string>
+    <string name="accent_red" formatted="false">ቀይ</string>
+    <string name="accent_orange" formatted="false">ብርቱካናማ</string>
+    <string name="accent_yellow" formatted="false">ቢጫ</string>
+    <string name="accent_green" formatted="false">አረንጓዴ</string>
+    <string name="accent_teal" formatted="false">ሻይ</string>
+    <string name="accent_blue" formatted="false">ሰማያዊ</string>
+    <string name="accent_purple" formatted="false">ሐምራዊ</string>
+    <string name="accent_pink" formatted="false">ሮዝ</string>
+    <string name="settings_colorblendr_warning" formatted="false">ትኩረት ይስጡ፡ ColorBlendr ወይም ሌላ እርስዎ የሻሩት ቁሳቁስ ገባሪ ከሆነ እስኪያሰናክሉት ድረስ የአነጋገር ቀለምዎ ላይተገበር ይችላል።</string>
+    <string name="settings_about_title" formatted="false">ስለ</string>
+    <string name="settings_version">ስሪት %1$s</string>
+    <string name="settings_open_source" formatted="false">ክፍት ምንጭ (MIT)። ከኦፊሴላዊው የKeep የአንድሮይድ ክፍት ዘመቻ ጋር ያልተገናኘ ወይም የተረጋገጠ።</string>
+</resources>

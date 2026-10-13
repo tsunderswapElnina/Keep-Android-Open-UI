@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Αντίστροφη μέτρηση</string>
+    <string name="tab_rollout" formatted="false">Το Rollout</string>
+    <string name="tab_act_now" formatted="false">Δράσε τώρα</string>
+    <string name="cd_open_site" formatted="false">Ανοίξτε το keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Ρυθμίσεις</string>
+    <string name="cd_back" formatted="false">Πίσω</string>
+    <string name="countdown_campaign" formatted="false">Αντίστροφη μέτρηση καμπάνιας</string>
+    <string name="countdown_elapsed" formatted="false">Ο χρόνος που πέρασε από τότε που η καμπάνια έγινε δημόσια την 1η Ιανουαρίου 2027.</string>
+    <string name="countdown_what_means" formatted="false">Τι σημαίνει η αντίστροφη μέτρηση</string>
+    <string name="countdown_read_faq" formatted="false">Διαβάστε τις Συχνές Ερωτήσεις</string>
+    <string name="countdown_campaign_btn" formatted="false">Η καμπάνια</string>
+    <string name="countdown_footnote" formatted="false">Ο στόχος αντίστροφης μέτρησης ταιριάζει με το banner που δημοσιεύτηκε στο keepandroidopen.org. Η εφαρμογή ενημερώνεται μία φορά το δευτερόλεπτο όσο είναι ανοιχτή.</string>
+    <string name="countdown_expired" formatted="false">Το ANDROID ΕΙΝΑΙ ΤΩΡΑ ΜΙΑ ΚΛΕΙΔΩΜΕΝΗ ΠΛΑΤΦΟΡΜΑ</string>
+    <string name="countdown_running" formatted="false">Το ANDROID ΓΙΝΕΤΑΙ ΚΛΕΙΔΩΜΕΝΗ ΠΛΑΤΦΟΡΜΑ ΜΕΣΑ</string>
+    <string name="unit_days" formatted="false">ημέρες</string>
+    <string name="unit_hours" formatted="false">ώρες</string>
+    <string name="unit_minutes" formatted="false">πρακτικά</string>
+    <string name="unit_seconds" formatted="false">δευτερόλεπτα</string>
+    <string name="rollout_title" formatted="false">Τι είναι η Επαλήθευση προγραμματιστή Android;</string>
+    <string name="rollout_what_it_means_title" formatted="false">Τι πραγματικά σημαίνει</string>
+    <string name="rollout_timeline_title" formatted="false">Το χρονοδιάγραμμα διάθεσης</string>
+    <string name="rollout_paths_title" formatted="false">Επιλέξτε τη διαδρομή επαλήθευσης</string>
+    <string name="rollout_advanced_title" formatted="false">Η «προχωρημένη ροή» δεν είναι λύση</string>
+    <string name="rollout_dev_page" formatted="false">Η επίσημη σελίδα προγραμματιστών της Google</string>
+    <string name="rollout_open_letter" formatted="false">Διαβάστε την ανοιχτή επιστολή</string>
+    <string name="label_identity" formatted="false">Ταυτότητα</string>
+    <string name="label_distribution" formatted="false">Διανομή</string>
+    <string name="label_ux" formatted="false">Εμπειρία χρήστη</string>
+    <string name="label_best_for" formatted="false">Το καλύτερο για</string>
+    <string name="rollout_summary" formatted="false">Η Επαλήθευση προγραμματιστή Android είναι ένα πρόγραμμα της Google που συνδέει κάθε εφαρμογή με μια επαληθευμένη ταυτότητα προγραμματιστή προτού εγκατασταθεί σε πιστοποιημένες συσκευές Android. Οι προγραμματιστές πρέπει να επαληθεύσουν ποιοι είναι και να καταχωρήσουν τα ονόματα πακέτων που δημοσιεύουν. Εφαρμογές χωρίς εγγεγραμμένο, επαληθευμένο προγραμματιστή δεν μπορούν πλέον να εγκατασταθούν με τον κανονικό τρόπο μετά την κυκλοφορία των προστασιών.</string>
+    <string name="rollout_what_it_means" formatted="false">Προσγειώνεται πιο δύσκολα σε ανεξάρτητη διανομή ανοιχτού κώδικα, όπως το F-Droid, οι άμεσες λήψεις APK και τα έργα χόμπι. Η Google λέει ότι πρόκειται για την ασφάλεια και τον τερματισμό του ανώνυμου κακόβουλου λογισμικού. Οι επικριτές, όπως η καμπάνια Keep Android Open, το F-Droid και το EFF, λένε ότι είναι ένας διακόπτης θανάτωσης gatekeeper: κεντρική εγγραφή, κρατική ταυτότητα, χρέωση και πλήρης έλεγχος του τι επιτρέπεται να εμπιστεύεται η συσκευή σας.</string>
+    <string name="rollout_advanced_note" formatted="false">Η προηγμένη ροή παρέχεται μέσω των υπηρεσιών Google Play και όχι του λειτουργικού συστήματος Android, επομένως η Google μπορεί να την αλλάξει, να περιορίσει ή να την καταργήσει ανά πάσα στιγμή χωρίς ενημέρωση του λειτουργικού συστήματος ή τη συναίνεση του χρήστη. Η 24ωρη καθυστέρηση προκαλεί σκόπιμα αναστάτωση και είναι ένα ακόμη βήμα που βρίσκεται ανάμεσα σε εσάς και το λογισμικό που επιλέγετε να εκτελείτε.</string>
+    <string-array name="timeline_dates">
+        <item>25 Αυγούστου 2025</item>
+        <item>19 Μαρτίου 2026</item>
+        <item>Ιούνιος 2026</item>
+        <item>18 Ιουνίου 2026</item>
+        <item>Ιούλιος 2026</item>
+        <item>Αύγουστος 2026</item>
+        <item>30 Σεπτεμβρίου 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Το πρόγραμμα ανακοινώνεται</item>
+        <item>Η «προχωρημένη ροή» αποκαλύπτεται</item>
+        <item>Το Android Developer Verifier αποστέλλεται σε συσκευές</item>
+        <item>Επιβεβαιώθηκε η αρχική κυκλοφορία</item>
+        <item>Ανοίγουν τα API προγραμματιστών</item>
+        <item>Παγκόσμια κονσόλα, περιορισμένοι λογαριασμοί, προηγμένη ροή</item>
+        <item>Η επιβολή ξεκινά σε τέσσερις χώρες</item>
+        <item>Παγκόσμια διάθεση</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Η Google ανακοινώνει ότι από το 2027, οι εφαρμογές για Android πρέπει να εγγραφούν σε έναν επαληθευμένο προγραμματιστή, συμπεριλαμβανομένων των εφαρμογών που είναι εγκατεστημένες εκτός του Google Play.</item>
+        <item>Οι ισχυροί χρήστες λαμβάνουν μια σκόπιμα δυσκίνητη καταπακτή διαφυγής: ενεργοποιήστε τις Επιλογές προγραμματιστή, επιβεβαιώστε ότι δεν σας εξαναγκάζουν, κάντε επανεκκίνηση και, στη συνέχεια, περιμένετε 24 ώρες για να επιτρέψετε τις μη επαληθευμένες εγκαταστάσεις.</item>
+        <item>Μια υπηρεσία συστήματος παρασκηνίου (com.google.android.verifier) ​​προωθείται μέσω των ενημερώσεων συστήματος Google σε πιστοποιημένες συσκευές και παραμένει αδρανής μέχρι την επιβολή.</item>
+        <item>Η Google επιβεβαιώνει ότι η επιβολή ξεκινά στις 30 Σεπτεμβρίου 2026, σε επτά καταστήματα και τέσσερις χώρες.</item>
+        <item>Το API κατάστασης αναγνωριστικού προγραμματιστή Android κυκλοφορεί παγκοσμίως και ξεκινά η πρώιμη πρόσβαση για το API της Κονσόλας προγραμματιστή Android και λογαριασμούς περιορισμένης διανομής.</item>
+        <item>Περιορισμένοι λογαριασμοί διανομής (δωρεάν, έως 20 συσκευές, χωρίς κυβερνητικό αναγνωριστικό) και το API της κονσόλας κυκλοφορεί παγκοσμίως. Η προηγμένη ροή για μη επαληθευμένη πλευρική φόρτωση αρχίζει να κυκλοφορεί.</item>
+        <item>Οι ασφάλειες ενεργοποιούνται για χρήστες στη Βραζιλία, την Ινδονησία, τη Σιγκαπούρη και την Ταϊλάνδη σε πιστοποιημένες συσκευές με Android 7+. Οι εφαρμογές από μη επαληθευμένους προγραμματιστές αποκλείονται στα καταστήματα που συμμετέχουν: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore και GetApps.</item>
+        <item>Η επαλήθευση επεκτείνεται σε όλες τις εφαρμογές και τις περιοχές. Το Keep Android Open μετράει αντίστροφα μέχρι την 1η Ιανουαρίου 2027, όταν το Android γίνεται κλειδωμένη πλατφόρμα.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Πλήρης διανομή</item>
+        <item>Περιορισμένη διανομή</item>
+        <item>Παράπλευρη φόρτωση μη καταχωρημένων εφαρμογών</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Ναι — κρατική ταυτότητα και τέλος</item>
+        <item>Όχι — χωρίς κόστος ταυτότητας ή εγγραφής</item>
+        <item>Όχι — αλλά υψηλή τριβή</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Όποιο κατάστημα ή κανάλι επιλέξετε</item>
+        <item>Έως 20 συσκευές μέσω κωδικού QR ή χειραψίας συνδέσμου</item>
+        <item>ADB (εξαιρείται) ή η προηγμένη ροή</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Δεν αλλάζει τίποτα για τους χρήστες σας</item>
+        <item>Οι χρήστες αποδέχονται μια πρόσκληση εγκατάστασης από έναν προγραμματιστή που γνωρίζουν</item>
+        <item>Επιλογές προγραμματιστή, επανεκκίνηση, αναμονή 24 ωρών και, στη συνέχεια, εγκατάσταση ούτως ή άλλως</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Οργανισμοί και επαγγελματίες προγραμματιστές</item>
+        <item>Μαθητές, χομπίστες και προσωπική χρήση</item>
+        <item>Μη επαληθευμένοι προγραμματιστές και ισχυροί χρήστες</item>
+    </string-array>
+    <string name="act_title" formatted="false">Δράσε τώρα — κάνε τη φωνή σου να ακουστεί</string>
+    <string name="act_intro">Οι ρυθμιστικές αρχές θέλουν να ακούσουν από άτομα που επηρεάζονται. Να είστε ευγενικοί και συγκεκριμένοι, γράψτε σε μια επίσημη γλώσσα του φορέα με τον οποίο επικοινωνείτε, ζητήστε μια γραπτή επιβεβαίωση και αντιγράψτε το %1$s, ώστε η καμπάνια να παρακολουθεί τις νίκες.</string>
+    <string name="act_open_composer" formatted="false">Ανοίξτε το email composer</string>
+    <string name="act_copy" formatted="false">Αντίγραφο</string>
+    <string name="act_share" formatted="false">Μερίδιο</string>
+    <string name="act_clipboard_label" formatted="false">Διατήρηση ανοιχτής επιστολής Android</string>
+    <string name="act_us_title" formatted="false">Ηνωμένες Πολιτείες — email στην κυβέρνηση</string>
+    <string name="act_us_intro" formatted="false">Το Υπουργείο Δικαιοσύνης και η FTC λαμβάνουν αντιμονοπωλιακές αναφορές μέσω ηλεκτρονικών φορμών. Χρησιμοποιήστε τα και επικοινωνήστε απευθείας με τον εκπρόσωπο και τους γερουσιαστές σας.</string>
+    <string name="act_world_title" formatted="false">Αλλού στον κόσμο</string>
+    <string name="act_groups_title" formatted="false">Ομάδες καταναλωτών και ψηφιακών δικαιωμάτων</string>
+    <string name="act_more_title" formatted="false">Περισσότεροι τρόποι για να βοηθήσετε</string>
+    <string name="act_more_body" formatted="false">• Εγκαταστήστε το F-Droid στις συσκευές σας.\n• Απαντήστε στην έρευνα επαλήθευσης προγραμματιστών της Google.\n• Δημοσιεύστε στα μέσα κοινωνικής δικτύωσης και συνδέστε το στο keepandroidopen.org.\n• Υπογράψτε την αναφορά change.org.\n• Προσθέστε το banner αντίστροφης μέτρησης στον ιστότοπό σας.</string>
+    <string name="act_all_actions" formatted="false">Όλες οι ενέργειες στο keepandroidopen.org</string>
+    <string name="action_email" formatted="false">E-mail</string>
+    <string name="action_open" formatted="false">Ανοιχτό</string>
+    <string-array name="us_contact_regions">
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+        <item>Ηνωμένες Πολιτείες</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Υπουργείο Δικαιοσύνης των ΗΠΑ — Τμήμα Αντιμονοπωλιακών Υποθέσεων</item>
+        <item>Ομοσπονδιακή Επιτροπή Εμπορίου των ΗΠΑ — Αντιμονοπωλιακή Επιτροπή</item>
+        <item>Βρείτε τον εκπρόσωπο της Βουλής σας</item>
+        <item>Επικοινωνήστε με τους Αμερικανούς γερουσιαστές σας</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Υποβάλετε μια έκθεση αντιμονοπωλιακής νομοθεσίας στο διαδίκτυο.</item>
+        <item>Υποβολή καταγγελίας αντιμονοπωλιακής νομοθεσίας.</item>
+        <item>Επικοινωνήστε με τον αντιπρόσωπό σας στο Σώμα των ΗΠΑ.</item>
+        <item>Βρείτε και επικοινωνήστε με τους δύο γερουσιαστές της πολιτείας σας.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Ευρωπαϊκή Ένωση</item>
+        <item>Ευρωπαϊκή Ένωση</item>
+        <item>Ηνωμένο Βασίλειο</item>
+        <item>Βραζιλία</item>
+        <item>Σιγκαπούρη</item>
+        <item>Σιάμ</item>
+        <item>Ινδονησία</item>
+        <item>Αυστραλία</item>
+        <item>Καναδάς</item>
+        <item>Ινδία</item>
+        <item>Ιαπωνία</item>
+        <item>Νότια Κορέα</item>
+        <item>Μεξικό</item>
+        <item>Aotearoa / Νέα Ζηλανδία</item>
+        <item>Ταϊβάν</item>
+        <item>Ελβετία</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU Antitrust (DG COMP)</item>
+        <item>Ομάδα Νόμου Ψηφιακών Αγορών</item>
+        <item>Αρχή Ανταγωνισμού &amp; Αγορών</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Επιτροπή Εμπορικού Ανταγωνισμού (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Competition Bureau Canada</item>
+        <item>Επιτροπή Ανταγωνισμού της Ινδίας</item>
+        <item>Επιτροπή Δίκαιου Εμπορίου της Ιαπωνίας</item>
+        <item>Επιτροπή Δίκαιου Εμπορίου της Κορέας</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>Εμπορική Επιτροπή</item>
+        <item>Επιτροπή Δίκαιου Εμπορίου</item>
+        <item>Επιτροπή Ανταγωνισμού (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Στείλτε email στην αρχή ανταγωνισμού της Ευρωπαϊκής Επιτροπής.</item>
+        <item>Επικοινωνήστε με το γραφείο υποστήριξης πολιτών της ΕΕ DMA.</item>
+        <item>Αναφορά στην CMA του ΗΒ.</item>
+        <item>Η Βραζιλία βρίσκεται στο πρώτο κύμα επιβολής.</item>
+        <item>Η Σιγκαπούρη βρίσκεται στο πρώτο κύμα επιβολής.</item>
+        <item>Η Ταϊλάνδη βρίσκεται στο πρώτο κύμα επιβολής.</item>
+        <item>Η Ινδονησία βρίσκεται στο πρώτο κύμα επιβολής.</item>
+        <item>Αναφορά στην Αυστραλιανή Επιτροπή Ανταγωνισμού και Καταναλωτή.</item>
+        <item>Υποβολή καταγγελίας στο Γραφείο Ανταγωνισμού.</item>
+        <item>Επικοινωνήστε με το CCI σχετικά με αντιανταγωνιστική συμπεριφορά.</item>
+        <item>Επικοινωνήστε με το γραφείο JFTC / Mobile Software Competition Act.</item>
+        <item>Επικοινωνήστε με το KFTC.</item>
+        <item>Υποβολή καταγγελίας αντιμονοπωλιακής νομοθεσίας στο Μεξικό.</item>
+        <item>Αναφορά αντιανταγωνιστικής συμπεριφοράς.</item>
+        <item>Επικοινωνήστε με την FTC της Ταϊβάν.</item>
+        <item>Αναφορά παράνομων πρακτικών.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Καθολικός</item>
+        <item>Καθολικός</item>
+        <item>Ευρώπη</item>
+        <item>Ευρώπη</item>
+        <item>Καθολικός</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Foundation</item>
+        <item>Ίδρυμα Ελεύθερου Λογισμικού</item>
+        <item>Ευρωπαϊκό Ίδρυμα Ελεύθερου Λογισμικού</item>
+        <item>Ευρωπαϊκά Ψηφιακά Δικαιώματα (EDRI)</item>
+        <item>Προστασία της Ελευθερίας Λογισμικού</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Θύρα εφαρμογών και λογοκρισία στο διαδίκτυο.</item>
+        <item>Ελευθερία λογισμικού και έλεγχος χρήστη.</item>
+        <item>Ελευθερία λογισμικού στην Ευρώπη.</item>
+        <item>Προάσπιση ψηφιακών δικαιωμάτων.</item>
+        <item>Ελεύθερο λογισμικό με γνώμονα την κοινότητα.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">η κυβέρνησή μου</string>
+    <string name="letter_subject" formatted="false">Σταματήστε το κλείδωμα της επαλήθευσης προγραμματιστή Android της Google</string>
+    <string name="letter_template">Αγαπητέ εκπρόσωπο %1$s,\n\nΓράφω ως προβληματισμένος χρήστης Android και ως πολίτης στη δικαιοδοσία σας.\n\nΤο πρόγραμμα Επαλήθευσης προγραμματιστή Android της Google, το οποίο τίθεται σε ισχύ από τις 30 Σεπτεμβρίου 2026 σε πολλές αγορές και επεκτείνεται παγκοσμίως το 2027, θα απαιτεί κάθε εφαρμογή Android να εγγράφεται σε έναν κεντρικό επαληθευμένο προγραμματιστή προτού εγκατασταθεί σε πιστοποιημένες συσκευές. Οι προγραμματιστές πρέπει να υποβάλουν κρατική ταυτότητα, να συμφωνήσουν με τους όρους της Google, να πληρώσουν ένα τέλος και να αναφέρουν κάθε τρέχον και μελλοντικό αναγνωριστικό εφαρμογής.\n\nΑυτό δεν βελτιώνει ουσιαστικά την ασφάλεια. Παραχωρεί σε μία ιδιωτική εταιρεία την εξουσία να αποφασίζει ποιο λογισμικό επιτρέπεται να εκτελούν οι άνθρωποι στις συσκευές τους και απειλεί την ανεξάρτητη διανομή ανοιχτού κώδικα, όπως το F-Droid, το οποίο δεν μπορεί να συμμορφωθεί και μπορεί να πάψει να υπάρχει.\n\nΣας ζητώ με σεβασμό:\n\n1. Διερευνήστε εάν αυτό το πρόγραμμα είναι αντιανταγωνιστικό και συνιστά κατάχρηση θέσης θυρωρού.\n2. Πιέστε το Google για να εξαιρέσετε τη διανομή ανοιχτού κώδικα και τη μη εμπορική διανομή και να διατηρήσετε την πλευρική φόρτωση χωρίς κεντρική εγγραφή.\n3. Προστατέψτε το δικαίωμα των χρηστών να εκτελούν λογισμικό της επιλογής τους σε υλικό που αγόρασαν.\n\nΠαρακαλώ αναγνωρίστε αυτό το μήνυμα εγγράφως και ενημερώστε με τι ενέργειες κάνει το γραφείο σας.\n\nΑντιγράφω επίσης την καμπάνια Keep Android Open στο %2$s.\n\nΜε εκτίμηση,\n[Το όνομά σου]\n[Η πόλη και η χώρα σας]</string>
+    <string name="toast_no_app" formatted="false">Καμία εφαρμογή δεν μπορεί να ανοίξει αυτόν τον σύνδεσμο</string>
+    <string name="toast_no_email" formatted="false">Δεν έχει εγκατασταθεί καμία εφαρμογή email</string>
+    <string name="chooser_send_email" formatted="false">Αποστολή email</string>
+    <string name="chooser_share" formatted="false">Μερίδιο</string>
+    <string name="toast_copied" formatted="false">Αντιγράφηκε στο πρόχειρο</string>
+    <string name="settings_title" formatted="false">Ρυθμίσεις</string>
+    <string name="settings_language_title" formatted="false">Γλώσσα εφαρμογής</string>
+    <string name="settings_language_summary" formatted="false">Επιλέξτε τη γλώσσα που χρησιμοποιεί η εφαρμογή. Μπορείτε επίσης να το αλλάξετε από τις ρυθμίσεις της συσκευής σας.</string>
+    <string name="settings_system_default" formatted="false">Προεπιλογή συστήματος</string>
+    <string name="settings_language_search" formatted="false">Αναζήτηση γλωσσών</string>
+    <string name="settings_theme_title" formatted="false">Θέμα</string>
+    <string name="settings_theme_summary" formatted="false">Επιλέξτε πώς φαίνεται η εφαρμογή.</string>
+    <string name="theme_system" formatted="false">Ακολουθήστε το σύστημα</string>
+    <string name="theme_light" formatted="false">Φως</string>
+    <string name="theme_dark" formatted="false">Σκοτάδι</string>
+    <string name="theme_amoled" formatted="false">AMOLED (καθαρό μαύρο)</string>
+    <string name="settings_accent_title" formatted="false">Χρώμα έμφασης</string>
+    <string name="settings_accent_summary" formatted="false">Επιλέξτε το χρώμα επισήμανσης που χρησιμοποιείται στην εφαρμογή.</string>
+    <string name="accent_default" formatted="false">Προεπιλογή (κόκκινο καμπάνιας)</string>
+    <string name="accent_red" formatted="false">Κόκκινος</string>
+    <string name="accent_orange" formatted="false">Πορτοκάλι</string>
+    <string name="accent_yellow" formatted="false">Κίτρινος</string>
+    <string name="accent_green" formatted="false">Πράσινος</string>
+    <string name="accent_teal" formatted="false">Βάσκας</string>
+    <string name="accent_blue" formatted="false">Μπλε</string>
+    <string name="accent_purple" formatted="false">Μωβ</string>
+    <string name="accent_pink" formatted="false">Ροζ</string>
+    <string name="settings_colorblendr_warning" formatted="false">Προσοχή: εάν το ColorBlendr ή άλλο υλικό που παρακάμπτετε είναι ενεργό, το χρώμα τονισμού σας ενδέχεται να μην ισχύει μέχρι να το απενεργοποιήσετε.</string>
+    <string name="settings_about_title" formatted="false">Για</string>
+    <string name="settings_version">Έκδοση %1$s</string>
+    <string name="settings_open_source" formatted="false">Ανοιχτού κώδικα (MIT). Δεν σχετίζεται ούτε υποστηρίζεται από την επίσημη καμπάνια Keep Android Open.</string>
+</resources>

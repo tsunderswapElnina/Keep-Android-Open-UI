@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">الٹی گنتی</string>
+    <string name="tab_rollout" formatted="false">رول آؤٹ</string>
+    <string name="tab_act_now" formatted="false">ابھی عمل کریں۔</string>
+    <string name="cd_open_site" formatted="false">Keepandroidopen.org کھولیں۔</string>
+    <string name="cd_settings" formatted="false">ترتیبات</string>
+    <string name="cd_back" formatted="false">پیچھے</string>
+    <string name="countdown_campaign" formatted="false">مہم کی الٹی گنتی</string>
+    <string name="countdown_elapsed" formatted="false">1 جنوری 2027 کو مہم کے عوامی ہونے کے بعد سے وقت گزر گیا۔</string>
+    <string name="countdown_what_means" formatted="false">الٹی گنتی کا کیا مطلب ہے۔</string>
+    <string name="countdown_read_faq" formatted="false">اکثر پوچھے گئے سوالات پڑھیں</string>
+    <string name="countdown_campaign_btn" formatted="false">مہم</string>
+    <string name="countdown_footnote" formatted="false">کاؤنٹ ڈاؤن ہدف keepandroidopen.org پر شائع کردہ بینر سے مماثل ہے۔ ایپ کھلنے کے دوران فی سیکنڈ میں ایک بار اپ ڈیٹ ہوتی ہے۔</string>
+    <string name="countdown_expired" formatted="false">ANDROID اب ایک لاک ڈاؤن پلیٹ فارم ہے۔</string>
+    <string name="countdown_running" formatted="false">ANDROID ایک لاک ڈاؤن پلیٹ فارم بن جاتا ہے۔</string>
+    <string name="unit_days" formatted="false">دن</string>
+    <string name="unit_hours" formatted="false">گھنٹے</string>
+    <string name="unit_minutes" formatted="false">منٹ</string>
+    <string name="unit_seconds" formatted="false">سیکنڈ</string>
+    <string name="rollout_title" formatted="false">Android Developer Verification کیا ہے؟</string>
+    <string name="rollout_what_it_means_title" formatted="false">اس کا واقعی کیا مطلب ہے۔</string>
+    <string name="rollout_timeline_title" formatted="false">رول آؤٹ ٹائم لائن</string>
+    <string name="rollout_paths_title" formatted="false">اپنا تصدیقی راستہ منتخب کریں۔</string>
+    <string name="rollout_advanced_title" formatted="false">\"جدید بہاؤ\" کوئی حل نہیں ہے۔</string>
+    <string name="rollout_dev_page" formatted="false">گوگل کا آفیشل ڈویلپر صفحہ</string>
+    <string name="rollout_open_letter" formatted="false">کھلا خط پڑھیں</string>
+    <string name="label_identity" formatted="false">شناخت</string>
+    <string name="label_distribution" formatted="false">تقسیم</string>
+    <string name="label_ux" formatted="false">صارف کا تجربہ</string>
+    <string name="label_best_for" formatted="false">کے لیے بہترین</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification ایک Google پروگرام ہے جو ہر ایپ کو تصدیق شدہ ڈیولپر کی شناخت سے منسلک کرتا ہے اس سے پہلے کہ اسے تصدیق شدہ Android آلات پر انسٹال کیا جا سکے۔ ڈویلپرز کو اس بات کی تصدیق کرنی چاہیے کہ وہ کون ہیں اور ان کے شائع کردہ پیکیج کے ناموں کو رجسٹر کریں۔ رجسٹرڈ، تصدیق شدہ ڈویلپر کے بغیر ایپس کو تحفظات کے رول آؤٹ ہونے کے بعد عام طریقے سے انسٹال نہیں کیا جا سکتا۔</string>
+    <string name="rollout_what_it_means" formatted="false">یہ آزاد اور اوپن سورس ڈسٹری بیوشن جیسے F-Droid، براہ راست APK ڈاؤن لوڈز، اور شوق کے پروجیکٹس پر سب سے مشکل کام کرتا ہے۔ گوگل کا کہنا ہے کہ یہ حفاظت اور گمنام میلویئر کو روکنے کے بارے میں ہے۔ کیپ اینڈرائیڈ اوپن مہم، F-Droid اور EFF سمیت ناقدین کا کہنا ہے کہ یہ گیٹ کیپر کِل سوئچ ہے: مرکزی رجسٹریشن، گورنمنٹ آئی ڈی، فیس، اور آپ کے آلے کو جس چیز پر بھروسہ کرنے کی اجازت ہے اس پر مکمل کنٹرول۔</string>
+    <string name="rollout_advanced_note" formatted="false">اعلی درجے کا بہاؤ Google Play سروسز کے ذریعے فراہم کیا جاتا ہے، Android OS کے ذریعے نہیں، لہذا Google کسی بھی وقت OS اپ ڈیٹ یا صارف کی رضامندی کے بغیر اسے تبدیل، محدود یا ہٹا سکتا ہے۔ 24 گھنٹے کی تاخیر جان بوجھ کر خلل ڈالتی ہے اور یہ ایک اور قدم ہے جو آپ اور آپ کے چلانے کے لیے منتخب کردہ سافٹ ویئر کے درمیان کھڑا ہے۔</string>
+    <string-array name="timeline_dates">
+        <item>25 اگست 2025</item>
+        <item>19 مارچ 2026</item>
+        <item>جون 2026</item>
+        <item>18 جون 2026</item>
+        <item>جولائی 2026</item>
+        <item>اگست 2026</item>
+        <item>30 ستمبر 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>پروگرام کا اعلان ہے۔</item>
+        <item>\"جدید بہاؤ\" کا انکشاف ہوا ہے۔</item>
+        <item>Android Developer Verifier آلات پر بھیجتا ہے۔</item>
+        <item>ابتدائی لانچ کی تصدیق ہوگئی</item>
+        <item>ڈویلپر APIs کھل جاتے ہیں۔</item>
+        <item>عالمی کنسول، محدود اکاؤنٹس، جدید بہاؤ</item>
+        <item>نفاذ چار ممالک میں شروع ہوتا ہے۔</item>
+        <item>عالمی رول آؤٹ</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>گوگل نے اعلان کیا ہے کہ 2027 کے آغاز سے، اینڈرائیڈ کے لیے ایپس کو ایک تصدیق شدہ ڈویلپر کے پاس رجسٹرڈ ہونا چاہیے، بشمول گوگل پلے سے باہر انسٹال کردہ ایپس۔</item>
+        <item>پاور صارفین کو جان بوجھ کر ایک بوجھل فرار ہیچ ملتا ہے: ڈویلپر کے اختیارات کو فعال کریں، تصدیق کریں کہ آپ کو زبردستی نہیں کیا جا رہا ہے، دوبارہ شروع کریں، پھر 24 گھنٹے انتظار کریں اس سے پہلے کہ آپ غیر تصدیق شدہ انسٹال کی اجازت دیں۔</item>
+        <item>بیک گراؤنڈ سسٹم سروس (com.google.android.verifier) ​​کو گوگل سسٹم اپڈیٹس کے ذریعے تصدیق شدہ ڈیوائسز تک پہنچایا جاتا ہے اور نفاذ تک غیر فعال رہتا ہے۔</item>
+        <item>گوگل تصدیق کرتا ہے کہ نفاذ 30 ستمبر 2026 کو سات اسٹورز اور چار ممالک میں شروع ہوگا۔</item>
+        <item>Android Developer ID Status API عالمی سطح پر لانچ ہوتا ہے اور Android Developer Console API اور محدود تقسیم اکاؤنٹس کے لیے ابتدائی رسائی شروع ہوتی ہے۔</item>
+        <item>محدود ڈسٹری بیوشن اکاؤنٹس (مفت، 20 آلات تک، کوئی سرکاری ID نہیں) اور کنسول API کا دنیا بھر میں آغاز۔ غیر تصدیق شدہ سائڈ لوڈنگ کے لیے ایڈوانس فلو رول آؤٹ ہونا شروع ہو جاتا ہے۔</item>
+        <item>برازیل، انڈونیشیا، سنگاپور اور تھائی لینڈ کے صارفین کے لیے Android 7+ چلانے والے تصدیق شدہ آلات پر تحفظات لائیو ہوتے ہیں۔ غیر تصدیق شدہ ڈویلپرز کی ایپس حصہ لینے والے اسٹورز پر مسدود ہیں: Google Play، HONOR App Market، OPPO App Market، Galaxy Store، Palm Store، V-Appstore اور GetApps۔</item>
+        <item>تصدیق کو تمام ایپس اور علاقوں تک پھیلا دیا گیا ہے۔ کیپ اینڈروئیڈ اوپن کا شمار 1 جنوری 2027 تک ہوگا، جب اینڈرائیڈ ایک لاک ڈاؤن پلیٹ فارم بن جائے گا۔</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>مکمل تقسیم</item>
+        <item>محدود تقسیم</item>
+        <item>غیر رجسٹرڈ ایپس کو سائیڈ لوڈ کرنا</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>جی ہاں - سرکاری ID اور فیس</item>
+        <item>نہیں - کوئی ID یا رجسٹریشن فیس نہیں۔</item>
+        <item>نہیں - لیکن زیادہ رگڑ</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>کوئی بھی اسٹور یا چینل جو آپ منتخب کرتے ہیں۔</item>
+        <item>QR کوڈ یا لنک ہینڈ شیک کے ذریعے 20 آلات تک</item>
+        <item>ADB (مستثنیٰ) یا اعلی درجے کا بہاؤ</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>آپ کے صارفین کے لیے کچھ بھی نہیں بدلا۔</item>
+        <item>صارفین اپنے جاننے والے ایک ڈویلپر کی طرف سے انسٹال کی دعوت قبول کرتے ہیں۔</item>
+        <item>ڈویلپر کے اختیارات، دوبارہ شروع کریں، 24 گھنٹے انتظار کریں، پھر بہر حال انسٹال کریں۔</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>تنظیمیں اور پیشہ ور ڈویلپرز</item>
+        <item>طلباء، شوق اور ذاتی استعمال</item>
+        <item>غیر تصدیق شدہ ڈویلپرز اور پاور صارفین</item>
+    </string-array>
+    <string name="act_title" formatted="false">ابھی عمل کریں - اپنی آواز سنائیں۔</string>
+    <string name="act_intro">ریگولیٹرز متاثرہ افراد سے سننا چاہتے ہیں۔ شائستہ اور مخصوص بنیں، جس باڈی سے آپ رابطہ کرتے ہیں اس کی سرکاری زبان میں لکھیں، تحریری اعتراف طلب کریں، اور %1$s کاپی کریں تاکہ مہم فتوحات کو ٹریک کر سکے۔</string>
+    <string name="act_open_composer" formatted="false">ای میل کمپوزر کھولیں۔</string>
+    <string name="act_copy" formatted="false">کاپی</string>
+    <string name="act_share" formatted="false">شیئر کریں۔</string>
+    <string name="act_clipboard_label" formatted="false">اینڈرائیڈ اوپن لیٹر رکھیں</string>
+    <string name="act_us_title" formatted="false">ریاستہائے متحدہ - حکومت کو ای میل کریں۔</string>
+    <string name="act_us_intro" formatted="false">محکمہ انصاف اور ایف ٹی سی آن لائن فارمز کے ذریعے عدم اعتماد کی رپورٹیں لیتے ہیں۔ انہیں استعمال کریں، اور اپنے نمائندے اور سینیٹرز سے براہ راست رابطہ کریں۔</string>
+    <string name="act_world_title" formatted="false">دنیا میں کہیں اور</string>
+    <string name="act_groups_title" formatted="false">صارفین اور ڈیجیٹل حقوق کے گروپ</string>
+    <string name="act_more_title" formatted="false">مدد کرنے کے مزید طریقے</string>
+    <string name="act_more_body" formatted="false">• اپنے آلات پر F-Droid انسٹال کریں۔\n• گوگل کے ڈویلپر تصدیقی سروے کا جواب دیں۔\n• سوشل میڈیا پر پوسٹ کریں اور keepandroidopen.org سے لنک کریں۔\n• change.org پٹیشن پر دستخط کریں۔\n• اپنی ویب سائٹ پر الٹی گنتی بینر شامل کریں۔</string>
+    <string name="act_all_actions" formatted="false">Keepandroidopen.org پر تمام کارروائیاں</string>
+    <string name="action_email" formatted="false">ای میل</string>
+    <string name="action_open" formatted="false">کھولیں۔</string>
+    <string-array name="us_contact_regions">
+        <item>ریاستہائے متحدہ</item>
+        <item>ریاستہائے متحدہ</item>
+        <item>ریاستہائے متحدہ</item>
+        <item>ریاستہائے متحدہ</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>امریکی محکمہ انصاف - عدم اعتماد ڈویژن</item>
+        <item>یو ایس فیڈرل ٹریڈ کمیشن - عدم اعتماد</item>
+        <item>اپنے ایوان کے نمائندے کو تلاش کریں۔</item>
+        <item>اپنے امریکی سینیٹرز سے رابطہ کریں۔</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>عدم اعتماد کی رپورٹ آن لائن جمع کروائیں۔</item>
+        <item>عدم اعتماد کی شکایت درج کروائیں۔</item>
+        <item>امریکی ایوان میں اپنے نمائندے سے رابطہ کریں۔</item>
+        <item>اپنی ریاست کے دونوں سینیٹرز کو تلاش کریں اور ان سے رابطہ کریں۔</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>یورپی یونین</item>
+        <item>یورپی یونین</item>
+        <item>برطانیہ</item>
+        <item>برازیل</item>
+        <item>سنگاپور</item>
+        <item>تھائی لینڈ</item>
+        <item>انڈونیشیا</item>
+        <item>آسٹریلیا</item>
+        <item>کینیڈا</item>
+        <item>انڈیا</item>
+        <item>جاپان</item>
+        <item>جنوبی کوریا</item>
+        <item>میکسیکو</item>
+        <item>Aotearoa / نیوزی لینڈ</item>
+        <item>تائیوان</item>
+        <item>سوئٹزرلینڈ</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU عدم اعتماد (DG COMP)</item>
+        <item>ڈیجیٹل مارکیٹس ایکٹ ٹیم</item>
+        <item>مسابقت اور مارکیٹس اتھارٹی</item>
+        <item>کیڈ</item>
+        <item>سی سی سی ایس</item>
+        <item>تجارتی مسابقتی کمیشن (OTCC)</item>
+        <item>کے پی پی یو</item>
+        <item>اے سی سی</item>
+        <item>مسابقتی بیورو کینیڈا</item>
+        <item>مسابقتی کمیشن آف انڈیا</item>
+        <item>جاپان فیئر ٹریڈ کمیشن</item>
+        <item>کوریا فیئر ٹریڈ کمیشن</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>کامرس کمیشن</item>
+        <item>منصفانہ تجارتی کمیشن</item>
+        <item>مسابقتی کمیشن (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>یورپی کمیشن مسابقتی اتھارٹی کو ای میل کریں۔</item>
+        <item>EU DMA سٹیزن ہیلپ ڈیسک سے رابطہ کریں۔</item>
+        <item>UK CMA کو رپورٹ کریں۔</item>
+        <item>برازیل نفاذ کی پہلی لہر میں ہے۔</item>
+        <item>سنگاپور پہلے نفاذ کی لہر میں ہے۔</item>
+        <item>تھائی لینڈ نفاذ کی پہلی لہر میں ہے۔</item>
+        <item>انڈونیشیا نفاذ کی پہلی لہر میں ہے۔</item>
+        <item>آسٹریلیائی مسابقت اور صارف کمیشن کو رپورٹ کریں۔</item>
+        <item>کمپیٹیشن بیورو میں شکایت درج کروائیں۔</item>
+        <item>مقابلہ مخالف طرز عمل کے بارے میں سی سی آئی سے رابطہ کریں۔</item>
+        <item>JFTC / موبائل سافٹ ویئر کمپیٹیشن ایکٹ ڈیسک سے رابطہ کریں۔</item>
+        <item>KFTC سے رابطہ کریں۔</item>
+        <item>میکسیکو میں عدم اعتماد کی شکایت درج کروائیں۔</item>
+        <item>مخالف مسابقتی طرز عمل کی اطلاع دیں۔</item>
+        <item>تائیوان FTC سے رابطہ کریں۔</item>
+        <item>غیر قانونی طریقوں کی اطلاع دیں۔</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>عالمی</item>
+        <item>عالمی</item>
+        <item>یورپ</item>
+        <item>یورپ</item>
+        <item>عالمی</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>الیکٹرانک فرنٹیئر فاؤنڈیشن</item>
+        <item>مفت سافٹ ویئر فاؤنڈیشن</item>
+        <item>مفت سافٹ ویئر فاؤنڈیشن یورپ</item>
+        <item>یورپی ڈیجیٹل رائٹس (EDRi)</item>
+        <item>سافٹ ویئر فریڈم کنزروینسی</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>ایپ گیٹ کیپنگ اور انٹرنیٹ سنسر شپ۔</item>
+        <item>سافٹ ویئر کی آزادی اور صارف کا کنٹرول۔</item>
+        <item>یورپ میں سافٹ ویئر کی آزادی۔</item>
+        <item>ڈیجیٹل حقوق کی وکالت۔</item>
+        <item>کمیونٹی سے چلنے والا مفت سافٹ ویئر۔</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">میری حکومت</string>
+    <string name="letter_subject" formatted="false">Google کے Android Developer Verification لاک ڈاؤن کو روکیں۔</string>
+    <string name="letter_template">محترم %1$s نمائندہ،\n\nمیں ایک متعلقہ اینڈرائیڈ صارف اور آپ کے دائرہ اختیار میں ایک شہری کی حیثیت سے لکھ رہا ہوں۔\n\nGoogle کا Android Developer Verification پروگرام، جو 30 ستمبر 2026 سے متعدد مارکیٹوں میں نافذ ہوا اور 2027 میں عالمی سطح پر پھیل رہا ہے، اس کے لیے ہر اینڈرائیڈ ایپ کو تصدیق شدہ ڈیوائسز پر انسٹال کرنے سے پہلے اسے مرکزی طور پر تصدیق شدہ ڈویلپر کے پاس رجسٹر کرنے کی ضرورت ہوگی۔ ڈیولپرز کو حکومتی شناخت جمع کرانی ہوگی، گوگل کی شرائط سے اتفاق کرنا ہوگا، فیس ادا کرنی ہوگی اور ہر موجودہ اور مستقبل کے ایپ شناخت کنندہ کی فہرست دینی ہوگی۔\n\nیہ معنی خیز طور پر سیکیورٹی کو بہتر نہیں کرتا ہے۔ یہ کسی ایک نجی کمپنی کو یہ فیصلہ کرنے کا اختیار دیتا ہے کہ کون سے سافٹ ویئر لوگوں کو ان کی ملکیت والے آلات پر چلانے کی اجازت ہے، اور یہ آزاد اور اوپن سورس ڈسٹری بیوشن جیسے F-Droid کو خطرہ ہے، جو تعمیل نہیں کر سکتا اور اس کا وجود ختم ہو سکتا ہے۔\n\nمیں احترام کے ساتھ آپ سے پوچھتا ہوں کہ:\n\n1. چھان بین کریں کہ آیا یہ پروگرام مقابلہ مخالف ہے اور گیٹ کیپر کے عہدے کا غلط استعمال کرتا ہے۔\n2. اوپن سورس اور غیر تجارتی تقسیم کو مستثنیٰ کرنے کے لیے، اور سنٹرلائزڈ رجسٹریشن سے پاک سائڈ لوڈنگ کو رکھنے کے لیے گوگل کو دبائیں۔\n3. صارفین کے اپنے خریدے گئے ہارڈ ویئر پر اپنی پسند کا سافٹ ویئر چلانے کے حق کی حفاظت کریں۔\n\nبراہ کرم اس پیغام کو تحریری طور پر تسلیم کریں اور مجھے بتائیں کہ آپ کا دفتر کیا کارروائی کرتا ہے۔\n\nمیں %2$s پر کیپ اینڈرائیڈ اوپن مہم کو بھی کاپی کر رہا ہوں۔\n\nمخلص،\n[آپ کا نام]\n[آپ کا شہر اور ملک]</string>
+    <string name="toast_no_app" formatted="false">کوئی ایپ اس لنک کو نہیں کھول سکتی</string>
+    <string name="toast_no_email" formatted="false">کوئی ای میل ایپ انسٹال نہیں ہے۔</string>
+    <string name="chooser_send_email" formatted="false">ای میل بھیجیں۔</string>
+    <string name="chooser_share" formatted="false">شیئر کریں۔</string>
+    <string name="toast_copied" formatted="false">کلپ بورڈ پر کاپی ہو گیا۔</string>
+    <string name="settings_title" formatted="false">ترتیبات</string>
+    <string name="settings_language_title" formatted="false">ایپ کی زبان</string>
+    <string name="settings_language_summary" formatted="false">ایپ کے ذریعہ استعمال کی جانے والی زبان کا انتخاب کریں۔ آپ اسے اپنے آلے کی ترتیبات سے بھی تبدیل کر سکتے ہیں۔</string>
+    <string name="settings_system_default" formatted="false">سسٹم ڈیفالٹ</string>
+    <string name="settings_language_search" formatted="false">زبانیں تلاش کریں۔</string>
+    <string name="settings_theme_title" formatted="false">تھیم</string>
+    <string name="settings_theme_summary" formatted="false">منتخب کریں کہ ایپ کیسی دکھتی ہے۔</string>
+    <string name="theme_system" formatted="false">سسٹم پر عمل کریں۔</string>
+    <string name="theme_light" formatted="false">روشنی</string>
+    <string name="theme_dark" formatted="false">اندھیرا</string>
+    <string name="theme_amoled" formatted="false">AMOLED (خالص سیاہ)</string>
+    <string name="settings_accent_title" formatted="false">لہجے کا رنگ</string>
+    <string name="settings_accent_summary" formatted="false">پوری ایپ میں استعمال ہونے والے نمایاں رنگ کو منتخب کریں۔</string>
+    <string name="accent_default" formatted="false">ڈیفالٹ (مہم سرخ)</string>
+    <string name="accent_red" formatted="false">سرخ</string>
+    <string name="accent_orange" formatted="false">کینو</string>
+    <string name="accent_yellow" formatted="false">پیلا</string>
+    <string name="accent_green" formatted="false">سبز</string>
+    <string name="accent_teal" formatted="false">ٹیل</string>
+    <string name="accent_blue" formatted="false">نیلا</string>
+    <string name="accent_purple" formatted="false">جامنی</string>
+    <string name="accent_pink" formatted="false">گلابی</string>
+    <string name="settings_colorblendr_warning" formatted="false">خبردار: اگر ColorBlendr یا کوئی اور مواد جسے آپ نے اوور رائیڈ کیا ہے وہ فعال ہے، آپ کے لہجے کا رنگ اس وقت تک لاگو نہیں ہو سکتا جب تک کہ آپ اسے غیر فعال کر دیں۔</string>
+    <string name="settings_about_title" formatted="false">کے بارے میں</string>
+    <string name="settings_version">ورژن %1$s</string>
+    <string name="settings_open_source" formatted="false">اوپن سورس (MIT)۔ آفیشل Keep Android Open مہم سے وابستہ یا اس کی تائید نہیں کی گئی ہے۔</string>
+</resources>

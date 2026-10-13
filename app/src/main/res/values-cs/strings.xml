@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Odpočítávání</string>
+    <string name="tab_rollout" formatted="false">Zavádění</string>
+    <string name="tab_act_now" formatted="false">Jednat hned</string>
+    <string name="cd_open_site" formatted="false">Otevřete keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Nastavení</string>
+    <string name="cd_back" formatted="false">Zadní</string>
+    <string name="countdown_campaign" formatted="false">Odpočítávání kampaně</string>
+    <string name="countdown_elapsed" formatted="false">Od zveřejnění kampaně k 1. lednu 2027 uplynul čas.</string>
+    <string name="countdown_what_means" formatted="false">Co znamená odpočítávání</string>
+    <string name="countdown_read_faq" formatted="false">Přečtěte si FAQ</string>
+    <string name="countdown_campaign_btn" formatted="false">Kampaň</string>
+    <string name="countdown_footnote" formatted="false">Cíl odpočítávání odpovídá banneru zveřejněnému na keepandroidopen.org. Když je aplikace otevřená, aktualizuje se jednou za sekundu.</string>
+    <string name="countdown_expired" formatted="false">ANDROID JE NYNÍ UZAMKNUTÁ PLATFORMA</string>
+    <string name="countdown_running" formatted="false">ANDROID SE STÁVÁ UZAMKNUTOU PLATFORMOU</string>
+    <string name="unit_days" formatted="false">dní</string>
+    <string name="unit_hours" formatted="false">hodin</string>
+    <string name="unit_minutes" formatted="false">zápis</string>
+    <string name="unit_seconds" formatted="false">sekundy</string>
+    <string name="rollout_title" formatted="false">Co je ověření vývojáře pro Android?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Co to doopravdy znamená</string>
+    <string name="rollout_timeline_title" formatted="false">Časová osa zavedení</string>
+    <string name="rollout_paths_title" formatted="false">Vyberte ověřovací cestu</string>
+    <string name="rollout_advanced_title" formatted="false">„Pokročilý tok“ není řešením</string>
+    <string name="rollout_dev_page" formatted="false">Oficiální vývojářská stránka Google</string>
+    <string name="rollout_open_letter" formatted="false">Přečtěte si otevřený dopis</string>
+    <string name="label_identity" formatted="false">Identita</string>
+    <string name="label_distribution" formatted="false">Rozdělení</string>
+    <string name="label_ux" formatted="false">Uživatelská zkušenost</string>
+    <string name="label_best_for" formatted="false">Nejlepší pro</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification je program Google, který propojuje každou aplikaci s ověřenou identitou vývojáře, než ji lze nainstalovat na certifikovaná zařízení Android. Vývojáři musí ověřit, kdo jsou, a zaregistrovat názvy balíčků, které publikují. Aplikace bez registrovaného a ověřeného vývojáře již po zavedení ochran nelze běžným způsobem instalovat.</string>
+    <string name="rollout_what_it_means" formatted="false">Nejtěžší je to u nezávislé a open source distribuce, jako je F-Droid, přímé stahování APK a hobby projekty. Google říká, že jde o bezpečnost a zastavení anonymního malwaru. Kritici včetně kampaně Keep Android Open, F-Droid a EFF tvrdí, že jde o přepínač zabíjení gatekeepera: centrální registrace, vládní ID, poplatek a plná kontrola nad tím, čemu může vaše zařízení věřit.</string>
+    <string name="rollout_advanced_note" formatted="false">Pokročilý tok je poskytován prostřednictvím služeb Google Play, nikoli operačního systému Android, takže jej Google může kdykoli změnit, omezit nebo odstranit bez aktualizace operačního systému nebo souhlasu uživatele. 24hodinové zpoždění je záměrně rušivé a je dalším krokem, který stojí mezi vámi a softwarem, který se rozhodnete spustit.</string>
+    <string-array name="timeline_dates">
+        <item>25. srpna 2025</item>
+        <item>19. března 2026</item>
+        <item>června 2026</item>
+        <item>18. června 2026</item>
+        <item>července 2026</item>
+        <item>Srpen 2026</item>
+        <item>30. září 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Program je vyhlášen</item>
+        <item>Je odhalen „pokročilý tok“.</item>
+        <item>Android Developer Verifier se dodává do zařízení</item>
+        <item>První spuštění potvrzeno</item>
+        <item>Rozhraní API pro vývojáře se otevírají</item>
+        <item>Globální konzole, omezené účty, pokročilý tok</item>
+        <item>Vymáhání začíná ve čtyřech zemích</item>
+        <item>Globální zavedení</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google oznamuje, že od roku 2027 musí být aplikace pro Android registrovány u ověřeného vývojáře, včetně aplikací nainstalovaných mimo Google Play.</item>
+        <item>Pokročilí uživatelé získají záměrně těžkopádný únikový poklop: povolte možnosti vývojáře, potvrďte, že nejste nuceni, restartujte a počkejte 24 hodin, než povolíte neověřené instalace.</item>
+        <item>Systémová služba na pozadí (com.google.android.verifier) ​​je prostřednictvím aktualizací systému Google odeslána do certifikovaných zařízení a zůstane nečinná až do vynucení.</item>
+        <item>Google potvrzuje, že prosazování začne 30. září 2026 v sedmi obchodech a čtyřech zemích.</item>
+        <item>Rozhraní Android Developer ID Status API se spouští globálně a začíná předběžný přístup pro rozhraní Android Developer Console API a účty omezené distribuce.</item>
+        <item>Omezené distribuční účty (zdarma, až 20 zařízení, bez vládního ID) a rozhraní Console API se spouští po celém světě. Začíná se zavádět pokročilý tok pro neověřené boční zatížení.</item>
+        <item>Ochrany jsou aktivní pro uživatele v Brazílii, Indonésii, Singapuru a Thajsku na certifikovaných zařízeních se systémem Android 7+. Aplikace od neověřených vývojářů jsou blokovány v zúčastněných obchodech: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore a GetApps.</item>
+        <item>Ověření je rozšířeno na všechny aplikace a oblasti. Keep Android Open odpočítává do 1. ledna 2027, kdy se Android stane uzamčenou platformou.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Plná distribuce</item>
+        <item>Omezená distribuce</item>
+        <item>Sideloading neregistrovaných aplikací</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Ano – státní průkaz totožnosti a poplatek</item>
+        <item>Ne – žádné ID ani registrační poplatek</item>
+        <item>Ne – ale vysoké tření</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Jakýkoli obchod nebo kanál, který si vyberete</item>
+        <item>Až 20 zařízení prostřednictvím QR kódu nebo spojení handshake</item>
+        <item>ADB (výjimka) nebo pokročilý tok</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Pro vaše uživatele se nic nemění</item>
+        <item>Uživatelé přijímají pozvánku k instalaci od vývojáře, kterého znají</item>
+        <item>Možnosti pro vývojáře, restart, 24hodinové čekání a poté instalaci</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Organizace a profesionální vývojáři</item>
+        <item>Studenti, fandové a osobní použití</item>
+        <item>Neověření vývojáři a pokročilí uživatelé</item>
+    </string-array>
+    <string name="act_title" formatted="false">Jednejte hned – nechte slyšet svůj hlas</string>
+    <string name="act_intro">Regulátoři chtějí slyšet od jednotlivců, kterých se to týká. Buďte zdvořilí a konkrétní, pište v oficiálním jazyce orgánu, který kontaktujete, požádejte o písemné potvrzení a zkopírujte %1$s, aby kampaň mohla sledovat vítězství.</string>
+    <string name="act_open_composer" formatted="false">Otevřete nástroj pro vytváření e-mailů</string>
+    <string name="act_copy" formatted="false">Kopie</string>
+    <string name="act_share" formatted="false">Podíl</string>
+    <string name="act_clipboard_label" formatted="false">Keep Android Open letter</string>
+    <string name="act_us_title" formatted="false">Spojené státy – pošlete e-mail vládě</string>
+    <string name="act_us_intro" formatted="false">Ministerstvo spravedlnosti a FTC přijímají antimonopolní zprávy prostřednictvím online formulářů. Použijte je a kontaktujte přímo svého zástupce a senátory.</string>
+    <string name="act_world_title" formatted="false">Jinde ve světě</string>
+    <string name="act_groups_title" formatted="false">Skupiny spotřebitelů a digitálních práv</string>
+    <string name="act_more_title" formatted="false">Více způsobů, jak pomoci</string>
+    <string name="act_more_body" formatted="false">• Nainstalujte F-Droid do svých zařízení.\n• Odpovězte na ověřovací průzkum společnosti Google pro vývojáře.\n• Publikujte na sociálních sítích a odkazujte na keepandroidopen.org.\n• Podepište petici change.org.\n• Přidejte na svůj web banner odpočítávání.</string>
+    <string name="act_all_actions" formatted="false">Všechny akce na keepandroidopen.org</string>
+    <string name="action_email" formatted="false">E-mail</string>
+    <string name="action_open" formatted="false">OTEVŘENO</string>
+    <string-array name="us_contact_regions">
+        <item>Spojené státy</item>
+        <item>Spojené státy</item>
+        <item>Spojené státy</item>
+        <item>Spojené státy</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Ministerstvo spravedlnosti USA — Antimonopolní divize</item>
+        <item>Federální obchodní komise USA — Antimonopolní úřad</item>
+        <item>Najděte svého zástupce ve sněmovně</item>
+        <item>Kontaktujte své americké senátory</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Odešlete antimonopolní zprávu online.</item>
+        <item>Podejte antimonopolní stížnost.</item>
+        <item>Kontaktujte svého zástupce v Sněmovně reprezentantů USA.</item>
+        <item>Najděte a kontaktujte oba senátory vašeho státu.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Evropská unie</item>
+        <item>Evropská unie</item>
+        <item>Spojené království</item>
+        <item>Brazílie</item>
+        <item>Singapur</item>
+        <item>Thajsko</item>
+        <item>Indonésie</item>
+        <item>Austrálie</item>
+        <item>Kanada</item>
+        <item>Indie</item>
+        <item>Japonsko</item>
+        <item>Jižní Korea</item>
+        <item>Mexiko</item>
+        <item>Aotearoa / Nový Zéland</item>
+        <item>Tchaj-wan</item>
+        <item>Švýcarsko</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU antimonopolní (DG COMP)</item>
+        <item>Tým zákona o digitálních trzích</item>
+        <item>Úřad pro hospodářskou soutěž a trhy</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Komise pro hospodářskou soutěž (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Kanadský úřad pro hospodářskou soutěž</item>
+        <item>Indická komise pro hospodářskou soutěž</item>
+        <item>Japonská komise pro spravedlivý obchod</item>
+        <item>Korejská komise pro spravedlivý obchod</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>Obchodní komise</item>
+        <item>Komise pro spravedlivý obchod</item>
+        <item>Komise pro hospodářskou soutěž (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Zašlete e-mail úřadu pro hospodářskou soutěž Evropské komise.</item>
+        <item>Kontaktujte asistenční službu pro občany EU DMA.</item>
+        <item>Zpráva britskému CMA.</item>
+        <item>Brazílie je v první vlně prosazování.</item>
+        <item>Singapur je v první vlně prosazování.</item>
+        <item>Thajsko je v první vlně prosazování.</item>
+        <item>Indonésie je v první vlně prosazování.</item>
+        <item>Zpráva australské komisi pro hospodářskou soutěž a spotřebitele.</item>
+        <item>Podejte stížnost u Úřadu pro hospodářskou soutěž.</item>
+        <item>Obraťte se na CCI ohledně protisoutěžního chování.</item>
+        <item>Kontaktujte oddělení JFTC / Mobile Software Competition Act.</item>
+        <item>Kontaktujte KFTC.</item>
+        <item>Podejte antimonopolní stížnost v Mexiku.</item>
+        <item>Nahlásit protisoutěžní chování.</item>
+        <item>Kontaktujte tchajwanskou FTC.</item>
+        <item>Nahlásit nezákonné praktiky.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Globální</item>
+        <item>Globální</item>
+        <item>Evropa</item>
+        <item>Evropa</item>
+        <item>Globální</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Foundation</item>
+        <item>Free Software Foundation</item>
+        <item>Free Software Foundation Europe</item>
+        <item>Evropská digitální práva (EDRI)</item>
+        <item>Zachování svobody softwaru</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Správa brány aplikací a cenzura internetu.</item>
+        <item>Svoboda softwaru a uživatelská kontrola.</item>
+        <item>Svoboda softwaru v Evropě.</item>
+        <item>Obhajoba digitálních práv.</item>
+        <item>Svobodný software řízený komunitou.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">moje vláda</string>
+    <string name="letter_subject" formatted="false">Zastavte uzamčení Google Developer Verification pro Android</string>
+    <string name="letter_template">Vážený zástupce %1$s,\n\nPíši jako dotčený uživatel systému Android a jako občan ve vaší jurisdikci.\n\nProgram Android Developer Verification od společnosti Google, který je zaveden od 30. září 2026 na několika trzích a v roce 2027 se globálně rozšíří, bude vyžadovat, aby každá aplikace pro Android byla zaregistrována u centrálně ověřeného vývojáře, než ji bude možné nainstalovat na certifikovaná zařízení. Vývojáři musí odeslat vládní identifikační údaje, souhlasit s podmínkami společnosti Google, zaplatit poplatek a uvést všechny současné a budoucí identifikátory aplikace.\n\nTo nijak významně nezlepšuje bezpečnost. Předává jediné soukromé společnosti pravomoc rozhodovat o tom, jaký software mohou lidé provozovat na zařízeních, která vlastní, a ohrožuje nezávislou a open source distribuci, jako je F-Droid, která nemůže vyhovět a může přestat existovat.\n\nUctivě vás žádám, abyste:\n\n1. Zjistěte, zda tento program není protisoutěžní a představuje zneužití postavení vrátného.\n2. Zatlačte na Google, abyste vyňali open source a nekomerční distribuci a ponechali sideloading bez centralizované registrace.\n3. Chraňte právo uživatelů spouštět software dle vlastního výběru na zakoupeném hardwaru.\n\nPotvrďte prosím tuto zprávu písemně a dejte mi vědět, jak vaše kancelář podniká.\n\nKopíruji také kampaň Keep Android Open na %2$s.\n\ns pozdravem\n[Vaše jméno]\n[Vaše město a země]</string>
+    <string name="toast_no_app" formatted="false">Tento odkaz nemůže otevřít žádná aplikace</string>
+    <string name="toast_no_email" formatted="false">Není nainstalována žádná e-mailová aplikace</string>
+    <string name="chooser_send_email" formatted="false">Odeslat email</string>
+    <string name="chooser_share" formatted="false">Podíl</string>
+    <string name="toast_copied" formatted="false">Zkopírováno do schránky</string>
+    <string name="settings_title" formatted="false">Nastavení</string>
+    <string name="settings_language_title" formatted="false">Jazyk aplikace</string>
+    <string name="settings_language_summary" formatted="false">Vyberte jazyk používaný aplikací. Můžete to také změnit v nastavení zařízení.</string>
+    <string name="settings_system_default" formatted="false">Výchozí nastavení systému</string>
+    <string name="settings_language_search" formatted="false">Hledat jazyky</string>
+    <string name="settings_theme_title" formatted="false">Téma</string>
+    <string name="settings_theme_summary" formatted="false">Vyberte, jak aplikace vypadá.</string>
+    <string name="theme_system" formatted="false">Sledujte systém</string>
+    <string name="theme_light" formatted="false">Světlo</string>
+    <string name="theme_dark" formatted="false">Tmavý</string>
+    <string name="theme_amoled" formatted="false">AMOLED (čistě černá)</string>
+    <string name="settings_accent_title" formatted="false">Barva přízvuku</string>
+    <string name="settings_accent_summary" formatted="false">Vyberte barvu zvýraznění používanou v aplikaci.</string>
+    <string name="accent_default" formatted="false">Výchozí (červená kampaň)</string>
+    <string name="accent_red" formatted="false">Červený</string>
+    <string name="accent_orange" formatted="false">Pomerančový</string>
+    <string name="accent_yellow" formatted="false">Žluť</string>
+    <string name="accent_green" formatted="false">Zelený</string>
+    <string name="accent_teal" formatted="false">Teal</string>
+    <string name="accent_blue" formatted="false">Modrý</string>
+    <string name="accent_purple" formatted="false">Fialová</string>
+    <string name="accent_pink" formatted="false">Růžový</string>
+    <string name="settings_colorblendr_warning" formatted="false">Upozornění: pokud je aktivní ColorBlendr nebo jiný materiál, který přepíšete, vaše zvýrazňující barva nemusí platit, dokud ji nezakážete.</string>
+    <string name="settings_about_title" formatted="false">O</string>
+    <string name="settings_version">Verze %1$s</string>
+    <string name="settings_open_source" formatted="false">Open source (MIT). Není přidružen k oficiální kampani Keep Android Open ani jí není podporován.</string>
+</resources>

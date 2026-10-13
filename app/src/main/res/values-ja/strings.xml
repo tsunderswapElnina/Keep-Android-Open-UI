@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">カウントダウン</string>
+    <string name="tab_rollout" formatted="false">ロールアウト</string>
+    <string name="tab_act_now" formatted="false">今すぐ行動しましょう</string>
+    <string name="cd_open_site" formatted="false">keepandroidopen.org を開く</string>
+    <string name="cd_settings" formatted="false">設定</string>
+    <string name="cd_back" formatted="false">戻る</string>
+    <string name="countdown_campaign" formatted="false">キャンペーンカウントダウン</string>
+    <string name="countdown_elapsed" formatted="false">キャンペーンが公開されてから 2027 年 1 月 1 日に向けて経過した時間。</string>
+    <string name="countdown_what_means" formatted="false">カウントダウンの意味</string>
+    <string name="countdown_read_faq" formatted="false">よくある質問を読む</string>
+    <string name="countdown_campaign_btn" formatted="false">キャンペーン</string>
+    <string name="countdown_footnote" formatted="false">カウントダウンのターゲットは、keepandroidopen.org で公開されているバナーと一致します。アプリは開いている間、1 秒に 1 回更新されます。</string>
+    <string name="countdown_expired" formatted="false">Android はロックダウンされたプラットフォームになりました</string>
+    <string name="countdown_running" formatted="false">Android がロックダウンされたプラットフォームになる</string>
+    <string name="unit_days" formatted="false">日</string>
+    <string name="unit_hours" formatted="false">時間</string>
+    <string name="unit_minutes" formatted="false">分</string>
+    <string name="unit_seconds" formatted="false">秒</string>
+    <string name="rollout_title" formatted="false">Android 開発者認証とは何ですか?</string>
+    <string name="rollout_what_it_means_title" formatted="false">それが本当に意味すること</string>
+    <string name="rollout_timeline_title" formatted="false">展開のタイムライン</string>
+    <string name="rollout_paths_title" formatted="false">検証パスを選択してください</string>
+    <string name="rollout_advanced_title" formatted="false">「高度なフロー」は解決策ではない</string>
+    <string name="rollout_dev_page" formatted="false">Googleの公式開発者ページ</string>
+    <string name="rollout_open_letter" formatted="false">公開書簡を読む</string>
+    <string name="label_identity" formatted="false">身元</string>
+    <string name="label_distribution" formatted="false">分布</string>
+    <string name="label_ux" formatted="false">ユーザーエクスペリエンス</string>
+    <string name="label_best_for" formatted="false">こんな方に最適</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification は、認定された Android デバイスにインストールする前に、すべてのアプリを検証済みの開発者 ID にリンクする Google プログラムです。開発者は、自分が誰であるかを確認し、公開するパッケージ名を登録する必要があります。保護機能が展開されると、登録済みの検証済み開発者がいないアプリは通常の方法でインストールできなくなります。</string>
+    <string name="rollout_what_it_means" formatted="false">F-Droid、APK の直接ダウンロード、趣味のプロジェクトなどの独立したオープンソースの配布が最も困難になります。 Googleは、これは安全性と匿名のマルウェアを阻止するためだと述べている。 Keep Android Open キャンペーン、F-Droid、EFF などの批評家は、これがゲートキーパーのキル スイッチであると主張しています。つまり、中央登録、政府 ID、料金、デバイスの信頼を完全に制御できるものです。</string>
+    <string name="rollout_advanced_note" formatted="false">高度なフローは Android OS ではなく Google Play サービスを通じて提供されるため、Google は OS のアップデートやユーザーの同意なしにいつでも変更、制限、削除できます。 24 時間の遅延は意図的に混乱をもたらすものであり、ユーザーと実行することを選択したソフトウェアとの間に立ちはだかるもう 1 つのステップです。</string>
+    <string-array name="timeline_dates">
+        <item>2025 年 8 月 25 日</item>
+        <item>2026 年 3 月 19 日</item>
+        <item>2026年6月</item>
+        <item>2026 年 6 月 18 日</item>
+        <item>2026年7月</item>
+        <item>2026年8月</item>
+        <item>2026 年 9 月 30 日</item>
+        <item>2027年</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>番組が発表されました</item>
+        <item>「高度な流れ」が明らかに</item>
+        <item>Android Developer Verifier がデバイスに出荷される</item>
+        <item>初回起動確認済み</item>
+        <item>開発者向け API がオープン</item>
+        <item>グローバル コンソール、制限付きアカウント、高度なフロー</item>
+        <item>4カ国で施行開始</item>
+        <item>グローバル展開</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google は、2027 年から Android 用アプリ（Google Play 以外でインストールされたアプリも含む）は認証済みの開発者に登録する必要があると発表しました。</item>
+        <item>パワー ユーザーは、意図的に面倒な脱出ハッチを利用します。開発者向けオプションを有効にし、強制されていないことを確認し、再起動してから、未検証のインストールを許可するまで 24 時間待ちます。</item>
+        <item>バックグラウンド システム サービス (com.google.android.verifier) は、Google システム アップデートを通じて認定デバイスにプッシュされ、施行されるまで休止状態になります。</item>
+        <item>Google は、2026 年 9 月 30 日から 4 か国の 7 つの店舗で施行が開始されることを確認しました。</item>
+        <item>Android Developer ID Status API がグローバルに開始され、Android Developer Console API と限定された配布アカウントへの早期アクセスが開始されます。</item>
+        <item>限定された配布アカウント (無料、最大 20 台のデバイス、政府 ID なし) とコンソール API が世界中で開始されます。未検証のサイドローディングの高度なフローがロールアウトを開始します。</item>
+        <item>Android 7 以降を実行する認定デバイスを使用するブラジル、インドネシア、シンガポール、タイのユーザー向けに保護機能が適用されます。未確認の開発者からのアプリは、Google Play、HONOR App Market、OPPO App Market、Galaxy Store、Palm Store、V-Appstore、GetApps の参加ストアでブロックされます。</item>
+        <item>検証はすべてのアプリとリージョンに拡張されます。 Keep Android Open は、Android がロックダウンされたプラットフォームになる 2027 年 1 月 1 日までカウントダウンされます。</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>完全配布</item>
+        <item>限定配布</item>
+        <item>未登録アプリのサイドローディング</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>はい - 政府IDと手数料</item>
+        <item>いいえ — ID や登録料はかかりません</item>
+        <item>いいえ、しかし摩擦が大きい</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>選択したストアまたはチャネル</item>
+        <item>QR コードまたはリンク ハンドシェイク経由で最大 20 台のデバイス</item>
+        <item>ADB（免除）またはアドバンストフロー</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>ユーザーにとっては何も変わりません</item>
+        <item>ユーザーは知り合いの開発者からのインストールの招待を受け入れます</item>
+        <item>開発者向けオプション、再起動、24 時間待ってからインストール</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>組織とプロの開発者</item>
+        <item>学生、趣味、個人使用</item>
+        <item>未検証の開発者とパワーユーザー</item>
+    </string-array>
+    <string name="act_title" formatted="false">今すぐ行動 — あなたの声を届けましょう</string>
+    <string name="act_intro">規制当局は影響を受けた個人からの意見を求めている。礼儀正しく具体的にし、連絡先の公用語で書き、書面による謝辞を求め、キャンペーンが勝利を追跡できるように %1$s をコピーしてください。</string>
+    <string name="act_open_composer" formatted="false">電子メール作成ツールを開く</string>
+    <string name="act_copy" formatted="false">コピー</string>
+    <string name="act_share" formatted="false">共有</string>
+    <string name="act_clipboard_label" formatted="false">Android オープンレターを維持する</string>
+    <string name="act_us_title" formatted="false">米国 — 政府に電子メールを送信する</string>
+    <string name="act_us_intro" formatted="false">司法省とFTCはオンラインフォームを通じて独占禁止法報告書を受け付けています。それらを使用し、自分の代表者や上院議員に直接連絡してください。</string>
+    <string name="act_world_title" formatted="false">世界の他の場所でも</string>
+    <string name="act_groups_title" formatted="false">消費者およびデジタル権利団体</string>
+    <string name="act_more_title" formatted="false">その他の支援方法</string>
+    <string name="act_more_body" formatted="false">• F-Droid をデバイスにインストールします。\n• Google の開発者検証アンケートに回答します。\n• ソーシャルメディアに投稿し、keepandroidopen.org にリンクします。\n• Change.org の請願書に署名します。\n• カウントダウン バナーを Web サイトに追加します。</string>
+    <string name="act_all_actions" formatted="false">keepandroidopen.org でのすべてのアクション</string>
+    <string name="action_email" formatted="false">電子メール</string>
+    <string name="action_open" formatted="false">開ける</string>
+    <string-array name="us_contact_regions">
+        <item>米国</item>
+        <item>米国</item>
+        <item>米国</item>
+        <item>米国</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>米国司法省 - 独占禁止局</item>
+        <item>米国連邦取引委員会 - 独占禁止法</item>
+        <item>下院議員を探す</item>
+        <item>米国上院議員に連絡する</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>独占禁止法報告書をオンラインで提出します。</item>
+        <item>独占禁止法違反の申し立てを提出します。</item>
+        <item>米国下院の代理人に連絡してください。</item>
+        <item>あなたの州の両方の上院議員を見つけて連絡してください。</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>欧州連合</item>
+        <item>欧州連合</item>
+        <item>イギリス</item>
+        <item>ブラジル</item>
+        <item>シンガポール</item>
+        <item>タイ</item>
+        <item>インドネシア</item>
+        <item>オーストラリア</item>
+        <item>カナダ</item>
+        <item>インド</item>
+        <item>日本</item>
+        <item>韓国</item>
+        <item>メキシコ</item>
+        <item>アオテアロア / ニュージーランド</item>
+        <item>台湾</item>
+        <item>スイス</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU 独占禁止法 (DG COMP)</item>
+        <item>デジタル市場法チーム</item>
+        <item>競争および市場当局</item>
+        <item>ケイド</item>
+        <item>CCCS</item>
+        <item>貿易競争委員会 (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>カナダ競争局</item>
+        <item>インド競争委員会</item>
+        <item>公正取引委員会</item>
+        <item>韓国公正取引委員会</item>
+        <item>反独占国家委員会</item>
+        <item>商務委員会</item>
+        <item>公正取引委員会</item>
+        <item>競争委員会 (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>欧州委員会の競争当局に電子メールを送信してください。</item>
+        <item>EU DMA 市民ヘルプデスクにお問い合わせください。</item>
+        <item>英国CMAに報告してください。</item>
+        <item>ブラジルは施行の第一波に入っている。</item>
+        <item>シンガポールは施行の第一波に入っている。</item>
+        <item>タイは施行の第一波に入っている。</item>
+        <item>インドネシアは施行の第一波に入っている。</item>
+        <item>オーストラリア競争消費者委員会に報告してください。</item>
+        <item>競争局に苦情を申し立ててください。</item>
+        <item>反競争的行為については CCI にお問い合わせください。</item>
+        <item>公正取引委員会・モバイルソフトウェア競争法担当窓口までお問い合わせください。</item>
+        <item>公取委に連絡してください。</item>
+        <item>メキシコで独占禁止法違反の訴えを起こす。</item>
+        <item>反競争的行為を報告します。</item>
+        <item>台湾FTCに連絡してください。</item>
+        <item>違法行為を報告します。</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>グローバル</item>
+        <item>グローバル</item>
+        <item>ヨーロッパ</item>
+        <item>ヨーロッパ</item>
+        <item>グローバル</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>電子フロンティア財団</item>
+        <item>フリーソフトウェア財団</item>
+        <item>フリーソフトウェア財団ヨーロッパ</item>
+        <item>欧州デジタル著作権 (EDRi)</item>
+        <item>ソフトウェアの自由保護団体</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>アプリのゲートキーピングとインターネット検閲。</item>
+        <item>ソフトウェアの自由とユーザー制御。</item>
+        <item>ヨーロッパにおけるソフトウェアの自由。</item>
+        <item>デジタル権利擁護。</item>
+        <item>コミュニティ主導の無料ソフトウェア。</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">私の政府</string>
+    <string name="letter_subject" formatted="false">GoogleのAndroid Developer Verificationのロックダウンを阻止する</string>
+    <string name="letter_template">%1$s 代表者様\n\n私は懸念を抱いている Android ユーザーとして、またあなたの管轄区域の住民としてこの記事を書いています。\n\nGoogle の Android Developer Verification プログラムは、2026 年 9 月 30 日からいくつかの市場で施行され、2027 年には世界的に拡大されます。このプログラムでは、すべての Android アプリを認定デバイスにインストールする前に、中央で検証された開発者に登録する必要があります。開発者は政府の身分証明書を提出し、Google の規約に同意し、料金を支払い、現在および将来のすべてのアプリ ID をリストする必要があります。\n\nこれによってセキュリティが大幅に向上することはありません。これは、人々が所有するデバイス上でどのソフトウェアを実行できるかを決定する権限を一民間企業に与え、F-Droid のような独立したオープンソース配布を脅かしており、F-Droid は準拠できずに存在しなくなる可能性があります。\n\n謹んで次のことをお願いいたします。\n\n1. このプログラムが反競争的であり、ゲートキーパーの地位の濫用に該当するかどうかを調査します。\n2. Google に、オープンソースおよび非営利配布を免除し、集中登録によるサイドローディングを維持するよう圧力をかけます。\n3. ユーザーが購入したハードウェア上で選択したソフトウェアを実行する権利を保護します。\n\nこのメッセージを書面で承認し、あなたの事務所がどのような措置をとるかを私に知らせてください。\n\nまた、Keep Android Open キャンペーンを %2$s でコピーしています。\n\n敬具\n[あなたの名前]\n[あなたの都市と国]</string>
+    <string name="toast_no_app" formatted="false">このリンクを開けないアプリはありません</string>
+    <string name="toast_no_email" formatted="false">メールアプリがインストールされていない</string>
+    <string name="chooser_send_email" formatted="false">電子メールを送信する</string>
+    <string name="chooser_share" formatted="false">共有</string>
+    <string name="toast_copied" formatted="false">クリップボードにコピーされました</string>
+    <string name="settings_title" formatted="false">設定</string>
+    <string name="settings_language_title" formatted="false">アプリ言語</string>
+    <string name="settings_language_summary" formatted="false">アプリで使用される言語を選択します。デバイスの設定から変更することもできます。</string>
+    <string name="settings_system_default" formatted="false">システムのデフォルト</string>
+    <string name="settings_language_search" formatted="false">検索言語</string>
+    <string name="settings_theme_title" formatted="false">テーマ</string>
+    <string name="settings_theme_summary" formatted="false">アプリの外観を選択します。</string>
+    <string name="theme_system" formatted="false">フォローシステム</string>
+    <string name="theme_light" formatted="false">ライト</string>
+    <string name="theme_dark" formatted="false">暗い</string>
+    <string name="theme_amoled" formatted="false">AMOLED（ピュアブラック）</string>
+    <string name="settings_accent_title" formatted="false">アクセントカラー</string>
+    <string name="settings_accent_summary" formatted="false">アプリ全体で使用されるハイライトの色を選択します。</string>
+    <string name="accent_default" formatted="false">デフォルト（キャンペーンレッド）</string>
+    <string name="accent_red" formatted="false">赤</string>
+    <string name="accent_orange" formatted="false">オレンジ</string>
+    <string name="accent_yellow" formatted="false">黄色</string>
+    <string name="accent_green" formatted="false">緑</string>
+    <string name="accent_teal" formatted="false">ティール</string>
+    <string name="accent_blue" formatted="false">青</string>
+    <string name="accent_purple" formatted="false">紫</string>
+    <string name="accent_pink" formatted="false">ピンク</string>
+    <string name="settings_colorblendr_warning" formatted="false">注意: ColorBlendr またはオーバーライドする別のマテリアルがアクティブな場合、それを無効にするまでアクセント カラーが適用されない可能性があります。</string>
+    <string name="settings_about_title" formatted="false">について</string>
+    <string name="settings_version">バージョン %1$s</string>
+    <string name="settings_open_source" formatted="false">オープンソース (MIT)。公式の Keep Android Open キャンペーンとは提携または承認されていません。</string>
+</resources>

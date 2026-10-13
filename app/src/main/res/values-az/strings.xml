@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Geri sayım</string>
+    <string name="tab_rollout" formatted="false">Yayılma</string>
+    <string name="tab_act_now" formatted="false">İndi hərəkətə keçin</string>
+    <string name="cd_open_site" formatted="false">Keepandroidopen.org-u açın</string>
+    <string name="cd_settings" formatted="false">Parametrlər</string>
+    <string name="cd_back" formatted="false">Geri</string>
+    <string name="countdown_campaign" formatted="false">Kampaniyanın geri sayımı</string>
+    <string name="countdown_elapsed" formatted="false">Kampaniyanın 2027-ci il yanvarın 1-nə qədər ictimaiyyətə açıqlanmasından vaxt keçdi.</string>
+    <string name="countdown_what_means" formatted="false">Geri sayım nə deməkdir</string>
+    <string name="countdown_read_faq" formatted="false">Tez-tez verilən sualları oxuyun</string>
+    <string name="countdown_campaign_btn" formatted="false">Kampaniya</string>
+    <string name="countdown_footnote" formatted="false">Geri sayım hədəfi keepandroidopen.org saytında dərc olunan pankarta uyğun gəlir. Proqram açıq olduqda saniyədə bir dəfə yenilənir.</string>
+    <string name="countdown_expired" formatted="false">ANDROID İNDİ QİLİFLİ PLATFORMADIR</string>
+    <string name="countdown_running" formatted="false">ANDROID BAĞLANMIŞ PLATFORMA OLUR</string>
+    <string name="unit_days" formatted="false">günlər</string>
+    <string name="unit_hours" formatted="false">saat</string>
+    <string name="unit_minutes" formatted="false">dəqiqə</string>
+    <string name="unit_seconds" formatted="false">saniyə</string>
+    <string name="rollout_title" formatted="false">Android Developer Doğrulaması nədir?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Həqiqətən nə deməkdir</string>
+    <string name="rollout_timeline_title" formatted="false">Yayım qrafiki</string>
+    <string name="rollout_paths_title" formatted="false">Doğrulama yolunuzu seçin</string>
+    <string name="rollout_advanced_title" formatted="false">“Qabaqcıl axın” həll yolu deyil</string>
+    <string name="rollout_dev_page" formatted="false">Google-un rəsmi tərtibatçı səhifəsi</string>
+    <string name="rollout_open_letter" formatted="false">Açıq məktubu oxuyun</string>
+    <string name="label_identity" formatted="false">Şəxsiyyət</string>
+    <string name="label_distribution" formatted="false">Paylanma</string>
+    <string name="label_ux" formatted="false">İstifadəçi təcrübəsi</string>
+    <string name="label_best_for" formatted="false">Üçün ən yaxşısı</string>
+    <string name="rollout_summary" formatted="false">Android Developer Doğrulaması hər bir tətbiqi təsdiq edilmiş Android cihazlarında quraşdırmadan əvvəl təsdiqlənmiş tərtibatçı şəxsiyyəti ilə əlaqələndirən Google proqramıdır. Tərtibatçılar kim olduqlarını yoxlamalı və dərc etdikləri paket adlarını qeydiyyatdan keçirməlidirlər. Qeydiyyatdan keçmiş, təsdiqlənmiş tərtibatçısı olmayan proqramlar qorumalar işə salındıqdan sonra artıq normal şəkildə quraşdırıla bilməz.</string>
+    <string name="rollout_what_it_means" formatted="false">O, F-Droid, birbaşa APK yükləmələri və hobbi layihələri kimi müstəqil və açıq mənbəli paylamada ən çətin yer tutur. Google deyir ki, bu, təhlükəsizlik və anonim zərərli proqramların dayandırılması ilə bağlıdır. Keep Android Open kampaniyası, F-Droid və EFF də daxil olmaqla tənqidçilər bunun bir qapıçı öldürmə açarı olduğunu deyirlər: mərkəzi qeydiyyat, dövlət şəxsiyyət vəsiqəsi, ödəniş və cihazınızın etibar etməsinə icazə verilən şeylərə tam nəzarət.</string>
+    <string name="rollout_advanced_note" formatted="false">Qabaqcıl axın Android ƏS deyil, Google Play xidmətləri vasitəsilə çatdırılır, buna görə də Google onu istənilən vaxt ƏS yeniləməsi və ya istifadəçi razılığı olmadan dəyişə, məhdudlaşdıra və ya silə bilər. 24 saatlıq gecikmə qəsdən pozucudur və sizinlə işlətməyi seçdiyiniz proqram arasında dayanan daha bir addımdır.</string>
+    <string-array name="timeline_dates">
+        <item>25 avqust 2025-ci il</item>
+        <item>19 mart 2026-cı il</item>
+        <item>İyun 2026</item>
+        <item>18 iyun 2026-cı il</item>
+        <item>İyul 2026</item>
+        <item>2026-cı ilin avqustu</item>
+        <item>30 sentyabr 2026-cı il</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Proqram elan olunur</item>
+        <item>“Qabaqcıl axın” aşkarlanır</item>
+        <item>Android Developer Doğrulayıcı cihazlara göndərilir</item>
+        <item>İlkin buraxılış təsdiqləndi</item>
+        <item>Tərtibatçı API-ləri açılır</item>
+        <item>Qlobal konsol, məhdud hesablar, inkişaf etmiş axın</item>
+        <item>İcra dörd ölkədə başlayır</item>
+        <item>Qlobal yayılma</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google elan edir ki, 2027-ci ildən başlayaraq Android üçün proqramlar Google Play-dən kənar quraşdırılmış proqramlar da daxil olmaqla, təsdiqlənmiş tərtibatçıda qeydiyyatdan keçməlidir.</item>
+        <item>Güclü istifadəçilər qəsdən çətin bir çıxış lyuku əldə edirlər: Tərtibatçı Seçimlərini aktivləşdirin, məcbur edilmədiyinizi təsdiqləyin, yenidən başladın, sonra təsdiqlənməmiş quraşdırmalara icazə verməzdən əvvəl 24 saat gözləyin.</item>
+        <item>Fon sistem xidməti (com.google.android.verifier) ​​Google Sistem Yeniləmələri vasitəsilə sertifikatlaşdırılmış cihazlara ötürülür və tətbiq edilənə qədər hərəkətsiz qalır.</item>
+        <item>Google, 30 sentyabr 2026-cı ildə yeddi mağaza və dörd ölkədə tətbiqin başlanacağını təsdiqləyir.</item>
+        <item>Android Developer ID Status API qlobal olaraq işə salınır və Android Developer Console API və məhdud paylama hesabları üçün erkən giriş başlayır.</item>
+        <item>Məhdud paylama hesabları (pulsuz, 20-yə qədər cihaz, dövlət identifikatoru yoxdur) və Console API bütün dünyada işə salınır. Təsdiqlənməmiş yan yükləmə üçün təkmil axın yayılmağa başlayır.</item>
+        <item>Qorumalar Braziliya, İndoneziya, Sinqapur və Taylanddakı istifadəçilər üçün Android 7+ ilə işləyən sertifikatlaşdırılmış cihazlarda aktivləşdirilir. Təsdiqlənməmiş tərtibatçıların proqramları iştirakçı mağazalarda bloklanır: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore və GetApps.</item>
+        <item>Doğrulama bütün tətbiqlər və bölgələr üçün genişləndirilib. Android-in bağlanmış platformaya çevrildiyi 1 yanvar 2027-ci il tarixinə qədər Android Open hesablarını saxlayın.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Tam paylama</item>
+        <item>Məhdud paylama</item>
+        <item>Qeydiyyatdan keçməmiş proqramların yandan yüklənməsi</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Bəli - dövlət şəxsiyyət vəsiqəsi və rüsum</item>
+        <item>Xeyr - şəxsiyyət vəsiqəsi və ya qeydiyyat haqqı yoxdur</item>
+        <item>Xeyr - lakin yüksək sürtünmə</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Seçdiyiniz istənilən mağaza və ya kanal</item>
+        <item>QR kodu və ya əlaqə əlaqəsi vasitəsilə 20-yə qədər cihaz</item>
+        <item>AİB (azad) və ya qabaqcıl axın</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>İstifadəçiləriniz üçün heç nə dəyişmir</item>
+        <item>İstifadəçilər tanıdıqları bir tərtibatçıdan quraşdırma dəvətini qəbul edirlər</item>
+        <item>Tərtibatçı Seçimləri, yenidən başladın, 24 saat gözləyin, sonra hər halda quraşdırın</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Təşkilatlar və peşəkar tərtibatçılar</item>
+        <item>Tələbələr, hobbilər və şəxsi istifadə</item>
+        <item>Təsdiqlənməmiş tərtibatçılar və güc istifadəçiləri</item>
+    </string-array>
+    <string name="act_title" formatted="false">İndi hərəkət edin - səsinizi eşitdirin</string>
+    <string name="act_intro">Tənzimləyicilər təsirə məruz qalan şəxslərdən eşitmək istəyirlər. Nəzakətli və konkret olun, əlaqə saxladığınız orqanın rəsmi dilində yazın, yazılı razılıq istəyin və kampaniyanın qələbələri izləməsi üçün %1$s-ı kopyalayın.</string>
+    <string name="act_open_composer" formatted="false">E-poçt bəstəkarını açın</string>
+    <string name="act_copy" formatted="false">Kopyalayın</string>
+    <string name="act_share" formatted="false">Paylaşın</string>
+    <string name="act_clipboard_label" formatted="false">Android Açıq məktubu saxlayın</string>
+    <string name="act_us_title" formatted="false">Amerika Birləşmiş Ştatları — hökumətə e-poçt göndərin</string>
+    <string name="act_us_intro" formatted="false">Ədliyyə Departamenti və FTC onlayn formalar vasitəsilə antiinhisar hesabatları qəbul edir. Onlardan istifadə edin və birbaşa öz nümayəndəniz və senatorlarınızla əlaqə saxlayın.</string>
+    <string name="act_world_title" formatted="false">Dünyanın başqa yerində</string>
+    <string name="act_groups_title" formatted="false">İstehlakçı və rəqəmsal hüquqlar qrupları</string>
+    <string name="act_more_title" formatted="false">Kömək etmək üçün daha çox yol</string>
+    <string name="act_more_body" formatted="false">• Cihazlarınıza F-Droid quraşdırın.\n• Google-un tərtibatçı doğrulama sorğusuna cavab verin.\n• Sosial mediada yerləşdirin və keepandroidopen.org saytına keçid edin.\n• change.org petisiyasını imzalayın.\n• Veb saytınıza geri sayım bannerini əlavə edin.</string>
+    <string name="act_all_actions" formatted="false">Bütün hərəkətlər keepandroidopen.org saytında</string>
+    <string name="action_email" formatted="false">E-poçt</string>
+    <string name="action_open" formatted="false">Açıq</string>
+    <string-array name="us_contact_regions">
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>ABŞ Ədliyyə Departamenti - Antiinhisar şöbəsi</item>
+        <item>ABŞ Federal Ticarət Komissiyası - Antiinhisar</item>
+        <item>Ev Nümayəndənizi tapın</item>
+        <item>ABŞ senatorlarınızla əlaqə saxlayın</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Antiinhisar hesabatını onlayn təqdim edin.</item>
+        <item>Antiinhisar şikayəti verin.</item>
+        <item>ABŞ Nümayəndələr Palatasındakı nümayəndənizlə əlaqə saxlayın.</item>
+        <item>Ştatınızın hər iki senatorunu tapın və əlaqə saxlayın.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Avropa Birliyi</item>
+        <item>Avropa Birliyi</item>
+        <item>Böyük Britaniya</item>
+        <item>Braziliya</item>
+        <item>Sinqapur</item>
+        <item>Tayland</item>
+        <item>İndoneziya</item>
+        <item>Avstraliya</item>
+        <item>Kanada</item>
+        <item>Hindistan</item>
+        <item>Yaponiya</item>
+        <item>Cənubi Koreya</item>
+        <item>Meksika</item>
+        <item>Aotearoa / Yeni Zelandiya</item>
+        <item>Tayvan</item>
+        <item>İsveçrə</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>Aİ Antiinhisar (DG COMP)</item>
+        <item>Rəqəmsal Bazarlar Aktı komandası</item>
+        <item>Rəqabət və Bazarlar İdarəsi</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Ticarət Rəqabət Komissiyası (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Rəqabət Bürosu Kanada</item>
+        <item>Hindistan Rəqabət Komissiyası</item>
+        <item>Yaponiya Ədalətli Ticarət Komissiyası</item>
+        <item>Koreya Ədalətli Ticarət Komissiyası</item>
+        <item>Milli Antiinhisar Komissiyası</item>
+        <item>Ticarət Komissiyası</item>
+        <item>Ədalətli Ticarət Komissiyası</item>
+        <item>Rəqabət Komissiyası (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Avropa Komissiyasının rəqabət orqanına e-poçt göndərin.</item>
+        <item>AB DMA vətəndaş yardım masası ilə əlaqə saxlayın.</item>
+        <item>Böyük Britaniyanın CMA-ya hesabat verin.</item>
+        <item>Braziliya ilk icra dalğasındadır.</item>
+        <item>Sinqapur ilk icra dalğasındadır.</item>
+        <item>Tayland ilk icra dalğasındadır.</item>
+        <item>İndoneziya ilk icra dalğasındadır.</item>
+        <item>Avstraliya Rəqabət və İstehlak Komissiyasına hesabat verin.</item>
+        <item>Rəqabət Bürosuna şikayət verin.</item>
+        <item>Rəqabətə zidd davranışlarla bağlı CCİ ilə əlaqə saxlayın.</item>
+        <item>JFTC / Mobile Software Competition Act masası ilə əlaqə saxlayın.</item>
+        <item>KFTC ilə əlaqə saxlayın.</item>
+        <item>Meksikada antiinhisar şikayəti verin.</item>
+        <item>Rəqabətə zidd davranış haqqında məlumat verin.</item>
+        <item>Tayvan FTC ilə əlaqə saxlayın.</item>
+        <item>Qanunsuz hərəkətləri bildirin.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Qlobal</item>
+        <item>Qlobal</item>
+        <item>Avropa</item>
+        <item>Avropa</item>
+        <item>Qlobal</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Elektron Sərhəd Fondu</item>
+        <item>Pulsuz proqram təminatı fondu</item>
+        <item>Avropa Azad Proqram təminatı Fondu</item>
+        <item>Avropa Rəqəmsal Hüquqlar (EDRi)</item>
+        <item>Proqram təminatı azadlığının qorunması</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Tətbiq qapısı və internet senzurası.</item>
+        <item>Proqram təminatı azadlığı və istifadəçi nəzarəti.</item>
+        <item>Avropada proqram təminatı azadlığı.</item>
+        <item>Rəqəmsal hüquq müdafiəsi.</item>
+        <item>İcma tərəfindən idarə olunan pulsuz proqram təminatı.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">mənim hökumətim</string>
+    <string name="letter_subject" formatted="false">Google-un Android Developer Doğrulaması kilidini dayandırın</string>
+    <string name="letter_template">Hörmətli %1$s nümayəndəsi,\n\nMən narahat bir Android istifadəçisi və yurisdiksiyanızda bir vətəndaş kimi yazıram.\n\nGoogle-un 30 sentyabr 2026-cı il tarixindən etibarən bir neçə bazarda tətbiq edilən və 2027-ci ildə qlobal miqyasda genişlənən Android Developer Doğrulama proqramı sertifikatlaşdırılmış cihazlarda quraşdırılmazdan əvvəl hər bir Android tətbiqinin mərkəzləşdirilmiş şəkildə təsdiqlənmiş tərtibatçıda qeydiyyatdan keçməsini tələb edəcək. Tərtibatçılar dövlət identifikasiyası təqdim etməli, Google-un şərtləri ilə razılaşmalı, rüsum ödəməli və hər bir cari və gələcək tətbiq identifikatorunu siyahıya almalıdır.\n\nBu təhlükəsizliyi əhəmiyyətli dərəcədə yaxşılaşdırmır. O, tək bir özəl şirkətə insanların sahib olduqları cihazlarda hansı proqram təminatının işləməsinə icazə verildiyinə qərar vermək səlahiyyətini verir və F-Droid kimi müstəqil və açıq mənbəli paylanmanı təhdid edir, hansı ki, bu, uyğun gəlmir və fəaliyyətini dayandıra bilər.\n\nHörmətlə xahiş edirəm:\n\n1. Bu proqramın rəqabətə zidd olub olmadığını və qapıçı vəzifəsindən sui-istifadə təşkil edib-etmədiyini araşdırın.\n2. Açıq mənbə və qeyri-kommersiya paylanmasından azad olmaq və yan yükləməni mərkəzləşdirilmiş qeydiyyatdan azad etmək üçün Google-a basın.\n3. İstifadəçilərin satın aldıqları aparatda seçdikləri proqram təminatını işə salmaq hüququnu qoruyun.\n\nZəhmət olmasa bu mesajı yazılı şəkildə qəbul edin və ofisinizin hansı tədbir gördüyünü mənə bildirin.\n\nMən həmçinin %2$s-da Android Open kampaniyasını kopyalayıram.\n\nHörmətlə,\n[Adınız]\n[Şəhəriniz və ölkəniz]</string>
+    <string name="toast_no_app" formatted="false">Heç bir proqram bu linki aça bilməz</string>
+    <string name="toast_no_email" formatted="false">Heç bir e-poçt proqramı quraşdırılmayıb</string>
+    <string name="chooser_send_email" formatted="false">E-poçt göndər</string>
+    <string name="chooser_share" formatted="false">Paylaşın</string>
+    <string name="toast_copied" formatted="false">Buferə kopyalandı</string>
+    <string name="settings_title" formatted="false">Parametrlər</string>
+    <string name="settings_language_title" formatted="false">Proqram dili</string>
+    <string name="settings_language_summary" formatted="false">Proqramın istifadə etdiyi dili seçin. Siz onu cihaz parametrlərindən də dəyişə bilərsiniz.</string>
+    <string name="settings_system_default" formatted="false">Sistem standartı</string>
+    <string name="settings_language_search" formatted="false">Dilləri axtarın</string>
+    <string name="settings_theme_title" formatted="false">Mövzu</string>
+    <string name="settings_theme_summary" formatted="false">Proqramın necə göründüyünü seçin.</string>
+    <string name="theme_system" formatted="false">Sistemi izləyin</string>
+    <string name="theme_light" formatted="false">İşıq</string>
+    <string name="theme_dark" formatted="false">Qaranlıq</string>
+    <string name="theme_amoled" formatted="false">AMOLED (təmiz qara)</string>
+    <string name="settings_accent_title" formatted="false">Vurğu rəngi</string>
+    <string name="settings_accent_summary" formatted="false">Tətbiqdə istifadə olunan vurğu rəngini seçin.</string>
+    <string name="accent_default" formatted="false">Defolt (kampaniya qırmızı)</string>
+    <string name="accent_red" formatted="false">Qırmızı</string>
+    <string name="accent_orange" formatted="false">Narıncı</string>
+    <string name="accent_yellow" formatted="false">Sarı</string>
+    <string name="accent_green" formatted="false">Yaşıl</string>
+    <string name="accent_teal" formatted="false">Mavi</string>
+    <string name="accent_blue" formatted="false">Mavi</string>
+    <string name="accent_purple" formatted="false">Bənövşəyi</string>
+    <string name="accent_pink" formatted="false">Çəhrayı</string>
+    <string name="settings_colorblendr_warning" formatted="false">Diqqət: ColorBlendr və ya ləğv etdiyiniz başqa Material aktivdirsə, siz onu söndürənə qədər vurğu rənginiz tətbiq olunmaya bilər.</string>
+    <string name="settings_about_title" formatted="false">Haqqında</string>
+    <string name="settings_version">Versiya %1$s</string>
+    <string name="settings_open_source" formatted="false">Açıq mənbə (MIT). Rəsmi Keep Android Open kampaniyası ilə əlaqəli deyil və ya dəstəklənmir.</string>
+</resources>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Atgalinis skaičiavimas</string>
+    <string name="tab_rollout" formatted="false">Išleidimas</string>
+    <string name="tab_act_now" formatted="false">Veikti dabar</string>
+    <string name="cd_open_site" formatted="false">Atidarykite keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Nustatymai</string>
+    <string name="cd_back" formatted="false">Atgal</string>
+    <string name="countdown_campaign" formatted="false">Kampanijos atgalinis skaičiavimas</string>
+    <string name="countdown_elapsed" formatted="false">2027 m. sausio 1 d. praėjo laikas nuo kampanijos paskelbimo viešai.</string>
+    <string name="countdown_what_means" formatted="false">Ką reiškia atgalinis skaičiavimas</string>
+    <string name="countdown_read_faq" formatted="false">Skaitykite DUK</string>
+    <string name="countdown_campaign_btn" formatted="false">Kampanija</string>
+    <string name="countdown_footnote" formatted="false">Atgalinės atskaitos tikslas atitinka reklamjuostę, paskelbtą keepandroidopen.org. Programa atnaujinama kartą per sekundę, kol ji atidaryta.</string>
+    <string name="countdown_expired" formatted="false">ANDROID DABAR YRA UŽRAKINTA PLATFORMA</string>
+    <string name="countdown_running" formatted="false">ANDROID TAPA UŽRAKINTA PLATFORMA</string>
+    <string name="unit_days" formatted="false">dienų</string>
+    <string name="unit_hours" formatted="false">valandų</string>
+    <string name="unit_minutes" formatted="false">minučių</string>
+    <string name="unit_seconds" formatted="false">sekundžių</string>
+    <string name="rollout_title" formatted="false">Kas yra „Android“ kūrėjo patvirtinimas?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Ką tai iš tikrųjų reiškia</string>
+    <string name="rollout_timeline_title" formatted="false">Išleidimo laiko juosta</string>
+    <string name="rollout_paths_title" formatted="false">Pasirinkite patvirtinimo kelią</string>
+    <string name="rollout_advanced_title" formatted="false">„Išplėstinis srautas“ nėra sprendimas</string>
+    <string name="rollout_dev_page" formatted="false">Oficialus „Google“ kūrėjų puslapis</string>
+    <string name="rollout_open_letter" formatted="false">Perskaitykite atvirą laišką</string>
+    <string name="label_identity" formatted="false">Tapatybė</string>
+    <string name="label_distribution" formatted="false">Paskirstymas</string>
+    <string name="label_ux" formatted="false">Vartotojo patirtis</string>
+    <string name="label_best_for" formatted="false">Geriausiai tinka</string>
+    <string name="rollout_summary" formatted="false">„Android“ kūrėjo patvirtinimas yra „Google“ programa, kuri kiekvieną programą susieja su patvirtinta kūrėjo tapatybe, kad ją būtų galima įdiegti sertifikuotuose „Android“ įrenginiuose. Kūrėjai turi patvirtinti, kas jie yra, ir užregistruoti skelbiamų paketų pavadinimus. Programų, kuriose nėra registruoto, patvirtinto kūrėjo, nebegalima įdiegti įprastu būdu, kai bus įdiegta apsauga.</string>
+    <string name="rollout_what_it_means" formatted="false">Sunkiausia yra nepriklausomo ir atvirojo kodo platinimui, pvz., F-Droid, tiesioginiam APK atsisiuntimui ir pomėgių projektams. „Google“ teigia, kad tai yra saugumas ir anoniminių kenkėjiškų programų sustabdymas. Kritikai, įskaitant kampaniją „Keep Android Open“, „F-Droid“ ir EFF, teigia, kad tai yra „gatekeeper“ jungiklis: centrinė registracija, vyriausybės ID, mokestis ir visapusiška kontrolė, kuo jūsų įrenginiui leidžiama pasitikėti.</string>
+    <string name="rollout_advanced_note" formatted="false">Išplėstinis srautas teikiamas per „Google Play“ paslaugas, o ne „Android“ OS, todėl „Google“ gali bet kada jį pakeisti, apriboti arba pašalinti be OS atnaujinimo ar vartotojo sutikimo. 24 valandų delsimas yra sąmoningai trikdantis ir yra dar vienas žingsnis tarp jūsų ir jūsų pasirinktos paleisti programinės įrangos.</string>
+    <string-array name="timeline_dates">
+        <item>2025 m. rugpjūčio 25 d</item>
+        <item>2026 m. kovo 19 d</item>
+        <item>2026 m. birželio mėn</item>
+        <item>2026 m. birželio 18 d</item>
+        <item>2026 m. liepos mėn</item>
+        <item>2026 m. rugpjūčio mėn</item>
+        <item>2026 m. rugsėjo 30 d</item>
+        <item>2027 m</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Programa paskelbta</item>
+        <item>Atskleidžiamas „išplėstinis srautas“.</item>
+        <item>„Android“ kūrėjų patvirtinimo priemonė pristatoma į įrenginius</item>
+        <item>Patvirtinta pirminis paleidimas</item>
+        <item>Atsidaro kūrėjo API</item>
+        <item>Visuotinė konsolė, ribotos paskyros, išplėstinis srautas</item>
+        <item>Vykdymas pradedamas keturiose šalyse</item>
+        <item>Pasaulinis išleidimas</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>„Google“ praneša, kad nuo 2027 m. „Android“ skirtos programos turi būti užregistruotos pas patvirtintą kūrėją, įskaitant programas, įdiegtas ne „Google Play“.</item>
+        <item>Patyrę vartotojai gauna sąmoningai sudėtingą pabėgimo liuką: įgalinkite kūrėjo parinktis, patvirtinkite, kad nesate verčiami, paleiskite iš naujo, tada palaukite 24 valandas, kol galėsite leisti nepatvirtintus diegimus.</item>
+        <item>Foninės sistemos paslauga (com.google.android.verifier) ​​per „Google“ sistemos naujinius perkeliama į sertifikuotus įrenginius ir lieka neveikianti, kol nebus pradėta taikyti.</item>
+        <item>„Google“ patvirtina, kad įgyvendinimas septyniose parduotuvėse ir keturiose šalyse prasidės 2026 m. rugsėjo 30 d.</item>
+        <item>„Android“ kūrėjo ID būsenos API paleidžiama visame pasaulyje ir pradedama ankstyva prieiga prie „Android“ kūrėjų pulto API ir riboto platinimo paskyrų.</item>
+        <item>Ribotos platinimo paskyros (nemokamos, iki 20 įrenginių, be valstybinio ID) ir konsolės API paleidžiama visame pasaulyje. Prasideda išplėstinis nepatvirtinto šoninio įkėlimo srautas.</item>
+        <item>Apsauga pradedama naudoti Brazilijos, Indonezijos, Singapūro ir Tailando naudotojams, naudojantiems sertifikuotus įrenginius, kuriuose veikia 7 ar naujesnės versijos „Android“. Nepatvirtintų kūrėjų programos blokuojamos dalyvaujančiose parduotuvėse: „Google Play“, „HONOR App Market“, „OPPO App Market“, „Galaxy Store“, „Palm Store“, „V-Appstore“ ir „GetApps“.</item>
+        <item>Patvirtinimas išplečiamas visose programose ir regionuose. Laikyti „Android Open“ skaičiuojamas iki 2027 m. sausio 1 d., kai „Android“ tampa užrakinta platforma.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Pilnas platinimas</item>
+        <item>Ribotas platinimas</item>
+        <item>Šoninis neregistruotų programų įkėlimas</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Taip – ​​valstybinis ID ir mokestis</item>
+        <item>Ne – nėra ID ar registracijos mokesčio</item>
+        <item>Ne, bet didelė trintis</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Bet kuri jūsų pasirinkta parduotuvė ar kanalas</item>
+        <item>Iki 20 įrenginių per QR kodą arba nuorodos rankos paspaudimą</item>
+        <item>ADB (neapmokestinamas) arba išplėstinis srautas</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Jūsų naudotojams niekas nepasikeičia</item>
+        <item>Vartotojai priima diegimo kvietimą iš jiems žinomo kūrėjo</item>
+        <item>Kūrėjo parinktys, paleiskite iš naujo, palaukite 24 valandas, tada vis tiek įdiekite</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Organizacijos ir profesionalūs kūrėjai</item>
+        <item>Studentai, mėgėjai ir asmeniniam naudojimui</item>
+        <item>Nepatvirtinti kūrėjai ir patyrę vartotojai</item>
+    </string-array>
+    <string name="act_title" formatted="false">Elkitės dabar – išgirskite savo balsą</string>
+    <string name="act_intro">Reguliavimo institucijos nori išgirsti iš nukentėjusių asmenų. Būkite mandagūs ir konkretūs, rašykite oficialia įstaigos, su kuria susisiekiate, kalba, paprašykite raštiško patvirtinimo ir nukopijuokite %1$s, kad kampanija galėtų sekti pergales.</string>
+    <string name="act_open_composer" formatted="false">Atidarykite el. pašto kūrėją</string>
+    <string name="act_copy" formatted="false">Kopijuoti</string>
+    <string name="act_share" formatted="false">Dalintis</string>
+    <string name="act_clipboard_label" formatted="false">Laikykite Android atvirą laišką</string>
+    <string name="act_us_title" formatted="false">Jungtinės Valstijos – el. paštu vyriausybei</string>
+    <string name="act_us_intro" formatted="false">Teisingumo departamentas ir FTC pateikia antimonopolines ataskaitas naudodami internetines formas. Naudokite juos ir tiesiogiai susisiekite su savo atstovu ir senatoriais.</string>
+    <string name="act_world_title" formatted="false">Kitur pasaulyje</string>
+    <string name="act_groups_title" formatted="false">Vartotojų ir skaitmeninių teisių grupės</string>
+    <string name="act_more_title" formatted="false">Daugiau būdų padėti</string>
+    <string name="act_more_body" formatted="false">• Įdiekite F-Droid savo įrenginiuose.\n• Atsakykite į „Google“ kūrėjo patvirtinimo apklausą.\n• Paskelbkite socialinėje žiniasklaidoje ir susiekite su keepandroidopen.org.\n• Pasirašykite change.org peticiją.\n• Pridėkite atgalinės atskaitos reklamjuostę prie savo svetainės.</string>
+    <string name="act_all_actions" formatted="false">Visi veiksmai adresu keepandroidopen.org</string>
+    <string name="action_email" formatted="false">El. paštas</string>
+    <string name="action_open" formatted="false">Atidaryti</string>
+    <string-array name="us_contact_regions">
+        <item>Jungtinės Valstijos</item>
+        <item>Jungtinės Valstijos</item>
+        <item>Jungtinės Valstijos</item>
+        <item>Jungtinės Valstijos</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>JAV teisingumo departamentas – Antimonopolinis skyrius</item>
+        <item>JAV Federalinė prekybos komisija – Antimonopolinė komisija</item>
+        <item>Raskite savo rūmų atstovą</item>
+        <item>Susisiekite su savo JAV senatoriais</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Pateikite antimonopolinę ataskaitą internete.</item>
+        <item>Pateikite antimonopolinį skundą.</item>
+        <item>Susisiekite su savo atstovu JAV rūmuose.</item>
+        <item>Raskite abu savo valstijos senatorius ir susisiekite su jais.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Europos Sąjunga</item>
+        <item>Europos Sąjunga</item>
+        <item>Jungtinė Karalystė</item>
+        <item>Brazilija</item>
+        <item>Singapūras</item>
+        <item>Tailandas</item>
+        <item>Indonezija</item>
+        <item>Australija</item>
+        <item>Kanada</item>
+        <item>Indija</item>
+        <item>Japonija</item>
+        <item>Pietų Korėja</item>
+        <item>Meksika</item>
+        <item>Aotearoa / Naujoji Zelandija</item>
+        <item>Taivanas</item>
+        <item>Šveicarija</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>ES antimonopolinė veikla (DG COMP)</item>
+        <item>Skaitmeninių rinkų įstatymo komanda</item>
+        <item>Konkurencijos ir rinkų tarnyba</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Prekybos konkurencijos komisija (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Kanados konkurencijos biuras</item>
+        <item>Indijos konkurencijos komisija</item>
+        <item>Japonijos sąžiningos prekybos komisija</item>
+        <item>Korėjos sąžiningos prekybos komisija</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>Prekybos komisija</item>
+        <item>Sąžiningos prekybos komisija</item>
+        <item>Konkurencijos komisija (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>El. paštu Europos Komisijos konkurencijos institucijai.</item>
+        <item>Susisiekite su ES DMA piliečių pagalbos tarnyba.</item>
+        <item>Pranešti JK CMA.</item>
+        <item>Brazilija patenka į pirmąją vykdymo bangą.</item>
+        <item>Singapūras patenka į pirmąją vykdymo bangą.</item>
+        <item>Tailandas yra pirmojoje vykdymo bangoje.</item>
+        <item>Indonezija patenka į pirmąją vykdymo bangą.</item>
+        <item>Pateikite ataskaitą Australijos konkurencijos ir vartotojų komisijai.</item>
+        <item>Pateikite skundą Konkurencijos biurui.</item>
+        <item>Kreipkitės į CCI dėl antikonkurencinio elgesio.</item>
+        <item>Susisiekite su JFTC / Mobile Software Competition Act biuru.</item>
+        <item>Susisiekite su KFTC.</item>
+        <item>Pateikite antimonopolinį skundą Meksikoje.</item>
+        <item>Pranešti apie antikonkurencinį elgesį.</item>
+        <item>Susisiekite su Taivano FTC.</item>
+        <item>Pranešti apie neteisėtą veiklą.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Pasaulinis</item>
+        <item>Pasaulinis</item>
+        <item>Europa</item>
+        <item>Europa</item>
+        <item>Pasaulinis</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>„Electronic Frontier Foundation“.</item>
+        <item>Laisvos programinės įrangos fondas</item>
+        <item>Laisvosios programinės įrangos fondas Europoje</item>
+        <item>Europos skaitmeninės teisės (EDRI)</item>
+        <item>Programinės įrangos laisvės apsauga</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Programėlių kontrolė ir interneto cenzūra.</item>
+        <item>Programinės įrangos laisvė ir vartotojo kontrolė.</item>
+        <item>Programinės įrangos laisvė Europoje.</item>
+        <item>Skaitmeninių teisių gynimas.</item>
+        <item>Bendruomenei skirta nemokama programinė įranga.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">mano vyriausybė</string>
+    <string name="letter_subject" formatted="false">Sustabdykite „Google“ „Android“ kūrėjo patvirtinimo užrakinimą</string>
+    <string name="letter_template">Gerb. %1$s atstove,\n\nRašau kaip susirūpinęs „Android“ naudotojas ir kaip jūsų jurisdikcijos pilietis.\n\n„Google“ „Android“ kūrėjų patvirtinimo programa, kuri pradedama vykdyti nuo 2026 m. rugsėjo 30 d. keliose rinkose ir plečiama visame pasaulyje 2027 m., reikalauja, kad kiekviena „Android“ programa būtų užregistruota centralizuotai patvirtintam kūrėjui, kad ją būtų galima įdiegti sertifikuotuose įrenginiuose. Kūrėjai turi pateikti vyriausybinį tapatybės dokumentą, sutikti su „Google“ sąlygomis, sumokėti mokestį ir išvardyti visus esamus ir būsimus programos identifikatorius.\n\nTai reikšmingai nepagerina saugumo. Tai suteikia vienai privačiai bendrovei teisę nuspręsti, kurią programinę įrangą žmonėms leidžiama naudoti jiems priklausančiuose įrenginiuose, ir tai kelia grėsmę nepriklausomam ir atvirojo kodo platinimui, pvz., F-Droid, kuris negali laikytis reikalavimų ir gali nustoti egzistuoti.\n\nSu pagarba prašau jūsų:\n\n1. Ištirkite, ar ši programa yra antikonkurencinė ir nėra piktnaudžiavimas vartų sargo padėtimi.\n2. Paspauskite „Google“, kad atleistumėte išimtį atvirojo kodo ir nekomerciniam platinimui, o šoniniam įkėlimui nebūtų taikoma centralizuota registracija.\n3. Apsaugokite vartotojų teisę paleisti pasirinktą programinę įrangą įsigytoje aparatinėje įrangoje.\n\nPatvirtinkite šį pranešimą raštu ir praneškite man, kokių veiksmų imasi jūsų biuras.\n\nTaip pat kopijuoju kampaniją „Keep Android Open“ adresu %2$s.\n\nPagarbiai\n[Jūsų vardas]\n[Jūsų miestas ir šalis]</string>
+    <string name="toast_no_app" formatted="false">Jokia programa negali atidaryti šios nuorodos</string>
+    <string name="toast_no_email" formatted="false">El. pašto programa neįdiegta</string>
+    <string name="chooser_send_email" formatted="false">Siųsti el</string>
+    <string name="chooser_share" formatted="false">Dalintis</string>
+    <string name="toast_copied" formatted="false">Nukopijuota į mainų sritį</string>
+    <string name="settings_title" formatted="false">Nustatymai</string>
+    <string name="settings_language_title" formatted="false">Programos kalba</string>
+    <string name="settings_language_summary" formatted="false">Pasirinkite programėlės naudojamą kalbą. Taip pat galite jį pakeisti įrenginio nustatymuose.</string>
+    <string name="settings_system_default" formatted="false">Numatytasis sistemos</string>
+    <string name="settings_language_search" formatted="false">Ieškoti kalbų</string>
+    <string name="settings_theme_title" formatted="false">tema</string>
+    <string name="settings_theme_summary" formatted="false">Pasirinkite, kaip atrodo programa.</string>
+    <string name="theme_system" formatted="false">Sekite sistemą</string>
+    <string name="theme_light" formatted="false">Šviesa</string>
+    <string name="theme_dark" formatted="false">Tamsus</string>
+    <string name="theme_amoled" formatted="false">AMOLED (grynai juoda)</string>
+    <string name="settings_accent_title" formatted="false">Akcentinė spalva</string>
+    <string name="settings_accent_summary" formatted="false">Pasirinkite programoje naudojamą paryškinimo spalvą.</string>
+    <string name="accent_default" formatted="false">Numatytasis (kampanijos raudona)</string>
+    <string name="accent_red" formatted="false">Raudona</string>
+    <string name="accent_orange" formatted="false">Oranžinė</string>
+    <string name="accent_yellow" formatted="false">Geltona</string>
+    <string name="accent_green" formatted="false">Žalia</string>
+    <string name="accent_teal" formatted="false">žalsvai mėlyna</string>
+    <string name="accent_blue" formatted="false">Mėlyna</string>
+    <string name="accent_purple" formatted="false">Violetinė</string>
+    <string name="accent_pink" formatted="false">Rožinė</string>
+    <string name="settings_colorblendr_warning" formatted="false">Dėmesio: jei ColorBlendr arba kita medžiaga, kurią nepaisote, yra aktyvi, jūsų akcento spalva gali būti netaikoma, kol jos neišjungsite.</string>
+    <string name="settings_about_title" formatted="false">Apie</string>
+    <string name="settings_version">%1$s versija</string>
+    <string name="settings_open_source" formatted="false">Atvirasis šaltinis (MIT). Nesusijęs su oficialia „Keep Android Open“ kampanija arba jos nepatvirtintas.</string>
+</resources>

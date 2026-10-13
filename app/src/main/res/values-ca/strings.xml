@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Compte enrere</string>
+    <string name="tab_rollout" formatted="false">El Desplegament</string>
+    <string name="tab_act_now" formatted="false">Actuar ara</string>
+    <string name="cd_open_site" formatted="false">Obriu keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Configuració</string>
+    <string name="cd_back" formatted="false">Enrere</string>
+    <string name="countdown_campaign" formatted="false">Compte enrere de campanya</string>
+    <string name="countdown_elapsed" formatted="false">Temps transcorregut des que la campanya es va fer pública cap a l\'1 de gener de 2027.</string>
+    <string name="countdown_what_means" formatted="false">Què significa el compte enrere</string>
+    <string name="countdown_read_faq" formatted="false">Llegiu les PMF</string>
+    <string name="countdown_campaign_btn" formatted="false">La campanya</string>
+    <string name="countdown_footnote" formatted="false">L\'objectiu del compte enrere coincideix amb el bàner publicat a keepandroidopen.org. L\'aplicació s\'actualitza una vegada per segon mentre està oberta.</string>
+    <string name="countdown_expired" formatted="false">ANDROID ARA ÉS UNA PLATAFORMA BLOQUEADA</string>
+    <string name="countdown_running" formatted="false">ANDROID ES converteix en una plataforma tancada</string>
+    <string name="unit_days" formatted="false">dies</string>
+    <string name="unit_hours" formatted="false">hores</string>
+    <string name="unit_minutes" formatted="false">minuts</string>
+    <string name="unit_seconds" formatted="false">segons</string>
+    <string name="rollout_title" formatted="false">Què és la verificació per a desenvolupadors d\'Android?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Què significa realment</string>
+    <string name="rollout_timeline_title" formatted="false">La cronologia del llançament</string>
+    <string name="rollout_paths_title" formatted="false">Trieu el vostre camí de verificació</string>
+    <string name="rollout_advanced_title" formatted="false">El \"flux avançat\" no és una solució</string>
+    <string name="rollout_dev_page" formatted="false">Pàgina oficial de desenvolupadors de Google</string>
+    <string name="rollout_open_letter" formatted="false">Llegeix la carta oberta</string>
+    <string name="label_identity" formatted="false">Identitat</string>
+    <string name="label_distribution" formatted="false">Distribució</string>
+    <string name="label_ux" formatted="false">Experiència d\'usuari</string>
+    <string name="label_best_for" formatted="false">El millor per</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification és un programa de Google que enllaça cada aplicació amb una identitat de desenvolupador verificada abans que es pugui instal·lar en dispositius Android certificats. Els desenvolupadors han de verificar qui són i registrar els noms de paquets que publiquen. Les aplicacions sense un desenvolupador registrat i verificat ja no es poden instal·lar de la manera normal un cop s\'instal·lin les proteccions.</string>
+    <string name="rollout_what_it_means" formatted="false">El més difícil és a la distribució independent i de codi obert, com ara F-Droid, descàrregues directes d\'APK i projectes d\'afició. Google diu que es tracta de seguretat i aturar programari maliciós anònim. Els crítics, com ara la campanya Keep Android Open, F-Droid i l\'EFF, diuen que és un interruptor d\'aturada del porter: registre central, identificació del govern, una tarifa i control total sobre en què es permet confiar el vostre dispositiu.</string>
+    <string name="rollout_advanced_note" formatted="false">El flux avançat es lliura a través dels serveis de Google Play, no del sistema operatiu Android, de manera que Google pot canviar-lo, restringir-lo o eliminar-lo en qualsevol moment sense una actualització del sistema operatiu ni el consentiment de l\'usuari. El retard de 24 hores és pertorbador intencionat i és un pas més que s\'interposa entre vosaltres i el programari que trieu executar.</string>
+    <string-array name="timeline_dates">
+        <item>25 d\'agost de 2025</item>
+        <item>19 de març de 2026</item>
+        <item>juny de 2026</item>
+        <item>18 de juny de 2026</item>
+        <item>Juliol 2026</item>
+        <item>Agost 2026</item>
+        <item>30 de setembre de 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>S\'anuncia el programa</item>
+        <item>Es revela el \"flux avançat\".</item>
+        <item>Android Developer Verifier s\'envia als dispositius</item>
+        <item>S\'ha confirmat el llançament inicial</item>
+        <item>S\'obren les API de desenvolupadors</item>
+        <item>Consola global, comptes limitats, flux avançat</item>
+        <item>L\'aplicació comença a quatre països</item>
+        <item>Desplegament global</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google anuncia que a partir del 2027, les aplicacions per a Android s\'han de registrar a un desenvolupador verificat, incloses les aplicacions instal·lades fora de Google Play.</item>
+        <item>Els usuaris avançats obtenen una escotilla d\'escapament deliberadament feixuga: activeu les Opcions de desenvolupador, confirmeu que no us coaccionen, reinicieu i espereu 24 hores abans de permetre instal·lacions no verificades.</item>
+        <item>Un servei del sistema en segon pla (com.google.android.verifier) ​​s\'envia a les actualitzacions del sistema de Google als dispositius certificats i es manté inactiu fins que s\'apliqui.</item>
+        <item>Google confirma que l\'aplicació comença el 30 de setembre de 2026 a set botigues i quatre països.</item>
+        <item>L\'API d\'estat de l\'identificador de desenvolupador d\'Android es llança a nivell mundial i comença l\'accés anticipat per a l\'API de la consola per a desenvolupadors d\'Android i els comptes de distribució limitada.</item>
+        <item>Comptes de distribució limitats (gratuïts, fins a 20 dispositius, sense identificació governamental) i l\'API de consola es llança a tot el món. El flux avançat per a la càrrega lateral no verificada comença a desplegar-se.</item>
+        <item>Les proteccions estan disponibles per als usuaris del Brasil, Indonèsia, Singapur i Tailàndia en dispositius certificats amb Android 7+. Les aplicacions de desenvolupadors no verificats estan bloquejades a les botigues participants: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore i GetApps.</item>
+        <item>La verificació s\'amplia a totes les aplicacions i regions. Mantenir Android Open compta enrere fins a l\'1 de gener de 2027, quan Android es converteixi en una plataforma bloquejada.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Distribució completa</item>
+        <item>Distribució limitada</item>
+        <item>Càrrega lateral d\'aplicacions no registrades</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Sí: identificació governamental i una taxa</item>
+        <item>No, sense DNI ni quota de registre</item>
+        <item>No, però alta fricció</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Qualsevol botiga o canal que trieu</item>
+        <item>Fins a 20 dispositius mitjançant codi QR o encaix d\'enllaços</item>
+        <item>ADB (exempt) o el flux avançat</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Res canvia per als vostres usuaris</item>
+        <item>Els usuaris accepten una invitació d\'instal·lació d\'un desenvolupador que coneixen</item>
+        <item>Opcions de desenvolupador, reinicieu, espereu 24 hores i instal·leu-lo de totes maneres</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Organitzacions i desenvolupadors professionals</item>
+        <item>Estudiants, aficionats i ús personal</item>
+        <item>Desenvolupadors i usuaris potents no verificats</item>
+    </string-array>
+    <string name="act_title" formatted="false">Actueu ara: feu sentir la vostra veu</string>
+    <string name="act_intro">Els reguladors volen escoltar les persones afectades. Sigues educat i específic, escriviu en un idioma oficial de l\'organisme amb el qual contacteu, demaneu un reconeixement per escrit i copieu %1$s perquè la campanya pugui fer un seguiment de les victòries.</string>
+    <string name="act_open_composer" formatted="false">Obriu el compositor de correu electrònic</string>
+    <string name="act_copy" formatted="false">Còpia</string>
+    <string name="act_share" formatted="false">Comparteix</string>
+    <string name="act_clipboard_label" formatted="false">Mantenir la carta oberta d\'Android</string>
+    <string name="act_us_title" formatted="false">Estats Units: correu electrònic al govern</string>
+    <string name="act_us_intro" formatted="false">El Departament de Justícia i la FTC prenen els informes antimonopoli mitjançant formularis en línia. Utilitzeu-los i contacteu directament amb el vostre representant i senadors.</string>
+    <string name="act_world_title" formatted="false">En altres llocs del món</string>
+    <string name="act_groups_title" formatted="false">Grups de consumidors i drets digitals</string>
+    <string name="act_more_title" formatted="false">Més maneres d\'ajudar</string>
+    <string name="act_more_body" formatted="false">• Instal·leu F-Droid als vostres dispositius.\n• Respon a l\'enquesta de verificació de desenvolupadors de Google.\n• Publica a les xarxes socials i enllaça a keepandroidopen.org.\n• Signa la petició change.org.\n• Afegiu el bàner de compte enrere al vostre lloc web.</string>
+    <string name="act_all_actions" formatted="false">Totes les accions a keepandroidopen.org</string>
+    <string name="action_email" formatted="false">Correu electrònic</string>
+    <string name="action_open" formatted="false">Obert</string>
+    <string-array name="us_contact_regions">
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Departament de Justícia dels EUA - Divisió Antimonopoli</item>
+        <item>Comissió Federal de Comerç dels EUA - Antimonopoli</item>
+        <item>Trobeu el vostre representant a la Cambra</item>
+        <item>Contacta amb els teus senadors dels EUA</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Envieu un informe antimonopoli en línia.</item>
+        <item>Presentar una queixa antimonopoli.</item>
+        <item>Poseu-vos en contacte amb el vostre representant a la Casa dels EUA.</item>
+        <item>Trobeu i contacteu amb els dos senadors del vostre estat.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Unió Europea</item>
+        <item>Unió Europea</item>
+        <item>Regne Unit</item>
+        <item>Brasil</item>
+        <item>Singapur</item>
+        <item>Tailàndia</item>
+        <item>Indonèsia</item>
+        <item>Austràlia</item>
+        <item>Canadà</item>
+        <item>Índia</item>
+        <item>Japó</item>
+        <item>Corea del Sud</item>
+        <item>Mèxic</item>
+        <item>Aotearoa / Nova Zelanda</item>
+        <item>Taiwan</item>
+        <item>Suïssa</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>Antimonopoli de la UE (DG COMP)</item>
+        <item>Equip de Digital Markets Act</item>
+        <item>Autoritat de la Competència i els Mercats</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Comissió de la Competència Comercial (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Competition Bureau Canada</item>
+        <item>Comissió de la Competència de l\'Índia</item>
+        <item>Comissió de Comerç Just del Japó</item>
+        <item>Comissió de Comerç Just de Corea</item>
+        <item>Comissió Nacional Antimonopoli</item>
+        <item>Comissió de Comerç</item>
+        <item>Comissió de Comerç Just</item>
+        <item>Comissió de la Competència (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Envieu un correu electrònic a l\'autoritat de competència de la Comissió Europea.</item>
+        <item>Poseu-vos en contacte amb el servei d\'atenció al ciutadà de la DMA de la UE.</item>
+        <item>Informeu a la CMA del Regne Unit.</item>
+        <item>El Brasil es troba en la primera onada d\'execució.</item>
+        <item>Singapur es troba en la primera onada d\'execució.</item>
+        <item>Tailàndia es troba en la primera onada d\'execució.</item>
+        <item>Indonèsia es troba en la primera onada d\'execució.</item>
+        <item>Informe a la Comissió australiana de la competència i el consum.</item>
+        <item>Presentar una queixa a l\'Oficina de la Competència.</item>
+        <item>Poseu-vos en contacte amb el CCI sobre conductes anticompetitives.</item>
+        <item>Poseu-vos en contacte amb el taulell de JFTC / Mobile Software Competition Act.</item>
+        <item>Contacta amb la KFTC.</item>
+        <item>Presentar una denúncia antimonopoli a Mèxic.</item>
+        <item>Denunciar conductes anticompetitives.</item>
+        <item>Contacta amb l\'FTC de Taiwan.</item>
+        <item>Denunciar pràctiques il·lícites.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Global</item>
+        <item>Global</item>
+        <item>Europa</item>
+        <item>Europa</item>
+        <item>Global</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Fundació Frontera Electrònica</item>
+        <item>Fundació de Programari Lliure</item>
+        <item>Free Software Foundation Europe</item>
+        <item>Drets digitals europeus (EDRi)</item>
+        <item>Programari Freedom Conservancy</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Control d\'aplicacions i censura d\'Internet.</item>
+        <item>Llibertat de programari i control dels usuaris.</item>
+        <item>Llibertat de programari a Europa.</item>
+        <item>Defensa dels drets digitals.</item>
+        <item>Programari lliure impulsat per la comunitat.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">el meu govern</string>
+    <string name="letter_subject" formatted="false">Atura el bloqueig de verificació per a desenvolupadors d\'Android de Google</string>
+    <string name="letter_template">Benvolgut representant de %1$s,\n\nEscric com a usuari d\'Android preocupat i com a ciutadà de la vostra jurisdicció.\n\nEl programa de verificació de desenvolupadors d\'Android de Google, aplicat a partir del 30 de setembre de 2026 en diversos mercats i que s\'expandirà a nivell mundial el 2027, requerirà que totes les aplicacions d\'Android estiguin registrades en un desenvolupador verificat de manera centralitzada abans que es puguin instal·lar en dispositius certificats. Els desenvolupadors han d\'enviar una identificació governamental, acceptar les condicions de Google, pagar una tarifa i enumerar tots els identificadors d\'aplicació actuals i futurs.\n\nAixò no millora significativament la seguretat. Atorga a una única empresa privada el poder de decidir quin programari es permet executar a les persones als dispositius que tenen, i amenaça la distribució independent i de codi obert com F-Droid, que no pot complir i pot deixar d\'existir.\n\nUs demano amb respecte:\n\n1. Investigueu si aquest programa és anticompetitiu i constitueix un abús d\'una posició de porter.\n2. Premeu Google per eximir de la distribució de codi obert i no comercial, i per mantenir la càrrega lateral lliure del registre centralitzat.\n3. Protegiu el dret dels usuaris a executar el programari de la seva elecció en el maquinari que hagin adquirit.\n\nSi us plau, reconeixeu aquest missatge per escrit i feu-me saber quina acció fa la vostra oficina.\n\nTambé estic copiant la campanya Keep Android Open a %2$s.\n\nSincerament,\n[El teu nom]\n[La teva ciutat i país]</string>
+    <string name="toast_no_app" formatted="false">Cap aplicació pot obrir aquest enllaç</string>
+    <string name="toast_no_email" formatted="false">No hi ha instal·lada cap aplicació de correu electrònic</string>
+    <string name="chooser_send_email" formatted="false">Enviar correu electrònic</string>
+    <string name="chooser_share" formatted="false">Comparteix</string>
+    <string name="toast_copied" formatted="false">S\'ha copiat al porta-retalls</string>
+    <string name="settings_title" formatted="false">Configuració</string>
+    <string name="settings_language_title" formatted="false">Idioma de l\'aplicació</string>
+    <string name="settings_language_summary" formatted="false">Trieu l\'idioma utilitzat per l\'aplicació. També podeu canviar-lo des de la configuració del dispositiu.</string>
+    <string name="settings_system_default" formatted="false">Sistema predeterminat</string>
+    <string name="settings_language_search" formatted="false">Cerca idiomes</string>
+    <string name="settings_theme_title" formatted="false">Tema</string>
+    <string name="settings_theme_summary" formatted="false">Trieu com es veu l\'aplicació.</string>
+    <string name="theme_system" formatted="false">Seguiu el sistema</string>
+    <string name="theme_light" formatted="false">Llum</string>
+    <string name="theme_dark" formatted="false">Fosc</string>
+    <string name="theme_amoled" formatted="false">AMOLED (negre pur)</string>
+    <string name="settings_accent_title" formatted="false">Color d\'accent</string>
+    <string name="settings_accent_summary" formatted="false">Trieu el color de ressaltat utilitzat a l\'aplicació.</string>
+    <string name="accent_default" formatted="false">Per defecte (campanya vermella)</string>
+    <string name="accent_red" formatted="false">Vermell</string>
+    <string name="accent_orange" formatted="false">Taronja</string>
+    <string name="accent_yellow" formatted="false">Groc</string>
+    <string name="accent_green" formatted="false">Verd</string>
+    <string name="accent_teal" formatted="false">Teal</string>
+    <string name="accent_blue" formatted="false">Blau</string>
+    <string name="accent_purple" formatted="false">Lila</string>
+    <string name="accent_pink" formatted="false">Rosa</string>
+    <string name="settings_colorblendr_warning" formatted="false">Avís: si ColorBlendr o un altre material que substituïu està actiu, és possible que el vostre color d\'accent no s\'apliqui fins que el desactiveu.</string>
+    <string name="settings_about_title" formatted="false">Sobre</string>
+    <string name="settings_version">Versió %1$s</string>
+    <string name="settings_open_source" formatted="false">codi obert (MIT). No està afiliat ni avalat per la campanya oficial Keep Android Open.</string>
+</resources>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">கவுண்டவுன்</string>
+    <string name="tab_rollout" formatted="false">தி ரோல்அவுட்</string>
+    <string name="tab_act_now" formatted="false">இப்போது செயல்படுங்கள்</string>
+    <string name="cd_open_site" formatted="false">Keepandroidopen.org ஐ திறக்கவும்</string>
+    <string name="cd_settings" formatted="false">அமைப்புகள்</string>
+    <string name="cd_back" formatted="false">மீண்டும்</string>
+    <string name="countdown_campaign" formatted="false">பிரச்சார கவுண்டவுன்</string>
+    <string name="countdown_elapsed" formatted="false">ஜனவரி 1, 2027 வரை பிரச்சாரம் பொதுவில் சென்றதில் இருந்து நேரம் கடந்துவிட்டது.</string>
+    <string name="countdown_what_means" formatted="false">கவுண்டவுன் என்றால் என்ன</string>
+    <string name="countdown_read_faq" formatted="false">அடிக்கடி கேட்கப்படும் கேள்விகளைப் படிக்கவும்</string>
+    <string name="countdown_campaign_btn" formatted="false">பிரச்சாரம்</string>
+    <string name="countdown_footnote" formatted="false">Keepandroidopen.org இல் வெளியிடப்பட்ட பேனருடன் கவுண்டவுன் இலக்கு பொருந்துகிறது. ஆப்ஸ் திறந்திருக்கும் போது வினாடிக்கு ஒருமுறை புதுப்பிக்கப்படும்.</string>
+    <string name="countdown_expired" formatted="false">ஆண்ட்ராய்டு இப்போது பூட்டப்பட்ட தளமாக உள்ளது</string>
+    <string name="countdown_running" formatted="false">ஆண்ட்ராய்டு ஒரு பூட்டப்பட்ட தளமாக மாறுகிறது</string>
+    <string name="unit_days" formatted="false">நாட்கள்</string>
+    <string name="unit_hours" formatted="false">மணி</string>
+    <string name="unit_minutes" formatted="false">நிமிடங்கள்</string>
+    <string name="unit_seconds" formatted="false">வினாடிகள்</string>
+    <string name="rollout_title" formatted="false">ஆண்ட்ராய்டு டெவலப்பர் சரிபார்ப்பு என்றால் என்ன?</string>
+    <string name="rollout_what_it_means_title" formatted="false">அது உண்மையில் என்ன அர்த்தம்</string>
+    <string name="rollout_timeline_title" formatted="false">வெளியீடு காலவரிசை</string>
+    <string name="rollout_paths_title" formatted="false">உங்கள் சரிபார்ப்பு பாதையை தேர்வு செய்யவும்</string>
+    <string name="rollout_advanced_title" formatted="false">\"மேம்பட்ட ஓட்டம்\" ஒரு தீர்வு அல்ல</string>
+    <string name="rollout_dev_page" formatted="false">Google இன் அதிகாரப்பூர்வ டெவலப்பர் பக்கம்</string>
+    <string name="rollout_open_letter" formatted="false">திறந்த கடிதத்தைப் படியுங்கள்</string>
+    <string name="label_identity" formatted="false">அடையாளம்</string>
+    <string name="label_distribution" formatted="false">விநியோகம்</string>
+    <string name="label_ux" formatted="false">பயனர் அனுபவம்</string>
+    <string name="label_best_for" formatted="false">சிறந்தது</string>
+    <string name="rollout_summary" formatted="false">ஆண்ட்ராய்டு டெவலப்பர் சரிபார்ப்பு என்பது கூகுள் புரோகிராம் ஆகும், இது சான்றளிக்கப்பட்ட ஆண்ட்ராய்டு சாதனங்களில் நிறுவப்படுவதற்கு முன்பு ஒவ்வொரு ஆப்ஸையும் சரிபார்க்கப்பட்ட டெவலப்பர் அடையாளத்துடன் இணைக்கிறது. டெவலப்பர்கள் அவர்கள் யார் என்பதைச் சரிபார்த்து, அவர்கள் வெளியிடும் தொகுப்புப் பெயர்களைப் பதிவு செய்ய வேண்டும். பதிவுசெய்யப்பட்ட, சரிபார்க்கப்பட்ட டெவலப்பர் இல்லாத பயன்பாடுகள், பாதுகாப்புகள் வெளிவந்தவுடன் வழக்கமான முறையில் நிறுவப்படாது.</string>
+    <string name="rollout_what_it_means" formatted="false">F-Droid, நேரடி APK பதிவிறக்கங்கள் மற்றும் பொழுதுபோக்கு திட்டங்கள் போன்ற சுயாதீனமான மற்றும் திறந்த மூல விநியோகத்தில் இது கடினமானது. இது பாதுகாப்பு மற்றும் அநாமதேய தீம்பொருளை நிறுத்துவதாக கூகுள் கூறுகிறது. Keep Android Open பிரச்சாரம், F-Droid மற்றும் EFF உள்ளிட்ட விமர்சகர்கள் இது ஒரு கேட் கீப்பர் கில் ஸ்விட்ச் என்று கூறுகிறார்கள்: மையப் பதிவு, அரசாங்க ஐடி, கட்டணம் மற்றும் உங்கள் சாதனம் எதை நம்ப அனுமதிக்கப்படுகிறது என்பதில் முழுக் கட்டுப்பாடு.</string>
+    <string name="rollout_advanced_note" formatted="false">மேம்பட்ட ஓட்டமானது Google Play சேவைகள் மூலம் வழங்கப்படுகிறது, Android OS அல்ல, எனவே OS புதுப்பிப்பு அல்லது பயனர் ஒப்புதல் இல்லாமல் Google அதை எந்த நேரத்திலும் மாற்றலாம், கட்டுப்படுத்தலாம் அல்லது அகற்றலாம். 24 மணிநேர தாமதமானது வேண்டுமென்றே இடையூறு விளைவிக்கும் மற்றும் உங்களுக்கும் நீங்கள் இயக்க விரும்பும் மென்பொருளுக்கும் இடையில் நிற்கும் மற்றொரு படியாகும்.</string>
+    <string-array name="timeline_dates">
+        <item>ஆகஸ்ட் 25, 2025</item>
+        <item>மார்ச் 19, 2026</item>
+        <item>ஜூன் 2026</item>
+        <item>ஜூன் 18, 2026</item>
+        <item>ஜூலை 2026</item>
+        <item>ஆகஸ்ட் 2026</item>
+        <item>செப்டம்பர் 30, 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>திட்டம் அறிவிக்கப்பட்டுள்ளது</item>
+        <item>\"மேம்பட்ட ஓட்டம்\" வெளிப்படுகிறது</item>
+        <item>Android டெவலப்பர் சரிபார்ப்பு சாதனங்களுக்கு அனுப்புகிறது</item>
+        <item>ஆரம்ப வெளியீடு உறுதி செய்யப்பட்டது</item>
+        <item>டெவலப்பர் APIகள் திறக்கப்படுகின்றன</item>
+        <item>குளோபல் கன்சோல், வரையறுக்கப்பட்ட கணக்குகள், மேம்பட்ட ஓட்டம்</item>
+        <item>நான்கு நாடுகளில் அமலாக்கம் தொடங்குகிறது</item>
+        <item>உலகளாவிய வெளியீடு</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>2027 ஆம் ஆண்டு முதல், ஆண்ட்ராய்டுக்கான ஆப்ஸ், கூகுள் பிளேக்கு வெளியே நிறுவப்பட்ட ஆப்ஸ் உட்பட, சரிபார்க்கப்பட்ட டெவலப்பரிடம் பதிவு செய்யப்பட வேண்டும் என்று கூகுள் அறிவிக்கிறது.</item>
+        <item>ஆற்றல் பயனர்கள் வேண்டுமென்றே சிக்கலான தப்பிக்கும் ஹேட்சைப் பெறுகிறார்கள்: டெவலப்பர் விருப்பங்களை இயக்கவும், நீங்கள் கட்டாயப்படுத்தப்படவில்லை என்பதை உறுதிப்படுத்தவும், மறுதொடக்கம் செய்யவும், பின்னர் சரிபார்க்கப்படாத நிறுவல்களை அனுமதிக்கும் முன் 24 மணிநேரம் காத்திருக்கவும்.</item>
+        <item>ஒரு பின்னணி அமைப்புச் சேவை (com.google.android.verifier) ​​Google சிஸ்டம் புதுப்பிப்புகள் மூலம் சான்றளிக்கப்பட்ட சாதனங்களுக்குத் தள்ளப்பட்டு, அமலாக்கப்படும் வரை செயலற்ற நிலையில் இருக்கும்.</item>
+        <item>ஏழு கடைகள் மற்றும் நான்கு நாடுகளில் அமலாக்கம் செப்டம்பர் 30, 2026 இல் தொடங்கும் என கூகுள் உறுதிப்படுத்துகிறது.</item>
+        <item>ஆண்ட்ராய்டு டெவலப்பர் ஐடி நிலை ஏபிஐ உலகளவில் தொடங்குகிறது மற்றும் ஆண்ட்ராய்டு டெவலப்பர் கன்சோல் ஏபிஐ மற்றும் வரையறுக்கப்பட்ட விநியோக கணக்குகளுக்கான ஆரம்ப அணுகல் தொடங்குகிறது.</item>
+        <item>வரையறுக்கப்பட்ட விநியோக கணக்குகள் (இலவசம், 20 சாதனங்கள் வரை, அரசாங்க ஐடி இல்லை) மற்றும் கன்சோல் API உலகளவில் தொடங்கப்பட்டது. சரிபார்க்கப்படாத சைட்லோடிங்கிற்கான மேம்பட்ட ஓட்டம் வெளிவரத் தொடங்குகிறது.</item>
+        <item>பிரேசில், இந்தோனேசியா, சிங்கப்பூர் மற்றும் தாய்லாந்தில் உள்ள பயனர்களுக்கு, Android 7+ இல் இயங்கும் சான்றளிக்கப்பட்ட சாதனங்களில் பாதுகாப்புகள் நேரலையில் கிடைக்கும். பங்கேற்கும் ஸ்டோர்களில் சரிபார்க்கப்படாத டெவலப்பர்களின் பயன்பாடுகள் தடுக்கப்பட்டுள்ளன: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore மற்றும் GetApps.</item>
+        <item>சரிபார்ப்பு அனைத்து ஆப்ஸ் மற்றும் பிராந்தியங்களுக்கும் விரிவுபடுத்தப்பட்டுள்ளது. ஜனவரி 1, 2027 வரை ஆண்ட்ராய்டை ஓப்பனாக வைத்திருங்கள், ஆண்ட்ராய்டு பூட்டப்பட்ட இயங்குதளமாக மாறும்.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>முழு விநியோகம்</item>
+        <item>வரையறுக்கப்பட்ட விநியோகம்</item>
+        <item>பதிவுசெய்யப்படாத பயன்பாடுகளை ஓரங்கட்டுகிறது</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>ஆம் — அரசாங்க ஐடி மற்றும் கட்டணம்</item>
+        <item>இல்லை - ஐடி அல்லது பதிவு கட்டணம் இல்லை</item>
+        <item>இல்லை - ஆனால் அதிக உராய்வு</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>நீங்கள் தேர்வு செய்யும் எந்த கடை அல்லது சேனல்</item>
+        <item>QR குறியீடு அல்லது இணைப்பு ஹேண்ட்ஷேக் மூலம் 20 சாதனங்கள் வரை</item>
+        <item>ADB (விலக்கு) அல்லது மேம்பட்ட ஓட்டம்</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>உங்கள் பயனர்களுக்கு எதுவும் மாறாது</item>
+        <item>பயனர்கள் தங்களுக்குத் தெரிந்த டெவலப்பரின் நிறுவல் அழைப்பை ஏற்றுக்கொள்கிறார்கள்</item>
+        <item>டெவலப்பர் விருப்பங்கள், மறுதொடக்கம், 24 மணிநேரம் காத்திருக்கவும், பிறகு எப்படியும் நிறுவவும்</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>நிறுவனங்கள் மற்றும் தொழில்முறை டெவலப்பர்கள்</item>
+        <item>மாணவர்கள், பொழுதுபோக்கு மற்றும் தனிப்பட்ட பயன்பாடு</item>
+        <item>சரிபார்க்கப்படாத டெவலப்பர்கள் மற்றும் ஆற்றல் பயனர்கள்</item>
+    </string-array>
+    <string name="act_title" formatted="false">இப்போது செயல்படுங்கள் - உங்கள் குரலைக் கேட்கச் செய்யுங்கள்</string>
+    <string name="act_intro">கட்டுப்பாட்டாளர்கள் பாதிக்கப்பட்ட நபர்களிடமிருந்து கேட்க விரும்புகிறார்கள். கண்ணியமாகவும் குறிப்பிட்டதாகவும் இருங்கள், நீங்கள் தொடர்பு கொள்ளும் அமைப்பின் அதிகாரப்பூர்வ மொழியில் எழுதவும், எழுத்துப்பூர்வ ஒப்புதலைக் கேட்கவும், %1$s ஐ நகலெடுக்கவும், பிரச்சாரம் வெற்றிகளைக் கண்காணிக்கும்.</string>
+    <string name="act_open_composer" formatted="false">மின்னஞ்சல் இசையமைப்பாளரைத் திறக்கவும்</string>
+    <string name="act_copy" formatted="false">நகலெடுக்கவும்</string>
+    <string name="act_share" formatted="false">பகிரவும்</string>
+    <string name="act_clipboard_label" formatted="false">ஆண்ட்ராய்ட் ஓப்பன் லெட்டரை வைத்திருங்கள்</string>
+    <string name="act_us_title" formatted="false">யுனைடெட் ஸ்டேட்ஸ் - அரசாங்கத்திற்கு மின்னஞ்சல்</string>
+    <string name="act_us_intro" formatted="false">நீதித்துறை மற்றும் FTC ஆகியவை ஆன்லைன் படிவங்கள் மூலம் நம்பிக்கையற்ற அறிக்கைகளை எடுக்கின்றன. அவற்றைப் பயன்படுத்தி, உங்கள் சொந்த பிரதிநிதி மற்றும் செனட்டர்களை நேரடியாகத் தொடர்புகொள்ளவும்.</string>
+    <string name="act_world_title" formatted="false">உலகில் வேறு எங்கும்</string>
+    <string name="act_groups_title" formatted="false">நுகர்வோர் மற்றும் டிஜிட்டல் உரிமைகள் குழுக்கள்</string>
+    <string name="act_more_title" formatted="false">உதவ மேலும் வழிகள்</string>
+    <string name="act_more_body" formatted="false">• உங்கள் சாதனங்களில் F-Droid ஐ நிறுவவும்.\n• Google இன் டெவலப்பர் சரிபார்ப்பு கருத்துக்கணிப்புக்கு பதிலளிக்கவும்.\n• சமூக ஊடகங்களில் இடுகையிடவும் மற்றும் Keepandroidopen.org க்கு இணைக்கவும்.\n• change.org மனுவில் கையொப்பமிடுங்கள்.\n• கவுண்டவுன் பேனரை உங்கள் இணையதளத்தில் சேர்க்கவும்.</string>
+    <string name="act_all_actions" formatted="false">Keepandroidopen.org இல் அனைத்து செயல்களும்</string>
+    <string name="action_email" formatted="false">மின்னஞ்சல்</string>
+    <string name="action_open" formatted="false">திற</string>
+    <string-array name="us_contact_regions">
+        <item>அமெரிக்கா</item>
+        <item>அமெரிக்கா</item>
+        <item>அமெரிக்கா</item>
+        <item>அமெரிக்கா</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>அமெரிக்க நீதித்துறை - நம்பிக்கைக்கு எதிரான பிரிவு</item>
+        <item>அமெரிக்க ஃபெடரல் டிரேட் கமிஷன் - நம்பிக்கைக்கு எதிரானது</item>
+        <item>உங்கள் வீட்டுப் பிரதிநிதியைக் கண்டறியவும்</item>
+        <item>உங்கள் அமெரிக்க செனட்டர்களைத் தொடர்பு கொள்ளவும்</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>நம்பிக்கையற்ற அறிக்கையை ஆன்லைனில் சமர்ப்பிக்கவும்.</item>
+        <item>நம்பிக்கையற்ற புகாரைப் பதிவு செய்யவும்.</item>
+        <item>அமெரிக்க மாளிகையில் உள்ள உங்கள் பிரதிநிதியைத் தொடர்புகொள்ளவும்.</item>
+        <item>உங்கள் இரு மாநில செனட்டர்களையும் கண்டுபிடித்து தொடர்பு கொள்ளவும்.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>ஐரோப்பிய ஒன்றியம்</item>
+        <item>ஐரோப்பிய ஒன்றியம்</item>
+        <item>ஐக்கிய இராச்சியம்</item>
+        <item>பிரேசில்</item>
+        <item>சிங்கப்பூர்</item>
+        <item>தாய்லாந்து</item>
+        <item>இந்தோனேசியா</item>
+        <item>ஆஸ்திரேலியா</item>
+        <item>கனடா</item>
+        <item>இந்தியா</item>
+        <item>ஜப்பான்</item>
+        <item>தென் கொரியா</item>
+        <item>மெக்சிகோ</item>
+        <item>Aotearoa / நியூசிலாந்து</item>
+        <item>தைவான்</item>
+        <item>சுவிட்சர்லாந்து</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU Antitrust (DG COMP)</item>
+        <item>டிஜிட்டல் சந்தைகள் சட்டம் குழு</item>
+        <item>போட்டி மற்றும் சந்தைகள் ஆணையம்</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>வர்த்தக போட்டி ஆணையம் (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>போட்டி பணியகம் கனடா</item>
+        <item>இந்திய போட்டி ஆணையம்</item>
+        <item>ஜப்பான் நியாயமான வர்த்தக ஆணையம்</item>
+        <item>கொரியா நியாயமான வர்த்தக ஆணையம்</item>
+        <item>காமிசியன் நேஷனல் ஆன்டிமோனோபோலியோ</item>
+        <item>வர்த்தக ஆணையம்</item>
+        <item>நியாயமான வர்த்தக ஆணையம்</item>
+        <item>போட்டி ஆணையம் (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>ஐரோப்பிய ஆணைய போட்டி அதிகாரத்திற்கு மின்னஞ்சல் அனுப்புங்கள்.</item>
+        <item>EU DMA குடிமகன் உதவி மையத்தைத் தொடர்பு கொள்ளவும்.</item>
+        <item>UK CMA க்கு அறிக்கை.</item>
+        <item>பிரேசில் முதல் அமலாக்க அலையில் உள்ளது.</item>
+        <item>சிங்கப்பூர் முதல் அமலாக்க அலையில் உள்ளது.</item>
+        <item>தாய்லாந்து முதல் அமலாக்க அலையில் உள்ளது.</item>
+        <item>இந்தோனேசியா முதல் அமலாக்க அலையில் உள்ளது.</item>
+        <item>ஆஸ்திரேலிய போட்டி மற்றும் நுகர்வோர் ஆணையத்திற்கு அறிக்கை.</item>
+        <item>போட்டி பீரோவில் புகார் செய்யுங்கள்.</item>
+        <item>போட்டிக்கு எதிரான நடத்தை பற்றி CCI ஐ தொடர்பு கொள்ளவும்.</item>
+        <item>JFTC / மொபைல் மென்பொருள் போட்டி சட்ட மேசையைத் தொடர்பு கொள்ளவும்.</item>
+        <item>KFTC ஐ தொடர்பு கொள்ளவும்.</item>
+        <item>மெக்ஸிகோவில் நம்பிக்கையற்ற புகாரைப் பதிவு செய்யவும்.</item>
+        <item>போட்டிக்கு எதிரான நடத்தையைப் புகாரளிக்கவும்.</item>
+        <item>தைவான் FTC ஐ தொடர்பு கொள்ளவும்.</item>
+        <item>சட்டவிரோத நடைமுறைகளைப் புகாரளிக்கவும்.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>உலகளாவிய</item>
+        <item>உலகளாவிய</item>
+        <item>ஐரோப்பா</item>
+        <item>ஐரோப்பா</item>
+        <item>உலகளாவிய</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>எலக்ட்ரானிக் ஃபிரான்டியர் ஃபவுண்டேஷன்</item>
+        <item>இலவச மென்பொருள் அறக்கட்டளை</item>
+        <item>இலவச மென்பொருள் அறக்கட்டளை ஐரோப்பா</item>
+        <item>ஐரோப்பிய டிஜிட்டல் உரிமைகள் (EDRi)</item>
+        <item>மென்பொருள் சுதந்திர பாதுகாப்பு</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>ஆப் கேட் கீப்பிங் மற்றும் இணைய தணிக்கை.</item>
+        <item>மென்பொருள் சுதந்திரம் மற்றும் பயனர் கட்டுப்பாடு.</item>
+        <item>ஐரோப்பாவில் மென்பொருள் சுதந்திரம்.</item>
+        <item>டிஜிட்டல் உரிமைகள் வக்காலத்து.</item>
+        <item>சமூகம் சார்ந்த இலவச மென்பொருள்.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">என் அரசாங்கம்</string>
+    <string name="letter_subject" formatted="false">கூகுளின் ஆண்ட்ராய்டு டெவலப்பர் சரிபார்ப்பு லாக்டவுனை நிறுத்துங்கள்</string>
+    <string name="letter_template">அன்புள்ள %1$s பிரதிநிதி,\n\nஅக்கறையுள்ள Android பயனராகவும் உங்கள் அதிகார வரம்பில் உள்ள குடிமகனாகவும் எழுதுகிறேன்.\n\nகூகுளின் ஆண்ட்ராய்டு டெவலப்பர் சரிபார்ப்புத் திட்டம், செப்டம்பர் 30, 2026 முதல் பல சந்தைகளில் செயல்படுத்தப்பட்டு, 2027ல் உலகளவில் விரிவடையும், ஒவ்வொரு ஆண்ட்ராய்டு ஆப்ஸையும் சான்றளிக்கப்பட்ட சாதனங்களில் நிறுவும் முன், மையச் சரிபார்க்கப்பட்ட டெவலப்பரிடம் பதிவு செய்ய வேண்டும். டெவலப்பர்கள் அரசாங்க அடையாளத்தைச் சமர்ப்பிக்க வேண்டும், Google இன் விதிமுறைகளை ஏற்க வேண்டும், கட்டணம் செலுத்த வேண்டும் மற்றும் ஒவ்வொரு தற்போதைய மற்றும் எதிர்கால பயன்பாட்டு அடையாளங்காட்டிகளையும் பட்டியலிட வேண்டும்.\n\nஇது பாதுகாப்பை அர்த்தமுள்ள வகையில் மேம்படுத்தாது. தனிநபர்கள் தங்களுக்குச் சொந்தமான சாதனங்களில் எந்த மென்பொருளை இயக்க அனுமதிக்கப்படுவார்கள் என்பதைத் தீர்மானிக்கும் அதிகாரத்தை இது ஒரு தனியார் நிறுவனத்திடம் ஒப்படைக்கிறது, மேலும் இது F-Droid போன்ற சுதந்திரமான மற்றும் திறந்த மூல விநியோகத்தை அச்சுறுத்துகிறது.\n\nநான் உங்களை அன்புடன் கேட்டுக்கொள்கிறேன்:\n\n1. இந்தத் திட்டம் போட்டிக்கு எதிரானதா மற்றும் கேட் கீப்பர் பதவியை தவறாகப் பயன்படுத்துகிறதா என்பதை ஆராயுங்கள்.\n2. ஓப்பன் சோர்ஸ் மற்றும் வர்த்தக சாராத விநியோகத்திற்கு விலக்கு அளிக்கவும், மையப்படுத்தப்பட்ட பதிவு இல்லாமல் பக்கவாட்டைத் தொடரவும் Google ஐ அழுத்தவும்.\n3. பயனர்கள் வாங்கிய வன்பொருளில் அவர்கள் தேர்ந்தெடுக்கும் மென்பொருளை இயக்குவதற்கான உரிமையைப் பாதுகாக்கவும்.\n\nஇந்தச் செய்தியை எழுத்துப்பூர்வமாக ஒப்புக்கொண்டு, உங்கள் அலுவலகம் என்ன நடவடிக்கை எடுக்கிறது என்பதை எனக்குத் தெரிவிக்கவும்.\n\n%2$s இல் Keep Android Open பிரச்சாரத்தையும் நகலெடுக்கிறேன்.\n\nஉண்மையுள்ள,\n[உங்கள் பெயர்]\n[உங்கள் நகரம் மற்றும் நாடு]</string>
+    <string name="toast_no_app" formatted="false">இந்த இணைப்பை எந்த ஆப்ஸாலும் திறக்க முடியாது</string>
+    <string name="toast_no_email" formatted="false">மின்னஞ்சல் பயன்பாடு எதுவும் நிறுவப்படவில்லை</string>
+    <string name="chooser_send_email" formatted="false">மின்னஞ்சல் அனுப்பவும்</string>
+    <string name="chooser_share" formatted="false">பகிரவும்</string>
+    <string name="toast_copied" formatted="false">கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது</string>
+    <string name="settings_title" formatted="false">அமைப்புகள்</string>
+    <string name="settings_language_title" formatted="false">பயன்பாட்டு மொழி</string>
+    <string name="settings_language_summary" formatted="false">ஆப்ஸ் பயன்படுத்தும் மொழியைத் தேர்வு செய்யவும். உங்கள் சாதன அமைப்புகளிலிருந்தும் இதை மாற்றலாம்.</string>
+    <string name="settings_system_default" formatted="false">கணினி இயல்புநிலை</string>
+    <string name="settings_language_search" formatted="false">மொழிகளைத் தேடுங்கள்</string>
+    <string name="settings_theme_title" formatted="false">தீம்</string>
+    <string name="settings_theme_summary" formatted="false">பயன்பாடு எப்படி இருக்கும் என்பதைத் தேர்வுசெய்யவும்.</string>
+    <string name="theme_system" formatted="false">முறையைப் பின்பற்றவும்</string>
+    <string name="theme_light" formatted="false">ஒளி</string>
+    <string name="theme_dark" formatted="false">இருள்</string>
+    <string name="theme_amoled" formatted="false">AMOLED (தூய கருப்பு)</string>
+    <string name="settings_accent_title" formatted="false">உச்சரிப்பு நிறம்</string>
+    <string name="settings_accent_summary" formatted="false">ஆப்ஸ் முழுவதும் பயன்படுத்தப்படும் ஹைலைட் நிறத்தைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="accent_default" formatted="false">இயல்புநிலை (பிரச்சார சிவப்பு)</string>
+    <string name="accent_red" formatted="false">சிவப்பு</string>
+    <string name="accent_orange" formatted="false">ஆரஞ்சு</string>
+    <string name="accent_yellow" formatted="false">மஞ்சள்</string>
+    <string name="accent_green" formatted="false">பச்சை</string>
+    <string name="accent_teal" formatted="false">டீல்</string>
+    <string name="accent_blue" formatted="false">நீலம்</string>
+    <string name="accent_purple" formatted="false">ஊதா</string>
+    <string name="accent_pink" formatted="false">இளஞ்சிவப்பு</string>
+    <string name="settings_colorblendr_warning" formatted="false">எச்சரிக்கை: ColorBlendr அல்லது நீங்கள் மேலெழுத வேறொரு பொருள் செயலில் இருந்தால், அதை முடக்கும் வரை உங்கள் உச்சரிப்பு நிறம் பொருந்தாது.</string>
+    <string name="settings_about_title" formatted="false">பற்றி</string>
+    <string name="settings_version">பதிப்பு %1$s</string>
+    <string name="settings_open_source" formatted="false">திறந்த மூல (எம்ஐடி). அதிகாரப்பூர்வ Keep Android Open பிரச்சாரத்துடன் இணைக்கப்படவில்லை அல்லது அங்கீகரிக்கப்படவில்லை.</string>
+</resources>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">কাউণ্টডাউন</string>
+    <string name="tab_rollout" formatted="false">ৰোলআউট</string>
+    <string name="tab_act_now" formatted="false">এতিয়াই কাম কৰক</string>
+    <string name="cd_open_site" formatted="false">keepandroidopen.org খোলক</string>
+    <string name="cd_settings" formatted="false">ছেটিংছ</string>
+    <string name="cd_back" formatted="false">পিছলৈ</string>
+    <string name="countdown_campaign" formatted="false">অভিযানৰ উলটি গণনা</string>
+    <string name="countdown_elapsed" formatted="false">২০২৭ চনৰ ১ জানুৱাৰীৰ ফালে এই অভিযান ৰাজহুৱা হোৱাৰ পিছত সময় পাৰ হৈ গ’ল।</string>
+    <string name="countdown_what_means" formatted="false">কাউণ্টডাউনৰ অৰ্থ কি</string>
+    <string name="countdown_read_faq" formatted="false">FAQ পঢ়ক</string>
+    <string name="countdown_campaign_btn" formatted="false">অভিযান</string>
+    <string name="countdown_footnote" formatted="false">কাউণ্টডাউন লক্ষ্য keepandroidopen.org ত প্ৰকাশিত বেনাৰৰ সৈতে মিল খায়। এপটো খোলা থকাৰ সময়ত প্ৰতি ছেকেণ্ডত এবাৰ আপডেট হয়।</string>
+    <string name="countdown_expired" formatted="false">ANDROID এতিয়া এটা LOCKED-DOWN PLATFORM</string>
+    <string name="countdown_running" formatted="false">ANDROID এটা LOCKED-DOWN PLATFORM হৈ পৰে IN</string>
+    <string name="unit_days" formatted="false">দিন</string>
+    <string name="unit_hours" formatted="false">ঘণ্টা</string>
+    <string name="unit_minutes" formatted="false">মিনিটবোৰ</string>
+    <string name="unit_seconds" formatted="false">চেকেণ্ড</string>
+    <string name="rollout_title" formatted="false">এণ্ড্ৰইড ডেভেলপাৰ ভেৰিফিকেচন কি?</string>
+    <string name="rollout_what_it_means_title" formatted="false">ইয়াৰ প্ৰকৃত অৰ্থ কি</string>
+    <string name="rollout_timeline_title" formatted="false">ৰোলআউটৰ সময়সীমা</string>
+    <string name="rollout_paths_title" formatted="false">আপোনাৰ সত্যাপন পথ বাছক</string>
+    <string name="rollout_advanced_title" formatted="false">“উন্নত প্ৰবাহ” কোনো সমাধান নহয়</string>
+    <string name="rollout_dev_page" formatted="false">গুগলৰ অফিচিয়েল ডেভেলপাৰ পেজ</string>
+    <string name="rollout_open_letter" formatted="false">মুকলি চিঠিখন পঢ়ক</string>
+    <string name="label_identity" formatted="false">পৰিচয়</string>
+    <string name="label_distribution" formatted="false">বিতৰণ</string>
+    <string name="label_ux" formatted="false">ব্যৱহাৰকাৰীৰ অভিজ্ঞতা</string>
+    <string name="label_best_for" formatted="false">ৰ বাবে শ্ৰেষ্ঠ</string>
+    <string name="rollout_summary" formatted="false">এণ্ড্ৰইড ডেভেলপাৰ ভেৰিফিকেচন হৈছে গুগলৰ এটা প্ৰগ্ৰেম যিয়ে প্ৰতিটো এপক প্ৰমাণিত এণ্ড্ৰইড ডিভাইচত ইনষ্টল কৰাৰ আগতে এটা ভেৰিফাইড ডেভেলপাৰ পৰিচয়ৰ সৈতে লিংক কৰে। ডেভেলপাৰসকলে তেওঁলোক কোন সেইটো পৰীক্ষা কৰিব লাগিব আৰু তেওঁলোকে প্ৰকাশ কৰা পেকেইজৰ নামসমূহ পঞ্জীয়ন কৰিব লাগিব। পঞ্জীয়নভুক্ত, পৰীক্ষিত ডেভেলপাৰ নথকা এপসমূহ আৰু সুৰক্ষাসমূহ ৰোল আউট হোৱাৰ পিছত সাধাৰণভাৱে ইনষ্টল কৰিব নোৱাৰিব।</string>
+    <string name="rollout_what_it_means" formatted="false">ই স্বতন্ত্ৰ আৰু মুক্ত উৎস বিতৰণ যেনে F-Droid, প্ৰত্যক্ষ APK ডাউনলোড, আৰু চখ প্ৰকল্পত আটাইতকৈ কঠিনভাৱে লেণ্ড কৰে। গুগলে কয় যে ই সুৰক্ষা আৰু বেনামী মেলৱেৰ বন্ধ কৰাৰ কথা। Keep Android Open অভিযান, F-Droid আৰু EFFকে ধৰি সমালোচকসকলে কয় যে ই এটা গেটকিপাৰ কিল চুইচ: কেন্দ্ৰীয় পঞ্জীয়ন, চৰকাৰী আইডি, এটা মাচুল, আৰু আপোনাৰ ডিভাইচক কি বিশ্বাস কৰিবলৈ অনুমতি দিয়া হৈছে তাৰ ওপৰত সম্পূৰ্ণ নিয়ন্ত্ৰণ।</string>
+    <string name="rollout_advanced_note" formatted="false">উন্নত প্ৰবাহটো এণ্ড্ৰইড অ’ এছৰ জৰিয়তে নহয়, গুগল প্লে সেৱাৰ জৰিয়তে প্ৰদান কৰা হয়, গতিকে গুগলে যিকোনো সময়তে অ’ এছ আপডেট বা ব্যৱহাৰকাৰীৰ সন্মতি অবিহনে ইয়াক সলনি, নিষিদ্ধ বা আঁতৰাব পাৰে। ২৪ ঘণ্টাৰ বিলম্ব ইচ্ছাকৃতভাৱে বিঘ্নিতকাৰী আৰু ই আপোনাৰ আৰু আপুনি চলাবলৈ বাছি লোৱা চফ্টৱেৰৰ মাজত থিয় দিয়া আৰু এটা পদক্ষেপ।</string>
+    <string-array name="timeline_dates">
+        <item>২৫ আগষ্ট, ২০২৫</item>
+        <item>১৯ মাৰ্চ, ২০২৬</item>
+        <item>জুন ২০২৬</item>
+        <item>১৮ জুন, ২০২৬</item>
+        <item>জুলাই ২০২৬</item>
+        <item>আগষ্ট ২০২৬</item>
+        <item>৩০ ছেপ্টেম্বৰ, ২০২৬</item>
+        <item>২০২৭ চনত</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>কাৰ্যসূচী ঘোষণা কৰা হৈছে</item>
+        <item>“উন্নত প্ৰবাহ” প্ৰকাশ পাইছে</item>
+        <item>Android ডেভেলপাৰ ভেৰিফায়াৰ ডিভাইচসমূহলৈ প্ৰেৰণ কৰা হয়</item>
+        <item>প্ৰাৰম্ভিক মুকলি নিশ্চিত</item>
+        <item>ডেভেলপাৰ এপিআইসমূহ খোল খায়</item>
+        <item>গ্লোবেল কনছ\'ল, সীমিত একাউণ্ট, উন্নত প্ৰবাহ</item>
+        <item>চাৰিখন দেশত বলবৎকৰণ আৰম্ভ হয়</item>
+        <item>গ্লোবেল ৰোলআউট</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>গুগলে ঘোষণা কৰিছে যে ২০২৭ চনৰ পৰা এণ্ড্ৰইডৰ বাবে এপসমূহ গুগল প্লেৰ বাহিৰত ইনষ্টল কৰা এপসমূহকে ধৰি কোনো পৰীক্ষিত ডেভেলপাৰত পঞ্জীয়ন কৰিব লাগিব।</item>
+        <item>শক্তি ব্যৱহাৰকাৰীসকলে এটা ইচ্ছাকৃতভাৱে জটিল পলায়ন হেচ পায়: বিকাশক বিকল্পসমূহ সামৰ্থবান কৰক, আপুনি জোৰ কৰা হোৱা নাই নিশ্চিত কৰক, পুনৰাৰম্ভ কৰক, তাৰ পিছত আপুনি অসত্যাপন কৰা সংস্থাপনৰ অনুমতি দিয়াৰ আগতে ২৪ ঘণ্টা অপেক্ষা কৰক।</item>
+        <item>এটা পটভূমি চিস্টেম সেৱা (com.google.android.verifier) ​​Google চিস্টেম আপডেটসমূহৰ জৰিয়তে প্ৰমাণীকৃত ডিভাইচসমূহলৈ ঠেলি দিয়া হয় আৰু বলবৎ নকৰালৈকে নিদ্ৰাহীন হৈ থাকে।</item>
+        <item>গুগলে নিশ্চিত কৰিছে যে ২০২৬ চনৰ ৩০ ছেপ্টেম্বৰৰ পৰা বলবৎকৰণ আৰম্ভ হ’ব, সাতটা ষ্ট’ৰ আৰু চাৰিখন দেশত।</item>
+        <item>এণ্ড্ৰইড ডেভেলপাৰ আইডি অৱস্থা এপিআই বিশ্বব্যাপী আৰম্ভ হয় আৰু এণ্ড্ৰইড ডেভেলপাৰ কনছ\'ল এপিআই আৰু সীমিত বিতৰণ একাউণ্টৰ বাবে আগতীয়া প্ৰৱেশ আৰম্ভ হয়।</item>
+        <item>সীমিত বিতৰণ একাউণ্টসমূহ (বিনামূলীয়া, ২০টা ডিভাইচলৈকে, কোনো চৰকাৰী ID নাই) আৰু ক\'ন্সোল API বিশ্বব্যাপী আৰম্ভ কৰে। অপৰীক্ষিত চাইডলোডিঙৰ বাবে উন্নত প্ৰবাহ ৰোল আউট কৰিবলৈ আৰম্ভ কৰে।</item>
+        <item>ব্ৰাজিল, ইণ্ডোনেছিয়া, ছিংগাপুৰ আৰু থাইলেণ্ডৰ ব্যৱহাৰকাৰীসকলৰ বাবে এণ্ড্ৰইড ৭+ চলোৱা প্ৰমাণিত ডিভাইচত সুৰক্ষা লাইভ হয়। অনভেৰিফাইড ডেভেলপাৰৰ পৰা অহা এপসমূহ অংশগ্ৰহণকাৰী ষ্ট’ৰসমূহত ব্লক কৰা হয়: গুগল প্লে, হ’নাৰ এপ মাৰ্কেট, অ’প’ এপ মাৰ্কেট, গেলাক্সি ষ্ট’ৰ, পাম ষ্ট’ৰ, ভি-এপষ্ট’ৰ আৰু গেটএপছ।</item>
+        <item>সকলো এপ আৰু অঞ্চললৈ পৰীক্ষণ সম্প্ৰসাৰিত কৰা হৈছে। Keep Android Open ৰ গণনা ২০২৭ চনৰ ১ জানুৱাৰীলৈকে, যেতিয়া এণ্ড্ৰইড এটা লকডাউন প্লেটফৰ্মত পৰিণত হ’ব।</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>সম্পূৰ্ণ বিতৰণ</item>
+        <item>সীমিত বিতৰণ</item>
+        <item>পঞ্জীয়ন নকৰা এপসমূহ চাইডলোড কৰা</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>হয় — চৰকাৰী আইডি আৰু মাচুল</item>
+        <item>নাই — কোনো আইডি বা পঞ্জীয়ন মাচুল নাই</item>
+        <item>নাই — কিন্তু উচ্চ ঘৰ্ষণ</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>আপুনি বাছি লোৱা যিকোনো ষ্ট\'ৰ বা চেনেল</item>
+        <item>QR ক\'ড বা লিংক হেণ্ডশ্বেকৰ জৰিয়তে ২০টালৈকে ডিভাইচ</item>
+        <item>এডিবি (ৰেহাই) বা উন্নত প্ৰবাহ</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>আপোনাৰ ব্যৱহাৰকাৰীসকলৰ বাবে একো সলনি নহয়</item>
+        <item>ব্যৱহাৰকাৰীসকলে তেওঁলোকে জনা ডেভেলপাৰৰ পৰা এটা ইনষ্টল আমন্ত্ৰণ গ্ৰহণ কৰে</item>
+        <item>ডেভেলপাৰ বিকল্পসমূহ, পুনৰাৰম্ভ কৰক, ২৪ ঘণ্টীয়া অপেক্ষা কৰক, তাৰ পিছত যিকোনো প্ৰকাৰে ইনষ্টল কৰক</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>সংস্থা আৰু পেছাদাৰী ডেভেলপাৰ</item>
+        <item>ছাত্ৰ-ছাত্ৰী, চখী আৰু ব্যক্তিগত ব্যৱহাৰ</item>
+        <item>অপৰীক্ষিত ডেভেলপাৰ আৰু শক্তি ব্যৱহাৰকাৰী</item>
+    </string-array>
+    <string name="act_title" formatted="false">এতিয়াই কাম কৰক — আপোনাৰ মাতটো শুনাওক</string>
+    <string name="act_intro">নিয়ন্ত্ৰকসকলে আক্ৰান্ত ব্যক্তিসকলৰ পৰা শুনিব বিচাৰে। ভদ্ৰ আৰু নিৰ্দিষ্ট হওক, আপুনি যোগাযোগ কৰা সংস্থাটোৰ চৰকাৰী ভাষাত লিখক, লিখিত স্বীকৃতি বিচাৰিব, আৰু %1$s কপি কৰক যাতে অভিযানে জয়সমূহ অনুসৰণ কৰিব পাৰে।</string>
+    <string name="act_open_composer" formatted="false">ইমেইল সুৰকাৰ খোলক</string>
+    <string name="act_copy" formatted="false">কপি কৰক</string>
+    <string name="act_share" formatted="false">ভাগ-বতৰা কৰা</string>
+    <string name="act_clipboard_label" formatted="false">Android Open letter ৰাখক</string>
+    <string name="act_us_title" formatted="false">আমেৰিকা যুক্তৰাষ্ট্ৰ — চৰকাৰক ইমেইল কৰক</string>
+    <string name="act_us_intro" formatted="false">ন্যায় বিভাগ আৰু এফটিচিয়ে অনলাইন ফৰ্মৰ জৰিয়তে এণ্টিট্ৰাষ্ট প্ৰতিবেদন লয়। সেইবোৰ ব্যৱহাৰ কৰক, আৰু আপোনাৰ নিজৰ প্ৰতিনিধি আৰু চিনেটৰসকলৰ সৈতে পোনপটীয়াকৈ যোগাযোগ কৰক।</string>
+    <string name="act_world_title" formatted="false">পৃথিৱীৰ আন ঠাইত</string>
+    <string name="act_groups_title" formatted="false">গ্ৰাহক আৰু ডিজিটেল অধিকাৰ গোট</string>
+    <string name="act_more_title" formatted="false">সহায় কৰাৰ অধিক উপায়</string>
+    <string name="act_more_body" formatted="false">• আপোনাৰ ডিভাইচসমূহত F-Droid সংস্থাপন কৰক।\n• গুগলৰ ডেভেলপাৰ ভেৰিফিকেচন জৰীপৰ উত্তৰ দিয়া।\n• ছ’চিয়েল মিডিয়াত পোষ্ট কৰক আৰু keepandroidopen.org ৰ লিংক কৰক।\n• change.org আবেদনত স্বাক্ষৰ কৰক।\n• আপোনাৰ ৱেবছাইটত কাউণ্টডাউন বেনাৰ যোগ কৰক।</string>
+    <string name="act_all_actions" formatted="false">keepandroidopen.org ত সকলো কাৰ্য্য</string>
+    <string name="action_email" formatted="false">ইমেইল</string>
+    <string name="action_open" formatted="false">খোলা</string>
+    <string-array name="us_contact_regions">
+        <item>আমেৰিকা যুক্তৰাষ্ট্ৰ</item>
+        <item>আমেৰিকা যুক্তৰাষ্ট্ৰ</item>
+        <item>আমেৰিকা যুক্তৰাষ্ট্ৰ</item>
+        <item>আমেৰিকা যুক্তৰাষ্ট্ৰ</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>আমেৰিকাৰ ন্যায় বিভাগ — এণ্টিট্ৰাষ্ট বিভাগ</item>
+        <item>আমেৰিকাৰ ফেডাৰেল ট্ৰেড কমিছন — এণ্টিট্ৰাষ্ট</item>
+        <item>আপোনাৰ সদনৰ প্ৰতিনিধি বিচাৰি উলিয়াওক</item>
+        <item>আপোনাৰ আমেৰিকাৰ চিনেটৰসকলৰ সৈতে যোগাযোগ কৰক</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>অনলাইনত এণ্টিট্ৰাষ্ট ৰিপৰ্ট জমা দিব।</item>
+        <item>এণ্টিট্ৰাষ্ট অভিযোগ দাখিল কৰক।</item>
+        <item>আমেৰিকাৰ সদনত আপোনাৰ প্ৰতিনিধিৰ সৈতে যোগাযোগ কৰক।</item>
+        <item>আপোনাৰ ৰাজ্যৰ দুয়োজন চিনেটৰক বিচাৰি উলিয়াওক আৰু যোগাযোগ কৰক।</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>ইউৰোপীয় সংঘ</item>
+        <item>ইউৰোপীয় সংঘ</item>
+        <item>যুক্তৰাজ্য</item>
+        <item>ব্ৰাজিল</item>
+        <item>ছিংগাপুৰ</item>
+        <item>থাইলেণ্ড</item>
+        <item>ইণ্ডোনেছিয়া</item>
+        <item>অষ্ট্ৰেলিয়া</item>
+        <item>কানাডা</item>
+        <item>ভাৰত</item>
+        <item>জাপান</item>
+        <item>দক্ষিণ কোৰিয়া</item>
+        <item>মেক্সিকো</item>
+        <item>Aotearoa / নিউজিলেণ্ড</item>
+        <item>টাইৱান</item>
+        <item>চুইজাৰলেণ্ড</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>ইউৰোপীয় ইউনিয়নৰ এণ্টিট্ৰাষ্ট (DG COMP)</item>
+        <item>ডিজিটেল মাৰ্কেটছ এক্টৰ দল</item>
+        <item>প্ৰতিযোগিতা আৰু বজাৰ কৰ্তৃপক্ষ</item>
+        <item>CADE</item>
+        <item>চিচিচিএছ</item>
+        <item>বাণিজ্য প্ৰতিযোগিতা আয়োগ (OTCC)</item>
+        <item>কেপিপিইউ</item>
+        <item>এচিচিচি</item>
+        <item>প্ৰতিযোগিতা ব্যুৰো কানাডা</item>
+        <item>ভাৰতীয় প্ৰতিযোগিতা আয়োগ</item>
+        <item>জাপান ন্যায্য বাণিজ্য আয়োগ</item>
+        <item>কোৰিয়া ন্যায্য বাণিজ্য আয়োগ</item>
+        <item>Comisión Nacional এন্টিমনোপলিঅ\'</item>
+        <item>বাণিজ্য আয়োগ</item>
+        <item>ন্যায্য বাণিজ্য আয়োগ</item>
+        <item>প্ৰতিযোগিতা আয়োগ (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>ইউৰোপীয় আয়োগৰ প্ৰতিযোগিতা কৰ্তৃপক্ষক ইমেইল কৰক।</item>
+        <item>ইউৰোপীয় ইউনিয়নৰ ডিএমএ নাগৰিক হেল্পডেস্কৰ সৈতে যোগাযোগ কৰক।</item>
+        <item>ব্ৰিটেইনৰ চিএমএলৈ প্ৰতিবেদন।</item>
+        <item>ব্ৰাজিল প্ৰথম বলবৎকাৰী ঢৌত আছে।</item>
+        <item>ছিংগাপুৰ প্ৰথম বলবৎকাৰীৰ ঢৌত আছে।</item>
+        <item>থাইলেণ্ড প্ৰথম বলবৎকাৰীৰ ঢৌত আছে।</item>
+        <item>ইণ্ডোনেছিয়া প্ৰথম বলবৎকাৰী ঢৌত আছে।</item>
+        <item>অষ্ট্ৰেলিয়াৰ প্ৰতিযোগিতা আৰু গ্ৰাহক আয়োগলৈ প্ৰতিবেদন।</item>
+        <item>প্ৰতিযোগিতা ব্যুৰোত অভিযোগ দাখিল কৰক।</item>
+        <item>প্ৰতিযোগিতা বিৰোধী আচৰণৰ বিষয়ে চিচিআইৰ সৈতে যোগাযোগ কৰক।</item>
+        <item>JFTC / মোবাইল চফট্ ৱেৰ প্ৰতিযোগিতা আইন ডেস্কৰ সৈতে যোগাযোগ কৰক।</item>
+        <item>KFTC ৰ সৈতে যোগাযোগ কৰক।</item>
+        <item>মেক্সিকোত এণ্টিট্ৰাষ্ট অভিযোগ দাখিল কৰক।</item>
+        <item>প্ৰতিযোগিতা বিৰোধী আচৰণৰ প্ৰতিবেদন।</item>
+        <item>টাইৱান এফটিচিৰ সৈতে যোগাযোগ কৰক।</item>
+        <item>অবৈধ প্ৰথাৰ ৰিপৰ্ট কৰক।</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>সাৰ্বজনীন</item>
+        <item>সাৰ্বজনীন</item>
+        <item>ইউৰোপ</item>
+        <item>ইউৰোপ</item>
+        <item>সাৰ্বজনীন</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>ইলেক্ট্ৰনিক ফ্ৰন্টিয়াৰ ফাউণ্ডেশ্যন</item>
+        <item>ফ্ৰী চফ্টৱেৰ ফাউণ্ডেশ্যন</item>
+        <item>ফ্ৰী চফ্টৱেৰ ফাউণ্ডেশ্যন ইউৰোপ</item>
+        <item>ইউৰোপীয় ডিজিটেল অধিকাৰ (EDRi)</item>
+        <item>চফ্টৱেৰ স্বাধীনতা সংৰক্ষণ</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>এপ গেটকিপিং আৰু ইণ্টাৰনেট চেন্সৰশ্বিপ।</item>
+        <item>চফ্টৱেৰৰ স্বাধীনতা আৰু ব্যৱহাৰকাৰী নিয়ন্ত্ৰণ।</item>
+        <item>ইউৰোপত চফট্ ৱেৰ স্বাধীনতা।</item>
+        <item>ডিজিটেল অধিকাৰৰ পোষকতা।</item>
+        <item>সম্প্ৰদায়-চালিত বিনামূলীয়া চফ্টৱেৰ।</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">মোৰ চৰকাৰ</string>
+    <string name="letter_subject" formatted="false">বন্ধ কৰক গুগলৰ এণ্ড্ৰইড ডেভেলপাৰ ভেৰিফিকেচন লকডাউন</string>
+    <string name="letter_template">Dear %1$s representative,\\n\\nI am writing as a concerned Android user and as a citizen in your jurisdiction.\\n\\nGoogle\\\'s Android Developer Verification program, enforced starting September 30, 2026 in several markets and expanding globally in 2027, will require every Android app to be registered to a centrally verified developer before it can be installed on certified devices. Developers must submit government identification, agree to Google\\\'s terms, pay a fee and list every current and future app identifier.\\n\\nThis does not meaningfully improve security. It hands a single private company the power to decide which software people are allowed to run on the devices they own, and it threatens independent and open-source distribution such as F-Droid, which cannot comply and may cease to exist.\\n\\nI respectfully ask that you:\\n\\n1. Investigate whether this program is anti-competitive and constitutes an abuse of a gatekeeper position.\\n2. Press Google to exempt open-source and non-commercial distribution, and to keep sideloading free of centralized registration.\\n3. Protect the right of users to run software of their choosing on hardware they purchased.\\n\\nPlease acknowledge this message in writing and let me know what action your office takes.\\n\\nI am also copying the Keep Android Open campaign at %2$s.\\n\\nSincerely,\\n[Your name]\\n[Your city and country]</string>
+    <string name="toast_no_app" formatted="false">কোনো এপেই এই লিংকটো খুলিব নোৱাৰিব</string>
+    <string name="toast_no_email" formatted="false">কোনো ইমেইল এপ ইনষ্টল কৰা হোৱা নাই</string>
+    <string name="chooser_send_email" formatted="false">ইমেইল পঠাওক</string>
+    <string name="chooser_share" formatted="false">ভাগ-বতৰা কৰা</string>
+    <string name="toast_copied" formatted="false">ক্লিপবোৰ্ডলৈ কপি কৰা হৈছে</string>
+    <string name="settings_title" formatted="false">ছেটিংছ</string>
+    <string name="settings_language_title" formatted="false">এপ ভাষা</string>
+    <string name="settings_language_summary" formatted="false">এপটোৱে ব্যৱহাৰ কৰা ভাষা বাছক। আপুনি ইয়াক আপোনাৰ ডিভাইচ সংহতিসমূহৰ পৰাও সলনি কৰিব পাৰে।</string>
+    <string name="settings_system_default" formatted="false">ব্যৱস্থাপ্ৰণালীৰ অবিকল্পিত</string>
+    <string name="settings_language_search" formatted="false">ভাষা সন্ধান কৰক</string>
+    <string name="settings_theme_title" formatted="false">বিষয়বস্তু</string>
+    <string name="settings_theme_summary" formatted="false">এপটো কেনেকুৱা দেখা যায় বাছক।</string>
+    <string name="theme_system" formatted="false">ব্যৱস্থা অনুসৰণ কৰক</string>
+    <string name="theme_light" formatted="false">পাতল</string>
+    <string name="theme_dark" formatted="false">অন্ধকাৰ</string>
+    <string name="theme_amoled" formatted="false">AMOLED (বিশুদ্ধ ক\'লা)</string>
+    <string name="settings_accent_title" formatted="false">উচ্চাৰণৰ ৰং</string>
+    <string name="settings_accent_summary" formatted="false">সমগ্ৰ এপটোত ব্যৱহৃত হাইলাইট ৰং বাছি লওক।</string>
+    <string name="accent_default" formatted="false">অবিকল্পিত (অভিযান ৰঙা)</string>
+    <string name="accent_red" formatted="false">ৰঙা</string>
+    <string name="accent_orange" formatted="false">কমলা</string>
+    <string name="accent_yellow" formatted="false">হালধীয়া</string>
+    <string name="accent_green" formatted="false">সেউজীয়া</string>
+    <string name="accent_teal" formatted="false">টিল</string>
+    <string name="accent_blue" formatted="false">নীলা</string>
+    <string name="accent_purple" formatted="false">বেঙুনীয়া</string>
+    <string name="accent_pink" formatted="false">গোলপীয়া</string>
+    <string name="settings_colorblendr_warning" formatted="false">হেড আপ: যদি ColorBlendr বা আপুনি অভাৰৰাইড কৰা অন্য সামগ্ৰী সক্ৰিয় হয়, আপুনি ইয়াক নিষ্ক্ৰিয় নকৰালৈকে আপোনাৰ উচ্চাৰণৰ ৰং প্ৰযোজ্য নহ\'বও পাৰে।</string>
+    <string name="settings_about_title" formatted="false">বিষয়ে</string>
+    <string name="settings_version">সংস্কৰণ %1$s</string>
+    <string name="settings_open_source" formatted="false">মুক্ত উৎস (MIT)। অফিচিয়েল Keep Android Open অভিযানৰ সৈতে জড়িত বা সমৰ্থিত নহয়।</string>
+</resources>

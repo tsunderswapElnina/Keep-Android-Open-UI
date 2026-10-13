@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Հետհաշվարկ</string>
+    <string name="tab_rollout" formatted="false">The Rollout</string>
+    <string name="tab_act_now" formatted="false">Գործիր հիմա</string>
+    <string name="cd_open_site" formatted="false">Բացեք keepandroidopen.org-ը</string>
+    <string name="cd_settings" formatted="false">Կարգավորումներ</string>
+    <string name="cd_back" formatted="false">Ետ</string>
+    <string name="countdown_campaign" formatted="false">Քարոզարշավի հետհաշվարկ</string>
+    <string name="countdown_elapsed" formatted="false">Ժամանակ է անցել, երբ քարոզարշավը հրապարակվեց մինչև 2027 թվականի հունվարի 1-ը:</string>
+    <string name="countdown_what_means" formatted="false">Ինչ է նշանակում հետհաշվարկը</string>
+    <string name="countdown_read_faq" formatted="false">Կարդացեք ՀՏՀ-ն</string>
+    <string name="countdown_campaign_btn" formatted="false">Քարոզարշավը</string>
+    <string name="countdown_footnote" formatted="false">Հետհաշվարկի թիրախը համընկնում է keepandroidopen.org կայքում հրապարակված դրոշի հետ: Հավելվածը բաց է վայրկյանում մեկ անգամ:</string>
+    <string name="countdown_expired" formatted="false">ԱՆԴՐՈԻԴՆ ԱՅԺՄ ԱՐՏԱՓԱԿՎԱԾ ՀԱՐԹԱԿ Է</string>
+    <string name="countdown_running" formatted="false">ANDROID-ը դառնում է կողպված հարթակ</string>
+    <string name="unit_days" formatted="false">օրեր</string>
+    <string name="unit_hours" formatted="false">ժամեր</string>
+    <string name="unit_minutes" formatted="false">րոպե</string>
+    <string name="unit_seconds" formatted="false">վայրկյան</string>
+    <string name="rollout_title" formatted="false">Ի՞նչ է Android ծրագրավորողի հաստատումը:</string>
+    <string name="rollout_what_it_means_title" formatted="false">Ինչ է դա իրականում նշանակում</string>
+    <string name="rollout_timeline_title" formatted="false">Գործարկման ժամանակացույցը</string>
+    <string name="rollout_paths_title" formatted="false">Ընտրեք ձեր հաստատման ուղին</string>
+    <string name="rollout_advanced_title" formatted="false">«Ընդլայնված հոսքը» լուծում չէ</string>
+    <string name="rollout_dev_page" formatted="false">Google-ի մշակողների պաշտոնական էջը</string>
+    <string name="rollout_open_letter" formatted="false">Կարդացեք բաց նամակը</string>
+    <string name="label_identity" formatted="false">Ինքնություն</string>
+    <string name="label_distribution" formatted="false">Բաշխում</string>
+    <string name="label_ux" formatted="false">Օգտագործողի փորձը</string>
+    <string name="label_best_for" formatted="false">Լավագույնը համար</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification-ը Google-ի ծրագիր է, որը կապում է յուրաքանչյուր հավելված մշակողի հաստատված ինքնության հետ, նախքան այն կարող է տեղադրվել վավերացված Android սարքերում: Մշակողները պետք է ստուգեն, թե ովքեր են նրանք և գրանցեն իրենց հրապարակած փաթեթների անունները: Հավելվածներն առանց գրանցված, հաստատված ծրագրավորողի այլևս չեն կարող տեղադրվել սովորական եղանակով, երբ պաշտպանությունը գործարկվի:</string>
+    <string name="rollout_what_it_means" formatted="false">Այն ամենադժվարն է ընկնում անկախ և բաց կոդով բաշխման վրա, ինչպիսիք են F-Droid-ը, ուղղակի APK ներբեռնումները և հոբբի նախագծերը: Google-ն ասում է, որ խոսքը անվտանգության և անանուն չարամիտ ծրագրերի դադարեցման մասին է: Քննադատները, ներառյալ Keep Android Open քարոզարշավը, F-Droid-ը և EFF-ը, ասում են, որ դա դարպասապահի սպանության անջատիչ է՝ կենտրոնական գրանցում, պետական ​​ID, վճար և լիակատար վերահսկողություն այն մասին, թե ինչին է թույլատրվում վստահել ձեր սարքին:</string>
+    <string name="rollout_advanced_note" formatted="false">Ընդլայնված հոսքը տրամադրվում է Google Play ծառայությունների, այլ ոչ թե Android OS-ի միջոցով, այնպես որ Google-ը կարող է ցանկացած ժամանակ փոխել, սահմանափակել կամ հեռացնել այն առանց ՕՀ-ի թարմացման կամ օգտատիրոջ համաձայնության: 24-ժամյա ուշացումը միտումնավոր խանգարում է և ևս մեկ քայլ է, որը կանգնած է ձեր և ձեր ընտրած ծրագրաշարի միջև:</string>
+    <string-array name="timeline_dates">
+        <item>25 օգոստոսի, 2025 թ</item>
+        <item>19 մարտի, 2026թ</item>
+        <item>2026 թվականի հունիս</item>
+        <item>18 հունիսի, 2026թ</item>
+        <item>2026 թվականի հուլիս</item>
+        <item>2026 թվականի օգոստոս</item>
+        <item>30 սեպտեմբերի, 2026թ</item>
+        <item>2027 թ</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Ծրագիրը հայտարարված է</item>
+        <item>Բացահայտվում է «առաջադեմ հոսքը»։</item>
+        <item>Android Developer Verifier-ը առաքվում է սարքեր</item>
+        <item>Նախնական մեկնարկը հաստատված է</item>
+        <item>Մշակողների API-ները բացվում են</item>
+        <item>Համաշխարհային կոնսոլ, սահմանափակ հաշիվներ, առաջադեմ հոսք</item>
+        <item>Կատարումը սկսվում է չորս երկրներում</item>
+        <item>Համաշխարհային թողարկում</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google-ը հայտարարում է, որ սկսած 2027 թվականից Android-ի համար նախատեսված հավելվածները պետք է գրանցվեն հաստատված մշակողի մոտ, ներառյալ՝ Google Play-ից դուրս տեղադրված հավելվածները:</item>
+        <item>Հզոր օգտատերերը դիտավորյալ ծանրաբեռնված փախուստի ելք են ստանում. միացրեք «Developer Options»-ը, հաստատեք, որ ձեզ չեն պարտադրում, վերագործարկեք, ապա սպասեք 24 ժամ, մինչև թույլ տաք չստուգված տեղադրումները:</item>
+        <item>Համակարգի ֆոնային ծառայությունը (com.google.android.verifier) ​​ուղարկվում է Google System Updates-ի միջոցով հավաստագրված սարքեր և մնում է անգործուն մինչև ուժի մեջ մտնելը:</item>
+        <item>Google-ը հաստատում է, որ կիրարկումը կսկսվի 2026 թվականի սեպտեմբերի 30-ից յոթ խանութներում և չորս երկրներում:</item>
+        <item>Android Developer ID Status API-ն գործարկվում է ամբողջ աշխարհում, և վաղաժամ հասանելիությունը սկսվում է Android Developer Console API-ի և սահմանափակ բաշխման հաշիվների համար:</item>
+        <item>Սահմանափակ բաշխման հաշիվներ (անվճար, մինչև 20 սարք, առանց պետական ​​ID-ի) և Console API-ի գործարկումն ամբողջ աշխարհում: Չստուգված կողմնակի բեռնման առաջադեմ հոսքը սկսում է դուրս գալ:</item>
+        <item>Պաշտպանությունն ակտիվանում է Բրազիլիայի, Ինդոնեզիայի, Սինգապուրի և Թաիլանդի օգտատերերի համար՝ Android 7+ օպերացիոն համակարգով աշխատող հավաստագրված սարքերով: Չստուգված մշակողների հավելվածներն արգելափակված են մասնակից խանութներում՝ Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore և GetApps:</item>
+        <item>Ստուգումն ընդլայնված է բոլոր հավելվածների և տարածաշրջանների համար: Android-ը բաց պահեք մինչև 2027 թվականի հունվարի 1-ը, երբ Android-ը կդառնա արգելափակված հարթակ:</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Ամբողջական բաշխում</item>
+        <item>Սահմանափակ բաշխում</item>
+        <item>Չգրանցված հավելվածների կողային բեռնում</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Այո — պետական ​​անձը հաստատող փաստաթուղթ և վճար</item>
+        <item>Ոչ — անձը հաստատող փաստաթուղթ կամ գրանցման վճար չկա</item>
+        <item>Ոչ, բայց բարձր շփում</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Ձեր ընտրած ցանկացած խանութ կամ ալիք</item>
+        <item>Մինչև 20 սարք՝ QR կոդի միջոցով կամ կապի ձեռքսեղմման միջոցով</item>
+        <item>ԱԶԲ (ազատված) կամ առաջադեմ հոսք</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Ձեր օգտատերերի համար ոչինչ չի փոխվում</item>
+        <item>Օգտատերերն ընդունում են իրենց ծանոթ մշակողի տեղադրման հրավերը</item>
+        <item>Մշակողի ընտրանքներ, վերագործարկեք, 24 ժամ սպասեք, ապա ամեն դեպքում տեղադրեք</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Կազմակերպություններ և պրոֆեսիոնալ մշակողներ</item>
+        <item>Ուսանողներ, հոբբիստներ և անձնական օգտագործում</item>
+        <item>Չստուգված մշակողներ և հզոր օգտագործողներ</item>
+    </string-array>
+    <string name="act_title" formatted="false">Գործեք հիմա. ձեր ձայնը լսելի դարձրեք</string>
+    <string name="act_intro">Կարգավորողները ցանկանում են լսել այն անհատներից, ովքեր տուժում են: Եղեք քաղաքավարի և կոնկրետ, գրեք այն մարմնի պաշտոնական լեզվով, ում հետ կապվում եք, խնդրեք գրավոր հաստատում և պատճենեք %1$s, որպեսզի արշավը կարողանա հետևել հաղթանակներին:</string>
+    <string name="act_open_composer" formatted="false">Բացեք էլփոստի կոմպոզիտորը</string>
+    <string name="act_copy" formatted="false">Պատճենել</string>
+    <string name="act_share" formatted="false">Կիսվել</string>
+    <string name="act_clipboard_label" formatted="false">Պահպանեք Android-ի բաց նամակը</string>
+    <string name="act_us_title" formatted="false">Միացյալ Նահանգներ — էլփոստով ուղարկեք կառավարությանը</string>
+    <string name="act_us_intro" formatted="false">Արդարադատության նախարարությունը և FTC-ն հակամենաշնորհային հաշվետվություններ են ընդունում առցանց ձևաթղթերի միջոցով: Օգտագործեք դրանք և ուղղակիորեն կապվեք ձեր սեփական ներկայացուցչի և սենատորների հետ:</string>
+    <string name="act_world_title" formatted="false">Աշխարհի այլուր</string>
+    <string name="act_groups_title" formatted="false">Սպառողների և թվային իրավունքների խմբեր</string>
+    <string name="act_more_title" formatted="false">Օգնելու ավելի շատ եղանակներ</string>
+    <string name="act_more_body" formatted="false">• Տեղադրեք F-Droid ձեր սարքերում:\n• Պատասխանեք Google-ի մշակողների ստուգման հարցմանը:\n• Տեղադրեք սոցիալական ցանցերում և կապեք keepandroidopen.org-ին:\n• Ստորագրեք change.org խնդրագիրը:\n• Ձեր կայքէջում ավելացրեք հետհաշվարկի ցուցանակը:</string>
+    <string name="act_all_actions" formatted="false">Բոլոր գործողությունները keandroidopen.org կայքում</string>
+    <string name="action_email" formatted="false">Էլ</string>
+    <string name="action_open" formatted="false">Բաց</string>
+    <string-array name="us_contact_regions">
+        <item>Միացյալ Նահանգներ</item>
+        <item>Միացյալ Նահանգներ</item>
+        <item>Միացյալ Նահանգներ</item>
+        <item>Միացյալ Նահանգներ</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>ԱՄՆ արդարադատության նախարարություն - հակամենաշնորհային բաժին</item>
+        <item>ԱՄՆ Առևտրի դաշնային հանձնաժողով - հակամենաշնորհային</item>
+        <item>Գտեք ձեր պալատի ներկայացուցիչը</item>
+        <item>Կապվեք ձեր ԱՄՆ սենատորների հետ</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Ներկայացրեք հակամենաշնորհային զեկույց առցանց:</item>
+        <item>Ներկայացրեք հակամենաշնորհային բողոք:</item>
+        <item>Կապվեք ԱՄՆ Ներկայացուցիչների պալատում:</item>
+        <item>Գտեք և կապվեք ձեր նահանգի երկու սենատորների հետ:</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Եվրամիություն</item>
+        <item>Եվրամիություն</item>
+        <item>Միացյալ Թագավորություն</item>
+        <item>Բրազիլիա</item>
+        <item>Սինգապուր</item>
+        <item>Թաիլանդ</item>
+        <item>Ինդոնեզիա</item>
+        <item>Ավստրալիա</item>
+        <item>Կանադա</item>
+        <item>Հնդկաստան</item>
+        <item>Ճապոնիա</item>
+        <item>Հարավային Կորեա</item>
+        <item>Մեքսիկա</item>
+        <item>Aotearoa / Նոր Զելանդիա</item>
+        <item>Թայվան</item>
+        <item>Շվեյցարիա</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>ԵՄ հակամենաշնորհային (DG COMP)</item>
+        <item>Թվային շուկաների ակտի թիմ</item>
+        <item>Մրցակցության և շուկայի մարմին</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Առևտրի մրցակցության հանձնաժողով (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Կանադայի մրցակցության բյուրո</item>
+        <item>Հնդկաստանի մրցակցային հանձնաժողով</item>
+        <item>Ճապոնիայի արդար առևտրի հանձնաժողով</item>
+        <item>Կորեայի արդար առևտրի հանձնաժողով</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>Առևտրի հանձնաժողով</item>
+        <item>Արդար առևտրի հանձնաժողով</item>
+        <item>Մրցակցային հանձնաժողով (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Էլեկտրոնային փոստով Եվրոպական հանձնաժողովի մրցակցային մարմնին:</item>
+        <item>Կապվեք ԵՄ DMA քաղաքացու օգնականի հետ:</item>
+        <item>Զեկուցել Մեծ Բրիտանիայի CMA-ին:</item>
+        <item>Բրազիլիան առաջին հարկադիր ալիքում է.</item>
+        <item>Սինգապուրը հարկադիր կատարման առաջին ալիքում է.</item>
+        <item>Թաիլանդը հարկադիր կատարման առաջին ալիքում է.</item>
+        <item>Ինդոնեզիան հարկադիր կատարման առաջին ալիքում է.</item>
+        <item>Զեկուցել Ավստրալիայի մրցակցության և սպառողների հանձնաժողովին:</item>
+        <item>Բողոք ներկայացնել մրցակցության բյուրոյին:</item>
+        <item>Դիմեք ԱԱՊ-ին հակամրցակցային վարքագծի մասին:</item>
+        <item>Կապվեք JFTC / Mobile Software Competition Act գրասեղանի հետ:</item>
+        <item>Կապվեք KFTC-ի հետ:</item>
+        <item>Ներկայացրեք հակամենաշնորհային բողոք Մեքսիկայում:</item>
+        <item>Հաղորդել հակամրցակցային վարքագծի մասին:</item>
+        <item>Կապվեք Թայվանի FTC-ի հետ:</item>
+        <item>Հաղորդել ապօրինի գործողությունների մասին:</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Համաշխարհային</item>
+        <item>Համաշխարհային</item>
+        <item>Եվրոպա</item>
+        <item>Եվրոպա</item>
+        <item>Համաշխարհային</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Foundation</item>
+        <item>Free Software Foundation</item>
+        <item>Free Software Foundation Europe</item>
+        <item>Եվրոպական թվային իրավունքներ (EDRI)</item>
+        <item>Ծրագրային ապահովման ազատության պահպանում</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Հավելվածների դարպասների պահպանում և ինտերնետի գրաքննություն:</item>
+        <item>Ծրագրային ապահովման ազատություն և օգտագործողի վերահսկողություն:</item>
+        <item>Ծրագրային ապահովման ազատությունը Եվրոպայում.</item>
+        <item>Թվային իրավունքների պաշտպանություն.</item>
+        <item>Համայնքի վրա հիմնված ազատ ծրագրակազմ:</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">իմ կառավարությունը</string>
+    <string name="letter_subject" formatted="false">Դադարեցրեք Google-ի Android Developer Verification-ի արգելափակումը</string>
+    <string name="letter_template">Հարգելի %1$s ներկայացուցիչ,\n\nԵս գրում եմ որպես Android-ի մտահոգ օգտվող և որպես ձեր իրավասության քաղաքացի:\n\nGoogle-ի Android Developer Verification ծրագիրը, որն ուժի մեջ է մտել 2026 թվականի սեպտեմբերի 30-ից մի քանի շուկաներում և ընդլայնվել ամբողջ աշխարհում 2027 թվականին, կպահանջի, որ Android-ի յուրաքանչյուր հավելվածը գրանցվի կենտրոնական հաստատված մշակողի մոտ՝ նախքան այն կարող է տեղադրվել հավաստագրված սարքերում: Մշակողները պետք է ներկայացնեն պետական ​​անձը հաստատող փաստաթուղթ, համաձայնեն Google-ի պայմաններին, վճարեն վճար և նշեն յուրաքանչյուր ընթացիկ և ապագա հավելվածի նույնացուցիչը:\n\nՍա էապես չի բարելավում անվտանգությունը: Այն մեկ մասնավոր ընկերության իրավունք է տալիս որոշել, թե որ ծրագրային ապահովումն է թույլատրվում գործարկել մարդկանց իրենց պատկանող սարքերով, և դա սպառնում է անկախ և բաց կոդով բաշխմանը, ինչպիսին է F-Droid-ը, որը չի կարող համապատասխանել և կարող է դադարել գոյություն ունենալ:\n\nԵս հարգանքով խնդրում եմ ձեզ.\n\n1. Հետաքննել, թե արդյոք այս ծրագիրը հակամրցակցային է և հանդիսանում է դարպասապահի դիրքի չարաշահում:\n2. Սեղմեք Google-ին՝ բաց կոդով և ոչ առևտրային բաշխումը բացառելու և կողային բեռնումը կենտրոնացված գրանցումից զերծ պահելու համար:\n3. Պաշտպանեք օգտատերերի իրավունքը՝ գործարկելու իրենց ընտրած ծրագրակազմը իրենց գնած սարքավորումների վրա:\n\nԽնդրում եմ գրավոր ընդունել այս հաղորդագրությունը և տեղեկացնել ինձ, թե ինչ քայլեր է ձեռնարկում ձեր գրասենյակը:\n\nԵս նաև պատճենում եմ Keep Android Open արշավը %2$s-ում:\n\nՀարգանքներով՝\n[Ձեր անունը]\n[Ձեր քաղաքը և երկիրը]</string>
+    <string name="toast_no_app" formatted="false">Ոչ մի հավելված չի կարող բացել այս հղումը</string>
+    <string name="toast_no_email" formatted="false">Էլփոստի ոչ մի ծրագիր տեղադրված չէ</string>
+    <string name="chooser_send_email" formatted="false">Ուղարկել էլ</string>
+    <string name="chooser_share" formatted="false">Կիսվել</string>
+    <string name="toast_copied" formatted="false">Պատճենվել է սեղմատախտակում</string>
+    <string name="settings_title" formatted="false">Կարգավորումներ</string>
+    <string name="settings_language_title" formatted="false">Հավելվածի լեզուն</string>
+    <string name="settings_language_summary" formatted="false">Ընտրեք հավելվածի օգտագործած լեզուն: Դուք կարող եք նաև փոխել այն ձեր սարքի կարգավորումներից:</string>
+    <string name="settings_system_default" formatted="false">Համակարգի լռելյայն</string>
+    <string name="settings_language_search" formatted="false">Լեզուների որոնում</string>
+    <string name="settings_theme_title" formatted="false">Թեմա</string>
+    <string name="settings_theme_summary" formatted="false">Ընտրեք հավելվածի տեսքը:</string>
+    <string name="theme_system" formatted="false">Հետևեք համակարգին</string>
+    <string name="theme_light" formatted="false">Լույս</string>
+    <string name="theme_dark" formatted="false">Մութ</string>
+    <string name="theme_amoled" formatted="false">AMOLED (մաքուր սև)</string>
+    <string name="settings_accent_title" formatted="false">Առոգանության գույն</string>
+    <string name="settings_accent_summary" formatted="false">Ընտրեք ընդգծված գույնը, որն օգտագործվում է հավելվածում:</string>
+    <string name="accent_default" formatted="false">Կանխադրված (արշավի կարմիր)</string>
+    <string name="accent_red" formatted="false">Կարմիր</string>
+    <string name="accent_orange" formatted="false">Նարնջագույն</string>
+    <string name="accent_yellow" formatted="false">Դեղին</string>
+    <string name="accent_green" formatted="false">Կանաչ</string>
+    <string name="accent_teal" formatted="false">Շագանակագույն</string>
+    <string name="accent_blue" formatted="false">Կապույտ</string>
+    <string name="accent_purple" formatted="false">Մանուշակագույն</string>
+    <string name="accent_pink" formatted="false">Վարդագույն</string>
+    <string name="settings_colorblendr_warning" formatted="false">Ուշադրություն. եթե ColorBlendr-ը կամ մեկ այլ նյութ, որը դուք փոխարինում եք, ակտիվ է, ձեր շեշտադրման գույնը կարող է չկիրառվել մինչև չանջատեք այն:</string>
+    <string name="settings_about_title" formatted="false">Մոտ</string>
+    <string name="settings_version">Տարբերակ %1$s</string>
+    <string name="settings_open_source" formatted="false">Բաց կոդով (MIT): Կապված կամ հաստատված չէ պաշտոնական Keep Android Open արշավի կողմից:</string>
+</resources>

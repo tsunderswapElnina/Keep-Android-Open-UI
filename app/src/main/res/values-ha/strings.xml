@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Kidaya</string>
+    <string name="tab_rollout" formatted="false">The Rollout</string>
+    <string name="tab_act_now" formatted="false">Yi aiki Yanzu</string>
+    <string name="cd_open_site" formatted="false">Bude keepandroidpen.org</string>
+    <string name="cd_settings" formatted="false">Saituna</string>
+    <string name="cd_back" formatted="false">Baya</string>
+    <string name="countdown_campaign" formatted="false">Ƙididdigar yaƙin neman zaɓe</string>
+    <string name="countdown_elapsed" formatted="false">Lokaci ya wuce tun lokacin da yaƙin neman zaɓe ya gudana zuwa ga Janairu 1, 2027.</string>
+    <string name="countdown_what_means" formatted="false">Abin da kirgawa ke nufi</string>
+    <string name="countdown_read_faq" formatted="false">Karanta FAQ</string>
+    <string name="countdown_campaign_btn" formatted="false">Yaƙin neman zaɓe</string>
+    <string name="countdown_footnote" formatted="false">Maƙasudin ƙididdigewa yayi daidai da banner da aka buga a keepandroidopen.org. Ka\'idar tana sabuntawa sau ɗaya a cikin daƙiƙa guda yayin buɗewa.</string>
+    <string name="countdown_expired" formatted="false">ANDROID YANZU SHINE DANDALIN KULLE</string>
+    <string name="countdown_running" formatted="false">ANDROID YA ZAMA DANDALIN KUlle-KASA</string>
+    <string name="unit_days" formatted="false">kwanaki</string>
+    <string name="unit_hours" formatted="false">hours</string>
+    <string name="unit_minutes" formatted="false">mintuna</string>
+    <string name="unit_seconds" formatted="false">seconds</string>
+    <string name="rollout_title" formatted="false">Menene Tabbatarwa Mai Haɓakawa Android?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Abin da ake nufi da gaske</string>
+    <string name="rollout_timeline_title" formatted="false">Jadawalin lokaci</string>
+    <string name="rollout_paths_title" formatted="false">Zaɓi hanyar tabbatarwa</string>
+    <string name="rollout_advanced_title" formatted="false">\"Ci gaba mai gudana\" ba shine mafita ba</string>
+    <string name="rollout_dev_page" formatted="false">Shafin hukuma na Google</string>
+    <string name="rollout_open_letter" formatted="false">Karanta budaddiyar wasika</string>
+    <string name="label_identity" formatted="false">Shaida</string>
+    <string name="label_distribution" formatted="false">Rarrabawa</string>
+    <string name="label_ux" formatted="false">Kwarewar mai amfani</string>
+    <string name="label_best_for" formatted="false">Mafi kyau ga</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification shiri ne na Google wanda ke haɗa kowane app zuwa ingantacciyar shaidar mai haɓakawa kafin a iya shigar da ita akan na\'urorin Android da aka tabbatar. Dole ne masu haɓakawa su tabbatar da su waye kuma su yi rajistar sunayen fakitin da suka buga. Manhajojin da ba su da rijista, ba za a iya shigar da ingantaccen mai haɓakawa yadda ya kamata ba da zarar kariyar ta fito.</string>
+    <string name="rollout_what_it_means" formatted="false">Yana ƙasa mafi wahala akan rarraba mai zaman kanta da buɗe tushen kamar F-Droid, zazzagewar apk kai tsaye, da ayyukan sha\'awa. Google ya ce batun tsaro ne da kuma dakatar da malware da ba a san su ba. Masu sukar ciki har da kamfen ɗin Open Android Open, F-Droid da EFF sun ce mai tsaron ƙofa ne mai sauyawa: rajista na tsakiya, ID na gwamnati, kuɗi, da cikakken iko akan abin da aka yarda da na\'urarka ta amince.</string>
+    <string name="rollout_advanced_note" formatted="false">Ana isar da ci gaba ta hanyar ayyukan Google Play, ba Android OS ba, don haka Google na iya canzawa, ƙuntatawa ko cire shi a kowane lokaci ba tare da sabunta OS ko izinin mai amfani ba. Jinkirin sa\'o\'i 24 yana da rudani da gangan kuma shine ƙarin mataki da ke tsakanin ku da software da kuka zaɓa don aiki.</string>
+    <string-array name="timeline_dates">
+        <item>25 ga Agusta, 2025</item>
+        <item>Maris 19, 2026</item>
+        <item>Yuni 2026</item>
+        <item>Yuni 18, 2026</item>
+        <item>Yuli 2026</item>
+        <item>Agusta 2026</item>
+        <item>Satumba 30, 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>An sanar da shirin</item>
+        <item>An bayyana \"zubawar ci gaba\".</item>
+        <item>Mai tabbatar da Haɓaka Android yana jigilar zuwa na\'urori</item>
+        <item>An tabbatar da ƙaddamar da farko</item>
+        <item>APIs masu haɓakawa suna buɗewa</item>
+        <item>Na\'urar wasan bidiyo ta duniya, iyakantattun asusu, kwararar ci gaba</item>
+        <item>An fara aiwatar da doka a ƙasashe huɗu</item>
+        <item>Fitowar duniya</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google ya sanar da cewa daga 2027, apps don Android dole ne a yi rijista zuwa ga mai haɓakawa da aka tabbatar, gami da ƙa\'idodin da aka shigar a wajen Google Play.</item>
+        <item>Masu amfani da wutar lantarki suna samun ƙyanƙyashe ƙyanƙyashe mai wahala: kunna Zaɓuɓɓukan Masu Haɓakawa, tabbatar da cewa ba a tilasta ku ba, sake kunnawa, sannan ku jira awanni 24 kafin ku ba da izinin shigar da ba a tantance ba.</item>
+        <item>Ana tura sabis ɗin tsarin baya (com.google.android.verifier) ​​ta hanyar Sabuntawar Tsarin Google zuwa na\'urori da aka tabbatar kuma yana nan kwance har sai an tilasta.</item>
+        <item>Google ya tabbatar da fara aiwatar da aikin a ranar 30 ga Satumba, 2026, a cikin shaguna bakwai da kasashe hudu.</item>
+        <item>API ɗin Matsayin Developer ID na Android yana ƙaddamar da duniya kuma yana farawa da wuri don API ɗin Developer Console API da ƙayyadaddun asusun rarrabawa.</item>
+        <item>Iyakantattun asusun rarrabawa (kyauta, har zuwa na\'urori 20, babu ID na gwamnati) da ƙaddamar da Console API a duk duniya. Ci gaba da gudana don ɗaukar nauyin da ba a tantance ba yana farawa.</item>
+        <item>Kariyar tana gudana ga masu amfani a Brazil, Indonesia, Singapore da Thailand akan ingantattun na\'urori masu amfani da Android 7+. Ana toshe aikace-aikace daga masu haɓakawa a kan shagunan da ke shiga: Google Play, Kasuwar Aplikace ta HONOR, OPPO App Market, Shagon Galaxy, Shagon Palm, V-Appstore da GetApps.</item>
+        <item>An faɗaɗa tabbaci zuwa duk ƙa\'idodi da yankuna. Ci gaba da buɗe Android yana ƙidaya zuwa 1 ga Janairu, 2027, lokacin da Android ta zama dandamalin kulle-kulle.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Cikakken rarrabawa</item>
+        <item>Rarraba iyaka</item>
+        <item>Zazzage ƙa\'idodin da ba a yi rajista ba</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Ee - ID na gwamnati da kuɗi</item>
+        <item>A\'a - babu ID ko kuɗin rajista</item>
+        <item>A\'a - amma babban gogayya</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Duk wani shago ko tashar da kuka zaɓa</item>
+        <item>Har zuwa na\'urori 20 ta hanyar lambar QR ko musabaha ta hanyar haɗin gwiwa</item>
+        <item>ADB (kebe) ko ci-gaba kwarara</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Babu wani abu da ya canza ga masu amfani da ku</item>
+        <item>Masu amfani suna karɓar gayyatar shigarwa daga mai haɓakawa da suka sani</item>
+        <item>Zaɓuɓɓukan Haɓakawa, sake farawa, jira na awa 24, sannan shigar da komai</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Ƙungiyoyi da ƙwararrun masu haɓakawa</item>
+        <item>Dalibai, masu sha\'awar sha\'awa da amfani na sirri</item>
+        <item>Wadanda ba a tantance su ba da masu amfani da wutar lantarki</item>
+    </string-array>
+    <string name="act_title" formatted="false">Yi aiki yanzu - sa a ji muryar ku</string>
+    <string name="act_intro">Masu gudanarwa suna son ji daga mutanen da abin ya shafa. Kasance mai ladabi da takamaiman, rubuta a cikin yaren hukuma na jikin da kuke tuntuɓar, nemi rubutaccen yarda, kuma kwafi %1$s domin yaƙin neman zaɓe ya sami nasara.</string>
+    <string name="act_open_composer" formatted="false">Bude mawallafin imel</string>
+    <string name="act_copy" formatted="false">Kwafi</string>
+    <string name="act_share" formatted="false">Raba</string>
+    <string name="act_clipboard_label" formatted="false">Ajiye wasiƙar Buɗaɗɗen Android</string>
+    <string name="act_us_title" formatted="false">Amurka - imel ga gwamnati</string>
+    <string name="act_us_intro" formatted="false">Ma\'aikatar Shari\'a da FTC suna ɗaukar rahoton rashin amincewa ta hanyar fom ɗin kan layi. Yi amfani da su, kuma tuntuɓi wakilin ku da sanatoci kai tsaye.</string>
+    <string name="act_world_title" formatted="false">Wani wuri a duniya</string>
+    <string name="act_groups_title" formatted="false">Ƙungiyoyin haƙƙin mabukaci &amp; dijital</string>
+    <string name="act_more_title" formatted="false">Ƙarin hanyoyin taimakawa</string>
+    <string name="act_more_body" formatted="false">• Sanya F-Droid akan na\'urorinku.\n• Amsa binciken tabbatar da haɓakawa na Google.\n• Buga akan kafofin watsa labarun da hanyar haɗi zuwa keepandroidpen.org.\n• Sa hannu kan takardan canji.org.\n• Ƙara banner ɗin kirgawa zuwa gidan yanar gizon ku.</string>
+    <string name="act_all_actions" formatted="false">Duk ayyuka a keepandroidpen.org</string>
+    <string name="action_email" formatted="false">Imel</string>
+    <string name="action_open" formatted="false">Bude</string>
+    <string-array name="us_contact_regions">
+        <item>Amurka</item>
+        <item>Amurka</item>
+        <item>Amurka</item>
+        <item>Amurka</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Ma\'aikatar Shari\'a ta Amurka - Sashen Antitrust</item>
+        <item>Hukumar Ciniki ta Tarayyar Amurka - Antitrust</item>
+        <item>Nemo Wakilin Gidanku</item>
+        <item>Tuntuɓi Sanatocin Amurka</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Ƙaddamar da rahoton antitrust akan layi.</item>
+        <item>Shigar da korafin antitrust.</item>
+        <item>Tuntuɓi wakilin ku a cikin gidan Amurka.</item>
+        <item>Nemo ku tuntuɓi Sanatocin jihar ku duka.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Tarayyar Turai</item>
+        <item>Tarayyar Turai</item>
+        <item>Ƙasar Ingila</item>
+        <item>Brazil</item>
+        <item>Singapore</item>
+        <item>Tailandia</item>
+        <item>Indonesia</item>
+        <item>Ostiraliya</item>
+        <item>Kanada</item>
+        <item>Indiya</item>
+        <item>Japan</item>
+        <item>Koriya ta Kudu</item>
+        <item>Mexico</item>
+        <item>Aotearoa / New Zealand</item>
+        <item>Taiwan</item>
+        <item>Switzerland</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU Antitrust (DG COMP)</item>
+        <item>Ƙungiyar Dokar Kasuwannin Dijital</item>
+        <item>Hukumar Kasuwanci &amp; Kasuwanci</item>
+        <item>KADE</item>
+        <item>CCCS</item>
+        <item>Hukumar Gasar Ciniki (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Ofishin Gasar Kanada</item>
+        <item>Hukumar Gasar Indiya</item>
+        <item>Japan Fair Trade Commission</item>
+        <item>Korea Fair Trade Commission</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>Hukumar Kasuwanci</item>
+        <item>Hukumar Ciniki ta Gaskiya</item>
+        <item>Hukumar Gasar (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Imel na hukumar gasar Tarayyar Turai.</item>
+        <item>Tuntuɓi EU DMA helpdesk.</item>
+        <item>Rahoton zuwa UK CMA.</item>
+        <item>Brazil tana cikin turbar tilastawa ta farko.</item>
+        <item>Singapore tana cikin tashin hankali na farko.</item>
+        <item>Tailandia tana cikin tashin hankali na farko.</item>
+        <item>Indonesiya tana cikin tashin hankali na farko.</item>
+        <item>Bayar da rahoto ga Hukumar Gasar Ostiraliya da Hukumar Masu Amfani.</item>
+        <item>Aika ƙara tare da Ofishin Gasa.</item>
+        <item>Tuntuɓi CCI game da halin adawa da gasa.</item>
+        <item>Tuntuɓi teburin Dokar Gasar Software ta Wayar hannu ta JFTC.</item>
+        <item>Tuntuɓi KFTC.</item>
+        <item>Shigar da ƙarar rashin amincewa a Mexico.</item>
+        <item>Bayar da halin adawa da gasa.</item>
+        <item>Tuntuɓi FTC Taiwan.</item>
+        <item>Ba da rahoton ayyukan da ba bisa ka\'ida ba.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Duniya</item>
+        <item>Duniya</item>
+        <item>Turai</item>
+        <item>Turai</item>
+        <item>Duniya</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Gidauniyar Frontier Electronic</item>
+        <item>Free Software Foundation</item>
+        <item>Free Software Foundation Turai</item>
+        <item>Hakkokin Dijital na Turai (EDRI)</item>
+        <item>Software na Tsaron \'Yanci</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Appekeeping ƙofa da tantanin halitta na intanet.</item>
+        <item>\'Yancin software da sarrafa mai amfani.</item>
+        <item>\'Yancin software a Turai.</item>
+        <item>Tallafin haƙƙin dijital.</item>
+        <item>Software na kyauta wanda al\'umma ke jagoranta.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">gwamnatina</string>
+    <string name="letter_subject" formatted="false">Dakatar da Google\'s Android Developer Tabbataccen kullewa</string>
+    <string name="letter_template">Masoyi wakilin %1$s,\n\nIna rubutu a matsayin mai amfani da Android kuma a matsayina na ɗan ƙasa a cikin ikon ku.\n\nShirin Tabbatar da Masu Haɓaka Haɓaka na Google, wanda aka fara aiwatar da shi daga ranar 30 ga Satumba, 2026 a kasuwanni da yawa kuma yana faɗaɗa duniya a cikin 2027, zai buƙaci kowane app ɗin Android ya yi rajista zuwa ga mai haɓakawa da aka tabbatar da shi a tsakiya kafin a iya shigar da shi akan takaddun shaida. Dole ne masu haɓakawa su ƙaddamar da shaidar gwamnati, su yarda da sharuɗɗan Google, biyan kuɗi kuma su jera kowane mai gano app na yanzu da na gaba.\n\nWannan baya inganta tsaro da ma\'ana. Tana baiwa kamfani guda mai zaman kansa ikon yanke shawarar ko wace manhaja ce aka ba wa mutane damar yin amfani da na’urorin da suka mallaka, kuma hakan yana barazana ga rarraba masu zaman kansu da bude ido irin su F-Droid, wanda ba zai iya yin aiki ba kuma yana iya daina wanzuwa.\n\nIna rokon ku da girmamawa:\n\n1. Bincika ko wannan shirin ya sabawa gasa kuma ya zama cin zarafi na matsayin mai tsaron ƙofa.\n2. Latsa Google don keɓance buɗaɗɗen tushe da rarrabawa ba na kasuwanci ba, da kuma ci gaba da ɗaukar kaya ba tare da yin rajista ba.\n3. Kare haƙƙin masu amfani don gudanar da software da suka zaɓa akan kayan aikin da suka saya.\n\nDa fatan za a amince da wannan sakon a rubuce kuma ku sanar da ni irin matakin da ofishinku zai dauka.\n\nIna kuma yin kwafin kamfen ɗin Buɗe Android a %2$s.\n\nGaskiya,\n[Sunanka]\n[Birnin ku da ƙasarku]</string>
+    <string name="toast_no_app" formatted="false">Babu app da zai iya buɗe wannan hanyar haɗi</string>
+    <string name="toast_no_email" formatted="false">Ba a shigar da aikace-aikacen imel ba</string>
+    <string name="chooser_send_email" formatted="false">Aika imel</string>
+    <string name="chooser_share" formatted="false">Raba</string>
+    <string name="toast_copied" formatted="false">An kwafi zuwa allo</string>
+    <string name="settings_title" formatted="false">Saituna</string>
+    <string name="settings_language_title" formatted="false">Harshen app</string>
+    <string name="settings_language_summary" formatted="false">Zaɓi harshen da app ɗin ke amfani da shi. Hakanan zaka iya canza shi daga saitunan na\'urarka.</string>
+    <string name="settings_system_default" formatted="false">Tsohuwar tsarin</string>
+    <string name="settings_language_search" formatted="false">Bincika harsuna</string>
+    <string name="settings_theme_title" formatted="false">Jigo</string>
+    <string name="settings_theme_summary" formatted="false">Zaɓi yadda ƙa\'idar ta kasance.</string>
+    <string name="theme_system" formatted="false">Bi tsarin</string>
+    <string name="theme_light" formatted="false">Haske</string>
+    <string name="theme_dark" formatted="false">Duhu</string>
+    <string name="theme_amoled" formatted="false">AMOLED (baƙar fata mai tsabta)</string>
+    <string name="settings_accent_title" formatted="false">Launin lafazi</string>
+    <string name="settings_accent_summary" formatted="false">Zaɓi launi mai haske da aka yi amfani da shi a cikin ƙa\'idar.</string>
+    <string name="accent_default" formatted="false">Default (ja kamfen)</string>
+    <string name="accent_red" formatted="false">Ja</string>
+    <string name="accent_orange" formatted="false">Lemu</string>
+    <string name="accent_yellow" formatted="false">Yellow</string>
+    <string name="accent_green" formatted="false">Kore</string>
+    <string name="accent_teal" formatted="false">Teal</string>
+    <string name="accent_blue" formatted="false">Blue</string>
+    <string name="accent_purple" formatted="false">Purple</string>
+    <string name="accent_pink" formatted="false">ruwan hoda</string>
+    <string name="settings_colorblendr_warning" formatted="false">Kai tsaye: idan ColorBlendr ko wani Abun da kuka soke yana aiki, launin lafazin naku bazai yi amfani ba har sai kun kashe shi.</string>
+    <string name="settings_about_title" formatted="false">Game da</string>
+    <string name="settings_version">Sigar %1$s</string>
+    <string name="settings_open_source" formatted="false">Bude tushen (MIT). Ba shi da alaƙa da ko tallafi ta hukuma ta Kiyaye Android Open yaƙin neman zaɓe.</string>
+</resources>

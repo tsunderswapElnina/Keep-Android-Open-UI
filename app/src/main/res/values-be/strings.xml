@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Зваротны адлік</string>
+    <string name="tab_rollout" formatted="false">Разгортванне</string>
+    <string name="tab_act_now" formatted="false">Дзейнічайце зараз</string>
+    <string name="cd_open_site" formatted="false">Адкрыйце keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Налады</string>
+    <string name="cd_back" formatted="false">Назад</string>
+    <string name="countdown_campaign" formatted="false">Зваротны адлік кампаніі</string>
+    <string name="countdown_elapsed" formatted="false">Час, які прайшоў з моманту апублікавання кампаніі да 1 студзеня 2027 года.</string>
+    <string name="countdown_what_means" formatted="false">Што значыць зваротны адлік</string>
+    <string name="countdown_read_faq" formatted="false">Прачытайце FAQ</string>
+    <string name="countdown_campaign_btn" formatted="false">Кампанія</string>
+    <string name="countdown_footnote" formatted="false">Мэта зваротнага адліку адпавядае банеру, апублікаванаму на keepandroidopen.org. Прыкладанне абнаўляецца раз у секунду, калі яно адкрыта.</string>
+    <string name="countdown_expired" formatted="false">АНДРОІД ЦЯПЕР З\'ЯЎЛЯЕЦЦА БЛАКІРАВАНАЙ ПЛАТФОРМАЙ</string>
+    <string name="countdown_running" formatted="false">ANDROID СТАНОВІЦЦА ЗАКЛЮЧАНАЙ ПЛАТФОРМАЙ У</string>
+    <string name="unit_days" formatted="false">дзён</string>
+    <string name="unit_hours" formatted="false">гадзіны</string>
+    <string name="unit_minutes" formatted="false">хвілін</string>
+    <string name="unit_seconds" formatted="false">секунд</string>
+    <string name="rollout_title" formatted="false">Што такое праверка распрацоўшчыка Android?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Што гэта сапраўды азначае</string>
+    <string name="rollout_timeline_title" formatted="false">Графік разгортвання</string>
+    <string name="rollout_paths_title" formatted="false">Выберыце шлях праверкі</string>
+    <string name="rollout_advanced_title" formatted="false">«Пашыраны паток» не з\'яўляецца рашэннем</string>
+    <string name="rollout_dev_page" formatted="false">Афіцыйная старонка распрацоўшчыка Google</string>
+    <string name="rollout_open_letter" formatted="false">Прачытайце адкрыты ліст</string>
+    <string name="label_identity" formatted="false">Ідэнтычнасць</string>
+    <string name="label_distribution" formatted="false">Размеркаванне</string>
+    <string name="label_ux" formatted="false">Вопыт карыстальніка</string>
+    <string name="label_best_for" formatted="false">Лепшае для</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification - гэта праграма Google, якая звязвае кожную праграму з праверанай асобай распрацоўшчыка перад тым, як яе можна будзе ўсталяваць на сертыфікаваныя прылады Android. Распрацоўшчыкі павінны праверыць, хто яны, і зарэгістраваць назвы пакетаў, якія яны публікуюць. Праграмы без зарэгістраванага, праверанага распрацоўшчыка больш не могуць быць усталяваны звычайным спосабам пасля таго, як сродкі абароны з\'явяцца.</string>
+    <string name="rollout_what_it_means" formatted="false">Больш за ўсё гэта прыпадае на незалежныя дыстрыбутывы з адкрытым зыходным кодам, такія як F-Droid, прамыя спампоўкі APK і хобі-праекты. Google кажа, што гаворка ідзе пра бяспеку і спыненні ананімных шкоднасных праграм. Крытыкі, у тым ліку кампанія Keep Android Open, F-Droid і EFF, кажуць, што гэта аўтаматычны выключальнік: цэнтральная рэгістрацыя, дзяржаўны ідэнтыфікатар, плата і поўны кантроль над тым, чаму ваша прылада можа давяраць.</string>
+    <string name="rollout_advanced_note" formatted="false">Пашыраны паток забяспечваецца праз сэрвісы Google Play, а не АС Android, таму Google можа змяніць, абмежаваць або выдаліць яго ў любы час без абнаўлення АС або згоды карыстальніка. 24-гадзінная затрымка наўмысна разбуральная і з\'яўляецца яшчэ адным крокам, які стаіць паміж вамі і праграмным забеспячэннем, якое вы вырашылі запусціць.</string>
+    <string-array name="timeline_dates">
+        <item>25 жніўня 2025 г</item>
+        <item>19 сакавіка 2026 г</item>
+        <item>Чэрвень 2026 г</item>
+        <item>18 чэрвеня 2026 г</item>
+        <item>Ліпень 2026 г</item>
+        <item>Жнівень 2026 г</item>
+        <item>30 верасня 2026 г</item>
+        <item>2027 год</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Абвяшчаецца праграма</item>
+        <item>Выяўляецца «апярэджанне плыні».</item>
+        <item>Android Developer Verifier пастаўляецца на прылады</item>
+        <item>Першапачатковы запуск пацверджаны</item>
+        <item>Адкрываюцца API распрацоўшчыка</item>
+        <item>Глабальная кансоль, абмежаваныя ўліковыя запісы, пашыраны паток</item>
+        <item>Прымяненне пачалося ў чатырох краінах</item>
+        <item>Глабальнае распаўсюджванне</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google абвяшчае, што з 2027 года праграмы для Android павінны быць зарэгістраваны ў праверанага распрацоўшчыка, у тым ліку праграмы, усталяваныя па-за Google Play.</item>
+        <item>Дасведчаныя карыстальнікі атрымліваюць наўмысна грувасткі выхад: уключыце Параметры распрацоўніка, пацвердзіце, што вас не прымушаюць, перазапусціце, потым пачакайце 24 гадзіны, перш чым дазволіць неправераныя ўсталёўкі.</item>
+        <item>Фонавая сістэмная служба (com.google.android.verifier) ​​перадаецца праз Google System Updates на сертыфікаваныя прылады і застаецца неактыўнай да прыняцця мер.</item>
+        <item>Google пацвярджае, што прымяненне пачнецца 30 верасня 2026 года ў сямі крамах і чатырох краінах.</item>
+        <item>Android Developer ID Status API запускаецца ва ўсім свеце, і пачынаецца ранні доступ для Android Developer Console API і абмежаваных уліковых запісаў распаўсюджвання.</item>
+        <item>Абмежаваныя ўліковыя запісы распаўсюджвання (бясплатна, да 20 прылад, без дзяржаўнага ідэнтыфікатара) і API кансолі запускаюцца ва ўсім свеце. Пашыраны паток для неправеранай бакавой загрузкі пачынае разгортвацца.</item>
+        <item>Абарона працуе для карыстальнікаў у Бразіліі, Інданезіі, Сінгапуры і Тайландзе на сертыфікаваных прыладах пад кіраваннем Android 7+. Праграмы ад неправераных распрацоўшчыкаў блакіруюцца ў крамах-удзельніцах: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore і GetApps.</item>
+        <item>Праверка пашырана для ўсіх праграм і рэгіёнаў. Keep Android Open вядзе зваротны адлік да 1 студзеня 2027 года, калі Android стане закрытай платформай.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Поўнае распаўсюджванне</item>
+        <item>Абмежаванае распаўсюджванне</item>
+        <item>Бакавая загрузка незарэгістраваных праграм</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Так — дзяржаўны пасведчанне і плата</item>
+        <item>Не — без пасведчання асобы або рэгістрацыі</item>
+        <item>Не — але высокае трэнне</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Любы абраны вамі магазін або канал</item>
+        <item>Да 20 прылад праз QR-код або рукапацісканне спасылкі</item>
+        <item>ADB (вызвалены) або пашыраны паток</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Для вашых карыстальнікаў нічога не мяняецца</item>
+        <item>Карыстальнікі прымаюць запрашэнне на ўстаноўку ад распрацоўшчыка, якога яны ведаюць</item>
+        <item>Параметры распрацоўніка, перазапуск, 24-гадзіннае чаканне, потым усё роўна ўсталюйце</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Арганізацыі і прафесійныя распрацоўшчыкі</item>
+        <item>Студэнты, аматары і асабістае карыстанне</item>
+        <item>Неправераныя распрацоўшчыкі і вопытныя карыстальнікі</item>
+    </string-array>
+    <string name="act_title" formatted="false">Дзейнічайце зараз — каб ваш голас быў пачуты</string>
+    <string name="act_intro">Рэгулятары хочуць пачуць ад асоб, якія пацярпелі. Будзьце ветлівыя і канкрэтныя, пішыце на афіцыйнай мове арганізацыі, з якой вы звязваецеся, патрабуйце пісьмовага пацверджання і скапіруйце %1$s, каб кампанія магла адсочваць перамогі.</string>
+    <string name="act_open_composer" formatted="false">Адкрыйце кампазітар электроннай пошты</string>
+    <string name="act_copy" formatted="false">Копія</string>
+    <string name="act_share" formatted="false">падзяліцца</string>
+    <string name="act_clipboard_label" formatted="false">Трымайце адкрыты ліст Android</string>
+    <string name="act_us_title" formatted="false">Злучаныя Штаты - электронная пошта ўраду</string>
+    <string name="act_us_intro" formatted="false">Міністэрства юстыцыі і FTC прымаюць антыманапольныя справаздачы праз онлайн-формы. Выкарыстоўвайце іх і звязвайцеся непасрэдна са сваім прадстаўніком і сенатарамі.</string>
+    <string name="act_world_title" formatted="false">У іншым месцы свету</string>
+    <string name="act_groups_title" formatted="false">Групы спажыўцоў і лічбавых правоў</string>
+    <string name="act_more_title" formatted="false">Больш спосабаў дапамагчы</string>
+    <string name="act_more_body" formatted="false">• Усталюйце F-Droid на свае прылады.\n• Прыміце ўдзел у апытанні распрацоўшчыкаў Google.\n• Публікуйце ў сацыяльных сетках і спасылайцеся на keepandroidopen.org.\n• Падпішыце петыцыю change.org.\n• Дадайце банер зваротнага адліку на свой сайт.</string>
+    <string name="act_all_actions" formatted="false">Усе дзеянні на keepandroidopen.org</string>
+    <string name="action_email" formatted="false">Электронная пошта</string>
+    <string name="action_open" formatted="false">Адкрыты</string>
+    <string-array name="us_contact_regions">
+        <item>ЗША</item>
+        <item>ЗША</item>
+        <item>ЗША</item>
+        <item>ЗША</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Міністэрства юстыцыі ЗША — Антыманапольны аддзел</item>
+        <item>Федэральная гандлёвая камісія ЗША — антыманапольнае права</item>
+        <item>Знайдзіце свайго прадстаўніка Палаты прадстаўнікоў</item>
+        <item>Звярніцеся да сенатараў ЗША</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Падаць антыманапольную справаздачу онлайн.</item>
+        <item>Падайце антыманапольную скаргу.</item>
+        <item>Звярніцеся да свайго прадстаўніка ў Палаце прадстаўнікоў ЗША.</item>
+        <item>Знайдзіце і звяжыцеся з абодвума сенатарамі вашага штата.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Еўрапейскі саюз</item>
+        <item>Еўрапейскі саюз</item>
+        <item>Вялікабрытанія</item>
+        <item>Бразілія</item>
+        <item>Сінгапур</item>
+        <item>Тайланд</item>
+        <item>Інданезія</item>
+        <item>Аўстралія</item>
+        <item>Канада</item>
+        <item>Індыя</item>
+        <item>Японія</item>
+        <item>Паўднёвая Карэя</item>
+        <item>Мексіка</item>
+        <item>Аатэароа / Новая Зеландыя</item>
+        <item>Тайвань</item>
+        <item>Швейцарыя</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>Антыманапольнае права ЕС (DG COMP)</item>
+        <item>Каманда Digital Markets Act</item>
+        <item>Упраўленне па канкурэнцыі і рынках</item>
+        <item>КЕЙД</item>
+        <item>CCCS</item>
+        <item>Камісія па гандлёвай канкурэнцыі (OTCC)</item>
+        <item>КППУ</item>
+        <item>ACCC</item>
+        <item>Бюро канкурэнцыі Канады</item>
+        <item>Камісія па канкурэнцыі Індыі</item>
+        <item>Японская камісія па справядліваму гандлю</item>
+        <item>Карэйская камісія па справядліваму гандлю</item>
+        <item>Нацыянальная антыманапольная камісія</item>
+        <item>Гандлёвая камісія</item>
+        <item>Камісія па справядліваму гандлю</item>
+        <item>Камісія па канкурэнцыі (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Адпраўце ліст у орган па канкурэнцыі Еўрапейскай камісіі.</item>
+        <item>Звярніцеся ў службу падтрымкі грамадзян ЕС DMA.</item>
+        <item>Справаздача ў CMA Вялікабрытаніі.</item>
+        <item>Бразілія знаходзіцца ў першай хвалі правапрымянення.</item>
+        <item>Сінгапур знаходзіцца ў першай хвалі правапрымянення.</item>
+        <item>Тайланд знаходзіцца ў першай хвалі правапрымянення.</item>
+        <item>Інданезія знаходзіцца ў першай хвалі правапрымянення.</item>
+        <item>Справаздача ў Камісію па канкурэнцыі і спажыўцам Аўстраліі.</item>
+        <item>Падайце скаргу ў Бюро па канкурэнцыі.</item>
+        <item>Звярніцеся ў CCI з нагоды антыканкурэнтных паводзін.</item>
+        <item>Звярніцеся ў аддзел JFTC / Mobile Software Competition Act.</item>
+        <item>Звярніцеся ў KFTC.</item>
+        <item>Падайце антыманапольную скаргу ў Мексіку.</item>
+        <item>Паведаміць аб антыканкурэнтных паводзінах.</item>
+        <item>Звярніцеся ў FTC Тайваня.</item>
+        <item>Паведаміць аб незаконных дзеяннях.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Глабальны</item>
+        <item>Глабальны</item>
+        <item>Еўропа</item>
+        <item>Еўропа</item>
+        <item>Глабальны</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Foundation</item>
+        <item>Фонд свабоднага праграмнага забеспячэння</item>
+        <item>Еўрапейскі фонд свабоднага праграмнага забеспячэння</item>
+        <item>Еўрапейскія лічбавыя правы (EDRi)</item>
+        <item>Захаванне свабоды праграмнага забеспячэння</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Кантроль праграм і інтэрнэт-цэнзура.</item>
+        <item>Свабода праграмнага забеспячэння і кантроль карыстальніка.</item>
+        <item>Свабода праграмнага забеспячэння ў Еўропе.</item>
+        <item>Прапаганда лічбавых правоў.</item>
+        <item>Бясплатнае праграмнае забеспячэнне, якое кіруецца супольнасцю.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">мой урад</string>
+    <string name="letter_subject" formatted="false">Спыніце блакіроўку Google Android Developer Verification</string>
+    <string name="letter_template">Паважаны прадстаўнік %1$s,\n\nЯ пішу як заклапочаны карыстальнік Android і як грамадзянін вашай юрысдыкцыі.\n\nПраграма Google Android Developer Verification, якая ўводзіцца ў дзеянне з 30 верасня 2026 г. на некалькіх рынках і распаўсюджваецца на глабальны ўзровень у 2027 г., запатрабуе, каб кожнае прыкладанне Android было зарэгістравана ў цэнтралізавана праверанага распрацоўшчыка, перш чым яго можна будзе ўсталёўваць на сертыфікаваныя прылады. Распрацоўшчыкі павінны прадставіць дзяржаўную ідэнтыфікацыю, пагадзіцца з умовамі Google, заплаціць камісію і пералічыць кожны бягучы і будучы ідэнтыфікатар прыкладання.\n\nГэта істотна не паляпшае бяспеку. Гэта дае адной прыватнай кампаніі паўнамоцтвы вырашаць, якое праграмнае забеспячэнне людзям дазваляецца запускаць на прыладах, якімі яны валодаюць, і пагражае незалежным дыстрыбутывам з адкрытым зыходным кодам, такім як F-Droid, які не можа выконваць патрабаванні і можа спыніць сваё існаванне.\n\nЗ павагай прашу вас:\n\n1. Даследуйце, ці з\'яўляецца гэтая праграма антыканкурэнтнай і ці з\'яўляецца злоўжываннем службовым становішчам.\n2. Націсніце Google, каб вызваліць распаўсюджванне з адкрытым зыходным кодам і некамерцыйнае распаўсюджванне, а таксама захаваць пабочную загрузку без цэнтралізаванай рэгістрацыі.\n3. Абараняць права карыстальнікаў запускаць праграмнае забеспячэнне па свайму выбару на набытым імі абсталяванні.\n\nКалі ласка, пісьмова пацвердзіце прыняцце гэтага паведамлення і паведаміце мне, якія меры прымае ваш офіс.\n\nЯ таксама капіюю кампанію Keep Android Open на %2$s.\n\nЗ павагай,\n[Ваша імя]\n[Ваш горад і краіна]</string>
+    <string name="toast_no_app" formatted="false">Ні адна праграма не можа адкрыць гэту спасылку</string>
+    <string name="toast_no_email" formatted="false">Праграма электроннай пошты не ўсталявана</string>
+    <string name="chooser_send_email" formatted="false">Адправіць ліст</string>
+    <string name="chooser_share" formatted="false">падзяліцца</string>
+    <string name="toast_copied" formatted="false">Скапіравана ў буфер абмену</string>
+    <string name="settings_title" formatted="false">Налады</string>
+    <string name="settings_language_title" formatted="false">Мова праграмы</string>
+    <string name="settings_language_summary" formatted="false">Выберыце мову, якую выкарыстоўвае праграма. Вы таксама можаце змяніць яго ў наладах прылады.</string>
+    <string name="settings_system_default" formatted="false">Сістэма па змаўчанні</string>
+    <string name="settings_language_search" formatted="false">Пошук моў</string>
+    <string name="settings_theme_title" formatted="false">Тэма</string>
+    <string name="settings_theme_summary" formatted="false">Выберыце, як выглядае праграма.</string>
+    <string name="theme_system" formatted="false">Сачыце за сістэмай</string>
+    <string name="theme_light" formatted="false">Святло</string>
+    <string name="theme_dark" formatted="false">Цёмны</string>
+    <string name="theme_amoled" formatted="false">AMOLED (чыста чорны)</string>
+    <string name="settings_accent_title" formatted="false">Акцэнтны колер</string>
+    <string name="settings_accent_summary" formatted="false">Выберыце колер вылучэння, які выкарыстоўваецца ў праграме.</string>
+    <string name="accent_default" formatted="false">Па змаўчанні (чырвоны колер кампаніі)</string>
+    <string name="accent_red" formatted="false">Чырвоны</string>
+    <string name="accent_orange" formatted="false">Аранжавы</string>
+    <string name="accent_yellow" formatted="false">Жоўты</string>
+    <string name="accent_green" formatted="false">Зялёны</string>
+    <string name="accent_teal" formatted="false">Чыркаваты</string>
+    <string name="accent_blue" formatted="false">Сіні</string>
+    <string name="accent_purple" formatted="false">Фіялетавы</string>
+    <string name="accent_pink" formatted="false">Ружовы</string>
+    <string name="settings_colorblendr_warning" formatted="false">Увага: калі ColorBlendr або іншы Матэрыял, які вы перавызначаеце, актыўны, ваш акцэнтны колер можа не прымяняцца, пакуль вы яго не адключыце.</string>
+    <string name="settings_about_title" formatted="false">Аб</string>
+    <string name="settings_version">Версія %1$s</string>
+    <string name="settings_open_source" formatted="false">Адкрыты зыходны код (MIT). Не звязаны і не падтрымліваецца афіцыйнай кампаніяй Keep Android Open.</string>
+</resources>

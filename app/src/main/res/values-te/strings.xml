@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">కౌంట్ డౌన్</string>
+    <string name="tab_rollout" formatted="false">రోల్అవుట్</string>
+    <string name="tab_act_now" formatted="false">ఇప్పుడే పని చేయండి</string>
+    <string name="cd_open_site" formatted="false">Keepandroidopen.orgని తెరవండి</string>
+    <string name="cd_settings" formatted="false">సెట్టింగ్‌లు</string>
+    <string name="cd_back" formatted="false">వెనుకకు</string>
+    <string name="countdown_campaign" formatted="false">ప్రచార కౌంట్‌డౌన్</string>
+    <string name="countdown_elapsed" formatted="false">జనవరి 1, 2027 నాటికి ప్రచారం పబ్లిక్‌గా మారినప్పటి నుండి సమయం గడిచిపోయింది.</string>
+    <string name="countdown_what_means" formatted="false">కౌంట్‌డౌన్ అంటే ఏమిటి</string>
+    <string name="countdown_read_faq" formatted="false">తరచుగా అడిగే ప్రశ్నలు చదవండి</string>
+    <string name="countdown_campaign_btn" formatted="false">ప్రచారం</string>
+    <string name="countdown_footnote" formatted="false">కౌంట్‌డౌన్ లక్ష్యం Keepandroidopen.orgలో ప్రచురించబడిన బ్యానర్‌తో సరిపోతుంది. యాప్ ఓపెన్‌గా ఉన్నప్పుడు సెకనుకు ఒకసారి అప్‌డేట్ అవుతుంది.</string>
+    <string name="countdown_expired" formatted="false">ఆండ్రాయిడ్ ఇప్పుడు లాక్-డౌన్ ప్లాట్‌ఫారమ్</string>
+    <string name="countdown_running" formatted="false">ఆండ్రాయిడ్ లాక్డ్ డౌన్ ప్లాట్‌ఫారమ్‌గా మారింది</string>
+    <string name="unit_days" formatted="false">రోజులు</string>
+    <string name="unit_hours" formatted="false">గంటలు</string>
+    <string name="unit_minutes" formatted="false">నిమిషాలు</string>
+    <string name="unit_seconds" formatted="false">సెకన్లు</string>
+    <string name="rollout_title" formatted="false">Android డెవలపర్ ధృవీకరణ అంటే ఏమిటి?</string>
+    <string name="rollout_what_it_means_title" formatted="false">ఇది నిజంగా అర్థం ఏమిటి</string>
+    <string name="rollout_timeline_title" formatted="false">రోల్ అవుట్ టైమ్‌లైన్</string>
+    <string name="rollout_paths_title" formatted="false">మీ ధృవీకరణ మార్గాన్ని ఎంచుకోండి</string>
+    <string name="rollout_advanced_title" formatted="false">\"అధునాతన ప్రవాహం\" పరిష్కారం కాదు</string>
+    <string name="rollout_dev_page" formatted="false">Google యొక్క అధికారిక డెవలపర్ పేజీ</string>
+    <string name="rollout_open_letter" formatted="false">బహిరంగ లేఖ చదవండి</string>
+    <string name="label_identity" formatted="false">గుర్తింపు</string>
+    <string name="label_distribution" formatted="false">పంపిణీ</string>
+    <string name="label_ux" formatted="false">వినియోగదారు అనుభవం</string>
+    <string name="label_best_for" formatted="false">కోసం ఉత్తమమైనది</string>
+    <string name="rollout_summary" formatted="false">Android డెవలపర్ ధృవీకరణ అనేది Google ప్రోగ్రామ్, ఇది ధృవీకరించబడిన Android పరికరాలలో ఇన్‌స్టాల్ చేయడానికి ముందు ప్రతి యాప్‌ని ధృవీకరించబడిన డెవలపర్ గుర్తింపుకు లింక్ చేస్తుంది. డెవలపర్‌లు తప్పనిసరిగా వారు ఎవరో ధృవీకరించాలి మరియు వారు ప్రచురించే ప్యాకేజీ పేర్లను నమోదు చేయాలి. రిజిస్టర్డ్, వెరిఫైడ్ డెవలపర్ లేని యాప్‌లు రక్షణలు అందుబాటులోకి వచ్చిన తర్వాత సాధారణ పద్ధతిలో ఇన్‌స్టాల్ చేయబడవు.</string>
+    <string name="rollout_what_it_means" formatted="false">ఇది F-Droid, డైరెక్ట్ APK డౌన్‌లోడ్‌లు మరియు అభిరుచి గల ప్రాజెక్ట్‌ల వంటి స్వతంత్ర మరియు ఓపెన్ సోర్స్ డిస్ట్రిబ్యూషన్‌లలో కష్టతరమైనది. ఇది భద్రత మరియు అనామక మాల్వేర్‌లను ఆపడం గురించి Google చెబుతోంది. Keep Android Open ప్రచారం, F-Droid మరియు EFFతో సహా విమర్శకులు ఇది గేట్‌కీపర్ కిల్ స్విచ్ అని చెప్పారు: సెంట్రల్ రిజిస్ట్రేషన్, ప్రభుత్వ ID, రుసుము మరియు మీ పరికరాన్ని విశ్వసించడానికి అనుమతించబడిన వాటిపై పూర్తి నియంత్రణ.</string>
+    <string name="rollout_advanced_note" formatted="false">అధునాతన విధానం Android OS ద్వారా కాకుండా Google Play సేవల ద్వారా అందించబడుతుంది, కాబట్టి Google ఏ సమయంలోనైనా OS నవీకరణ లేదా వినియోగదారు సమ్మతి లేకుండా మార్చవచ్చు, పరిమితం చేయవచ్చు లేదా తీసివేయవచ్చు. 24 గంటల ఆలస్యం ఉద్దేశపూర్వకంగా అంతరాయం కలిగిస్తుంది మరియు ఇది మీకు మరియు మీరు అమలు చేయడానికి ఎంచుకున్న సాఫ్ట్‌వేర్‌కు మధ్య ఉండే మరో దశ.</string>
+    <string-array name="timeline_dates">
+        <item>ఆగస్టు 25, 2025</item>
+        <item>మార్చి 19, 2026</item>
+        <item>జూన్ 2026</item>
+        <item>జూన్ 18, 2026</item>
+        <item>జూలై 2026</item>
+        <item>ఆగస్టు 2026</item>
+        <item>సెప్టెంబర్ 30, 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>కార్యక్రమాన్ని ప్రకటించారు</item>
+        <item>\"అధునాతన ప్రవాహం\" వెల్లడి చేయబడింది</item>
+        <item>Android డెవలపర్ వెరిఫైయర్ పరికరాలకు రవాణా చేస్తుంది</item>
+        <item>ప్రారంభ ప్రయోగం నిర్ధారించబడింది</item>
+        <item>డెవలపర్ APIలు తెరవబడతాయి</item>
+        <item>గ్లోబల్ కన్సోల్, పరిమిత ఖాతాలు, అధునాతన ప్రవాహం</item>
+        <item>నాలుగు దేశాల్లో అమలు ప్రారంభమవుతుంది</item>
+        <item>గ్లోబల్ రోల్అవుట్</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google 2027 నుండి ప్రారంభించి, Android కోసం యాప్‌లు తప్పనిసరిగా Google Play వెలుపల ఇన్‌స్టాల్ చేయబడిన యాప్‌లతో సహా ధృవీకరించబడిన డెవలపర్‌కి నమోదు చేయబడాలని Google ప్రకటించింది.</item>
+        <item>పవర్ యూజర్లు ఉద్దేశపూర్వకంగా గజిబిజిగా తప్పించుకునే హాచ్‌ను పొందుతారు: డెవలపర్ ఎంపికలను ప్రారంభించండి, మీరు బలవంతం చేయబడలేదని నిర్ధారించండి, పునఃప్రారంభించండి, ఆపై మీరు ధృవీకరించని ఇన్‌స్టాల్‌లను అనుమతించే ముందు 24 గంటలు వేచి ఉండండి.</item>
+        <item>బ్యాక్‌గ్రౌండ్ సిస్టమ్ సర్వీస్ (com.google.android.verifier) ​​Google సిస్టమ్ అప్‌డేట్‌ల ద్వారా ధృవీకరించబడిన పరికరాలకు అందించబడుతుంది మరియు అమలు అయ్యే వరకు నిష్క్రియంగా ఉంటుంది.</item>
+        <item>ఏడు దుకాణాలు మరియు నాలుగు దేశాలలో సెప్టెంబర్ 30, 2026 నుండి అమలు ప్రారంభమవుతుందని Google నిర్ధారిస్తుంది.</item>
+        <item>Android డెవలపర్ ID స్థితి API ప్రపంచవ్యాప్తంగా ప్రారంభించబడింది మరియు Android డెవలపర్ కన్సోల్ API మరియు పరిమిత పంపిణీ ఖాతాల కోసం ముందస్తు యాక్సెస్ ప్రారంభమవుతుంది.</item>
+        <item>పరిమిత పంపిణీ ఖాతాలు (ఉచితం, గరిష్టంగా 20 పరికరాలు, ప్రభుత్వ ID లేదు) మరియు కన్సోల్ API ప్రపంచవ్యాప్తంగా ప్రారంభించబడ్డాయి. ధృవీకరించబడని సైడ్‌లోడింగ్ కోసం అధునాతన ప్రవాహం రోలింగ్ అవుట్ ప్రారంభమవుతుంది.</item>
+        <item>ఆండ్రాయిడ్ 7+ అమలవుతున్న ధృవీకరించబడిన పరికరాలలో బ్రెజిల్, ఇండోనేషియా, సింగపూర్ మరియు థాయ్‌లాండ్‌లోని వినియోగదారుల కోసం రక్షణలు ప్రత్యక్ష ప్రసారం చేయబడతాయి. పాల్గొనే స్టోర్‌లలో ధృవీకరించబడని డెవలపర్‌ల నుండి యాప్‌లు బ్లాక్ చేయబడ్డాయి: Google Play, HONOR App Market, OPPO యాప్ మార్కెట్, Galaxy Store, Palm Store, V-Appstore మరియు GetApps.</item>
+        <item>ధృవీకరణ అన్ని యాప్‌లు మరియు ప్రాంతాలకు విస్తరించబడింది. Android లాక్ డౌన్ ప్లాట్‌ఫారమ్‌గా మారిన జనవరి 1, 2027 వరకు ఆండ్రాయిడ్ ఓపెన్ కౌంట్ డౌన్‌లో ఉంచండి.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>పూర్తి పంపిణీ</item>
+        <item>పరిమిత పంపిణీ</item>
+        <item>నమోదుకాని యాప్‌లను సైడ్‌లోడ్ చేస్తోంది</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>అవును — ప్రభుత్వ ID మరియు రుసుము</item>
+        <item>లేదు - ID లేదా రిజిస్ట్రేషన్ ఫీజు లేదు</item>
+        <item>లేదు - కానీ అధిక రాపిడి</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>మీరు ఎంచుకున్న ఏదైనా స్టోర్ లేదా ఛానెల్</item>
+        <item>QR కోడ్ లేదా లింక్ హ్యాండ్‌షేక్ ద్వారా గరిష్టంగా 20 పరికరాలు</item>
+        <item>ADB (మినహాయింపు) లేదా అధునాతన ప్రవాహం</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>మీ వినియోగదారుల కోసం ఏమీ మారదు</item>
+        <item>వినియోగదారులు తమకు తెలిసిన డెవలపర్ నుండి ఇన్‌స్టాల్ ఆహ్వానాన్ని అంగీకరిస్తారు</item>
+        <item>డెవలపర్ ఎంపికలు, పునఃప్రారంభించండి, 24-గంటల నిరీక్షణ, ఆపై ఏమైనప్పటికీ ఇన్‌స్టాల్ చేయండి</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>సంస్థలు మరియు వృత్తిపరమైన డెవలపర్లు</item>
+        <item>విద్యార్థులు, అభిరుచి గలవారు మరియు వ్యక్తిగత ఉపయోగం</item>
+        <item>ధృవీకరించని డెవలపర్లు మరియు పవర్ వినియోగదారులు</item>
+    </string-array>
+    <string name="act_title" formatted="false">ఇప్పుడే పని చేయండి - మీ స్వరాన్ని వినిపించండి</string>
+    <string name="act_intro">రెగ్యులేటర్లు ప్రభావితమైన వ్యక్తుల నుండి వినాలనుకుంటున్నారు. మర్యాదగా మరియు నిర్దిష్టంగా ఉండండి, మీరు సంప్రదించిన సంస్థ యొక్క అధికారిక భాషలో వ్రాయండి, వ్రాతపూర్వక రసీదు కోసం అడగండి మరియు %1$sని కాపీ చేయండి, తద్వారా ప్రచారం విజయాలను ట్రాక్ చేయగలదు.</string>
+    <string name="act_open_composer" formatted="false">ఇమెయిల్ కంపోజర్‌ని తెరవండి</string>
+    <string name="act_copy" formatted="false">కాపీ చేయండి</string>
+    <string name="act_share" formatted="false">షేర్ చేయండి</string>
+    <string name="act_clipboard_label" formatted="false">ఆండ్రాయిడ్ ఓపెన్ లెటర్ ఉంచండి</string>
+    <string name="act_us_title" formatted="false">యునైటెడ్ స్టేట్స్ - ప్రభుత్వానికి ఇమెయిల్ చేయండి</string>
+    <string name="act_us_intro" formatted="false">డిపార్ట్‌మెంట్ ఆఫ్ జస్టిస్ మరియు FTC ఆన్‌లైన్ ఫారమ్‌ల ద్వారా యాంటీట్రస్ట్ నివేదికలను తీసుకుంటాయి. వాటిని ఉపయోగించండి మరియు మీ స్వంత ప్రతినిధిని మరియు సెనేటర్‌లను నేరుగా సంప్రదించండి.</string>
+    <string name="act_world_title" formatted="false">ప్రపంచంలో మరెక్కడా</string>
+    <string name="act_groups_title" formatted="false">వినియోగదారు &amp; డిజిటల్ హక్కుల సమూహాలు</string>
+    <string name="act_more_title" formatted="false">సహాయం చేయడానికి మరిన్ని మార్గాలు</string>
+    <string name="act_more_body" formatted="false">• మీ పరికరాలలో F-Droidని ఇన్‌స్టాల్ చేయండి.\n• Google డెవలపర్ ధృవీకరణ సర్వేకు సమాధానం ఇవ్వండి.\n• సోషల్ మీడియాలో పోస్ట్ చేయండి మరియు Keepandroidopen.orgకి లింక్ చేయండి.\n• change.org పిటిషన్‌పై సంతకం చేయండి.\n• మీ వెబ్‌సైట్‌కి కౌంట్‌డౌన్ బ్యానర్‌ని జోడించండి.</string>
+    <string name="act_all_actions" formatted="false">Keepandroidopen.orgలో అన్ని చర్యలు</string>
+    <string name="action_email" formatted="false">ఇమెయిల్</string>
+    <string name="action_open" formatted="false">తెరవండి</string>
+    <string-array name="us_contact_regions">
+        <item>యునైటెడ్ స్టేట్స్</item>
+        <item>యునైటెడ్ స్టేట్స్</item>
+        <item>యునైటెడ్ స్టేట్స్</item>
+        <item>యునైటెడ్ స్టేట్స్</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>US డిపార్ట్‌మెంట్ ఆఫ్ జస్టిస్ — యాంటీట్రస్ట్ డివిజన్</item>
+        <item>US ఫెడరల్ ట్రేడ్ కమీషన్ — యాంటీట్రస్ట్</item>
+        <item>మీ ఇంటి ప్రతినిధిని కనుగొనండి</item>
+        <item>మీ US సెనేటర్‌లను సంప్రదించండి</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>ఆన్‌లైన్‌లో యాంటీట్రస్ట్ నివేదికను సమర్పించండి.</item>
+        <item>యాంటీట్రస్ట్ ఫిర్యాదును ఫైల్ చేయండి.</item>
+        <item>US హౌస్‌లోని మీ ప్రతినిధిని సంప్రదించండి.</item>
+        <item>మీ రాష్ట్ర సెనేటర్‌లను కనుగొని, సంప్రదించండి.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>యూరోపియన్ యూనియన్</item>
+        <item>యూరోపియన్ యూనియన్</item>
+        <item>యునైటెడ్ కింగ్‌డమ్</item>
+        <item>బ్రెజిల్</item>
+        <item>సింగపూర్</item>
+        <item>థాయిలాండ్</item>
+        <item>ఇండోనేషియా</item>
+        <item>ఆస్ట్రేలియా</item>
+        <item>కెనడా</item>
+        <item>భారతదేశం</item>
+        <item>జపాన్</item>
+        <item>దక్షిణ కొరియా</item>
+        <item>మెక్సికో</item>
+        <item>Aotearoa / న్యూజిలాండ్</item>
+        <item>తైవాన్</item>
+        <item>స్విట్జర్లాండ్</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU యాంటీట్రస్ట్ (DG COMP)</item>
+        <item>డిజిటల్ మార్కెట్స్ చట్టం బృందం</item>
+        <item>కాంపిటీషన్ &amp; మార్కెట్స్ అథారిటీ</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>ట్రేడ్ కాంపిటీషన్ కమిషన్ (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>కాంపిటీషన్ బ్యూరో కెనడా</item>
+        <item>కాంపిటీషన్ కమిషన్ ఆఫ్ ఇండియా</item>
+        <item>జపాన్ ఫెయిర్ ట్రేడ్ కమిషన్</item>
+        <item>కొరియా ఫెయిర్ ట్రేడ్ కమిషన్</item>
+        <item>నేషనల్ యాంటిమోనోపోలియో కమిసియన్</item>
+        <item>వాణిజ్య కమిషన్</item>
+        <item>ఫెయిర్ ట్రేడ్ కమిషన్</item>
+        <item>పోటీ కమిషన్ (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>యూరోపియన్ కమిషన్ పోటీ అధికారానికి ఇమెయిల్ చేయండి.</item>
+        <item>EU DMA సిటిజన్ హెల్ప్‌డెస్క్‌ని సంప్రదించండి.</item>
+        <item>UK CMAకి నివేదించండి.</item>
+        <item>బ్రెజిల్ మొదటి ఎన్‌ఫోర్స్‌మెంట్ వేవ్‌లో ఉంది.</item>
+        <item>సింగపూర్ మొదటి ఎన్‌ఫోర్స్‌మెంట్ వేవ్‌లో ఉంది.</item>
+        <item>థాయిలాండ్ మొదటి ఎన్‌ఫోర్స్‌మెంట్ వేవ్‌లో ఉంది.</item>
+        <item>ఇండోనేషియా మొదటి ఎన్‌ఫోర్స్‌మెంట్ వేవ్‌లో ఉంది.</item>
+        <item>ఆస్ట్రేలియన్ కాంపిటీషన్ అండ్ కన్స్యూమర్ కమిషన్‌కు నివేదించండి.</item>
+        <item>కాంపిటీషన్ బ్యూరోకి ఫిర్యాదు చేయండి.</item>
+        <item>పోటీ వ్యతిరేక ప్రవర్తన గురించి CCIని సంప్రదించండి.</item>
+        <item>JFTC / మొబైల్ సాఫ్ట్‌వేర్ కాంపిటీషన్ యాక్ట్ డెస్క్‌ని సంప్రదించండి.</item>
+        <item>KFTCని సంప్రదించండి.</item>
+        <item>మెక్సికోలో యాంటీట్రస్ట్ ఫిర్యాదును ఫైల్ చేయండి.</item>
+        <item>పోటీ వ్యతిరేక ప్రవర్తనను నివేదించండి.</item>
+        <item>తైవాన్ FTCని సంప్రదించండి.</item>
+        <item>చట్టవిరుద్ధమైన పద్ధతులను నివేదించండి.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>గ్లోబల్</item>
+        <item>గ్లోబల్</item>
+        <item>యూరప్</item>
+        <item>యూరప్</item>
+        <item>గ్లోబల్</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>ఎలక్ట్రానిక్ ఫ్రాంటియర్ ఫౌండేషన్</item>
+        <item>ఉచిత సాఫ్ట్‌వేర్ ఫౌండేషన్</item>
+        <item>ఉచిత సాఫ్ట్‌వేర్ ఫౌండేషన్ యూరప్</item>
+        <item>యూరోపియన్ డిజిటల్ హక్కులు (EDRi)</item>
+        <item>సాఫ్ట్‌వేర్ ఫ్రీడమ్ కన్సర్వెన్సీ</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>యాప్ గేట్ కీపింగ్ మరియు ఇంటర్నెట్ సెన్సార్‌షిప్.</item>
+        <item>సాఫ్ట్‌వేర్ స్వేచ్ఛ మరియు వినియోగదారు నియంత్రణ.</item>
+        <item>ఐరోపాలో సాఫ్ట్‌వేర్ స్వేచ్ఛ.</item>
+        <item>డిజిటల్ హక్కుల న్యాయవాదం.</item>
+        <item>కమ్యూనిటీ ఆధారిత ఉచిత సాఫ్ట్‌వేర్.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">నా ప్రభుత్వం</string>
+    <string name="letter_subject" formatted="false">Google Android డెవలపర్ ధృవీకరణ లాక్‌డౌన్‌ను ఆపివేయండి</string>
+    <string name="letter_template">ప్రియమైన %1$s ప్రతినిధి,\n\nనేను సంబంధిత Android వినియోగదారుగా మరియు మీ అధికార పరిధిలోని పౌరుడిగా వ్రాస్తున్నాను.\n\nGoogle యొక్క Android డెవలపర్ ధృవీకరణ ప్రోగ్రామ్, సెప్టెంబర్ 30, 2026 నుండి అనేక మార్కెట్‌లలో అమలు చేయబడుతుంది మరియు 2027లో ప్రపంచవ్యాప్తంగా విస్తరించబడుతుంది, ధృవీకరించబడిన పరికరాలలో ఇన్‌స్టాల్ చేయడానికి ముందు ప్రతి Android యాప్‌ను కేంద్రీయంగా ధృవీకరించబడిన డెవలపర్‌కి నమోదు చేయవలసి ఉంటుంది. డెవలపర్‌లు తప్పనిసరిగా ప్రభుత్వ గుర్తింపును సమర్పించాలి, Google నిబంధనలను అంగీకరించాలి, రుసుము చెల్లించాలి మరియు ప్రతి ప్రస్తుత మరియు భవిష్యత్తు యాప్ ఐడెంటిఫైయర్‌ను జాబితా చేయాలి.\n\nఇది భద్రతను అర్థవంతంగా మెరుగుపరచదు. వ్యక్తులు తమ స్వంత పరికరాలలో ఏ సాఫ్ట్‌వేర్‌ను అమలు చేయడానికి అనుమతించబడతారో నిర్ణయించే అధికారాన్ని ఇది ఒకే ప్రైవేట్ కంపెనీకి అందజేస్తుంది మరియు ఇది F-Droid వంటి స్వతంత్ర మరియు ఓపెన్ సోర్స్ పంపిణీని బెదిరిస్తుంది, ఇది కట్టుబడి ఉండదు మరియు ఉనికిలో ఉండదు.\n\nనేను మిమ్మల్ని గౌరవంగా అడుగుతున్నాను:\n\n1. ఈ ప్రోగ్రామ్ పోటీకి వ్యతిరేకం కాదా మరియు గేట్ కీపర్ పదవిని దుర్వినియోగం చేస్తుందా అని పరిశోధించండి.\n2. ఓపెన్ సోర్స్ మరియు నాన్-కమర్షియల్ డిస్ట్రిబ్యూషన్‌లను మినహాయించడానికి మరియు కేంద్రీకృత రిజిస్ట్రేషన్ లేకుండా సైడ్‌లోడింగ్‌ను కొనసాగించడానికి Googleని నొక్కండి.\n3. వినియోగదారులు కొనుగోలు చేసిన హార్డ్‌వేర్‌పై వారు ఎంచుకున్న సాఫ్ట్‌వేర్‌ను అమలు చేసే హక్కును రక్షించండి.\n\nదయచేసి ఈ సందేశాన్ని వ్రాతపూర్వకంగా గుర్తించి, మీ కార్యాలయం ఎలాంటి చర్య తీసుకుంటుందో నాకు తెలియజేయండి.\n\nనేను %2$s వద్ద Keep Android ఓపెన్ ప్రచారాన్ని కూడా కాపీ చేస్తున్నాను.\n\nభవదీయులు,\n[మీ పేరు]\n[మీ నగరం మరియు దేశం]</string>
+    <string name="toast_no_app" formatted="false">ఏ యాప్ ఈ లింక్‌ని తెరవలేదు</string>
+    <string name="toast_no_email" formatted="false">ఇమెయిల్ యాప్ ఏదీ ఇన్‌స్టాల్ చేయబడలేదు</string>
+    <string name="chooser_send_email" formatted="false">ఇమెయిల్ పంపండి</string>
+    <string name="chooser_share" formatted="false">షేర్ చేయండి</string>
+    <string name="toast_copied" formatted="false">క్లిప్‌బోర్డ్‌కి కాపీ చేయబడింది</string>
+    <string name="settings_title" formatted="false">సెట్టింగ్‌లు</string>
+    <string name="settings_language_title" formatted="false">యాప్ భాష</string>
+    <string name="settings_language_summary" formatted="false">యాప్ ఉపయోగించే భాషను ఎంచుకోండి. మీరు దీన్ని మీ పరికర సెట్టింగ్‌ల నుండి కూడా మార్చవచ్చు.</string>
+    <string name="settings_system_default" formatted="false">సిస్టమ్ డిఫాల్ట్</string>
+    <string name="settings_language_search" formatted="false">భాషలను శోధించండి</string>
+    <string name="settings_theme_title" formatted="false">థీమ్</string>
+    <string name="settings_theme_summary" formatted="false">యాప్ ఎలా కనిపిస్తుందో ఎంచుకోండి.</string>
+    <string name="theme_system" formatted="false">వ్యవస్థను అనుసరించండి</string>
+    <string name="theme_light" formatted="false">కాంతి</string>
+    <string name="theme_dark" formatted="false">చీకటి</string>
+    <string name="theme_amoled" formatted="false">AMOLED (స్వచ్ఛమైన నలుపు)</string>
+    <string name="settings_accent_title" formatted="false">యాస రంగు</string>
+    <string name="settings_accent_summary" formatted="false">యాప్‌లో ఉపయోగించిన హైలైట్ రంగును ఎంచుకోండి.</string>
+    <string name="accent_default" formatted="false">డిఫాల్ట్ (ప్రచారం ఎరుపు)</string>
+    <string name="accent_red" formatted="false">ఎరుపు</string>
+    <string name="accent_orange" formatted="false">నారింజ రంగు</string>
+    <string name="accent_yellow" formatted="false">పసుపు</string>
+    <string name="accent_green" formatted="false">ఆకుపచ్చ</string>
+    <string name="accent_teal" formatted="false">టీల్</string>
+    <string name="accent_blue" formatted="false">నీలం</string>
+    <string name="accent_purple" formatted="false">ఊదా రంగు</string>
+    <string name="accent_pink" formatted="false">పింక్</string>
+    <string name="settings_colorblendr_warning" formatted="false">హెచ్చరిక: ColorBlendr లేదా మీరు ఓవర్‌రైడ్ చేసే మరో మెటీరియల్ సక్రియంగా ఉంటే, మీరు దానిని డిసేబుల్ చేసే వరకు మీ యాస రంగు వర్తించకపోవచ్చు.</string>
+    <string name="settings_about_title" formatted="false">గురించి</string>
+    <string name="settings_version">వెర్షన్ %1$s</string>
+    <string name="settings_open_source" formatted="false">ఓపెన్ సోర్స్ (MIT). అధికారిక Keep Android ఓపెన్ ప్రచారంతో అనుబంధించబడలేదు లేదా ఆమోదించబడలేదు.</string>
+</resources>

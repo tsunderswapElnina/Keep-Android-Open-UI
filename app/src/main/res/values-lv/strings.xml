@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Atpakaļskaitīšana</string>
+    <string name="tab_rollout" formatted="false">Izklāšana</string>
+    <string name="tab_act_now" formatted="false">Rīkojieties tūlīt</string>
+    <string name="cd_open_site" formatted="false">Atveriet keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Iestatījumi</string>
+    <string name="cd_back" formatted="false">Atpakaļ</string>
+    <string name="countdown_campaign" formatted="false">Kampaņas atpakaļskaitīšana</string>
+    <string name="countdown_elapsed" formatted="false">Ir pagājis laiks, kopš kampaņa tika publiskota 2027. gada 1. janvārī.</string>
+    <string name="countdown_what_means" formatted="false">Ko nozīmē atpakaļskaitīšana</string>
+    <string name="countdown_read_faq" formatted="false">Izlasiet FAQ</string>
+    <string name="countdown_campaign_btn" formatted="false">Kampaņa</string>
+    <string name="countdown_footnote" formatted="false">Atpakaļskaitīšanas mērķis atbilst reklāmkarogam, kas publicēts vietnē keepandroidopen.org. Lietojumprogramma tiek atjaunināta reizi sekundē, kamēr tā ir atvērta.</string>
+    <string name="countdown_expired" formatted="false">ANDROID TAGAD IR BLOĢĒTA PLATFORMA</string>
+    <string name="countdown_running" formatted="false">ANDROID KĻŪST PAR BLOĢĒTU PLATFORMU</string>
+    <string name="unit_days" formatted="false">dienas</string>
+    <string name="unit_hours" formatted="false">stundas</string>
+    <string name="unit_minutes" formatted="false">minūtes</string>
+    <string name="unit_seconds" formatted="false">sekundes</string>
+    <string name="rollout_title" formatted="false">Kas ir Android izstrādātāja verifikācija?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Ko tas īsti nozīmē</string>
+    <string name="rollout_timeline_title" formatted="false">Izlaišanas laika skala</string>
+    <string name="rollout_paths_title" formatted="false">Izvēlieties savu verifikācijas ceļu</string>
+    <string name="rollout_advanced_title" formatted="false">“Uzlabotā plūsma” nav risinājums</string>
+    <string name="rollout_dev_page" formatted="false">Google oficiālā izstrādātāja lapa</string>
+    <string name="rollout_open_letter" formatted="false">Izlasi atklāto vēstuli</string>
+    <string name="label_identity" formatted="false">Identitāte</string>
+    <string name="label_distribution" formatted="false">Izplatīšana</string>
+    <string name="label_ux" formatted="false">Lietotāja pieredze</string>
+    <string name="label_best_for" formatted="false">Vislabākais priekš</string>
+    <string name="rollout_summary" formatted="false">Android izstrādātāja verifikācija ir Google programma, kas katru lietotni saista ar verificētu izstrādātāja identitāti, pirms to var instalēt sertificētās Android ierīcēs. Izstrādātājiem ir jāpārbauda, ​​kas viņi ir, un jāreģistrē publicēto pakotņu nosaukumi. Lietojumprogrammas bez reģistrēta, verificēta izstrādātāja vairs nevar instalēt parastajā veidā pēc aizsardzības ieviešanas.</string>
+    <string name="rollout_what_it_means" formatted="false">Visgrūtāk tas attiecas uz neatkarīgu un atvērtā koda izplatīšanu, piemēram, F-Droid, tiešajām APK lejupielādēm un hobiju projektiem. Google saka, ka runa ir par drošību un anonīmas ļaunprātīgas programmatūras apturēšanu. Kritiķi, tostarp kampaņa Keep Android Open, F-Droid un EZF, saka, ka tas ir vārtsarga nogalināšanas slēdzis: centrālā reģistrācija, valsts ID, maksa un pilnīga kontrole pār to, kam jūsu ierīcei ir atļauts uzticēties.</string>
+    <string name="rollout_advanced_note" formatted="false">Papildu plūsma tiek nodrošināta, izmantojot Google Play pakalpojumus, nevis Android OS, tāpēc Google var to mainīt, ierobežot vai noņemt jebkurā laikā bez operētājsistēmas atjauninājuma vai lietotāja piekrišanas. 24 stundu aizkave ir apzināti traucējoša un ir vēl viens solis starp jums un programmatūru, kuru izvēlaties palaist.</string>
+    <string-array name="timeline_dates">
+        <item>2025. gada 25. augusts</item>
+        <item>2026. gada 19. marts</item>
+        <item>2026. gada jūnijs</item>
+        <item>2026. gada 18. jūnijs</item>
+        <item>2026. gada jūlijs</item>
+        <item>2026. gada augusts</item>
+        <item>2026. gada 30. septembris</item>
+        <item>2027. gads</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Programma tiek paziņota</item>
+        <item>Tiek atklāta “uzlabotā plūsma”.</item>
+        <item>Android izstrādātāja verificētājs tiek piegādāts ierīcēm</item>
+        <item>Sākotnējā palaišana apstiprināta</item>
+        <item>Tiek atvērtas izstrādātāju API</item>
+        <item>Globālā konsole, ierobežoti konti, uzlabota plūsma</item>
+        <item>Izpilde sākas četrās valstīs</item>
+        <item>Globālā izlaišana</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google paziņo, ka, sākot ar 2027. gadu, Android lietotnēm ir jābūt reģistrētām pie verificēta izstrādātāja, tostarp lietotnēm, kas instalētas ārpus pakalpojuma Google Play.</item>
+        <item>Jaudīgi lietotāji iegūst apzināti apgrūtinošu aizbēgšanas lūku: iespējojiet izstrādātāja opcijas, pārbaudiet, ka netiekat piespiests, restartējiet un pēc tam uzgaidiet 24 stundas, pirms varat atļaut nepārbaudītas instalēšanas.</item>
+        <item>Fona sistēmas pakalpojums (com.google.android.verifier) ​​tiek nosūtīts uz sertificētām ierīcēm, izmantojot Google sistēmas atjauninājumus, un tas paliek neaktivizēts līdz izpildei.</item>
+        <item>Google apstiprina, ka piemērošana septiņos veikalos un četrās valstīs sāksies 2026. gada 30. septembrī.</item>
+        <item>Android izstrādātāja ID statusa API tiek palaista visā pasaulē, un tiek sākta agrīna piekļuve Android izstrādātāja konsoles API un ierobežotiem izplatīšanas kontiem.</item>
+        <item>Ierobežoti izplatīšanas konti (bezmaksas, līdz 20 ierīcēm, bez valsts ID) un Console API tiek izlaista visā pasaulē. Sākas uzlabotā plūsma nepārbaudītai sānu ielādei.</item>
+        <item>Aizsardzība tiek aktivizēta lietotājiem Brazīlijā, Indonēzijā, Singapūrā un Taizemē sertificētās ierīcēs, kurās darbojas operētājsistēma Android 7+. Neverificētu izstrādātāju lietotnes ir bloķētas iesaistītajos veikalos: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore un GetApps.</item>
+        <item>Verifikācija ir paplašināta visās lietotnēs un reģionos. Pakalpojuma Keep Android Open laiks tiek skaitīts līdz 2027. gada 1. janvārim, kad Android kļūst par bloķētu platformu.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Pilna izplatīšana</item>
+        <item>Ierobežota izplatīšana</item>
+        <item>Nereģistrētu lietotņu sānu ielāde</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Jā — valsts apliecība un maksa</item>
+        <item>Nē — nav ID vai reģistrācijas maksas</item>
+        <item>Nē, bet liela berze</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Jebkurš jūsu izvēlētais veikals vai kanāls</item>
+        <item>Līdz 20 ierīcēm, izmantojot QR kodu vai saites rokasspiedienu</item>
+        <item>ADB (atbrīvots) vai uzlabotā plūsma</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Jūsu lietotājiem nekas nemainās</item>
+        <item>Lietotāji pieņem instalēšanas uzaicinājumu no viņiem pazīstama izstrādātāja</item>
+        <item>Izstrādātāja opcijas, restartējiet, 24 stundu gaidiet, pēc tam instalējiet jebkurā gadījumā</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Organizācijas un profesionāli izstrādātāji</item>
+        <item>Studenti, hobiji un personīgai lietošanai</item>
+        <item>Nepārbaudīti izstrādātāji un pieredzējuši lietotāji</item>
+    </string-array>
+    <string name="act_title" formatted="false">Rīkojies tūlīt — liec sadzirdēt savu balsi</string>
+    <string name="act_intro">Regulatori vēlas dzirdēt no skartajām personām. Esiet pieklājīgs un konkrēts, rakstiet tās iestādes oficiālajā valodā, ar kuru sazināties, lūdziet rakstisku apliecinājumu un kopējiet %1$s, lai kampaņa varētu izsekot uzvarām.</string>
+    <string name="act_open_composer" formatted="false">Atveriet e-pasta sastādītāju</string>
+    <string name="act_copy" formatted="false">Kopēt</string>
+    <string name="act_share" formatted="false">Dalīties</string>
+    <string name="act_clipboard_label" formatted="false">Saglabājiet Android atvērto vēstuli</string>
+    <string name="act_us_title" formatted="false">Amerikas Savienotās Valstis — e-pastu valdībai</string>
+    <string name="act_us_intro" formatted="false">Tieslietu departaments un FTC pieņem ziņojumus par pretmonopolu, izmantojot tiešsaistes veidlapas. Izmantojiet tos un tieši sazinieties ar savu pārstāvi un senatoriem.</string>
+    <string name="act_world_title" formatted="false">Citur pasaulē</string>
+    <string name="act_groups_title" formatted="false">Patērētāju un digitālo tiesību grupas</string>
+    <string name="act_more_title" formatted="false">Vairāk veidu, kā palīdzēt</string>
+    <string name="act_more_body" formatted="false">• Instalējiet F-Droid savās ierīcēs.\n• Atbildiet uz Google izstrādātāju verifikācijas aptauju.\n• Publicējiet ziņu sociālajos tīklos un izveidojiet saiti uz keepandroidopen.org.\n• Parakstiet change.org petīciju.\n• Pievienojiet savai vietnei atpakaļskaitīšanas reklāmkarogu.</string>
+    <string name="act_all_actions" formatted="false">Visas darbības vietnē keepandroidopen.org</string>
+    <string name="action_email" formatted="false">E-pasts</string>
+    <string name="action_open" formatted="false">Atvērt</string>
+    <string-array name="us_contact_regions">
+        <item>Amerikas Savienotās Valstis</item>
+        <item>Amerikas Savienotās Valstis</item>
+        <item>Amerikas Savienotās Valstis</item>
+        <item>Amerikas Savienotās Valstis</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>ASV Tieslietu ministrija — Pretmonopola nodaļa</item>
+        <item>ASV Federālā tirdzniecības komisija — pretmonopola</item>
+        <item>Atrodiet savu Pārstāvju</item>
+        <item>Sazinieties ar saviem ASV senatoriem</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Iesniedziet pretmonopola ziņojumu tiešsaistē.</item>
+        <item>Iesniedziet pretmonopola sūdzību.</item>
+        <item>Sazinieties ar savu pārstāvi ASV palātā.</item>
+        <item>Atrodiet un sazinieties ar abiem savas valsts senatoriem.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Eiropas Savienība</item>
+        <item>Eiropas Savienība</item>
+        <item>Apvienotā Karaliste</item>
+        <item>Brazīlija</item>
+        <item>Singapūra</item>
+        <item>Taizeme</item>
+        <item>Indonēzija</item>
+        <item>Austrālija</item>
+        <item>Kanāda</item>
+        <item>Indija</item>
+        <item>Japāna</item>
+        <item>Dienvidkoreja</item>
+        <item>Meksika</item>
+        <item>Aotearoa / Jaunzēlande</item>
+        <item>Taivāna</item>
+        <item>Šveice</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>ES pretmonopola politika (DG COMP)</item>
+        <item>Digital Markets Act komanda</item>
+        <item>Konkurences un tirgus iestāde</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Tirdzniecības konkurences komisija (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Kanādas konkurences birojs</item>
+        <item>Indijas konkurences komisija</item>
+        <item>Japānas Godīgas tirdzniecības komisija</item>
+        <item>Korejas Godīgas tirdzniecības komisija</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>Tirdzniecības komisija</item>
+        <item>Godīgas tirdzniecības komisija</item>
+        <item>Konkurences komisija (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Nosūtiet e-pasta ziņojumu Eiropas Komisijas konkurences iestādei.</item>
+        <item>Sazinieties ar ES DMA pilsoņu palīdzības dienestu.</item>
+        <item>Ziņojiet Apvienotās Karalistes CMA.</item>
+        <item>Brazīlija atrodas pirmajā izpildes vilnī.</item>
+        <item>Singapūra atrodas pirmajā izpildes vilnī.</item>
+        <item>Taizeme atrodas pirmajā izpildes vilnī.</item>
+        <item>Indonēzija atrodas pirmajā izpildes vilnī.</item>
+        <item>Ziņojums Austrālijas Konkurences un patērētāju komisijai.</item>
+        <item>Iesniedziet sūdzību Konkurences birojā.</item>
+        <item>Sazinieties ar CCI par pret konkurenci vērstu rīcību.</item>
+        <item>Sazinieties ar JFTC / Mobile Software Competition Act biroju.</item>
+        <item>Sazinieties ar KFTC.</item>
+        <item>Iesniedziet pretmonopola sūdzību Meksikā.</item>
+        <item>Ziņot par pret konkurenci vērstu rīcību.</item>
+        <item>Sazinieties ar Taivānas FTC.</item>
+        <item>Ziņojiet par nelikumīgām darbībām.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Globāli</item>
+        <item>Globāli</item>
+        <item>Eiropā</item>
+        <item>Eiropā</item>
+        <item>Globāli</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Foundation</item>
+        <item>Brīvās programmatūras fonds</item>
+        <item>Brīvās programmatūras fonds Eiropā</item>
+        <item>Eiropas digitālās tiesības (EDRI)</item>
+        <item>Programmatūras brīvības saglabāšana</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Lietojumprogrammu vārteja un interneta cenzūra.</item>
+        <item>Programmatūras brīvība un lietotāja kontrole.</item>
+        <item>Programmatūras brīvība Eiropā.</item>
+        <item>Digitālo tiesību aizstāvība.</item>
+        <item>Kopienas vadīta bezmaksas programmatūra.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">mana valdība</string>
+    <string name="letter_subject" formatted="false">Pārtrauciet Google Android izstrādātāja verifikācijas bloķēšanu</string>
+    <string name="letter_template">Cien. %1$s pārstāvi!\n\nEs rakstu kā norūpējies Android lietotājs un kā jūsu jurisdikcijas pilsonis.\n\nGoogle Android izstrādātāju verifikācijas programma, kas vairākos tirgos tiks ieviesta, sākot ar 2026. gada 30. septembri un 2027. gadā paplašināsies visā pasaulē, prasīs, lai katra Android lietotne būtu jāreģistrē centralizēti verificētam izstrādātājam, lai to varētu instalēt sertificētās ierīcēs. Izstrādātājiem ir jāiesniedz valsts apliecība, jāpiekrīt Google noteikumiem, jāmaksā maksa un jāuzskaita visi pašreizējie un turpmākie lietotņu identifikatori.\n\nTas būtiski neuzlabo drošību. Tas piešķir vienam privātam uzņēmumam tiesības izlemt, kuru programmatūru cilvēkiem ir atļauts izmantot viņiem piederošajās ierīcēs, un tas apdraud neatkarīgu un atvērtā koda izplatīšanu, piemēram, F-Droid, kas neatbilst prasībām un var beigt pastāvēt.\n\nEs ar cieņu lūdzu jūs:\n\n1. Izpētiet, vai šī programma ir pret konkurenci vērsta un vai tā ir vārtsarga stāvokļa ļaunprātīga izmantošana.\n2. Nospiediet Google, lai atbrīvotu no atklātā pirmkoda un nekomerciālās izplatīšanas un saglabātu sānu ielādi bez centralizētas reģistrācijas.\n3. Aizsargājiet lietotāju tiesības iegādātajā aparatūrā darbināt pēc savas izvēles programmatūru.\n\nLūdzu, apstipriniet šo ziņojumu rakstiski un dariet man zināmu, kādas darbības veic jūsu birojs.\n\nEs arī kopēju kampaņu Keep Android Open vietnē %2$s.\n\nAr cieņu\n[Tavs vārds]\n[Jūsu pilsēta un valsts]</string>
+    <string name="toast_no_app" formatted="false">Neviena lietotne nevar atvērt šo saiti</string>
+    <string name="toast_no_email" formatted="false">Nav instalēta neviena e-pasta lietotne</string>
+    <string name="chooser_send_email" formatted="false">Nosūtīt e-pastu</string>
+    <string name="chooser_share" formatted="false">Dalīties</string>
+    <string name="toast_copied" formatted="false">Kopēts starpliktuvē</string>
+    <string name="settings_title" formatted="false">Iestatījumi</string>
+    <string name="settings_language_title" formatted="false">Lietotnes valoda</string>
+    <string name="settings_language_summary" formatted="false">Izvēlieties lietotnē izmantoto valodu. Varat to mainīt arī ierīces iestatījumos.</string>
+    <string name="settings_system_default" formatted="false">Sistēmas noklusējums</string>
+    <string name="settings_language_search" formatted="false">Meklēt valodas</string>
+    <string name="settings_theme_title" formatted="false">Tēma</string>
+    <string name="settings_theme_summary" formatted="false">Izvēlieties, kā lietotne izskatās.</string>
+    <string name="theme_system" formatted="false">Sekojiet sistēmai</string>
+    <string name="theme_light" formatted="false">Gaisma</string>
+    <string name="theme_dark" formatted="false">Tumšs</string>
+    <string name="theme_amoled" formatted="false">AMOLED (tīri melns)</string>
+    <string name="settings_accent_title" formatted="false">Akcenta krāsa</string>
+    <string name="settings_accent_summary" formatted="false">Izvēlieties lietotnē izmantoto izcēluma krāsu.</string>
+    <string name="accent_default" formatted="false">Noklusējums (kampaņa sarkanā krāsā)</string>
+    <string name="accent_red" formatted="false">Sarkans</string>
+    <string name="accent_orange" formatted="false">Oranžs</string>
+    <string name="accent_yellow" formatted="false">Dzeltens</string>
+    <string name="accent_green" formatted="false">Zaļš</string>
+    <string name="accent_teal" formatted="false">Teal</string>
+    <string name="accent_blue" formatted="false">Zils</string>
+    <string name="accent_purple" formatted="false">Violeta</string>
+    <string name="accent_pink" formatted="false">Rozā</string>
+    <string name="settings_colorblendr_warning" formatted="false">Uzmanību: ja ColorBlendr vai cits jūsu ignorētais materiāls ir aktīvs, jūsu akcenta krāsa var netikt lietota, kamēr to neatspējosit.</string>
+    <string name="settings_about_title" formatted="false">Par</string>
+    <string name="settings_version">Versija %1$s</string>
+    <string name="settings_open_source" formatted="false">Atvērtais avots (MIT). Nav saistīts ar oficiālo Keep Android Open kampaņu vai to neapstiprina.</string>
+</resources>

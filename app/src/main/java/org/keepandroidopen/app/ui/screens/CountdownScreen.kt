@@ -13,7 +13,7 @@ import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.OpenInNew
+import androidx.compose.material.icons.automirrored.filled.OpenInNew
 import androidx.compose.material.icons.filled.Schedule
 import androidx.compose.material3.Button
 import androidx.compose.material3.ExperimentalMaterial3ExpressiveApi
@@ -31,11 +31,12 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.delay
-import org.keepandroidopen.app.data.Content
+import org.keepandroidopen.app.R
 import org.keepandroidopen.app.data.KeepAndroidOpen
 import org.keepandroidopen.app.data.campaignStartInstant
 import org.keepandroidopen.app.data.countdownBetween
@@ -93,7 +94,7 @@ fun CountdownScreen(modifier: Modifier = Modifier) {
                 verticalAlignment = Alignment.CenterVertically,
             ) {
                 Text(
-                    text = "Campaign countdown",
+                    text = stringResource(R.string.countdown_campaign),
                     style = MaterialTheme.typography.titleMedium,
                 )
                 Text(
@@ -109,16 +110,16 @@ fun CountdownScreen(modifier: Modifier = Modifier) {
                     .padding(top = 6.dp),
             )
             Text(
-                text = "Time elapsed since the campaign went public toward January 1, 2027.",
+                text = stringResource(R.string.countdown_elapsed),
                 style = MaterialTheme.typography.bodyMedium,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
             )
         }
 
-        SectionHeader("What the countdown means")
+        SectionHeader(stringResource(R.string.countdown_what_means))
         KaoCard {
             Text(
-                text = Content.ROLLOUT_SUMMARY,
+                text = stringResource(R.string.rollout_summary),
                 style = MaterialTheme.typography.bodyLarge,
             )
         }
@@ -132,9 +133,9 @@ fun CountdownScreen(modifier: Modifier = Modifier) {
                 modifier = Modifier.weight(1f),
                 shape = MaterialTheme.shapes.large,
             ) {
-                Icon(Icons.Filled.OpenInNew, contentDescription = null)
+                Icon(Icons.AutoMirrored.Filled.OpenInNew, contentDescription = null)
                 Spacer(Modifier.width(8.dp))
-                Text("Read the FAQ")
+                Text(stringResource(R.string.countdown_read_faq))
             }
             Button(
                 onClick = { context.openUrl(KeepAndroidOpen.SITE_URL) },
@@ -143,14 +144,13 @@ fun CountdownScreen(modifier: Modifier = Modifier) {
             ) {
                 Icon(Icons.Filled.Schedule, contentDescription = null)
                 Spacer(Modifier.width(8.dp))
-                Text("The campaign")
+                Text(stringResource(R.string.countdown_campaign_btn))
             }
         }
 
         Spacer(Modifier.height(4.dp))
         Text(
-            text = "Countdown target matches the banner published at keepandroidopen.org. " +
-                "The app updates once per second while it is open.",
+            text = stringResource(R.string.countdown_footnote),
             style = MaterialTheme.typography.bodyMedium,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
         )
@@ -167,11 +167,9 @@ private fun HeroCountdownCard(
 ) {
     KaoCard(containerColor = MaterialTheme.colorScheme.primaryContainer) {
         Text(
-            text = if (expired) {
-                "ANDROID IS NOW A LOCKED-DOWN PLATFORM"
-            } else {
-                "ANDROID BECOMES A LOCKED-DOWN PLATFORM IN"
-            },
+            text = stringResource(
+                if (expired) R.string.countdown_expired else R.string.countdown_running
+            ),
             style = MaterialTheme.typography.labelLarge,
             color = MaterialTheme.colorScheme.onPrimaryContainer,
             letterSpacing = 1.5.sp,
@@ -186,7 +184,7 @@ private fun HeroCountdownCard(
             )
             Spacer(Modifier.width(12.dp))
             Text(
-                text = "days",
+                text = stringResource(R.string.unit_days),
                 style = MaterialTheme.typography.headlineMedium,
                 color = MaterialTheme.colorScheme.onPrimaryContainer,
                 modifier = Modifier.padding(bottom = 18.dp),
@@ -197,9 +195,9 @@ private fun HeroCountdownCard(
                 modifier = Modifier.fillMaxWidth(),
                 horizontalArrangement = Arrangement.spacedBy(10.dp),
             ) {
-                TimePill(hours, "hours", Modifier.weight(1f))
-                TimePill(minutes, "minutes", Modifier.weight(1f))
-                TimePill(seconds, "seconds", Modifier.weight(1f))
+                TimePill(hours, stringResource(R.string.unit_hours), Modifier.weight(1f))
+                TimePill(minutes, stringResource(R.string.unit_minutes), Modifier.weight(1f))
+                TimePill(seconds, stringResource(R.string.unit_seconds), Modifier.weight(1f))
             }
         }
     }

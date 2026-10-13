@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">უკუნთვლა</string>
+    <string name="tab_rollout" formatted="false">Rollout</string>
+    <string name="tab_act_now" formatted="false">იმოქმედე ახლავე</string>
+    <string name="cd_open_site" formatted="false">გახსენით keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">პარამეტრები</string>
+    <string name="cd_back" formatted="false">უკან</string>
+    <string name="countdown_campaign" formatted="false">კამპანიის ათვლა</string>
+    <string name="countdown_elapsed" formatted="false">დრო გავიდა მას შემდეგ, რაც კამპანია საჯარო გახდა 2027 წლის 1 იანვრამდე.</string>
+    <string name="countdown_what_means" formatted="false">რას ნიშნავს ათვლა</string>
+    <string name="countdown_read_faq" formatted="false">წაიკითხეთ FAQ</string>
+    <string name="countdown_campaign_btn" formatted="false">კამპანია</string>
+    <string name="countdown_footnote" formatted="false">Countdown სამიზნე ემთხვევა keandroidopen.org-ზე გამოქვეყნებულ ბანერს. აპი ახლდება წამში ერთხელ, სანამ ის ღიაა.</string>
+    <string name="countdown_expired" formatted="false">ANDROID ახლა არის ჩაკეტილი პლატფორმა</string>
+    <string name="countdown_running" formatted="false">ANDROID იქცევა ჩაკეტილ პლატფორმად</string>
+    <string name="unit_days" formatted="false">დღეები</string>
+    <string name="unit_hours" formatted="false">საათები</string>
+    <string name="unit_minutes" formatted="false">წუთები</string>
+    <string name="unit_seconds" formatted="false">წამი</string>
+    <string name="rollout_title" formatted="false">რა არის Android Developer Verification?</string>
+    <string name="rollout_what_it_means_title" formatted="false">რას ნიშნავს ნამდვილად</string>
+    <string name="rollout_timeline_title" formatted="false">გაშვების ვადები</string>
+    <string name="rollout_paths_title" formatted="false">აირჩიეთ თქვენი გადამოწმების გზა</string>
+    <string name="rollout_advanced_title" formatted="false">\"მოწინავე ნაკადი\" არ არის გამოსავალი</string>
+    <string name="rollout_dev_page" formatted="false">Google-ის ოფიციალური დეველოპერის გვერდი</string>
+    <string name="rollout_open_letter" formatted="false">წაიკითხეთ ღია წერილი</string>
+    <string name="label_identity" formatted="false">იდენტობა</string>
+    <string name="label_distribution" formatted="false">დისტრიბუცია</string>
+    <string name="label_ux" formatted="false">მომხმარებლის გამოცდილება</string>
+    <string name="label_best_for" formatted="false">საუკეთესო ამისთვის</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification არის Google-ის პროგრამა, რომელიც აკავშირებს ყველა აპს დადასტურებულ დეველოპერის ვინაობას, სანამ ის დაინსტალირდება სერტიფიცირებულ Android მოწყობილობებზე. დეველოპერებმა უნდა დაადასტურონ ვინ არიან ისინი და დაარეგისტრირონ პაკეტების სახელები, რომლებსაც აქვეყნებენ. აპები რეგისტრირებული, დამოწმებული დეველოპერის გარეშე ვეღარ დაინსტალირდება ჩვეულებრივი გზით, როდესაც დაცვა ამოქმედდება.</string>
+    <string name="rollout_what_it_means" formatted="false">ის ყველაზე რთულია დამოუკიდებელ და ღია წყაროს განაწილებაზე, როგორიცაა F-Droid, პირდაპირი APK ჩამოტვირთვები და ჰობი პროექტები. Google ამბობს, რომ ეს ეხება უსაფრთხოებას და ანონიმური მავნე პროგრამის შეჩერებას. კრიტიკოსები, მათ შორის Keep Android Open კამპანია, F-Droid და EFF, ამბობენ, რომ ეს არის კარიბჭის მოკვლის გადამრთველი: ცენტრალური რეგისტრაცია, სამთავრობო პირადობის მოწმობა, საფასური და სრული კონტროლი იმაზე, თუ რისი ნდობის უფლება აქვს თქვენს მოწყობილობას.</string>
+    <string name="rollout_advanced_note" formatted="false">გაფართოებული ნაკადი მიეწოდება Google Play სერვისებით და არა Android OS-ით, ამიტომ Google-ს შეუძლია შეცვალოს, შეზღუდოს ან წაშალოს იგი ნებისმიერ დროს OS განახლების ან მომხმარებლის თანხმობის გარეშე. 24-საათიანი შეფერხება მიზანმიმართულად არღვევს და არის კიდევ ერთი ნაბიჯი, რომელიც დგას თქვენსა და თქვენს მიერ არჩეულ პროგრამას შორის.</string>
+    <string-array name="timeline_dates">
+        <item>2025 წლის 25 აგვისტო</item>
+        <item>2026 წლის 19 მარტი</item>
+        <item>2026 წლის ივნისი</item>
+        <item>2026 წლის 18 ივნისი</item>
+        <item>2026 წლის ივლისი</item>
+        <item>2026 წლის აგვისტო</item>
+        <item>2026 წლის 30 სექტემბერი</item>
+        <item>2027 წელი</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>პროგრამა გამოცხადებულია</item>
+        <item>\"მოწინავე ნაკადი\" ვლინდება</item>
+        <item>Android Developer Verifier მიეწოდება მოწყობილობებს</item>
+        <item>პირველადი გაშვება დადასტურდა</item>
+        <item>დეველოპერების API იხსნება</item>
+        <item>გლობალური კონსოლი, შეზღუდული ანგარიშები, მოწინავე ნაკადი</item>
+        <item>აღსრულება ოთხ ქვეყანაში იწყება</item>
+        <item>გლობალური გავრცელება</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google აცხადებს, რომ 2027 წლიდან Android-ის აპლიკაციები უნდა დარეგისტრირდეს ვერიფიცირებულ დეველოპერზე, Google Play-ს გარეთ დაყენებული აპების ჩათვლით.</item>
+        <item>ძლევამოსილი მომხმარებლები იღებენ მიზანმიმართულად უხერხულ გაქცევას: ჩართეთ დეველოპერის ოფციები, დაადასტურეთ, რომ არ ხართ იძულებული, გადატვირთეთ, შემდეგ დაელოდეთ 24 საათი, სანამ დაუდასტურებელი ინსტალაციების დაშვებას შეძლებთ.</item>
+        <item>ფონური სისტემის სერვისი (com.google.android.verifier) ​​გადადის Google სისტემის განახლებების მეშვეობით სერტიფიცირებულ მოწყობილობებზე და რჩება უმოქმედო ამოქმედებამდე.</item>
+        <item>Google ადასტურებს, რომ აღსრულება დაიწყება 2026 წლის 30 სექტემბერს შვიდ მაღაზიასა და ოთხ ქვეყანაში.</item>
+        <item>Android Developer ID Status API გლობალურად იხსნება და ადრეული წვდომა იწყება Android Developer Console API-სთვის და შეზღუდული განაწილების ანგარიშებისთვის.</item>
+        <item>შეზღუდული სადისტრიბუციო ანგარიშები (უფასო, 20-მდე მოწყობილობა, სამთავრობო პირადობის მოწმობის გარეშე) და Console API-ის გაშვება მთელ მსოფლიოში. შეუმოწმებელი გვერდითი დატვირთვისთვის მოწინავე ნაკადი იწყებს გაშვებას.</item>
+        <item>დაცვები ხელმისაწვდომია მომხმარებლებისთვის ბრაზილიაში, ინდონეზიაში, სინგაპურსა და ტაილანდში სერტიფიცირებულ მოწყობილობებზე, რომლებიც მუშაობენ Android 7+. დაუდასტურებელი დეველოპერების აპები დაბლოკილია მონაწილე მაღაზიებში: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore და GetApps.</item>
+        <item>დადასტურება გაფართოებულია ყველა აპსა და რეგიონში. შეინახეთ Android ღია თვლა 2027 წლის 1 იანვრამდე, როდესაც Android გახდება ჩაკეტილი პლატფორმა.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>სრული განაწილება</item>
+        <item>შეზღუდული განაწილება</item>
+        <item>არარეგისტრირებული აპების გვერდითი ჩატვირთვა</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>დიახ - სახელმწიფო პირადობის მოწმობა და საფასური</item>
+        <item>არა - პირადობის მოწმობის ან რეგისტრაციის საფასურის გარეშე</item>
+        <item>არა - მაგრამ მაღალი ხახუნის</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>ნებისმიერი მაღაზია ან არხი თქვენ მიერ არჩეული</item>
+        <item>20-მდე მოწყობილობა QR კოდით ან ბმულით ხელის ჩამორთმევით</item>
+        <item>ADB (განთავისუფლებული) ან გაფართოებული ნაკადი</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>არაფერი იცვლება თქვენი მომხმარებლებისთვის</item>
+        <item>მომხმარებლები იღებენ ინსტალაციის მოწვევას იმ დეველოპერისგან, რომელსაც იცნობენ</item>
+        <item>დეველოპერის პარამეტრები, გადატვირთეთ, 24-საათიანი ლოდინი, შემდეგ მაინც დააინსტალირეთ</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>ორგანიზაციები და პროფესიონალი დეველოპერები</item>
+        <item>სტუდენტები, ჰობიტები და პირადი გამოყენება</item>
+        <item>დაუდასტურებელი დეველოპერები და ძლიერი მომხმარებლები</item>
+    </string-array>
+    <string name="act_title" formatted="false">იმოქმედეთ ახლა - გაისმა თქვენი ხმა</string>
+    <string name="act_intro">მარეგულირებლებს სურთ მოისმინონ დაზარალებული პირებისგან. იყავით თავაზიანი და კონკრეტული, დაწერეთ იმ ორგანოს ოფიციალურ ენაზე, რომელსაც დაუკავშირდებით, მოითხოვეთ წერილობითი აღიარება და დააკოპირეთ %1$s, რათა კამპანიამ შეძლოს გამარჯვებების თვალყურის დევნება.</string>
+    <string name="act_open_composer" formatted="false">გახსენით ელ.ფოსტის კომპოზიტორი</string>
+    <string name="act_copy" formatted="false">კოპირება</string>
+    <string name="act_share" formatted="false">გააზიარეთ</string>
+    <string name="act_clipboard_label" formatted="false">შეინახეთ Android ღია წერილი</string>
+    <string name="act_us_title" formatted="false">შეერთებული შტატები — ელფოსტა მთავრობას</string>
+    <string name="act_us_intro" formatted="false">იუსტიციის დეპარტამენტი და FTC იღებენ ანტიმონოპოლიურ ანგარიშებს ონლაინ ფორმების საშუალებით. გამოიყენეთ ისინი და პირდაპირ დაუკავშირდით თქვენს წარმომადგენელს და სენატორებს.</string>
+    <string name="act_world_title" formatted="false">მსოფლიოს სხვაგან</string>
+    <string name="act_groups_title" formatted="false">მომხმარებელთა და ციფრული უფლებების ჯგუფები</string>
+    <string name="act_more_title" formatted="false">მეტი გზა დახმარებისთვის</string>
+    <string name="act_more_body" formatted="false">• დააინსტალირეთ F-Droid თქვენს მოწყობილობებზე.\n• უპასუხეთ Google-ის დეველოპერის დადასტურების გამოკითხვას.\n• გამოაქვეყნეთ სოციალურ მედიაში და დააკავშირეთ keepandroidopen.org.\n• ხელი მოაწერეთ change.org პეტიციას.\n• დაამატეთ countdown ბანერი თქვენს ვებსაიტს.</string>
+    <string name="act_all_actions" formatted="false">ყველა მოქმედება keepandroidopen.org-ზე</string>
+    <string name="action_email" formatted="false">ელფოსტა</string>
+    <string name="action_open" formatted="false">გახსენით</string>
+    <string-array name="us_contact_regions">
+        <item>შეერთებული შტატები</item>
+        <item>შეერთებული შტატები</item>
+        <item>შეერთებული შტატები</item>
+        <item>შეერთებული შტატები</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>აშშ-ს იუსტიციის დეპარტამენტი - ანტიმონოპოლიური განყოფილება</item>
+        <item>აშშ ფედერალური სავაჭრო კომისია - ანტიმონოპოლიური</item>
+        <item>იპოვეთ თქვენი სახლის წარმომადგენელი</item>
+        <item>დაუკავშირდით თქვენს ამერიკელ სენატორებს</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>გაგზავნეთ ანტიმონოპოლიური ანგარიში ინტერნეტით.</item>
+        <item>შეიტანეთ ანტიმონოპოლიური საჩივარი.</item>
+        <item>დაუკავშირდით თქვენს წარმომადგენელს აშშ-ს სახლში.</item>
+        <item>იპოვეთ და დაუკავშირდით თქვენი შტატის ორივე სენატორს.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>ევროკავშირი</item>
+        <item>ევროკავშირი</item>
+        <item>გაერთიანებული სამეფო</item>
+        <item>ბრაზილია</item>
+        <item>სინგაპური</item>
+        <item>ტაილანდი</item>
+        <item>ინდონეზია</item>
+        <item>ავსტრალია</item>
+        <item>კანადა</item>
+        <item>ინდოეთი</item>
+        <item>იაპონია</item>
+        <item>სამხრეთ კორეა</item>
+        <item>მექსიკა</item>
+        <item>აოტეაროა / ახალი ზელანდია</item>
+        <item>ტაივანი</item>
+        <item>შვეიცარია</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>ევროკავშირის ანტიმონოპოლიური (DG COMP)</item>
+        <item>ციფრული ბაზრების აქტის გუნდი</item>
+        <item>კონკურენციისა და ბაზრის ორგანო</item>
+        <item>კეიდი</item>
+        <item>CCCS</item>
+        <item>სავაჭრო საკონკურსო კომისია (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>კონკურენციის ბიურო კანადა</item>
+        <item>ინდოეთის საკონკურსო კომისია</item>
+        <item>იაპონიის სამართლიანი ვაჭრობის კომისია</item>
+        <item>კორეის სამართლიანი ვაჭრობის კომისია</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>კომერციული კომისია</item>
+        <item>სამართლიანი ვაჭრობის კომისია</item>
+        <item>საკონკურსო კომისია (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>ელ.წერილი ევროკომისიის კონკურენციის ორგანოს.</item>
+        <item>დაუკავშირდით ევროკავშირის DMA მოქალაქეების დახმარების ცენტრს.</item>
+        <item>მოხსენება გაერთიანებული სამეფოს CMA-ს.</item>
+        <item>ბრაზილია პირველი აღსრულების ტალღაშია.</item>
+        <item>სინგაპური პირველი აღსრულების ტალღაშია.</item>
+        <item>ტაილანდი პირველი აღსრულების ტალღაშია.</item>
+        <item>ინდონეზია პირველი აღსრულების ტალღაშია.</item>
+        <item>ანგარიში ავსტრალიის კონკურენციისა და მომხმარებელთა კომისიას.</item>
+        <item>შეიტანეთ საჩივარი კონკურენციის ბიუროში.</item>
+        <item>დაუკავშირდით CCI-ს ანტიკონკურენტული ქცევის შესახებ.</item>
+        <item>დაუკავშირდით JFTC / მობილური პროგრამული უზრუნველყოფის კონკურსის აქტის მაგიდას.</item>
+        <item>დაუკავშირდით KFTC-ს.</item>
+        <item>შეიტანეთ ანტიმონოპოლიური საჩივარი მექსიკაში.</item>
+        <item>შეატყობინეთ ანტიკონკურენტული ქცევის შესახებ.</item>
+        <item>დაუკავშირდით ტაივანის FTC-ს.</item>
+        <item>შეატყობინეთ უკანონო პრაქტიკას.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>გლობალური</item>
+        <item>გლობალური</item>
+        <item>ევროპა</item>
+        <item>ევროპა</item>
+        <item>გლობალური</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Foundation</item>
+        <item>თავისუფალი პროგრამული უზრუნველყოფის ფონდი</item>
+        <item>თავისუფალი პროგრამული უზრუნველყოფის ფონდი ევროპა</item>
+        <item>ევროპული ციფრული უფლებები (EDRI)</item>
+        <item>პროგრამული უზრუნველყოფის თავისუფლების დაცვა</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>აპლიკაციის კარიბჭე და ინტერნეტ ცენზურა.</item>
+        <item>პროგრამული უზრუნველყოფის თავისუფლება და მომხმარებლის კონტროლი.</item>
+        <item>პროგრამული უზრუნველყოფის თავისუფლება ევროპაში.</item>
+        <item>ციფრული უფლებების ადვოკატირება.</item>
+        <item>საზოგადოებაზე ორიენტირებული უფასო პროგრამული უზრუნველყოფა.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">ჩემი მთავრობა</string>
+    <string name="letter_subject" formatted="false">შეაჩერეთ Google-ის Android Developer Verification-ის ჩაკეტვა</string>
+    <string name="letter_template">ძვირფასო %1$s წარმომადგენელი,\n\nმე ვწერ, როგორც Android-ის დაინტერესებული მომხმარებელი და როგორც თქვენი იურისდიქციის მოქალაქე.\n\nGoogle-ის Android Developer Verification პროგრამა, რომელიც ამოქმედდება 2026 წლის 30 სექტემბრიდან რამდენიმე ბაზარზე და გლობალურად გაფართოვდება 2027 წელს, მოითხოვს ყველა Android აპლიკაციის რეგისტრაციას ცენტრალურად დამოწმებულ დეველოპერზე, სანამ ის დაინსტალირდება სერტიფიცირებულ მოწყობილობებზე. დეველოპერებმა უნდა წარმოადგინონ სამთავრობო იდენტიფიკაცია, დაეთანხმონ Google-ის პირობებს, გადაიხადონ საკომისიო და ჩამოთვალონ ყველა მიმდინარე და მომავალი აპის იდენტიფიკატორი.\n\nეს მნიშვნელოვნად არ აუმჯობესებს უსაფრთხოებას. იგი გადასცემს ერთ კერძო კომპანიას უფლებამოსილება გადაწყვიტოს, რომელი პროგრამული უზრუნველყოფის ნება მიეცით ადამიანებს იმუშაონ მათ საკუთრებაში არსებულ მოწყობილობებზე, და ეს საფრთხეს უქმნის დამოუკიდებელ და ღია კოდის განაწილებას, როგორიცაა F-Droid, რომელიც ვერ შეესაბამება და შესაძლოა არსებობა შეწყვიტოს.\n\nპატივისცემით გთხოვ:\n\n1. გამოიკვლიეთ არის თუ არა ეს პროგრამა ანტიკონკურენტული და წარმოადგენს თუ არა მეკარის პოზიციის ბოროტად გამოყენებას.\n2. დააჭირე Google-ს, რომ გაათავისუფლოს ღია და არაკომერციული დისტრიბუცია და შეინარჩუნოს გვერდითი დატვირთვა ცენტრალიზებული რეგისტრაციისგან.\n3. დაიცავით მომხმარებლების უფლება, გაატარონ პროგრამული უზრუნველყოფა მათ მიერ შეძენილ აპარატურაზე.\n\nგთხოვთ, აღიაროთ ეს შეტყობინება წერილობით და შემატყობინეთ რა ქმედებებს მიმართავს თქვენი ოფისი.\n\nმე ასევე ვაკოპირებ Keep Android Open კამპანიას %2$s-ზე.\n\nპატივისცემით,\n[თქვენი სახელი]\n[თქვენი ქალაქი და ქვეყანა]</string>
+    <string name="toast_no_app" formatted="false">ამ ბმულის გახსნა არცერთ აპლიკაციას არ შეუძლია</string>
+    <string name="toast_no_email" formatted="false">ელ.ფოსტის აპი არ არის დაინსტალირებული</string>
+    <string name="chooser_send_email" formatted="false">ელ.ფოსტის გაგზავნა</string>
+    <string name="chooser_share" formatted="false">გააზიარეთ</string>
+    <string name="toast_copied" formatted="false">კოპირებულია ბუფერში</string>
+    <string name="settings_title" formatted="false">პარამეტრები</string>
+    <string name="settings_language_title" formatted="false">აპლიკაციის ენა</string>
+    <string name="settings_language_summary" formatted="false">აირჩიეთ აპის მიერ გამოყენებული ენა. თქვენ ასევე შეგიძლიათ შეცვალოთ იგი თქვენი მოწყობილობის პარამეტრებიდან.</string>
+    <string name="settings_system_default" formatted="false">სისტემის ნაგულისხმევი</string>
+    <string name="settings_language_search" formatted="false">ენების ძიება</string>
+    <string name="settings_theme_title" formatted="false">თემა</string>
+    <string name="settings_theme_summary" formatted="false">აირჩიეთ, როგორ გამოიყურება აპლიკაცია.</string>
+    <string name="theme_system" formatted="false">მიჰყევით სისტემას</string>
+    <string name="theme_light" formatted="false">სინათლე</string>
+    <string name="theme_dark" formatted="false">ბნელი</string>
+    <string name="theme_amoled" formatted="false">AMOLED (სუფთა შავი)</string>
+    <string name="settings_accent_title" formatted="false">აქცენტის ფერი</string>
+    <string name="settings_accent_summary" formatted="false">აირჩიეთ მონიშვნის ფერი, რომელიც გამოიყენება აპში.</string>
+    <string name="accent_default" formatted="false">ნაგულისხმევი (კამპანიის წითელი)</string>
+    <string name="accent_red" formatted="false">წითელი</string>
+    <string name="accent_orange" formatted="false">ნარინჯისფერი</string>
+    <string name="accent_yellow" formatted="false">ყვითელი</string>
+    <string name="accent_green" formatted="false">მწვანე</string>
+    <string name="accent_teal" formatted="false">ჩაისფერი</string>
+    <string name="accent_blue" formatted="false">ლურჯი</string>
+    <string name="accent_purple" formatted="false">მეწამული</string>
+    <string name="accent_pink" formatted="false">ვარდისფერი</string>
+    <string name="settings_colorblendr_warning" formatted="false">ყურადღება: თუ ColorBlendr ან სხვა მასალა, რომელსაც თქვენ უგულებელყოფთ, აქტიურია, თქვენი აქცენტის ფერი შეიძლება არ იყოს გამოყენებული, სანამ არ გამორთავთ მას.</string>
+    <string name="settings_about_title" formatted="false">შესახებ</string>
+    <string name="settings_version">ვერსია %1$s</string>
+    <string name="settings_open_source" formatted="false">ღია წყარო (MIT). არ არის დაკავშირებული ან დადასტურებული ოფიციალური Keep Android Open კამპანიის მიერ.</string>
+</resources>

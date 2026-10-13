@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">ಕೌಂಟ್ಡೌನ್</string>
+    <string name="tab_rollout" formatted="false">ರೋಲ್ಔಟ್</string>
+    <string name="tab_act_now" formatted="false">ಈಗ ಕಾರ್ಯನಿರ್ವಹಿಸಿ</string>
+    <string name="cd_open_site" formatted="false">Keepandroidopen.org ತೆರೆಯಿರಿ</string>
+    <string name="cd_settings" formatted="false">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="cd_back" formatted="false">ಹಿಂದೆ</string>
+    <string name="countdown_campaign" formatted="false">ಪ್ರಚಾರದ ಕ್ಷಣಗಣನೆ</string>
+    <string name="countdown_elapsed" formatted="false">ಪ್ರಚಾರವು ಜನವರಿ 1, 2027 ಕ್ಕೆ ಸಾರ್ವಜನಿಕವಾಗಿ ಹೋದಾಗಿನಿಂದ ಸಮಯ ಕಳೆದಿದೆ.</string>
+    <string name="countdown_what_means" formatted="false">ಕೌಂಟ್‌ಡೌನ್ ಎಂದರೆ ಏನು</string>
+    <string name="countdown_read_faq" formatted="false">FAQ ಓದಿ</string>
+    <string name="countdown_campaign_btn" formatted="false">ಪ್ರಚಾರ</string>
+    <string name="countdown_footnote" formatted="false">ಕೌಂಟ್‌ಡೌನ್ ಗುರಿಯು Keepandroidopen.org ನಲ್ಲಿ ಪ್ರಕಟಿಸಲಾದ ಬ್ಯಾನರ್‌ಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆ. ಅಪ್ಲಿಕೇಶನ್ ತೆರೆದಿರುವಾಗ ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ಒಮ್ಮೆ ನವೀಕರಿಸುತ್ತದೆ.</string>
+    <string name="countdown_expired" formatted="false">ANDROID ಈಗ ಲಾಕ್-ಡೌನ್ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಆಗಿದೆ</string>
+    <string name="countdown_running" formatted="false">ಆಂಡ್ರಾಯ್ಡ್ ಲಾಕ್-ಡೌನ್ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಆಗಿ ಮಾರ್ಪಟ್ಟಿದೆ</string>
+    <string name="unit_days" formatted="false">ದಿನಗಳು</string>
+    <string name="unit_hours" formatted="false">ಗಂಟೆಗಳು</string>
+    <string name="unit_minutes" formatted="false">ನಿಮಿಷಗಳು</string>
+    <string name="unit_seconds" formatted="false">ಸೆಕೆಂಡುಗಳು</string>
+    <string name="rollout_title" formatted="false">ಆಂಡ್ರಾಯ್ಡ್ ಡೆವಲಪರ್ ಪರಿಶೀಲನೆ ಎಂದರೇನು?</string>
+    <string name="rollout_what_it_means_title" formatted="false">ಇದು ನಿಜವಾಗಿಯೂ ಅರ್ಥವೇನು</string>
+    <string name="rollout_timeline_title" formatted="false">ರೋಲ್‌ಔಟ್ ಟೈಮ್‌ಲೈನ್</string>
+    <string name="rollout_paths_title" formatted="false">ನಿಮ್ಮ ಪರಿಶೀಲನೆ ಮಾರ್ಗವನ್ನು ಆರಿಸಿ</string>
+    <string name="rollout_advanced_title" formatted="false">\"ಸುಧಾರಿತ ಹರಿವು\" ಪರಿಹಾರವಲ್ಲ</string>
+    <string name="rollout_dev_page" formatted="false">Google ನ ಅಧಿಕೃತ ಡೆವಲಪರ್ ಪುಟ</string>
+    <string name="rollout_open_letter" formatted="false">ತೆರೆದ ಪತ್ರವನ್ನು ಓದಿ</string>
+    <string name="label_identity" formatted="false">ಗುರುತು</string>
+    <string name="label_distribution" formatted="false">ವಿತರಣೆ</string>
+    <string name="label_ux" formatted="false">ಬಳಕೆದಾರರ ಅನುಭವ</string>
+    <string name="label_best_for" formatted="false">ಗೆ ಉತ್ತಮ</string>
+    <string name="rollout_summary" formatted="false">Android ಡೆವಲಪರ್ ಪರಿಶೀಲನೆಯು Google ಪ್ರೋಗ್ರಾಂ ಆಗಿದ್ದು ಅದು ಪ್ರಮಾಣೀಕೃತ Android ಸಾಧನಗಳಲ್ಲಿ ಸ್ಥಾಪಿಸುವ ಮೊದಲು ಪ್ರತಿ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿದ ಡೆವಲಪರ್ ಗುರುತಿಗೆ ಲಿಂಕ್ ಮಾಡುತ್ತದೆ. ಡೆವಲಪರ್‌ಗಳು ಅವರು ಯಾರೆಂದು ಪರಿಶೀಲಿಸಬೇಕು ಮತ್ತು ಅವರು ಪ್ರಕಟಿಸುವ ಪ್ಯಾಕೇಜ್ ಹೆಸರುಗಳನ್ನು ನೋಂದಾಯಿಸಿಕೊಳ್ಳಬೇಕು. ನೋಂದಾಯಿತ, ಪರಿಶೀಲಿಸಿದ ಡೆವಲಪರ್ ಇಲ್ಲದ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ರಕ್ಷಣೆಗಳು ಹೊರಬಂದ ನಂತರ ಇನ್ನು ಮುಂದೆ ಸಾಮಾನ್ಯ ರೀತಿಯಲ್ಲಿ ಸ್ಥಾಪಿಸಲಾಗುವುದಿಲ್ಲ.</string>
+    <string name="rollout_what_it_means" formatted="false">ಇದು ಎಫ್-ಡ್ರಾಯ್ಡ್, ನೇರ APK ಡೌನ್‌ಲೋಡ್‌ಗಳು ಮತ್ತು ಹವ್ಯಾಸ ಯೋಜನೆಗಳಂತಹ ಸ್ವತಂತ್ರ ಮತ್ತು ಮುಕ್ತ-ಮೂಲ ವಿತರಣೆಯ ಮೇಲೆ ಕಠಿಣವಾಗಿದೆ. ಇದು ಸುರಕ್ಷತೆ ಮತ್ತು ಅನಾಮಧೇಯ ಮಾಲ್‌ವೇರ್ ಅನ್ನು ನಿಲ್ಲಿಸುವುದು ಎಂದು Google ಹೇಳುತ್ತದೆ. Keep Android Open ಅಭಿಯಾನ, F-Droid ಮತ್ತು EFF ಸೇರಿದಂತೆ ವಿಮರ್ಶಕರು ಇದು ಗೇಟ್‌ಕೀಪರ್ ಕಿಲ್ ಸ್ವಿಚ್ ಎಂದು ಹೇಳುತ್ತಾರೆ: ಕೇಂದ್ರ ನೋಂದಣಿ, ಸರ್ಕಾರಿ ID, ಶುಲ್ಕ ಮತ್ತು ನಿಮ್ಮ ಸಾಧನವನ್ನು ನಂಬಲು ಅನುಮತಿಸುವ ಸಂಪೂರ್ಣ ನಿಯಂತ್ರಣ.</string>
+    <string name="rollout_advanced_note" formatted="false">ಸುಧಾರಿತ ಹರಿವನ್ನು Google Play ಸೇವೆಗಳ ಮೂಲಕ ವಿತರಿಸಲಾಗುತ್ತದೆ, Android OS ಅಲ್ಲ, ಆದ್ದರಿಂದ OS ಅಪ್‌ಡೇಟ್ ಅಥವಾ ಬಳಕೆದಾರರ ಒಪ್ಪಿಗೆಯಿಲ್ಲದೆ Google ಅದನ್ನು ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು, ನಿರ್ಬಂಧಿಸಬಹುದು ಅಥವಾ ತೆಗೆದುಹಾಕಬಹುದು. 24-ಗಂಟೆಗಳ ವಿಳಂಬವು ಉದ್ದೇಶಪೂರ್ವಕವಾಗಿ ವಿಚ್ಛಿದ್ರಕಾರಕವಾಗಿದೆ ಮತ್ತು ಇದು ನಿಮ್ಮ ಮತ್ತು ನೀವು ಚಲಾಯಿಸಲು ಆಯ್ಕೆಮಾಡುವ ಸಾಫ್ಟ್‌ವೇರ್ ನಡುವೆ ಇರುವ ಇನ್ನೊಂದು ಹಂತವಾಗಿದೆ.</string>
+    <string-array name="timeline_dates">
+        <item>ಆಗಸ್ಟ್ 25, 2025</item>
+        <item>ಮಾರ್ಚ್ 19, 2026</item>
+        <item>ಜೂನ್ 2026</item>
+        <item>ಜೂನ್ 18, 2026</item>
+        <item>ಜುಲೈ 2026</item>
+        <item>ಆಗಸ್ಟ್ 2026</item>
+        <item>ಸೆಪ್ಟೆಂಬರ್ 30, 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>ಕಾರ್ಯಕ್ರಮವನ್ನು ಘೋಷಿಸಲಾಗಿದೆ</item>
+        <item>\"ಸುಧಾರಿತ ಹರಿವು\" ಬಹಿರಂಗವಾಗಿದೆ</item>
+        <item>Android ಡೆವಲಪರ್ ವೆರಿಫೈಯರ್ ಸಾಧನಗಳಿಗೆ ರವಾನಿಸುತ್ತದೆ</item>
+        <item>ಆರಂಭಿಕ ಉಡಾವಣೆ ದೃಢಪಡಿಸಲಾಗಿದೆ</item>
+        <item>ಡೆವಲಪರ್ API ಗಳು ತೆರೆದುಕೊಳ್ಳುತ್ತವೆ</item>
+        <item>ಜಾಗತಿಕ ಕನ್ಸೋಲ್, ಸೀಮಿತ ಖಾತೆಗಳು, ಮುಂದುವರಿದ ಹರಿವು</item>
+        <item>ನಾಲ್ಕು ದೇಶಗಳಲ್ಲಿ ಜಾರಿ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ</item>
+        <item>ಜಾಗತಿಕ ರೋಲ್ಔಟ್</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>2027 ರಿಂದ, Google Play ನ ಹೊರಗೆ ಸ್ಥಾಪಿಸಲಾದ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಒಳಗೊಂಡಂತೆ Android ಗಾಗಿ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಪರಿಶೀಲಿಸಿದ ಡೆವಲಪರ್‌ಗೆ ನೋಂದಾಯಿಸಬೇಕು ಎಂದು Google ಪ್ರಕಟಿಸುತ್ತದೆ.</item>
+        <item>ಪವರ್ ಬಳಕೆದಾರರು ಉದ್ದೇಶಪೂರ್ವಕವಾಗಿ ತೊಡಕಿನ ತಪ್ಪಿಸಿಕೊಳ್ಳುವ ಹ್ಯಾಚ್ ಅನ್ನು ಪಡೆಯುತ್ತಾರೆ: ಡೆವಲಪರ್ ಆಯ್ಕೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ, ನೀವು ಬಲವಂತವಾಗಿಲ್ಲ ಎಂದು ಖಚಿತಪಡಿಸಿ, ಮರುಪ್ರಾರಂಭಿಸಿ, ನಂತರ ನೀವು ಪರಿಶೀಲಿಸದ ಸ್ಥಾಪನೆಗಳನ್ನು ಅನುಮತಿಸುವ ಮೊದಲು 24 ಗಂಟೆಗಳ ಕಾಲ ಕಾಯಿರಿ.</item>
+        <item>ಹಿನ್ನೆಲೆ ಸಿಸ್ಟಮ್ ಸೇವೆಯನ್ನು (com.google.android.verifier) ​​Google ಸಿಸ್ಟಂ ನವೀಕರಣಗಳ ಮೂಲಕ ಪ್ರಮಾಣೀಕೃತ ಸಾಧನಗಳಿಗೆ ತಳ್ಳಲಾಗುತ್ತದೆ ಮತ್ತು ಜಾರಿಗೊಳಿಸುವವರೆಗೆ ನಿಷ್ಕ್ರಿಯವಾಗಿರುತ್ತದೆ.</item>
+        <item>ಏಳು ಅಂಗಡಿಗಳು ಮತ್ತು ನಾಲ್ಕು ದೇಶಗಳಲ್ಲಿ ಸೆಪ್ಟೆಂಬರ್ 30, 2026 ರಂದು ಜಾರಿ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ ಎಂದು Google ಖಚಿತಪಡಿಸುತ್ತದೆ.</item>
+        <item>Android ಡೆವಲಪರ್ ID ಸ್ಥಿತಿ API ಜಾಗತಿಕವಾಗಿ ಪ್ರಾರಂಭಿಸುತ್ತದೆ ಮತ್ತು Android ಡೆವಲಪರ್ ಕನ್ಸೋಲ್ API ಮತ್ತು ಸೀಮಿತ ವಿತರಣಾ ಖಾತೆಗಳಿಗೆ ಆರಂಭಿಕ ಪ್ರವೇಶ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ.</item>
+        <item>ಸೀಮಿತ ವಿತರಣಾ ಖಾತೆಗಳು (ಉಚಿತ, 20 ಸಾಧನಗಳವರೆಗೆ, ಯಾವುದೇ ಸರ್ಕಾರಿ ಐಡಿ ಇಲ್ಲ) ಮತ್ತು ಕನ್ಸೋಲ್ API ವಿಶ್ವಾದ್ಯಂತ ಬಿಡುಗಡೆ. ಪರಿಶೀಲಿಸದ ಸೈಡ್‌ಲೋಡಿಂಗ್‌ಗಾಗಿ ಸುಧಾರಿತ ಹರಿವು ಹೊರಹೊಮ್ಮಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ.</item>
+        <item>Android 7+ ಚಾಲನೆಯಲ್ಲಿರುವ ಪ್ರಮಾಣೀಕೃತ ಸಾಧನಗಳಲ್ಲಿ ಬ್ರೆಜಿಲ್, ಇಂಡೋನೇಷ್ಯಾ, ಸಿಂಗಾಪುರ್ ಮತ್ತು ಥೈಲ್ಯಾಂಡ್‌ನಲ್ಲಿ ಬಳಕೆದಾರರಿಗೆ ರಕ್ಷಣೆಗಳು ಲೈವ್ ಆಗುತ್ತವೆ. ಭಾಗವಹಿಸುವ ಸ್ಟೋರ್‌ಗಳಲ್ಲಿ ಪರಿಶೀಲಿಸದ ಡೆವಲಪರ್‌ಗಳ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore ಮತ್ತು GetApps.</item>
+        <item>ಪರಿಶೀಲನೆಯನ್ನು ಎಲ್ಲಾ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಮತ್ತು ಪ್ರದೇಶಗಳಿಗೆ ವಿಸ್ತರಿಸಲಾಗಿದೆ. ಆಂಡ್ರಾಯ್ಡ್ ಲಾಕ್-ಡೌನ್ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಆಗುವ ಜನವರಿ 1, 2027 ರವರೆಗೆ ಕೀಪ್ ಆಂಡ್ರಾಯ್ಡ್ ಓಪನ್ ಎಣಿಕೆಗಳು.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>ಪೂರ್ಣ ವಿತರಣೆ</item>
+        <item>ಸೀಮಿತ ವಿತರಣೆ</item>
+        <item>ನೋಂದಾಯಿಸದ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಸೈಡ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>ಹೌದು - ಸರ್ಕಾರಿ ID ಮತ್ತು ಶುಲ್ಕ</item>
+        <item>ಇಲ್ಲ - ಯಾವುದೇ ID ಅಥವಾ ನೋಂದಣಿ ಶುಲ್ಕವಿಲ್ಲ</item>
+        <item>ಇಲ್ಲ - ಆದರೆ ಹೆಚ್ಚಿನ ಘರ್ಷಣೆ</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>ನೀವು ಆಯ್ಕೆ ಮಾಡುವ ಯಾವುದೇ ಅಂಗಡಿ ಅಥವಾ ಚಾನಲ್</item>
+        <item>QR ಕೋಡ್ ಅಥವಾ ಲಿಂಕ್ ಹ್ಯಾಂಡ್‌ಶೇಕ್ ಮೂಲಕ 20 ಸಾಧನಗಳವರೆಗೆ</item>
+        <item>ADB (ವಿನಾಯಿತಿ) ಅಥವಾ ಮುಂದುವರಿದ ಹರಿವು</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>ನಿಮ್ಮ ಬಳಕೆದಾರರಿಗೆ ಏನೂ ಬದಲಾಗುವುದಿಲ್ಲ</item>
+        <item>ಬಳಕೆದಾರರು ತಮಗೆ ತಿಳಿದಿರುವ ಡೆವಲಪರ್‌ನಿಂದ ಇನ್‌ಸ್ಟಾಲ್ ಆಹ್ವಾನವನ್ನು ಸ್ವೀಕರಿಸುತ್ತಾರೆ</item>
+        <item>ಡೆವಲಪರ್ ಆಯ್ಕೆಗಳು, ಮರುಪ್ರಾರಂಭಿಸಿ, 24-ಗಂಟೆಗಳ ಕಾಯುವಿಕೆ, ನಂತರ ಹೇಗಾದರೂ ಸ್ಥಾಪಿಸಿ</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>ಸಂಸ್ಥೆಗಳು ಮತ್ತು ವೃತ್ತಿಪರ ಅಭಿವರ್ಧಕರು</item>
+        <item>ವಿದ್ಯಾರ್ಥಿಗಳು, ಹವ್ಯಾಸಿಗಳು ಮತ್ತು ವೈಯಕ್ತಿಕ ಬಳಕೆ</item>
+        <item>ಪರಿಶೀಲಿಸದ ಡೆವಲಪರ್‌ಗಳು ಮತ್ತು ಪವರ್ ಬಳಕೆದಾರರು</item>
+    </string-array>
+    <string name="act_title" formatted="false">ಈಗ ಕಾರ್ಯನಿರ್ವಹಿಸಿ - ನಿಮ್ಮ ಧ್ವನಿಯನ್ನು ಕೇಳಿ</string>
+    <string name="act_intro">ನಿಯಂತ್ರಕರು ಬಾಧಿತ ವ್ಯಕ್ತಿಗಳಿಂದ ಕೇಳಲು ಬಯಸುತ್ತಾರೆ. ಸಭ್ಯ ಮತ್ತು ನಿರ್ದಿಷ್ಟವಾಗಿರಿ, ನೀವು ಸಂಪರ್ಕಿಸುವ ದೇಹದ ಅಧಿಕೃತ ಭಾಷೆಯಲ್ಲಿ ಬರೆಯಿರಿ, ಲಿಖಿತ ಸ್ವೀಕೃತಿಯನ್ನು ಕೇಳಿ ಮತ್ತು %1$s ಅನ್ನು ನಕಲಿಸಿ ಇದರಿಂದ ಅಭಿಯಾನವು ವಿಜಯಗಳನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಬಹುದು.</string>
+    <string name="act_open_composer" formatted="false">ಇಮೇಲ್ ಸಂಯೋಜಕವನ್ನು ತೆರೆಯಿರಿ</string>
+    <string name="act_copy" formatted="false">ನಕಲು ಮಾಡಿ</string>
+    <string name="act_share" formatted="false">ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="act_clipboard_label" formatted="false">ಆಂಡ್ರಾಯ್ಡ್ ಓಪನ್ ಲೆಟರ್ ಅನ್ನು ಇರಿಸಿಕೊಳ್ಳಿ</string>
+    <string name="act_us_title" formatted="false">ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್ - ಸರ್ಕಾರಕ್ಕೆ ಇಮೇಲ್ ಮಾಡಿ</string>
+    <string name="act_us_intro" formatted="false">ನ್ಯಾಯಾಂಗ ಇಲಾಖೆ ಮತ್ತು FTC ಆನ್‌ಲೈನ್ ಫಾರ್ಮ್‌ಗಳ ಮೂಲಕ ಆಂಟಿಟ್ರಸ್ಟ್ ವರದಿಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತವೆ. ಅವುಗಳನ್ನು ಬಳಸಿ ಮತ್ತು ನಿಮ್ಮ ಸ್ವಂತ ಪ್ರತಿನಿಧಿ ಮತ್ತು ಸೆನೆಟರ್‌ಗಳನ್ನು ನೇರವಾಗಿ ಸಂಪರ್ಕಿಸಿ.</string>
+    <string name="act_world_title" formatted="false">ಜಗತ್ತಿನ ಬೇರೆಡೆ</string>
+    <string name="act_groups_title" formatted="false">ಗ್ರಾಹಕ ಮತ್ತು ಡಿಜಿಟಲ್ ಹಕ್ಕುಗಳ ಗುಂಪುಗಳು</string>
+    <string name="act_more_title" formatted="false">ಸಹಾಯ ಮಾಡಲು ಹೆಚ್ಚಿನ ಮಾರ್ಗಗಳು</string>
+    <string name="act_more_body" formatted="false">• ನಿಮ್ಮ ಸಾಧನಗಳಲ್ಲಿ F-Droid ಅನ್ನು ಸ್ಥಾಪಿಸಿ.\n• Google ನ ಡೆವಲಪರ್ ಪರಿಶೀಲನೆ ಸಮೀಕ್ಷೆಗೆ ಉತ್ತರಿಸಿ.\n• ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಲ್ಲಿ ಪೋಸ್ಟ್ ಮಾಡಿ ಮತ್ತು Keepandroidopen.org ಗೆ ಲಿಂಕ್ ಮಾಡಿ.\n• change.org ಮನವಿಗೆ ಸಹಿ ಮಾಡಿ.\n• ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಕೌಂಟ್‌ಡೌನ್ ಬ್ಯಾನರ್ ಸೇರಿಸಿ.</string>
+    <string name="act_all_actions" formatted="false">Keepandroidopen.org ನಲ್ಲಿ ಎಲ್ಲಾ ಕ್ರಿಯೆಗಳು</string>
+    <string name="action_email" formatted="false">ಇಮೇಲ್</string>
+    <string name="action_open" formatted="false">ತೆರೆಯಿರಿ</string>
+    <string-array name="us_contact_regions">
+        <item>ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್</item>
+        <item>ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್</item>
+        <item>ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್</item>
+        <item>ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>US ಡಿಪಾರ್ಟ್ಮೆಂಟ್ ಆಫ್ ಜಸ್ಟಿಸ್ - ಆಂಟಿಟ್ರಸ್ಟ್ ವಿಭಾಗ</item>
+        <item>US ಫೆಡರಲ್ ಟ್ರೇಡ್ ಕಮಿಷನ್ - ಆಂಟಿಟ್ರಸ್ಟ್</item>
+        <item>ನಿಮ್ಮ ಹೌಸ್ ಪ್ರತಿನಿಧಿಯನ್ನು ಹುಡುಕಿ</item>
+        <item>ನಿಮ್ಮ US ಸೆನೆಟರ್‌ಗಳನ್ನು ಸಂಪರ್ಕಿಸಿ</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಆಂಟಿಟ್ರಸ್ಟ್ ವರದಿಯನ್ನು ಸಲ್ಲಿಸಿ.</item>
+        <item>ಆಂಟಿಟ್ರಸ್ಟ್ ದೂರನ್ನು ದಾಖಲಿಸಿ.</item>
+        <item>US ಹೌಸ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಪ್ರತಿನಿಧಿಯನ್ನು ಸಂಪರ್ಕಿಸಿ.</item>
+        <item>ನಿಮ್ಮ ರಾಜ್ಯದ ಎರಡೂ ಸೆನೆಟರ್‌ಗಳನ್ನು ಹುಡುಕಿ ಮತ್ತು ಸಂಪರ್ಕಿಸಿ.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>ಯುರೋಪಿಯನ್ ಯೂನಿಯನ್</item>
+        <item>ಯುರೋಪಿಯನ್ ಯೂನಿಯನ್</item>
+        <item>ಯುನೈಟೆಡ್ ಕಿಂಗ್ಡಮ್</item>
+        <item>ಬ್ರೆಜಿಲ್</item>
+        <item>ಸಿಂಗಾಪುರ</item>
+        <item>ಥೈಲ್ಯಾಂಡ್</item>
+        <item>ಇಂಡೋನೇಷ್ಯಾ</item>
+        <item>ಆಸ್ಟ್ರೇಲಿಯಾ</item>
+        <item>ಕೆನಡಾ</item>
+        <item>ಭಾರತ</item>
+        <item>ಜಪಾನ್</item>
+        <item>ದಕ್ಷಿಣ ಕೊರಿಯಾ</item>
+        <item>ಮೆಕ್ಸಿಕೋ</item>
+        <item>ಅಯೋಟೆರೋವಾ / ನ್ಯೂಜಿಲ್ಯಾಂಡ್</item>
+        <item>ತೈವಾನ್</item>
+        <item>ಸ್ವಿಟ್ಜರ್ಲೆಂಡ್</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU ಆಂಟಿಟ್ರಸ್ಟ್ (DG COMP)</item>
+        <item>ಡಿಜಿಟಲ್ ಮಾರ್ಕೆಟ್ಸ್ ಆಕ್ಟ್ ತಂಡ</item>
+        <item>ಸ್ಪರ್ಧೆ ಮತ್ತು ಮಾರುಕಟ್ಟೆ ಪ್ರಾಧಿಕಾರ</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>ವ್ಯಾಪಾರ ಸ್ಪರ್ಧೆ ಆಯೋಗ (OTCC)</item>
+        <item>ಕೆಪಿಪಿಯು</item>
+        <item>ACCC</item>
+        <item>ಸ್ಪರ್ಧೆಯ ಬ್ಯೂರೋ ಕೆನಡಾ</item>
+        <item>ಭಾರತದ ಸ್ಪರ್ಧಾತ್ಮಕ ಆಯೋಗ</item>
+        <item>ಜಪಾನ್ ಫೇರ್ ಟ್ರೇಡ್ ಕಮಿಷನ್</item>
+        <item>ಕೊರಿಯಾ ಫೇರ್ ಟ್ರೇಡ್ ಕಮಿಷನ್</item>
+        <item>ನ್ಯಾಶನಲ್ ಆಂಟಿಮೊನೊಪೊಲಿಯೊ ಸಂಯೋಜನೆ</item>
+        <item>ವಾಣಿಜ್ಯ ಆಯೋಗ</item>
+        <item>ನ್ಯಾಯೋಚಿತ ವ್ಯಾಪಾರ ಆಯೋಗ</item>
+        <item>ಸ್ಪರ್ಧಾತ್ಮಕ ಆಯೋಗ (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>ಯುರೋಪಿಯನ್ ಕಮಿಷನ್ ಸ್ಪರ್ಧೆಯ ಪ್ರಾಧಿಕಾರಕ್ಕೆ ಇಮೇಲ್ ಮಾಡಿ.</item>
+        <item>EU DMA ನಾಗರಿಕ ಸಹಾಯವಾಣಿಯನ್ನು ಸಂಪರ್ಕಿಸಿ.</item>
+        <item>UK CMA ಗೆ ವರದಿ ಮಾಡಿ.</item>
+        <item>ಬ್ರೆಜಿಲ್ ಮೊದಲ ಜಾರಿ ತರಂಗದಲ್ಲಿದೆ.</item>
+        <item>ಸಿಂಗಾಪುರ ಮೊದಲ ಜಾರಿ ತರಂಗದಲ್ಲಿದೆ.</item>
+        <item>ಥೈಲ್ಯಾಂಡ್ ಮೊದಲ ಜಾರಿ ತರಂಗದಲ್ಲಿದೆ.</item>
+        <item>ಇಂಡೋನೇಷ್ಯಾ ಮೊದಲ ಜಾರಿ ತರಂಗದಲ್ಲಿದೆ.</item>
+        <item>ಆಸ್ಟ್ರೇಲಿಯನ್ ಸ್ಪರ್ಧೆ ಮತ್ತು ಗ್ರಾಹಕ ಆಯೋಗಕ್ಕೆ ವರದಿ ಮಾಡಿ.</item>
+        <item>ಸ್ಪರ್ಧಾತ್ಮಕ ಬ್ಯೂರೋಗೆ ದೂರು ಸಲ್ಲಿಸಿ.</item>
+        <item>ವಿರೋಧಿ ಸ್ಪರ್ಧಾತ್ಮಕ ನಡವಳಿಕೆಯ ಬಗ್ಗೆ CCI ಅನ್ನು ಸಂಪರ್ಕಿಸಿ.</item>
+        <item>JFTC / ಮೊಬೈಲ್ ಸಾಫ್ಟ್‌ವೇರ್ ಸ್ಪರ್ಧೆ ಕಾಯಿದೆ ಡೆಸ್ಕ್ ಅನ್ನು ಸಂಪರ್ಕಿಸಿ.</item>
+        <item>KFTC ಅನ್ನು ಸಂಪರ್ಕಿಸಿ.</item>
+        <item>ಮೆಕ್ಸಿಕೋದಲ್ಲಿ ಆಂಟಿಟ್ರಸ್ಟ್ ದೂರನ್ನು ದಾಖಲಿಸಿ.</item>
+        <item>ಸ್ಪರ್ಧಾತ್ಮಕ ವಿರೋಧಿ ನಡವಳಿಕೆಯನ್ನು ವರದಿ ಮಾಡಿ.</item>
+        <item>ತೈವಾನ್ FTC ಅನ್ನು ಸಂಪರ್ಕಿಸಿ.</item>
+        <item>ಕಾನೂನುಬಾಹಿರ ಅಭ್ಯಾಸಗಳನ್ನು ವರದಿ ಮಾಡಿ.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>ಜಾಗತಿಕ</item>
+        <item>ಜಾಗತಿಕ</item>
+        <item>ಯುರೋಪ್</item>
+        <item>ಯುರೋಪ್</item>
+        <item>ಜಾಗತಿಕ</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>ಎಲೆಕ್ಟ್ರಾನಿಕ್ ಫ್ರಾಂಟಿಯರ್ ಫೌಂಡೇಶನ್</item>
+        <item>ಉಚಿತ ಸಾಫ್ಟ್‌ವೇರ್ ಫೌಂಡೇಶನ್</item>
+        <item>ಉಚಿತ ಸಾಫ್ಟ್‌ವೇರ್ ಫೌಂಡೇಶನ್ ಯುರೋಪ್</item>
+        <item>ಯುರೋಪಿಯನ್ ಡಿಜಿಟಲ್ ಹಕ್ಕುಗಳು (EDRi)</item>
+        <item>ಸಾಫ್ಟ್‌ವೇರ್ ಫ್ರೀಡಂ ಕನ್ಸರ್ವೆನ್ಸಿ</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>ಅಪ್ಲಿಕೇಶನ್ ಗೇಟ್ ಕೀಪಿಂಗ್ ಮತ್ತು ಇಂಟರ್ನೆಟ್ ಸೆನ್ಸಾರ್ಶಿಪ್.</item>
+        <item>ಸಾಫ್ಟ್ವೇರ್ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಬಳಕೆದಾರರ ನಿಯಂತ್ರಣ.</item>
+        <item>ಯುರೋಪ್ನಲ್ಲಿ ಸಾಫ್ಟ್ವೇರ್ ಸ್ವಾತಂತ್ರ್ಯ.</item>
+        <item>ಡಿಜಿಟಲ್ ಹಕ್ಕುಗಳ ಸಮರ್ಥನೆ.</item>
+        <item>ಸಮುದಾಯ-ಚಾಲಿತ ಉಚಿತ ಸಾಫ್ಟ್‌ವೇರ್.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">ನನ್ನ ಸರ್ಕಾರ</string>
+    <string name="letter_subject" formatted="false">Google ನ Android ಡೆವಲಪರ್ ಪರಿಶೀಲನೆ ಲಾಕ್‌ಡೌನ್ ಅನ್ನು ನಿಲ್ಲಿಸಿ</string>
+    <string name="letter_template">ಆತ್ಮೀಯ %1$s ಪ್ರತಿನಿಧಿ,\n\nನಾನು ಸಂಬಂಧಪಟ್ಟ Android ಬಳಕೆದಾರರಾಗಿ ಮತ್ತು ನಿಮ್ಮ ಅಧಿಕಾರ ವ್ಯಾಪ್ತಿಯ ನಾಗರಿಕನಾಗಿ ಬರೆಯುತ್ತಿದ್ದೇನೆ.\n\nGoogle ನ Android ಡೆವಲಪರ್ ಪರಿಶೀಲನೆ ಪ್ರೋಗ್ರಾಂ, ಸೆಪ್ಟೆಂಬರ್ 30, 2026 ರಿಂದ ಹಲವಾರು ಮಾರುಕಟ್ಟೆಗಳಲ್ಲಿ ಜಾರಿಗೊಳಿಸಲಾಗಿದೆ ಮತ್ತು 2027 ರಲ್ಲಿ ಜಾಗತಿಕವಾಗಿ ವಿಸ್ತರಿಸುತ್ತಿದೆ, ಪ್ರಮಾಣೀಕೃತ ಸಾಧನಗಳಲ್ಲಿ ಸ್ಥಾಪಿಸುವ ಮೊದಲು ಪ್ರತಿ Android ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಕೇಂದ್ರೀಯವಾಗಿ ಪರಿಶೀಲಿಸಿದ ಡೆವಲಪರ್‌ಗೆ ನೋಂದಾಯಿಸುವ ಅಗತ್ಯವಿದೆ. ಡೆವಲಪರ್‌ಗಳು ಸರ್ಕಾರಿ ಗುರುತನ್ನು ಸಲ್ಲಿಸಬೇಕು, Google ನ ನಿಯಮಗಳಿಗೆ ಸಮ್ಮತಿಸಬೇಕು, ಶುಲ್ಕವನ್ನು ಪಾವತಿಸಬೇಕು ಮತ್ತು ಪ್ರತಿ ಪ್ರಸ್ತುತ ಮತ್ತು ಭವಿಷ್ಯದ ಅಪ್ಲಿಕೇಶನ್ ಗುರುತಿಸುವಿಕೆಯನ್ನು ಪಟ್ಟಿ ಮಾಡಬೇಕು.\n\nಇದು ಅರ್ಥಪೂರ್ಣವಾಗಿ ಭದ್ರತೆಯನ್ನು ಸುಧಾರಿಸುವುದಿಲ್ಲ. ಜನರು ತಮ್ಮ ಮಾಲೀಕತ್ವದ ಸಾಧನಗಳಲ್ಲಿ ಯಾವ ಸಾಫ್ಟ್‌ವೇರ್ ಅನ್ನು ಚಲಾಯಿಸಲು ಅನುಮತಿಸಲಾಗಿದೆ ಎಂಬುದನ್ನು ನಿರ್ಧರಿಸುವ ಅಧಿಕಾರವನ್ನು ಇದು ಒಂದೇ ಖಾಸಗಿ ಕಂಪನಿಗೆ ಹಸ್ತಾಂತರಿಸುತ್ತದೆ ಮತ್ತು ಇದು ಎಫ್-ಡ್ರಾಯ್ಡ್‌ನಂತಹ ಸ್ವತಂತ್ರ ಮತ್ತು ಮುಕ್ತ-ಮೂಲ ವಿತರಣೆಗೆ ಬೆದರಿಕೆ ಹಾಕುತ್ತದೆ, ಅದು ಅನುಸರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ ಮತ್ತು ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ.\n\nನಾನು ನಿಮ್ಮನ್ನು ಗೌರವದಿಂದ ಕೇಳುತ್ತೇನೆ:\n\n1. ಈ ಕಾರ್ಯಕ್ರಮವು ಸ್ಪರ್ಧಾತ್ಮಕ-ವಿರೋಧಿಯಾಗಿದೆಯೇ ಮತ್ತು ಗೇಟ್‌ಕೀಪರ್ ಹುದ್ದೆಯ ದುರುಪಯೋಗವಾಗಿದೆಯೇ ಎಂದು ತನಿಖೆ ಮಾಡಿ.\n2. ಮುಕ್ತ ಮೂಲ ಮತ್ತು ವಾಣಿಜ್ಯೇತರ ವಿತರಣೆಯನ್ನು ವಿನಾಯಿತಿ ನೀಡಲು ಮತ್ತು ಕೇಂದ್ರೀಕೃತ ನೋಂದಣಿಯಿಂದ ಸೈಡ್‌ಲೋಡ್ ಮಾಡುವುದನ್ನು ಇರಿಸಿಕೊಳ್ಳಲು Google ಅನ್ನು ಒತ್ತಿರಿ.\n3. ಅವರು ಖರೀದಿಸಿದ ಹಾರ್ಡ್‌ವೇರ್‌ನಲ್ಲಿ ತಮ್ಮ ಆಯ್ಕೆಯ ಸಾಫ್ಟ್‌ವೇರ್ ಅನ್ನು ಚಲಾಯಿಸಲು ಬಳಕೆದಾರರ ಹಕ್ಕನ್ನು ರಕ್ಷಿಸಿ.\n\nದಯವಿಟ್ಟು ಈ ಸಂದೇಶವನ್ನು ಬರವಣಿಗೆಯಲ್ಲಿ ಅಂಗೀಕರಿಸಿ ಮತ್ತು ನಿಮ್ಮ ಕಛೇರಿಯು ಯಾವ ಕ್ರಮ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ ಎಂಬುದನ್ನು ನನಗೆ ತಿಳಿಸಿ.\n\nನಾನು %2$s ನಲ್ಲಿ Keep Android ಓಪನ್ ಅಭಿಯಾನವನ್ನು ಸಹ ನಕಲಿಸುತ್ತಿದ್ದೇನೆ.\n\nವಿಧೇಯಪೂರ್ವಕವಾಗಿ,\n[ನಿಮ್ಮ ಹೆಸರು]\n[ನಿಮ್ಮ ನಗರ ಮತ್ತು ದೇಶ]</string>
+    <string name="toast_no_app" formatted="false">ಯಾವುದೇ ಅಪ್ಲಿಕೇಶನ್ ಈ ಲಿಂಕ್ ಅನ್ನು ತೆರೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+    <string name="toast_no_email" formatted="false">ಯಾವುದೇ ಇಮೇಲ್ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಸ್ಥಾಪಿಸಲಾಗಿಲ್ಲ</string>
+    <string name="chooser_send_email" formatted="false">ಇಮೇಲ್ ಕಳುಹಿಸಿ</string>
+    <string name="chooser_share" formatted="false">ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="toast_copied" formatted="false">ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸಲಾಗಿದೆ</string>
+    <string name="settings_title" formatted="false">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="settings_language_title" formatted="false">ಅಪ್ಲಿಕೇಶನ್ ಭಾಷೆ</string>
+    <string name="settings_language_summary" formatted="false">ಅಪ್ಲಿಕೇಶನ್ ಬಳಸುವ ಭಾಷೆಯನ್ನು ಆರಿಸಿ. ನಿಮ್ಮ ಸಾಧನದ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಂದಲೂ ನೀವು ಅದನ್ನು ಬದಲಾಯಿಸಬಹುದು.</string>
+    <string name="settings_system_default" formatted="false">ಸಿಸ್ಟಮ್ ಡೀಫಾಲ್ಟ್</string>
+    <string name="settings_language_search" formatted="false">ಭಾಷೆಗಳನ್ನು ಹುಡುಕಿ</string>
+    <string name="settings_theme_title" formatted="false">ಥೀಮ್</string>
+    <string name="settings_theme_summary" formatted="false">ಅಪ್ಲಿಕೇಶನ್ ಹೇಗೆ ಕಾಣುತ್ತದೆ ಎಂಬುದನ್ನು ಆರಿಸಿ.</string>
+    <string name="theme_system" formatted="false">ವ್ಯವಸ್ಥೆಯನ್ನು ಅನುಸರಿಸಿ</string>
+    <string name="theme_light" formatted="false">ಬೆಳಕು</string>
+    <string name="theme_dark" formatted="false">ಕತ್ತಲು</string>
+    <string name="theme_amoled" formatted="false">AMOLED (ಶುದ್ಧ ಕಪ್ಪು)</string>
+    <string name="settings_accent_title" formatted="false">ಉಚ್ಚಾರಣಾ ಬಣ್ಣ</string>
+    <string name="settings_accent_summary" formatted="false">ಅಪ್ಲಿಕೇಶನ್‌ನಾದ್ಯಂತ ಬಳಸಿದ ಹೈಲೈಟ್ ಬಣ್ಣವನ್ನು ಆರಿಸಿ.</string>
+    <string name="accent_default" formatted="false">ಡೀಫಾಲ್ಟ್ (ಪ್ರಚಾರ ಕೆಂಪು)</string>
+    <string name="accent_red" formatted="false">ಕೆಂಪು</string>
+    <string name="accent_orange" formatted="false">ಕಿತ್ತಳೆ</string>
+    <string name="accent_yellow" formatted="false">ಹಳದಿ</string>
+    <string name="accent_green" formatted="false">ಹಸಿರು</string>
+    <string name="accent_teal" formatted="false">ಟೀಲ್</string>
+    <string name="accent_blue" formatted="false">ನೀಲಿ</string>
+    <string name="accent_purple" formatted="false">ನೇರಳೆ</string>
+    <string name="accent_pink" formatted="false">ಗುಲಾಬಿ</string>
+    <string name="settings_colorblendr_warning" formatted="false">ಎಚ್ಚರಿಕೆ: ColorBlendr ಅಥವಾ ನೀವು ಅತಿಕ್ರಮಿಸಿದ ಇನ್ನೊಂದು ವಸ್ತು ಸಕ್ರಿಯವಾಗಿದ್ದರೆ, ನೀವು ಅದನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುವವರೆಗೆ ನಿಮ್ಮ ಉಚ್ಚಾರಣಾ ಬಣ್ಣವು ಅನ್ವಯಿಸುವುದಿಲ್ಲ.</string>
+    <string name="settings_about_title" formatted="false">ಬಗ್ಗೆ</string>
+    <string name="settings_version">ಆವೃತ್ತಿ %1$s</string>
+    <string name="settings_open_source" formatted="false">ಮುಕ್ತ ಮೂಲ (MIT). ಅಧಿಕೃತ Keep Android ಓಪನ್ ಅಭಿಯಾನದೊಂದಿಗೆ ಸಂಯೋಜಿತವಾಗಿಲ್ಲ ಅಥವಾ ಅನುಮೋದಿಸಿಲ್ಲ.</string>
+</resources>

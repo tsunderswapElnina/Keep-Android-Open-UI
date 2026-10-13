@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Ukubala wehle</string>
+    <string name="tab_rollout" formatted="false">Ukukhishwa</string>
+    <string name="tab_act_now" formatted="false">Thatha isinyathelo Manje</string>
+    <string name="cd_open_site" formatted="false">Vula i-keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Izilungiselelo</string>
+    <string name="cd_back" formatted="false">Emuva</string>
+    <string name="countdown_campaign" formatted="false">Ukubala wehla komkhankaso</string>
+    <string name="countdown_elapsed" formatted="false">Isikhathi sidlulile selokhu umkhankaso uye esidlangalaleni kuze kube nguJanuwari 1, 2027.</string>
+    <string name="countdown_what_means" formatted="false">Kusho ukuthini ukubala wehle</string>
+    <string name="countdown_read_faq" formatted="false">Funda i-FAQ</string>
+    <string name="countdown_campaign_btn" formatted="false">Umkhankaso</string>
+    <string name="countdown_footnote" formatted="false">Ithagethi yokubala wehle ifana nesibhengezo esishicilelwe kokuthi keepandroidopen.org. Uhlelo lokusebenza lubuyekeza kanye ngesekhondi ngenkathi luvuliwe.</string>
+    <string name="countdown_expired" formatted="false">I-ANDROID MANJE ISEYIPHAKATHI EKHIYIWE PHANSI</string>
+    <string name="countdown_running" formatted="false">I-ANDROID IBA Iplatifomu Ekhiyelwe PHANSI KUYO</string>
+    <string name="unit_days" formatted="false">izinsuku</string>
+    <string name="unit_hours" formatted="false">amahora</string>
+    <string name="unit_minutes" formatted="false">imizuzu</string>
+    <string name="unit_seconds" formatted="false">imizuzwana</string>
+    <string name="rollout_title" formatted="false">Kuyini ukuqinisekiswa kukanjiniyela we-Android?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Kusho ukuthini ngempela</string>
+    <string name="rollout_timeline_title" formatted="false">Umugqa wesikhathi wokukhishwa</string>
+    <string name="rollout_paths_title" formatted="false">Khetha indlela yakho yokuqinisekisa</string>
+    <string name="rollout_advanced_title" formatted="false">“Ukugeleza okuthuthukisiwe” akusona isixazululo</string>
+    <string name="rollout_dev_page" formatted="false">Ikhasi lonjiniyela elisemthethweni le-Google</string>
+    <string name="rollout_open_letter" formatted="false">Funda incwadi evuliwe</string>
+    <string name="label_identity" formatted="false">Ubunikazi</string>
+    <string name="label_distribution" formatted="false">Ukusabalalisa</string>
+    <string name="label_ux" formatted="false">Umuzwa womsebenzisi</string>
+    <string name="label_best_for" formatted="false">Kuhle kakhulu</string>
+    <string name="rollout_summary" formatted="false">I-Android Developer Verification wuhlelo lwe-Google oluxhumanisa lonke uhlelo lokusebenza kumazisi wonjiniyela oqinisekisiwe ngaphambi kokuthi afakwe kumadivayisi e-Android aqinisekisiwe. Onjiniyela kufanele baqinisekise ukuthi bangobani futhi babhalise amagama ephakheji abawashicilelayo. Izinhlelo zokusebenza ezingenaye unjiniyela obhalisiwe, oqinisekisiwe ngeke zisafakwa ngendlela evamile uma ukuvikela sekukhishiwe.</string>
+    <string name="rollout_what_it_means" formatted="false">Ihlala kanzima ekusabalaliseni okuzimele nomthombo ovulekile njenge-F-Droid, ukulanda okuqondile kwe-APK, namaphrojekthi wokuzilibazisa. I-Google ithi imayelana nokuphepha kanye nokumisa i-malware engaziwa. Abagxeki abahlanganisa umkhankaso we-Keep Android Open, i-F-Droid kanye ne-EFF bathi isishintshi sokubulala umlindisango: ukubhaliswa okumaphakathi, i-ID kahulumeni, inkokhelo, kanye nokulawula okugcwele kokuthi idivayisi yakho ivunyelwe ukuthi ithembe ini.</string>
+    <string name="rollout_advanced_note" formatted="false">Ukugeleza okuthuthukile kulethwa ngamasevisi e-Google Play, hhayi i-Android OS, ngakho-ke i-Google ingashintsha, ikukhawulele noma iyisuse noma kunini ngaphandle kwesibuyekezo se-OS noma imvume yomsebenzisi. Ukubambezeleka kwamahora angu-24 kuphazamisa ngamabomu futhi kuyisinyathelo esisodwa esimile phakathi kwakho nesofthiwe okhetha ukuyisebenzisa.</string>
+    <string-array name="timeline_dates">
+        <item>Agasti 25, 2025</item>
+        <item>Mashi 19, 2026</item>
+        <item>Juni 2026</item>
+        <item>Juni 18, 2026</item>
+        <item>Julayi 2026</item>
+        <item>Agasti 2026</item>
+        <item>Septhemba 30, 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Uhlelo luyamenyezelwa</item>
+        <item>\"Ukugeleza okuthuthukisiwe\" kuyembulwa</item>
+        <item>I-Android Developer Verifier ithunyelwa kumadivayisi</item>
+        <item>Ukwethulwa kokuqala kuqinisekisiwe</item>
+        <item>Ama-API kanjiniyela ayavuleka</item>
+        <item>Ikhonsoli yomhlaba wonke, ama-akhawunti anomkhawulo, ukugeleza okuthuthukile</item>
+        <item>Ukuqinisa umthetho kuqala emazweni amane</item>
+        <item>Ukukhishwa komhlaba wonke</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>I-Google imemezela ukuthi kusukela ngo-2027, izinhlelo zokusebenza ze-Android kufanele zibhaliswe kunjiniyela oqinisekisiwe, okuhlanganisa nezinhlelo zokusebenza ezifakwe ngaphandle kwe-Google Play.</item>
+        <item>Abasebenzisi bamandla bathola i-hatch yokuphunyuka enzima ngamabomu: nika amandla Izinketho Zonjiniyela, qinisekisa ukuthi awuphoqwa, qalisa kabusha, bese ulinda amahora angu-24 ngaphambi kokuthi uvumele ukufakwa okungaqinisekisiwe.</item>
+        <item>Isevisi yesistimu engemuva (com.google.android.verifier) ​​iphushwa ngezibuyekezo zesistimu ye-Google ukuya kumadivayisi aqinisekisiwe futhi ihlala ithule kuze kube yilapho isetshenziswa.</item>
+        <item>I-Google iqinisekisa ukuthi ukusebenza kuqale ngoSepthemba 30, 2026, kuzo zonke izitolo eziyisikhombisa nasemazweni amane.</item>
+        <item>I-Android Developer ID Status API yethulwa emhlabeni jikelele futhi ukufinyelela kwangaphambi kwesikhathi kuqala ku-Android Developer Console API nama-akhawunti okusabalalisa anomkhawulo.</item>
+        <item>Ama-akhawunti okusabalalisa anomkhawulo (mahhala, kufikela kumadivayisi angama-20, awekho ama-ID kahulumeni) kanye ne-Console API yethulwa emhlabeni wonke. Ukugeleza okuthuthukisiwe kokulayisha eceleni okungaqinisekisiwe kuqala ukuphuma.</item>
+        <item>Ukuvikela kuba bukhoma kubasebenzisi base-Brazil, Indonesia, Singapore nase-Thailand kumadivayisi anesitifiketi asebenzisa i-Android 7+. Izinhlelo zokusebenza eziphuma konjiniyela abangaqinisekisiwe zivinjiwe ezitolo ezibamba iqhaza: I-Google Play, i-HONOR App Market, i-OPPO App Market, i-Galaxy Store, i-Palm Store, i-V-Appstore ne-GetApps.</item>
+        <item>Ukuqinisekisa kunwetshiwe kuzo zonke izinhlelo zokusebenza nezifunda. Gcina i-Android Open ibala kuze kube nguJanuwari 1, 2027, lapho i-Android iba inkundla evaliwe.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Ukusatshalaliswa okugcwele</item>
+        <item>Ukusabalalisa okulinganiselwe</item>
+        <item>Ilayisha eceleni izinhlelo zokusebenza ezingabhalisiwe</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Yebo - I-ID kahulumeni kanye nenkokhelo</item>
+        <item>Cha — ayikho i-ID noma imali yokubhalisa</item>
+        <item>Cha - kodwa ukungqubuzana okuphezulu</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Noma yisiphi isitolo noma isiteshi osikhethayo</item>
+        <item>Amadivayisi afinyelela kwangu-20 ngekhodi ye-QR noma isixhumanisi sokuxhawula</item>
+        <item>I-ADB (ikhululiwe) noma ukugeleza okuthuthukisiwe</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Akukho okushintshile kubasebenzisi bakho</item>
+        <item>Abasebenzisi bamukela isimemo sokufaka esivela kunjiniyela abamaziyo</item>
+        <item>Izinketho zikanjiniyela, qala kabusha, linda amahora angama-24, bese ufaka noma kunjalo</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Izinhlangano nabathuthukisi abangochwepheshe</item>
+        <item>Abafundi, abathanda ukuzilibazisa kanye nokusetshenziswa komuntu siqu</item>
+        <item>Onjiniyela abangaqinisekisiwe nabasebenzisi bamandla</item>
+    </string-array>
+    <string name="act_title" formatted="false">Thatha isinyathelo manje - yenza izwi lakho lizwakale</string>
+    <string name="act_intro">Abalawuli bafuna ukuzwa kubantu abathintekayo. Iba nesizotha futhi ucacise, bhala ngolimi olusemthethweni lomzimba oxhumana naye, cela ukuvuma okubhaliwe, bese ukopisha i-%1$s ukuze umkhankaso ukwazi ukulandelela ukunqoba.</string>
+    <string name="act_open_composer" formatted="false">Vula umqambi we-imeyili</string>
+    <string name="act_copy" formatted="false">Kopisha</string>
+    <string name="act_share" formatted="false">Yabelana</string>
+    <string name="act_clipboard_label" formatted="false">Gcina incwadi ye-Android Open</string>
+    <string name="act_us_title" formatted="false">United States — thumela i-imeyili kuhulumeni</string>
+    <string name="act_us_intro" formatted="false">Umnyango Wezobulungiswa kanye ne-FTC bathatha imibiko yokungathembeki ngamafomu aku-inthanethi. Zisebenzise, ​​bese uthintana nommeleli wakho kanye nezigele ngqo.</string>
+    <string name="act_world_title" formatted="false">Kwenye indawo emhlabeni</string>
+    <string name="act_groups_title" formatted="false">Amaqembu wamalungelo abathengi nawedijithali</string>
+    <string name="act_more_title" formatted="false">Izindlela eziningi zokusiza</string>
+    <string name="act_more_body" formatted="false">• Faka i-F-Droid kumadivayisi akho.\n• Phendula inhlolovo yokuqinisekisa kanjiniyela ye-Google.\n• Thumela ezinkundleni zokuxhumana futhi uxhume ku-keepandroidopen.org.\n• Sayina isicelo se-change.org.\n• Engeza isibhengezo sokubala wehle kuwebhusayithi yakho.</string>
+    <string name="act_all_actions" formatted="false">Zonke izenzo ku-keepandroidopen.org</string>
+    <string name="action_email" formatted="false">I-imeyili</string>
+    <string name="action_open" formatted="false">Vula</string>
+    <string-array name="us_contact_regions">
+        <item>I-united states</item>
+        <item>I-united states</item>
+        <item>I-united states</item>
+        <item>I-united states</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Umnyango Wezobulungiswa wase-US - I-Antitrust Division</item>
+        <item>I-US Federal Trade Commission - I-Antitrust</item>
+        <item>Thola Omele Indlu yakho</item>
+        <item>Xhumana namaSenatha akho ase-US</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Thumela umbiko wokungathembeki ku-inthanethi.</item>
+        <item>Faka isikhalazo sokungathembeki.</item>
+        <item>Xhumana nommeleli wakho e-US House.</item>
+        <item>Thola futhi uthinte zombili izigele zesifunda sakho.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>iyuniyani yase-Europe</item>
+        <item>iyuniyani yase-Europe</item>
+        <item>i-United Kingdom</item>
+        <item>Brazil</item>
+        <item>Singapore</item>
+        <item>Thailand</item>
+        <item>I-Indonesia</item>
+        <item>Australia</item>
+        <item>Canada</item>
+        <item>I-India</item>
+        <item>Japan</item>
+        <item>INingizimu Korea</item>
+        <item>eMexico</item>
+        <item>I-Aotearoa / New Zealand</item>
+        <item>I-Taiwan</item>
+        <item>eSwitzerland</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>I-EU Antitrust (DG COMP)</item>
+        <item>Ithimba le-Digital Markets Act</item>
+        <item>I-Competition &amp; Markets Authority</item>
+        <item>I-CADE</item>
+        <item>I-CCCS</item>
+        <item>Ikhomishini Yezokuncintisana Kwezohwebo (OTCC)</item>
+        <item>I-KPPU</item>
+        <item>I-ACCC</item>
+        <item>Competition Bureau eCanada</item>
+        <item>Ikhomishini Yezokuncintisana yaseNdiya</item>
+        <item>Ikhomishini Yezohwebo YaseJapan</item>
+        <item>Korea Fair Trade Commission</item>
+        <item>I-Comisión Nacional Antimonopolio</item>
+        <item>Ikhomishini Yezohwebo</item>
+        <item>Ikhomishini Yezohwebo Olulungile</item>
+        <item>Ikhomishini Yezokuncintisana (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Thumela i-imeyili isiphathimandla sokuncintisana seKhomishini YaseYurophu.</item>
+        <item>Xhumana nedeski losizo lesakhamuzi sase-EU DMA.</item>
+        <item>Bika ku-CMA yase-UK.</item>
+        <item>IBrazil isesigabeni sokuqala sokuphoqelela.</item>
+        <item>I-Singapore ikwigagasi lokuqala lokuphoqelela.</item>
+        <item>I-Thailand ikwigagasi lokuqala lokuphoqelela.</item>
+        <item>I-Indonesia isesigabeni sokuqala sokuqinisa umthetho.</item>
+        <item>Bika kuKhomishana yase-Australia yokuncintisana kanye nabathengi.</item>
+        <item>Faka isikhalazo ku-Competition Bureau.</item>
+        <item>Xhumana ne-CCI mayelana nokuziphatha okungahambisani nokuncintisana.</item>
+        <item>Xhumana nedeski le-JFTC / Mobile Software Competition Act.</item>
+        <item>Xhumana ne-KFTC.</item>
+        <item>Faka isikhalazo sokungathembeki e-Mexico.</item>
+        <item>Bika ukuziphatha okungahambisani nokuncintisana.</item>
+        <item>Xhumana ne-Taiwan FTC.</item>
+        <item>Bika izinqubo ezingekho emthethweni.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Umhlaba jikelele</item>
+        <item>Umhlaba jikelele</item>
+        <item>EYurophu</item>
+        <item>EYurophu</item>
+        <item>Umhlaba jikelele</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>I-Electronic Frontier Foundation</item>
+        <item>Isisekelo Sesoftware Yamahhala</item>
+        <item>I-Free Software Foundation Europe</item>
+        <item>Amalungelo Edijithali YaseYurophu (EDRi)</item>
+        <item>I-Software Freedom Conservancy</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Ukugcinwa kwesango lohlelo lokusebenza nokuhlolwa kwe-inthanethi.</item>
+        <item>Inkululeko yesofthiwe nokulawula komsebenzisi.</item>
+        <item>Inkululeko yesoftware eYurophu.</item>
+        <item>Ukumela amalungelo edijithali.</item>
+        <item>Isofthiwe yamahhala eqhutshwa umphakathi.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">uhulumeni wami</string>
+    <string name="letter_subject" formatted="false">Misa i-Google\'s Android Developer Verification lockdown</string>
+    <string name="letter_template">%1$s omele othandekayo,\n\nNgibhala njengomsebenzisi we-Android okhathazekile futhi njengesakhamuzi esisendaweni yakho.\n\nUhlelo lwe-Google Lokuqinisekisa Unjiniyela we-Android, oluphoqelelwe kusukela ngomhlaka-30 Septhemba 2026 ezimakethe ezimbalwa futhi lwanda emhlabeni jikelele ngo-2027, luzodinga ukuthi lonke uhlelo lokusebenza lwe-Android lubhaliswe kunjiniyela oqinisekisiwe ngaphambi kokuthi lufakwe kumadivayisi anesitifiketi. Onjiniyela kufanele bathumele ukuhlonza kukahulumeni, bavumelane nemigomo ye-Google, bakhokhe imali futhi bafake ohlwini zonke izihlonzi zohlelo lokusebenza zamanje nezesikhathi esizayo.\n\nLokhu akuthuthukisi ukuphepha ngokunenjongo. Inikeza inkampani eyodwa yangasese amandla okunquma ukuthi iyiphi isofthiwe abantu abavunyelwe ukuyisebenzisa kumadivayisi abangawabo, futhi isongela ukusatshalaliswa komthombo ozimele novulekile njenge-F-Droid, engakwazi ukuthobela futhi ingase iphele.\n\nNgiyakucela ngenhlonipho ukuthi:\n\n1. Phenya ukuthi lolu hlelo aluhambisani nokuncintisana futhi luhlanganisa ukuhlukumeza isikhundla somgcini-sango.\n2. Cindezela i-Google ukuze ukhulule umthombo ovulekile nokungasakazwa kokuthengisa, futhi ugcine ukulayisha eceleni kungenakubhaliswa okumaphakathi.\n3. Vikela ilungelo labasebenzisi lokusebenzisa isofthiwe abayikhethayo ku-hardware abayithengile.\n\nNgicela uvume lo mlayezo ngokubhala futhi ungazise ukuthi ihhovisi lakho lithatha siphi isinyathelo.\n\nFuthi ngikopisha umkhankaso we-Keep Android Open ku-%2$s.\n\nOzithobayo,\n[Igama lakho]\n[Idolobha lakho nezwe]</string>
+    <string name="toast_no_app" formatted="false">Alukho uhlelo lokusebenza olungavula lesi sixhumanisi</string>
+    <string name="toast_no_email" formatted="false">Alukho uhlelo lokusebenza lwe-imeyili olufakiwe</string>
+    <string name="chooser_send_email" formatted="false">Thumela i-imeyili</string>
+    <string name="chooser_share" formatted="false">Yabelana</string>
+    <string name="toast_copied" formatted="false">Ikopishelwe ebhodini lokunamathisela</string>
+    <string name="settings_title" formatted="false">Izilungiselelo</string>
+    <string name="settings_language_title" formatted="false">Ulimi lohlelo lokusebenza</string>
+    <string name="settings_language_summary" formatted="false">Khetha ulimi olusetshenziswa uhlelo lokusebenza. Ungakwazi futhi ukuyishintsha kusukela kuzilungiselelo zedivayisi yakho.</string>
+    <string name="settings_system_default" formatted="false">Okuzenzakalelayo kwesistimu</string>
+    <string name="settings_language_search" formatted="false">Sesha izilimi</string>
+    <string name="settings_theme_title" formatted="false">Itimu</string>
+    <string name="settings_theme_summary" formatted="false">Khetha ukuthi uhlelo lokusebenza lubukeka kanjani.</string>
+    <string name="theme_system" formatted="false">Landela uhlelo</string>
+    <string name="theme_light" formatted="false">Ukukhanya</string>
+    <string name="theme_dark" formatted="false">Kumnyama</string>
+    <string name="theme_amoled" formatted="false">I-AMOLED (okumnyama okumsulwa)</string>
+    <string name="settings_accent_title" formatted="false">Umbala we-accent</string>
+    <string name="settings_accent_summary" formatted="false">Khetha umbala ogqanyisiwe osetshenziswa kuhlelo lokusebenza lonkana.</string>
+    <string name="accent_default" formatted="false">Okuzenzakalelayo (okubomvu komkhankaso)</string>
+    <string name="accent_red" formatted="false">Okubomvu</string>
+    <string name="accent_orange" formatted="false">iwolintshi</string>
+    <string name="accent_yellow" formatted="false">Okuphuzi</string>
+    <string name="accent_green" formatted="false">Okuhlaza</string>
+    <string name="accent_teal" formatted="false">I-Teal</string>
+    <string name="accent_blue" formatted="false">Okuluhlaza okwesibhakabhaka</string>
+    <string name="accent_purple" formatted="false">Okunsomi</string>
+    <string name="accent_pink" formatted="false">Okuphinki</string>
+    <string name="settings_colorblendr_warning" formatted="false">Qaphela: uma i-ColourBlendr noma enye impahla oyibhala ngaphezulu isebenza, umbala wakho wephimbo ungase ungasebenzi uze uyicime.</string>
+    <string name="settings_about_title" formatted="false">Mayelana</string>
+    <string name="settings_version">Inguqulo %1$s</string>
+    <string name="settings_open_source" formatted="false">Umthombo ovulekile (MIT). Ayihlobene noma ayivunyelwe umkhankaso osemthethweni we-Keep Android Open.</string>
+</resources>

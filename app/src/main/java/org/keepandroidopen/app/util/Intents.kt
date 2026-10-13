@@ -7,6 +7,7 @@ import android.content.Context
 import android.content.Intent
 import android.net.Uri
 import android.widget.Toast
+import org.keepandroidopen.app.R
 
 fun Context.openUrl(url: String) {
     try {
@@ -14,7 +15,7 @@ fun Context.openUrl(url: String) {
             Intent(Intent.ACTION_VIEW, Uri.parse(url)).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
         )
     } catch (e: ActivityNotFoundException) {
-        toast("No app can open this link")
+        toast(getString(R.string.toast_no_app))
     }
 }
 
@@ -32,9 +33,9 @@ fun Context.sendEmail(
         putExtra(Intent.EXTRA_TEXT, body)
     }
     try {
-        startActivity(Intent.createChooser(intent, "Send email"))
+        startActivity(Intent.createChooser(intent, getString(R.string.chooser_send_email)))
     } catch (e: ActivityNotFoundException) {
-        toast("No email app is installed")
+        toast(getString(R.string.toast_no_email))
     }
 }
 
@@ -44,13 +45,13 @@ fun Context.shareText(subject: String, body: String) {
         putExtra(Intent.EXTRA_SUBJECT, subject)
         putExtra(Intent.EXTRA_TEXT, body)
     }
-    startActivity(Intent.createChooser(intent, "Share"))
+    startActivity(Intent.createChooser(intent, getString(R.string.chooser_share)))
 }
 
 fun Context.copyToClipboard(label: String, text: String) {
     val clipboard = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
     clipboard.setPrimaryClip(ClipData.newPlainText(label, text))
-    toast("Copied to clipboard")
+    toast(getString(R.string.toast_copied))
 }
 
 private fun Context.toast(message: String) {

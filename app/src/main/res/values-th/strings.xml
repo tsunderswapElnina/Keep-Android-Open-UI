@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">นับถอยหลัง</string>
+    <string name="tab_rollout" formatted="false">การเปิดตัว</string>
+    <string name="tab_act_now" formatted="false">ลงมือเลย</string>
+    <string name="cd_open_site" formatted="false">เปิด Keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">การตั้งค่า</string>
+    <string name="cd_back" formatted="false">กลับ</string>
+    <string name="countdown_campaign" formatted="false">นับถอยหลังแคมเปญ</string>
+    <string name="countdown_elapsed" formatted="false">เวลาที่ผ่านไปนับตั้งแต่การรณรงค์เผยแพร่สู่สาธารณะจนถึงวันที่ 1 มกราคม 2027</string>
+    <string name="countdown_what_means" formatted="false">การนับถอยหลังหมายถึงอะไร</string>
+    <string name="countdown_read_faq" formatted="false">อ่านคำถามที่พบบ่อย</string>
+    <string name="countdown_campaign_btn" formatted="false">การรณรงค์</string>
+    <string name="countdown_footnote" formatted="false">เป้าหมายการนับถอยหลังตรงกับแบนเนอร์ที่เผยแพร่ที่ Keepandroidopen.org แอปจะอัปเดตหนึ่งครั้งต่อวินาทีในขณะที่เปิดอยู่</string>
+    <string name="countdown_expired" formatted="false">Android กลายเป็นแพลตฟอร์มที่ถูกล็อคแล้ว</string>
+    <string name="countdown_running" formatted="false">Android กลายเป็นแพลตฟอร์มที่ถูกล็อคใน</string>
+    <string name="unit_days" formatted="false">วัน</string>
+    <string name="unit_hours" formatted="false">ชั่วโมง</string>
+    <string name="unit_minutes" formatted="false">นาที</string>
+    <string name="unit_seconds" formatted="false">วินาที</string>
+    <string name="rollout_title" formatted="false">การยืนยันนักพัฒนา Android คืออะไร?</string>
+    <string name="rollout_what_it_means_title" formatted="false">มันหมายถึงอะไรจริงๆ</string>
+    <string name="rollout_timeline_title" formatted="false">ไทม์ไลน์การเปิดตัว</string>
+    <string name="rollout_paths_title" formatted="false">เลือกเส้นทางการยืนยันของคุณ</string>
+    <string name="rollout_advanced_title" formatted="false">“กระแสขั้นสูง” ไม่ใช่วิธีแก้ปัญหา</string>
+    <string name="rollout_dev_page" formatted="false">หน้านักพัฒนาซอฟต์แวร์อย่างเป็นทางการของ Google</string>
+    <string name="rollout_open_letter" formatted="false">อ่านจดหมายเปิดผนึก</string>
+    <string name="label_identity" formatted="false">ตัวตน</string>
+    <string name="label_distribution" formatted="false">การกระจาย</string>
+    <string name="label_ux" formatted="false">ประสบการณ์ผู้ใช้</string>
+    <string name="label_best_for" formatted="false">ดีที่สุดสำหรับ</string>
+    <string name="rollout_summary" formatted="false">การยืนยันนักพัฒนาซอฟต์แวร์ Android คือโปรแกรมของ Google ที่เชื่อมโยงทุกแอปกับข้อมูลระบุตัวตนของนักพัฒนาที่ได้รับการตรวจสอบก่อนจึงจะสามารถติดตั้งบนอุปกรณ์ Android ที่ผ่านการรับรองได้ นักพัฒนาจะต้องตรวจสอบว่าตนเองเป็นใครและลงทะเบียนชื่อแพ็คเกจที่พวกเขาเผยแพร่ แอปที่ไม่มีนักพัฒนาที่ลงทะเบียนและได้รับการยืนยันจะไม่สามารถติดตั้งตามปกติได้อีกต่อไปเมื่อการป้องกันเริ่มใช้</string>
+    <string name="rollout_what_it_means" formatted="false">มันยากที่สุดในการเผยแพร่อิสระและโอเพ่นซอร์ส เช่น F-Droid การดาวน์โหลด APK โดยตรง และโปรเจ็กต์งานอดิเรก Google กล่าวว่ามันเป็นเรื่องของความปลอดภัยและการหยุดมัลแวร์ที่ไม่เปิดเผยตัวตน นักวิจารณ์รวมถึงแคมเปญ Keep Android Open, F-Droid และ EFF กล่าวว่ามันเป็น kill switch ของผู้รักษาประตู: การลงทะเบียนกลาง, รหัสรัฐบาล, ค่าธรรมเนียม และการควบคุมอย่างเต็มที่ว่าอุปกรณ์ของคุณจะได้รับอนุญาตให้เชื่อถืออะไรได้บ้าง</string>
+    <string name="rollout_advanced_note" formatted="false">ขั้นตอนขั้นสูงจะถูกส่งผ่านบริการ Google Play ไม่ใช่ระบบปฏิบัติการ Android ดังนั้น Google จึงสามารถเปลี่ยนแปลง จำกัด หรือลบออกได้ตลอดเวลาโดยไม่ต้องอัปเดตระบบปฏิบัติการหรือได้รับความยินยอมจากผู้ใช้ การล่าช้า 24 ชั่วโมงเป็นการจงใจก่อกวนและเป็นอีกขั้นตอนหนึ่งที่อยู่ระหว่างคุณกับซอฟต์แวร์ที่คุณเลือกใช้งาน</string>
+    <string-array name="timeline_dates">
+        <item>25 สิงหาคม 2025</item>
+        <item>19 มีนาคม 2569</item>
+        <item>มิถุนายน 2569</item>
+        <item>18 มิถุนายน 2569</item>
+        <item>กรกฎาคม 2026</item>
+        <item>สิงหาคม 2569</item>
+        <item>30 กันยายน 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>ประกาศโปรแกรมแล้ว</item>
+        <item>“กระแสขั้นสูง” ถูกเปิดเผย</item>
+        <item>Android Developer Verifier จัดส่งไปยังอุปกรณ์ต่างๆ</item>
+        <item>ยืนยันการเปิดตัวครั้งแรกแล้ว</item>
+        <item>API สำหรับนักพัฒนาเปิดขึ้น</item>
+        <item>คอนโซลสากล บัญชีแบบจำกัด ขั้นตอนขั้นสูง</item>
+        <item>การบังคับใช้เริ่มต้นในสี่ประเทศ</item>
+        <item>การเปิดตัวทั่วโลก</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google ประกาศว่าตั้งแต่ปี 2027 แอปสำหรับ Android จะต้องลงทะเบียนกับนักพัฒนาซอฟต์แวร์ที่ผ่านการยืนยัน รวมถึงแอปที่ติดตั้งนอก Google Play ด้วย</item>
+        <item>ผู้ใช้ระดับสูงจะได้รับช่องทางหลบหนีที่ยุ่งยากโดยเจตนา: เปิดใช้งานตัวเลือกนักพัฒนา ยืนยันว่าคุณไม่ได้ถูกบังคับ รีสตาร์ท จากนั้นรอ 24 ชั่วโมงก่อนที่คุณจะอนุญาตการติดตั้งที่ไม่ได้รับการยืนยัน</item>
+        <item>บริการระบบพื้นหลัง (com.google.android.verifier) ​​ถูกส่งผ่านการอัปเดตระบบของ Google ไปยังอุปกรณ์ที่ผ่านการรับรองและคงอยู่เฉยๆ จนกว่าจะมีการบังคับใช้</item>
+        <item>Google ยืนยันว่าการบังคับใช้จะเริ่มในวันที่ 30 กันยายน 2026 ในร้านค้า 7 แห่งและ 4 ประเทศ</item>
+        <item>API สถานะรหัสนักพัฒนาซอฟต์แวร์ Android เปิดตัวทั่วโลกและเริ่มการเข้าถึงก่อนสำหรับ API คอนโซลนักพัฒนาซอฟต์แวร์ Android และบัญชีการเผยแพร่ที่จำกัด</item>
+        <item>บัญชีการเผยแพร่แบบจำกัด (ฟรี สูงสุด 20 อุปกรณ์ ไม่มีรหัสประจำตัวรัฐบาล) และการเปิดตัว Console API ทั่วโลก ขั้นตอนขั้นสูงสำหรับการโหลดจากแหล่งที่ไม่ได้รับการตรวจสอบจะเริ่มเปิดตัวแล้ว</item>
+        <item>การป้องกันมีผลกับผู้ใช้ในบราซิล อินโดนีเซีย สิงคโปร์ และไทยบนอุปกรณ์ที่ผ่านการรับรองซึ่งใช้ Android 7 ขึ้นไป แอพจากนักพัฒนาที่ไม่ได้รับการยืนยันจะถูกบล็อกในร้านค้าที่เข้าร่วม: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore และ GetApps</item>
+        <item>การยืนยันขยายไปยังแอปและภูมิภาคทั้งหมด Keep Android Open นับถอยหลังจนถึงวันที่ 1 มกราคม 2027 เมื่อ Android กลายเป็นแพลตฟอร์มที่ถูกล็อค</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>กระจายเต็ม</item>
+        <item>จัดจำหน่ายจำนวนจำกัด</item>
+        <item>ไซด์โหลดแอปที่ไม่ได้ลงทะเบียน</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>ใช่ — บัตรประจำตัวรัฐบาลและค่าธรรมเนียม</item>
+        <item>ไม่ — ไม่มี ID หรือค่าธรรมเนียมการลงทะเบียน</item>
+        <item>ไม่ — แต่มีแรงเสียดทานสูง</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>ร้านค้าหรือช่องทางใด ๆ ที่คุณเลือก</item>
+        <item>มากถึง 20 อุปกรณ์ผ่านรหัส QR หรือเชื่อมโยงการจับมือกัน</item>
+        <item>ADB (ยกเว้น) หรือโฟลว์ขั้นสูง</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>ไม่มีการเปลี่ยนแปลงสำหรับผู้ใช้ของคุณ</item>
+        <item>ผู้ใช้ยอมรับคำเชิญให้ติดตั้งจากนักพัฒนาซอฟต์แวร์ที่พวกเขารู้จัก</item>
+        <item>ตัวเลือกสำหรับนักพัฒนา รีสตาร์ท รอ 24 ชั่วโมง จากนั้นจึงทำการติดตั้ง</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>องค์กรและนักพัฒนามืออาชีพ</item>
+        <item>นักศึกษา ผู้ที่ชื่นชอบงานอดิเรก และของใช้ส่วนตัว</item>
+        <item>นักพัฒนาที่ไม่ได้รับการยืนยันและผู้ใช้ระดับสูง</item>
+    </string-array>
+    <string name="act_title" formatted="false">ลงมือเลย — แสดงความคิดเห็นของคุณ</string>
+    <string name="act_intro">หน่วยงานกำกับดูแลต้องการรับฟังความคิดเห็นจากบุคคลที่ได้รับผลกระทบ ใช้ภาษาสุภาพและเฉพาะเจาะจง เขียนด้วยภาษาทางการขององค์กรที่คุณติดต่อ ขอคำรับรองเป็นลายลักษณ์อักษร และคัดลอก %1$s เพื่อให้แคมเปญสามารถติดตามชัยชนะได้</string>
+    <string name="act_open_composer" formatted="false">เปิดตัวเขียนอีเมล</string>
+    <string name="act_copy" formatted="false">สำเนา</string>
+    <string name="act_share" formatted="false">แบ่งปัน</string>
+    <string name="act_clipboard_label" formatted="false">เก็บจดหมายเปิดผนึกของ Android</string>
+    <string name="act_us_title" formatted="false">สหรัฐอเมริกา — ส่งอีเมลถึงรัฐบาล</string>
+    <string name="act_us_intro" formatted="false">กระทรวงยุติธรรมและ FTC จัดทำรายงานการต่อต้านการผูกขาดผ่านแบบฟอร์มออนไลน์ ใช้สิ่งเหล่านี้และติดต่อตัวแทนและวุฒิสมาชิกของคุณเองโดยตรง</string>
+    <string name="act_world_title" formatted="false">ที่อื่นในโลก</string>
+    <string name="act_groups_title" formatted="false">กลุ่มผู้บริโภคและสิทธิ์ดิจิทัล</string>
+    <string name="act_more_title" formatted="false">วิธีการช่วยเหลือเพิ่มเติม</string>
+    <string name="act_more_body" formatted="false">• ติดตั้ง F-Droid บนอุปกรณ์ของคุณ\n• ตอบแบบสำรวจการยืนยันนักพัฒนาซอฟต์แวร์ของ Google\n• โพสต์บนโซเชียลมีเดียและลิงก์ไปยัง Keepandroidopen.org\n• ลงนามในคำร้อง change.org\n• เพิ่มแบนเนอร์นับถอยหลังลงในเว็บไซต์ของคุณ</string>
+    <string name="act_all_actions" formatted="false">การดำเนินการทั้งหมดที่ Keepandroidopen.org</string>
+    <string name="action_email" formatted="false">อีเมล</string>
+    <string name="action_open" formatted="false">เปิด</string>
+    <string-array name="us_contact_regions">
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>กระทรวงยุติธรรมสหรัฐฯ - แผนกต่อต้านการผูกขาด</item>
+        <item>คณะกรรมาธิการการค้าของรัฐบาลกลางสหรัฐ — การต่อต้านการผูกขาด</item>
+        <item>ค้นหาผู้แทนราษฎรของคุณ</item>
+        <item>ติดต่อวุฒิสมาชิกสหรัฐของคุณ</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>ส่งรายงานการต่อต้านการผูกขาดทางออนไลน์</item>
+        <item>ยื่นเรื่องร้องเรียนการต่อต้านการผูกขาด</item>
+        <item>ติดต่อตัวแทนของคุณในสภาผู้แทนราษฎร</item>
+        <item>ค้นหาและติดต่อวุฒิสมาชิกทั้งสองของรัฐของคุณ</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>สหภาพยุโรป</item>
+        <item>สหภาพยุโรป</item>
+        <item>สหราชอาณาจักร</item>
+        <item>บราซิล</item>
+        <item>สิงคโปร์</item>
+        <item>ประเทศไทย</item>
+        <item>อินโดนีเซีย</item>
+        <item>ออสเตรเลีย</item>
+        <item>แคนาดา</item>
+        <item>อินเดีย</item>
+        <item>ญี่ปุ่น</item>
+        <item>เกาหลีใต้</item>
+        <item>เม็กซิโก</item>
+        <item>อาโอเทรัว/นิวซีแลนด์</item>
+        <item>ไต้หวัน</item>
+        <item>สวิตเซอร์แลนด์</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>การต่อต้านการผูกขาดของสหภาพยุโรป (DG COMP)</item>
+        <item>ทีมงานพระราชบัญญัติตลาดดิจิทัล</item>
+        <item>การแข่งขันและอำนาจการตลาด</item>
+        <item>เคด</item>
+        <item>ซีซีซีเอส</item>
+        <item>คณะกรรมการการแข่งขันทางการค้า (สทป.)</item>
+        <item>เคพีพียู</item>
+        <item>เอซีซีซี</item>
+        <item>สำนักงานการแข่งขันแคนาดา</item>
+        <item>คณะกรรมการการแข่งขันของอินเดีย</item>
+        <item>คณะกรรมาธิการการค้าที่เป็นธรรมของญี่ปุ่น</item>
+        <item>คณะกรรมาธิการการค้าที่เป็นธรรมของเกาหลี</item>
+        <item>คณะกรรมการแห่งชาติ Antimonopolio</item>
+        <item>คณะกรรมการพาณิชย์</item>
+        <item>คณะกรรมาธิการการค้าที่เป็นธรรม</item>
+        <item>คณะกรรมการการแข่งขัน (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>ส่งอีเมลถึงหน่วยงานด้านการแข่งขันของคณะกรรมาธิการยุโรป</item>
+        <item>ติดต่อฝ่ายช่วยเหลือพลเมือง EU DMA</item>
+        <item>รายงานต่อ CMA ของสหราชอาณาจักร</item>
+        <item>บราซิลอยู่ในระลอกการบังคับใช้กฎหมายระลอกแรก</item>
+        <item>สิงคโปร์อยู่ในคลื่นการบังคับใช้กฎหมายลูกแรก</item>
+        <item>ประเทศไทยอยู่ในคลื่นการบังคับใช้กฎหมายลูกแรก</item>
+        <item>อินโดนีเซียอยู่ในระลอกการบังคับใช้กฎหมายระลอกแรก</item>
+        <item>รายงานต่อคณะกรรมการการแข่งขันและผู้บริโภคแห่งออสเตรเลีย</item>
+        <item>ยื่นเรื่องร้องเรียนต่อสำนักงานการแข่งขัน</item>
+        <item>ติดต่อ CCI เกี่ยวกับพฤติกรรมต่อต้านการแข่งขัน</item>
+        <item>ติดต่อแผนกพระราชบัญญัติการแข่งขันซอฟต์แวร์ JFTC / มือถือ</item>
+        <item>ติดต่อ กฟท.</item>
+        <item>ยื่นเรื่องร้องเรียนการต่อต้านการผูกขาดในเม็กซิโก</item>
+        <item>รายงานพฤติกรรมต่อต้านการแข่งขัน</item>
+        <item>ติดต่อ FTC ของไต้หวัน</item>
+        <item>รายงานการปฏิบัติที่ผิดกฎหมาย</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>ทั่วโลก</item>
+        <item>ทั่วโลก</item>
+        <item>ยุโรป</item>
+        <item>ยุโรป</item>
+        <item>ทั่วโลก</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>มูลนิธิชายแดนอิเล็กทรอนิกส์</item>
+        <item>มูลนิธิซอฟต์แวร์เสรี</item>
+        <item>มูลนิธิซอฟต์แวร์เสรีแห่งยุโรป</item>
+        <item>สิทธิ์ดิจิทัลแห่งยุโรป (EDRi)</item>
+        <item>การอนุรักษ์เสรีภาพซอฟต์แวร์</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>การเฝ้าประตูแอปและการเซ็นเซอร์อินเทอร์เน็ต</item>
+        <item>เสรีภาพของซอฟต์แวร์และการควบคุมผู้ใช้</item>
+        <item>เสรีภาพด้านซอฟต์แวร์ในยุโรป</item>
+        <item>การสนับสนุนสิทธิดิจิทัล</item>
+        <item>ซอฟต์แวร์ฟรีที่ขับเคลื่อนโดยชุมชน</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">รัฐบาลของฉัน</string>
+    <string name="letter_subject" formatted="false">หยุดการล็อคการยืนยันนักพัฒนา Android ของ Google</string>
+    <string name="letter_template">เรียนตัวแทน %1$s\n\nฉันเขียนถึงในฐานะผู้ใช้ Android ที่เกี่ยวข้องและเป็นพลเมืองในเขตอำนาจศาลของคุณ\n\nโปรแกรมการยืนยันนักพัฒนาซอฟต์แวร์ Android ของ Google ซึ่งบังคับใช้ตั้งแต่วันที่ 30 กันยายน 2026 ในตลาดหลายแห่งและจะขยายไปทั่วโลกในปี 2027 จะกำหนดให้แอป Android ทุกแอปต้องลงทะเบียนกับนักพัฒนาซอฟต์แวร์ที่ได้รับการตรวจสอบจากส่วนกลางก่อนจึงจะสามารถติดตั้งบนอุปกรณ์ที่ได้รับการรับรองได้ นักพัฒนาซอฟต์แวร์จะต้องส่งบัตรประจำตัวที่ออกโดยรัฐบาล ยอมรับข้อกำหนดของ Google ชำระค่าธรรมเนียม และแสดงรายการตัวระบุแอปทุกรายการในปัจจุบันและในอนาคต\n\nสิ่งนี้ไม่ได้ปรับปรุงความปลอดภัยอย่างมีนัยสำคัญ โดยมอบอำนาจให้กับบริษัทเอกชนเพียงแห่งเดียวในการตัดสินใจว่าซอฟต์แวร์ใดที่ได้รับอนุญาตให้ทำงานบนอุปกรณ์ที่พวกเขาเป็นเจ้าของ และคุกคามการเผยแพร่แบบโอเพ่นซอร์สที่เป็นอิสระ เช่น F-Droid ซึ่งไม่สามารถปฏิบัติตามและอาจหยุดอยู่ได้\n\nฉันขอให้คุณด้วยความเคารพ:\n\n1. ตรวจสอบว่าโปรแกรมนี้ต่อต้านการแข่งขันหรือไม่ และถือเป็นการละเมิดตำแหน่งผู้รักษาประตูหรือไม่\n2. กด Google เพื่อยกเว้นการเผยแพร่โอเพ่นซอร์สและไม่ใช่เชิงพาณิชย์ และเพื่อไม่ให้มีการลงทะเบียนแบบรวมศูนย์\n3. ปกป้องสิทธิ์ของผู้ใช้ในการใช้งานซอฟต์แวร์ที่ตนเลือกบนฮาร์ดแวร์ที่ซื้อมา\n\nโปรดรับทราบข้อความนี้เป็นลายลักษณ์อักษรและแจ้งให้เราทราบว่าสำนักงานของคุณดำเนินการอย่างไร\n\nฉันยังคัดลอกแคมเปญ Keep Android Open ที่ %2$s ด้วย\n\nขอแสดงความนับถือ\n[ชื่อของคุณ]\n[เมืองและประเทศของคุณ]</string>
+    <string name="toast_no_app" formatted="false">ไม่มีแอปใดที่สามารถเปิดลิงก์นี้ได้</string>
+    <string name="toast_no_email" formatted="false">ไม่มีการติดตั้งแอปอีเมล</string>
+    <string name="chooser_send_email" formatted="false">ส่งอีเมล</string>
+    <string name="chooser_share" formatted="false">แบ่งปัน</string>
+    <string name="toast_copied" formatted="false">คัดลอกไปยังคลิปบอร์ดแล้ว</string>
+    <string name="settings_title" formatted="false">การตั้งค่า</string>
+    <string name="settings_language_title" formatted="false">ภาษาของแอป</string>
+    <string name="settings_language_summary" formatted="false">เลือกภาษาที่แอปใช้ คุณยังสามารถเปลี่ยนได้จากการตั้งค่าอุปกรณ์ของคุณ</string>
+    <string name="settings_system_default" formatted="false">ค่าเริ่มต้นของระบบ</string>
+    <string name="settings_language_search" formatted="false">ค้นหาภาษา</string>
+    <string name="settings_theme_title" formatted="false">ธีม</string>
+    <string name="settings_theme_summary" formatted="false">เลือกลักษณะของแอป</string>
+    <string name="theme_system" formatted="false">ติดตามระบบ</string>
+    <string name="theme_light" formatted="false">แสงสว่าง</string>
+    <string name="theme_dark" formatted="false">มืด</string>
+    <string name="theme_amoled" formatted="false">AMOLED (สีดำล้วน)</string>
+    <string name="settings_accent_title" formatted="false">สีเน้น</string>
+    <string name="settings_accent_summary" formatted="false">เลือกสีไฮไลต์ที่ใช้ในแอป</string>
+    <string name="accent_default" formatted="false">ค่าเริ่มต้น (แคมเปญสีแดง)</string>
+    <string name="accent_red" formatted="false">สีแดง</string>
+    <string name="accent_orange" formatted="false">ส้ม</string>
+    <string name="accent_yellow" formatted="false">สีเหลือง</string>
+    <string name="accent_green" formatted="false">สีเขียว</string>
+    <string name="accent_teal" formatted="false">นกเป็ดน้ำ</string>
+    <string name="accent_blue" formatted="false">สีฟ้า</string>
+    <string name="accent_purple" formatted="false">สีม่วง</string>
+    <string name="accent_pink" formatted="false">สีชมพู</string>
+    <string name="settings_colorblendr_warning" formatted="false">โปรดทราบ: หาก ColorBlendr หรือวัสดุอื่นที่คุณแทนที่เปิดใช้งานอยู่ สีเฉพาะจุดของคุณอาจไม่สามารถใช้ได้จนกว่าคุณจะปิดใช้งาน</string>
+    <string name="settings_about_title" formatted="false">เกี่ยวกับ</string>
+    <string name="settings_version">เวอร์ชัน %1$s</string>
+    <string name="settings_open_source" formatted="false">โอเพ่นซอร์ส (เอ็มไอที) ไม่มีส่วนเกี่ยวข้องหรือรับรองโดยแคมเปญ Keep Android Open อย่างเป็นทางการ</string>
+</resources>

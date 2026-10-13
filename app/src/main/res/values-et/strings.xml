@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Pöördloendus</string>
+    <string name="tab_rollout" formatted="false">Levitamine</string>
+    <string name="tab_act_now" formatted="false">Tegutse kohe</string>
+    <string name="cd_open_site" formatted="false">Avage keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Seaded</string>
+    <string name="cd_back" formatted="false">Tagasi</string>
+    <string name="countdown_campaign" formatted="false">Kampaania loendus</string>
+    <string name="countdown_elapsed" formatted="false">Kampaania avalikuks tulekust kulus aega 1. jaanuaril 2027.</string>
+    <string name="countdown_what_means" formatted="false">Mida pöördloendus tähendab</string>
+    <string name="countdown_read_faq" formatted="false">Lugege KKK-d</string>
+    <string name="countdown_campaign_btn" formatted="false">Kampaania</string>
+    <string name="countdown_footnote" formatted="false">Pöördloenduse sihtmärk vastab saidil keepandroidopen.org avaldatud bännerile. Rakendust värskendatakse kord sekundis, kui see on avatud.</string>
+    <string name="countdown_expired" formatted="false">ANDROID ON NÜÜD LUKUTATUD PLATVORM</string>
+    <string name="countdown_running" formatted="false">ANDROID MUUTUB LUKUTATUD PLATVORMIKS</string>
+    <string name="unit_days" formatted="false">päevadel</string>
+    <string name="unit_hours" formatted="false">tundi</string>
+    <string name="unit_minutes" formatted="false">minutit</string>
+    <string name="unit_seconds" formatted="false">sekundit</string>
+    <string name="rollout_title" formatted="false">Mis on Androidi arendaja kinnitamine?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Mida see tegelikult tähendab</string>
+    <string name="rollout_timeline_title" formatted="false">Avaldamise ajaskaala</string>
+    <string name="rollout_paths_title" formatted="false">Valige oma kinnitustee</string>
+    <string name="rollout_advanced_title" formatted="false">\"Täiustatud voog\" ei ole lahendus</string>
+    <string name="rollout_dev_page" formatted="false">Google\'i ametlik arendajaleht</string>
+    <string name="rollout_open_letter" formatted="false">Loe avatud kirja</string>
+    <string name="label_identity" formatted="false">Identiteet</string>
+    <string name="label_distribution" formatted="false">Levitamine</string>
+    <string name="label_ux" formatted="false">Kasutajakogemus</string>
+    <string name="label_best_for" formatted="false">Parim jaoks</string>
+    <string name="rollout_summary" formatted="false">Androidi arendaja kinnitamine on Google\'i programm, mis seob iga rakenduse kinnitatud arendaja identiteediga, enne kui selle saab installida sertifitseeritud Android-seadmetesse. Arendajad peavad kontrollima, kes nad on, ja registreerima avaldatavad pakettide nimed. Rakendusi, kus pole registreeritud ja kinnitatud arendajat, ei saa pärast kaitsete kasutuselevõttu enam tavapärasel viisil installida.</string>
+    <string name="rollout_what_it_means" formatted="false">Kõige raskemini mõjub see sõltumatule ja avatud lähtekoodiga levitamisele, nagu F-Droid, otse APK allalaadimine ja hobiprojektid. Google ütleb, et see puudutab turvalisust ja anonüümse pahavara peatamist. Kriitikud, sealhulgas kampaania Keep Android Open, F-Droid ja EFF, väidavad, et see on väravavahi tapmislüliti: keskne registreerimine, riiklik ID, tasu ja täielik kontroll selle üle, mida teie seadmel on lubatud usaldada.</string>
+    <string name="rollout_advanced_note" formatted="false">Täiustatud voog edastatakse Google Play teenuste, mitte Android OS-i kaudu, nii et Google saab seda igal ajal ilma OS-i värskenduse või kasutaja nõusolekuta muuta, piirata või eemaldada. 24-tunnine viivitus on tahtlikult häiriv ja on veel üks samm, mis jääb teie ja teie valitud tarkvara vahele.</string>
+    <string-array name="timeline_dates">
+        <item>25. august 2025</item>
+        <item>19. märts 2026</item>
+        <item>juuni 2026</item>
+        <item>18. juuni 2026</item>
+        <item>juuli 2026</item>
+        <item>august 2026</item>
+        <item>30. september 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Programm kuulutatakse välja</item>
+        <item>Ilmub \"täiustatud voog\".</item>
+        <item>Android Developer Verifier tarnitakse seadmetesse</item>
+        <item>Esialgne käivitamine kinnitatud</item>
+        <item>Avanevad arendaja API-d</item>
+        <item>Globaalne konsool, piiratud kontod, täiustatud voog</item>
+        <item>Jõustamine algab neljas riigis</item>
+        <item>Ülemaailmne levitamine</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google teatab, et alates 2027. aastast peavad Androidi rakendused, sealhulgas väljaspool Google Playd installitud rakendused, olema registreeritud kinnitatud arendaja juures.</item>
+        <item>Võimsad kasutajad saavad tahtlikult tülika pääseluugi: lubage arendaja valikud, veenduge, et teid ei sunnita, taaskäivitage ja oodake 24 tundi, enne kui lubate kinnitamata installid.</item>
+        <item>Taustsüsteemiteenus (com.google.android.verifier) ​​edastatakse Google\'i süsteemivärskenduste kaudu sertifitseeritud seadmetele ja jääb jõustamiseni seisma.</item>
+        <item>Google kinnitab, et jõustamine algab 30. septembril 2026 seitsmes poes ja neljas riigis.</item>
+        <item>Androidi arendaja ID oleku API käivitub ülemaailmselt ning Android Developer Console API ja piiratud levikontode jaoks algab varajane juurdepääs.</item>
+        <item>Piiratud levitamiskontod (tasuta, kuni 20 seadet, ilma riikliku IDta) ja konsooli API käivitamine kogu maailmas. Kontrollimata külglaadimise täiustatud voog hakkab levima.</item>
+        <item>Brasiilias, Indoneesias, Singapuris ja Tais asuvate sertifitseeritud seadmete, milles käitatakse operatsioonisüsteemi Android 7+, kaitse on saadaval. Kinnitamata arendajate rakendused on blokeeritud osalevates poodides: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore ja GetApps.</item>
+        <item>Kinnitamine laieneb kõikidele rakendustele ja piirkondadele. Keep Android Open loendub 1. jaanuarini 2027, mil Androidist saab lukustatud platvorm.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Täielik levitamine</item>
+        <item>Piiratud levitamine</item>
+        <item>Registreerimata rakenduste külglaadimine</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Jah – riiklik isikutunnistus ja tasu</item>
+        <item>Ei — ID-d ega registreerimistasu pole</item>
+        <item>Ei – aga suur hõõrdumine</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Iga teie valitud pood või kanal</item>
+        <item>Kuni 20 seadet QR-koodi või lingi käepigistuse kaudu</item>
+        <item>ADB (vabastatud) või täiustatud voog</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Teie kasutajate jaoks ei muutu midagi</item>
+        <item>Kasutajad nõustuvad neile tuttava arendaja installikutsega</item>
+        <item>Arendaja valikud, taaskäivitage, oodake 24 tundi, seejärel installige ikkagi</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Organisatsioonid ja professionaalsed arendajad</item>
+        <item>Õpilased, harrastajad ja isiklikuks kasutamiseks</item>
+        <item>Kontrollimata arendajad ja võimsad kasutajad</item>
+    </string-array>
+    <string name="act_title" formatted="false">Tegutse kohe – tee oma hääl kuuldavaks</string>
+    <string name="act_intro">Reguleerivad asutused soovivad kuulda isikutelt, keda see mõjutab. Olge viisakas ja konkreetne, kirjutage selle asutuse ametlikus keeles, kellega ühendust võtate, küsige kirjalikku kinnitust ja kopeerige %1$s, et kampaania saaks võite jälgida.</string>
+    <string name="act_open_composer" formatted="false">Avage meili koostaja</string>
+    <string name="act_copy" formatted="false">Kopeeri</string>
+    <string name="act_share" formatted="false">Jaga</string>
+    <string name="act_clipboard_label" formatted="false">Hoidke Android avatud kirja</string>
+    <string name="act_us_title" formatted="false">Ameerika Ühendriigid – saatke valitsusele e-kiri</string>
+    <string name="act_us_intro" formatted="false">Justiitsministeerium ja FTC võtavad monopolivastaseid aruandeid veebivormide kaudu. Kasutage neid ja võtke otse ühendust oma esindaja ja senaatoritega.</string>
+    <string name="act_world_title" formatted="false">Mujal maailmas</string>
+    <string name="act_groups_title" formatted="false">Tarbija- ja digitaalõiguste rühmad</string>
+    <string name="act_more_title" formatted="false">Rohkem võimalusi aidata</string>
+    <string name="act_more_body" formatted="false">• Installige oma seadmetesse F-Droid.\n• Vastake Google\'i arendaja kinnitusküsitlusele.\n• Postitage sotsiaalmeediasse ja linkige saidile keepandroidopen.org.\n• Allkirjastage change.org petitsioon.\n• Lisage oma veebisaidile loenduri bänner.</string>
+    <string name="act_all_actions" formatted="false">Kõik toimingud saidil keepandroidopen.org</string>
+    <string name="action_email" formatted="false">Meil</string>
+    <string name="action_open" formatted="false">Avatud</string>
+    <string-array name="us_contact_regions">
+        <item>Ameerika Ühendriigid</item>
+        <item>Ameerika Ühendriigid</item>
+        <item>Ameerika Ühendriigid</item>
+        <item>Ameerika Ühendriigid</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>USA justiitsministeerium – monopolivastane osakond</item>
+        <item>USA föderaalne kaubanduskomisjon – monopolivastane</item>
+        <item>Leidke oma maja esindaja</item>
+        <item>Võtke ühendust oma USA senaatoritega</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Esitage veebis monopolivastane aruanne.</item>
+        <item>Esitage monopolivastane kaebus.</item>
+        <item>Võtke ühendust oma esindajaga USA majas.</item>
+        <item>Otsige üles ja võtke ühendust oma osariigi mõlema senaatoriga.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Euroopa Liit</item>
+        <item>Euroopa Liit</item>
+        <item>Ühendkuningriik</item>
+        <item>Brasiilia</item>
+        <item>Singapur</item>
+        <item>Tai</item>
+        <item>Indoneesia</item>
+        <item>Austraalia</item>
+        <item>Kanada</item>
+        <item>India</item>
+        <item>Jaapan</item>
+        <item>Lõuna-Korea</item>
+        <item>Mehhiko</item>
+        <item>Aotearoa / Uus-Meremaa</item>
+        <item>Taiwan</item>
+        <item>Šveits</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>ELi monopolivastane tegevus (DG COMP)</item>
+        <item>Digital Markets Acti meeskond</item>
+        <item>Konkurentsi- ja turuamet</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Kaubanduse konkurentsikomisjon (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Kanada konkurentsibüroo</item>
+        <item>India konkurentsikomisjon</item>
+        <item>Jaapani õiglase kaubanduse komisjon</item>
+        <item>Korea õiglase kaubanduse komisjon</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>Kaubanduskomisjon</item>
+        <item>Õiglase kaubanduse komisjon</item>
+        <item>Konkurentsikomisjon (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Saatke e-kiri Euroopa Komisjoni konkurentsiametile.</item>
+        <item>Võtke ühendust EL DMA kodanike kasutajatoega.</item>
+        <item>Teatage Ühendkuningriigi CMA-le.</item>
+        <item>Brasiilia on esimeses jõustamislaines.</item>
+        <item>Singapur on esimeses jõustamislaines.</item>
+        <item>Tai on esimeses jõustamislaines.</item>
+        <item>Indoneesia on esimeses jõustamislaines.</item>
+        <item>Esitage aruanne Austraalia konkurentsi- ja tarbijakomisjonile.</item>
+        <item>Esitage kaebus konkurentsibüroole.</item>
+        <item>Konkurentsivastase käitumise osas võtke ühendust CCI-ga.</item>
+        <item>Võtke ühendust JFTC / Mobile Software Competition Acti esindusega.</item>
+        <item>Võtke ühendust KFTC-ga.</item>
+        <item>Esitage Mehhikos monopolivastane kaebus.</item>
+        <item>Teatage konkurentsivastasest käitumisest.</item>
+        <item>Võtke ühendust Taiwani FTC-ga.</item>
+        <item>Teatage ebaseaduslikest tegevustest.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Globaalne</item>
+        <item>Globaalne</item>
+        <item>Euroopas</item>
+        <item>Euroopas</item>
+        <item>Globaalne</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Foundation</item>
+        <item>Vaba Tarkvara Sihtasutus</item>
+        <item>Euroopa Vaba Tarkvara Fond</item>
+        <item>Euroopa digitaalsed õigused (EDRI)</item>
+        <item>Tarkvaravabaduse kaitse</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Rakenduste kontrollimine ja Interneti-tsensuur.</item>
+        <item>Tarkvaravabadus ja kasutaja kontroll.</item>
+        <item>Tarkvaravabadus Euroopas.</item>
+        <item>Digiõiguste kaitsmine.</item>
+        <item>Kogukonnapõhine tasuta tarkvara.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">minu valitsus</string>
+    <string name="letter_subject" formatted="false">Peatage Google\'i Androidi arendaja kinnitamise lukustus</string>
+    <string name="letter_template">Lugupeetud %1$s esindaja!\n\nKirjutan mureliku Androidi kasutajana ja teie jurisdiktsiooni kodanikuna.\n\nGoogle\'i Androidi arendaja kinnitusprogramm, mis jõustub 30. septembril 2026 mitmel turul ja laieneb 2027. aastal ülemaailmselt, nõuab, et iga Androidi rakendus registreeritaks tsentraalselt kinnitatud arendaja juures, enne kui selle saab installida sertifitseeritud seadmetesse. Arendajad peavad esitama riikliku isikut tõendava dokumendi, nõustuma Google\'i tingimustega, maksma tasu ning loetlema kõik praegused ja tulevased rakenduse identifikaatorid.\n\nSee ei paranda oluliselt turvalisust. See annab ühele eraettevõttele õiguse otsustada, millist tarkvara inimestel neile kuuluvates seadmetes kasutada on lubatud, ning see ohustab sõltumatut ja avatud lähtekoodiga levitamist, näiteks F-Droid, mis ei suuda järgida ja võib lakata olemast.\n\nMa palun teilt lugupidavalt:\n\n1. Uurige, kas see programm on konkurentsivastane ja kujutab endast väravavahi positsiooni kuritarvitamist.\n2. Vajutage Google\'ile, et vabastada avatud lähtekoodiga ja mitteäriline levitamine ning hoida külglaadimine tsentraliseeritud registreerimisest vaba.\n3. Kaitske kasutajate õigust käitada ostetud riistvaral enda valitud tarkvara.\n\nPalun kinnitage see teade kirjalikult ja andke mulle teada, mida teie kontor ette võtab.\n\nKopeerin ka kampaaniat Keep Android Open aadressil %2$s.\n\nLugupidamisega\n[Teie nimi]\n[Teie linn ja riik]</string>
+    <string name="toast_no_app" formatted="false">Ükski rakendus ei saa seda linki avada</string>
+    <string name="toast_no_email" formatted="false">Meilirakendust pole installitud</string>
+    <string name="chooser_send_email" formatted="false">Saada meil</string>
+    <string name="chooser_share" formatted="false">Jaga</string>
+    <string name="toast_copied" formatted="false">Kopeeriti lõikelauale</string>
+    <string name="settings_title" formatted="false">Seaded</string>
+    <string name="settings_language_title" formatted="false">Rakenduse keel</string>
+    <string name="settings_language_summary" formatted="false">Valige rakenduses kasutatav keel. Saate seda muuta ka oma seadme seadetes.</string>
+    <string name="settings_system_default" formatted="false">Süsteemi vaikeseade</string>
+    <string name="settings_language_search" formatted="false">Otsi keeli</string>
+    <string name="settings_theme_title" formatted="false">Teema</string>
+    <string name="settings_theme_summary" formatted="false">Valige, kuidas rakendus välja näeb.</string>
+    <string name="theme_system" formatted="false">Järgige süsteemi</string>
+    <string name="theme_light" formatted="false">Valgus</string>
+    <string name="theme_dark" formatted="false">Tume</string>
+    <string name="theme_amoled" formatted="false">AMOLED (puhas must)</string>
+    <string name="settings_accent_title" formatted="false">Aktsentvärv</string>
+    <string name="settings_accent_summary" formatted="false">Valige kogu rakenduses kasutatav esiletõstmise värv.</string>
+    <string name="accent_default" formatted="false">Vaikimisi (kampaania punane)</string>
+    <string name="accent_red" formatted="false">Punane</string>
+    <string name="accent_orange" formatted="false">Oranž</string>
+    <string name="accent_yellow" formatted="false">Kollane</string>
+    <string name="accent_green" formatted="false">Roheline</string>
+    <string name="accent_teal" formatted="false">Sinine</string>
+    <string name="accent_blue" formatted="false">Sinine</string>
+    <string name="accent_purple" formatted="false">Lilla</string>
+    <string name="accent_pink" formatted="false">Roosa</string>
+    <string name="settings_colorblendr_warning" formatted="false">Tähelepanu: kui ColorBlendr või mõni muu alistatav materjal on aktiivne, ei pruugi teie aktsentvärv kehtida enne, kui selle keelate.</string>
+    <string name="settings_about_title" formatted="false">Umbes</string>
+    <string name="settings_version">Versioon %1$s</string>
+    <string name="settings_open_source" formatted="false">Avatud lähtekoodiga (MIT). Ei ole seotud ametliku Keep Android Open kampaaniaga ega toeta seda.</string>
+</resources>

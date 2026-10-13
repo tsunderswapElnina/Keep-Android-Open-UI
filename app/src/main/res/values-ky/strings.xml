@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Артка санак</string>
+    <string name="tab_rollout" formatted="false">The Rollout</string>
+    <string name="tab_act_now" formatted="false">Азыр аракет кыл</string>
+    <string name="cd_open_site" formatted="false">Keepandroidopen.org сайтын ачыңыз</string>
+    <string name="cd_settings" formatted="false">Орнотуулар</string>
+    <string name="cd_back" formatted="false">Артка</string>
+    <string name="countdown_campaign" formatted="false">Кампаниянын артка саны</string>
+    <string name="countdown_elapsed" formatted="false">Кампания 2027-жылдын 1-январына чейин ачыкка чыккандан бери убакыт өттү.</string>
+    <string name="countdown_what_means" formatted="false">Артка саноо эмнени билдирет</string>
+    <string name="countdown_read_faq" formatted="false">Көп берилүүчү суроолорду окуңуз</string>
+    <string name="countdown_campaign_btn" formatted="false">Кампания</string>
+    <string name="countdown_footnote" formatted="false">Артка санактын максаты keepandroidopen.org сайтында жарыяланган баннерге дал келет. Колдонмо ачык турганда секундасына бир жолу жаңырып турат.</string>
+    <string name="countdown_expired" formatted="false">ANDROID АЗЫР БУЛПУЛГАН ПЛАТФОРМА</string>
+    <string name="countdown_running" formatted="false">ANDROID БУЛПАЛГАН ПЛАТФОРМАГА АЙЛАНАТ</string>
+    <string name="unit_days" formatted="false">күн</string>
+    <string name="unit_hours" formatted="false">саат</string>
+    <string name="unit_minutes" formatted="false">мүнөт</string>
+    <string name="unit_seconds" formatted="false">секунд</string>
+    <string name="rollout_title" formatted="false">Android Иштеп чыгуучусун текшерүү деген эмне?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Бул чынында эмнени билдирет</string>
+    <string name="rollout_timeline_title" formatted="false">Ишке чыгаруу хронологиясы</string>
+    <string name="rollout_paths_title" formatted="false">Текшерүү жолуңузду тандаңыз</string>
+    <string name="rollout_advanced_title" formatted="false">\"Өркүндөтүлгөн агым\" чечим эмес</string>
+    <string name="rollout_dev_page" formatted="false">Google\'дун расмий иштеп чыгуучу баракчасы</string>
+    <string name="rollout_open_letter" formatted="false">Ачык катты окуңуз</string>
+    <string name="label_identity" formatted="false">Identity</string>
+    <string name="label_distribution" formatted="false">Бөлүштүрүү</string>
+    <string name="label_ux" formatted="false">Колдонуучу тажрыйбасы</string>
+    <string name="label_best_for" formatted="false">үчүн мыкты</string>
+    <string name="rollout_summary" formatted="false">Android Иштеп чыгуучунун ырастоосу – бул ар бир колдонмону тастыкталган Android түзмөктөрүнө орнотуудан мурун аныктыгын тастыктаган иштеп чыгуучунун дарегине байланыштырган Google программасы. Иштеп чыгуучулар алардын ким экенин текшерип, алар жарыялаган пакеттин аталыштарын катташы керек. Катталган, ырасталган иштеп чыгуучусу жок колдонмолорду коргоо каражаттары чыккандан кийин кадимки жол менен орнотулбайт.</string>
+    <string name="rollout_what_it_means" formatted="false">Ал F-Droid, түздөн-түз APK жүктөп алуу жана хобби долбоорлору сыяктуу көз карандысыз жана ачык булактуу бөлүштүрүүдө эң кыйынга турат. Google бул коопсуздук жана анонимдүү кесепеттүү программаларды токтотуу жөнүндө дейт. Сынчылар, анын ичинде Keep Android Open кампаниясы, F-Droid жана EFF бул дарбазаны өчүрүүчү өчүргүч деп айтышат: борбордук каттоо, мамлекеттик идентификатор, төлөм жана түзмөгүңүзгө ишенүүгө уруксат берилген нерселерди толук көзөмөлдөө.</string>
+    <string name="rollout_advanced_note" formatted="false">Өркүндөтүлгөн агым Android OS эмес, Google Play кызматтары аркылуу жеткирилет, андыктан Google аны каалаган убакта OS жаңыртуусу же колдонуучунун макулдугусуз өзгөртүп, чектеп же өчүрө алат. 24 сааттык кечигүү атайылап үзгүлтүккө учуратат жана сиз менен сиз иштетүүнү тандаган программалык камсыздоонун ортосунда турган дагы бир кадам.</string>
+    <string-array name="timeline_dates">
+        <item>25-август, 2025-жыл</item>
+        <item>19-март, 2026-жыл</item>
+        <item>июнь 2026</item>
+        <item>18-июнь, 2026-жыл</item>
+        <item>июль 2026</item>
+        <item>2026-жылдын августу</item>
+        <item>30-сентябрь, 2026-жыл</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Программа жарыяланат</item>
+        <item>«Алгачкы агым» ачыкка чыкты</item>
+        <item>Android Developer Verifier түзмөктөргө жөнөтүлөт</item>
+        <item>Алгачкы ишке киргизүү тастыкталды</item>
+        <item>Иштеп чыгуучунун API\'лери ачылат</item>
+        <item>Глобалдык консол, чектелген эсептер, өркүндөтүлгөн агым</item>
+        <item>Мыйзамды аткаруу төрт өлкөдө башталат</item>
+        <item>Дүйнөлүк жайылтуу</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google 2027-жылдан баштап Android үчүн колдонмолор текшерилген иштеп чыгуучуга, анын ичинде Google Play\'ден тышкары орнотулган колдонмолорго катталышы керек деп жарыялайт.</item>
+        <item>Күчтүү колдонуучулар атайылап түйшүктүү люкка ээ болушат: Иштеп чыгуучунун параметрлерин иштетиңиз, мажбурланбай жатканыңызды ырастаңыз, өчүрүп күйгүзүңүз, андан соң текшерилбеген орнотууларга уруксат бергенге чейин 24 саат күтүңүз.</item>
+        <item>Фондук тутум кызматы (com.google.android.verifier) ​​Google тутумунун жаңыртуулары аркылуу тастыкталган түзмөктөргө жөнөтүлөт жана күчүнө киргенге чейин иштебей турат.</item>
+        <item>Google 2026-жылдын 30-сентябрында жети дүкөндө жана төрт өлкөдө күчүнө кирерин ырастады.</item>
+        <item>Android Developer ID Status API глобалдык түрдө ишке киргизилет жана Android Developer Console API жана чектелген бөлүштүрүү эсептери үчүн эрте жетүү башталат.</item>
+        <item>Чектелген бөлүштүрүү эсептери (акысыз, 20га чейин түзмөк, мамлекеттик ID жок) жана Console API дүйнө жүзү боюнча ишке киргизилет. Текшерилбеген каптал жүктөө үчүн өркүндөтүлгөн агым жайыла баштайт.</item>
+        <item>Коргоо чаралары Бразилия, Индонезия, Сингапур жана Таиланддагы колдонуучулар үчүн Android 7+ иштеткен тастыкталган түзмөктөрдө иштейт. Текшерилбеген иштеп чыгуучулардын колдонмолору катышкан дүкөндөрдө бөгөттөлгөн: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore жана GetApps.</item>
+        <item>Текшерүү бардык колдонмолорго жана аймактарга жайылтылат. Android Open\'ти 2027-жылдын 1-январына чейин эсептеп, Android кулпуланган платформага айланат.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Толук бөлүштүрүү</item>
+        <item>Чектелген бөлүштүрүү</item>
+        <item>Катталбаган колдонмолорду капталдан жүктөө</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Ооба - мамлекеттик ID жана алым</item>
+        <item>Жок - ID же каттоо акысы жок</item>
+        <item>Жок, бирок жогорку сүрүлүү</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Сиз тандаган каалаган дүкөн же канал</item>
+        <item>QR коду же шилтеме аркылуу кол алышуу аркылуу 20га чейин түзмөк</item>
+        <item>АӨБ (бошотулган) же өркүндөтүлгөн агым</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Колдонуучуларыңыз үчүн эч нерсе өзгөрбөйт</item>
+        <item>Колдонуучулар өздөрү билген иштеп чыгуучунун орнотуу чакыруусун кабыл алышат</item>
+        <item>Иштеп чыгуучунун параметрлери, өчүрүп күйгүзүңүз, 24 саат күтүңүз, анан баары бир орнотуңуз</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Уюмдар жана кесипкөй иштеп чыгуучулар</item>
+        <item>Студенттер, хоббилер жана жеке колдонуу</item>
+        <item>Текшерилбеген иштеп чыгуучулар жана кубаттуу колдонуучулар</item>
+    </string-array>
+    <string name="act_title" formatted="false">Азыр аракет кылыңыз — үнүңүздү угуңуз</string>
+    <string name="act_intro">Көзөмөл органдары жабыр тарткан адамдардын пикирин уккусу келет. Сылык жана конкреттүү болуңуз, сиз байланышкан органдын расмий тилинде жазыңыз, жазуу жүзүндөгү ырастоону сураныңыз жана кампания жеңиштерге көз салышы үчүн %1$s көчүрүңүз.</string>
+    <string name="act_open_composer" formatted="false">Электрондук почта түзүүчүсүн ачыңыз</string>
+    <string name="act_copy" formatted="false">Көчүрүү</string>
+    <string name="act_share" formatted="false">Бөлүшүү</string>
+    <string name="act_clipboard_label" formatted="false">Android ачык катты сактаңыз</string>
+    <string name="act_us_title" formatted="false">Америка Кошмо Штаттары - өкмөткө электрондук почта</string>
+    <string name="act_us_intro" formatted="false">Юстиция министрлиги жана FTC монополияга каршы отчетторду онлайн формалар аркылуу алышат. Аларды колдонуп, өз өкүлүңүз жана сенаторлоруңуз менен түз байланышыңыз.</string>
+    <string name="act_world_title" formatted="false">Дүйнөнүн башка жеринде</string>
+    <string name="act_groups_title" formatted="false">Керектөөчү жана санариптик укуктар топтору</string>
+    <string name="act_more_title" formatted="false">Жардам берүүнүн дагы жолдору</string>
+    <string name="act_more_body" formatted="false">• Түзмөктөрүңүзгө F-Droid орнотуу.\n• Google\'дун иштеп чыгуучунун текшерүү сурамжылоосуна жооп бериңиз.\n• Социалдык тармактарга жайгаштырыңыз жана keepandroidopen.org сайтына шилтеме жасаңыз.\n• change.org петициясына кол коюңуз.\n• Вебсайтыңызга артка санак баннерин кошуңуз.</string>
+    <string name="act_all_actions" formatted="false">Бардык аракеттер keepandroidopen.org сайтында</string>
+    <string name="action_email" formatted="false">Email</string>
+    <string name="action_open" formatted="false">Open</string>
+    <string-array name="us_contact_regions">
+        <item>Америка Кошмо Штаттары</item>
+        <item>Америка Кошмо Штаттары</item>
+        <item>Америка Кошмо Штаттары</item>
+        <item>Америка Кошмо Штаттары</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>АКШнын Юстиция министрлиги — Монополияга каршы бөлүмү</item>
+        <item>АКШнын Федералдык Соода Комиссиясы — Монополияга каршы</item>
+        <item>Үйүңүздүн өкүлүн табыңыз</item>
+        <item>АКШнын сенаторлору менен байланышыңыз</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Монополияга каршы отчетту онлайн тапшырыңыз.</item>
+        <item>Монополияга каршы арыз жаз.</item>
+        <item>АКШ палатасындагы өкүлүңүз менен байланышыңыз.</item>
+        <item>Штаттын эки сенаторун таап, байланышыңыз.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>ЕБ</item>
+        <item>ЕБ</item>
+        <item>Бириккен королдук</item>
+        <item>Бразилия</item>
+        <item>Сингапур</item>
+        <item>Тайланд</item>
+        <item>Индонезия</item>
+        <item>Австралия</item>
+        <item>Канада</item>
+        <item>Индия</item>
+        <item>Жапония</item>
+        <item>Түштүк корея</item>
+        <item>Мексика</item>
+        <item>Аотеароа / Жаңы Зеландия</item>
+        <item>Тайвань</item>
+        <item>Швейцария</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>ЕБ Монополияга каршы (DG COMP)</item>
+        <item>Digital Markets Act командасы</item>
+        <item>Атаандаштык жана рыноктор башкармалыгы</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Соода атаандаштык комиссиясы (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Конкурстук бюро Канада</item>
+        <item>Индиянын конкурстук комиссиясы</item>
+        <item>Япониянын адилет соода комиссиясы</item>
+        <item>Кореянын адилет соода комиссиясы</item>
+        <item>Улуттук антимонополия комиссиясы</item>
+        <item>Соода комиссиясы</item>
+        <item>Адилет соода комиссиясы</item>
+        <item>Конкурстук комиссия (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Европа Комиссиясынын атаандаштык органына электрондук кат жөнөтүңүз.</item>
+        <item>EU DMA жарандарынын жардам кызматына кайрылыңыз.</item>
+        <item>Улуу Британиянын CMAга отчет.</item>
+        <item>Бразилия биринчи аткаруу толкунунда.</item>
+        <item>Сингапур биринчи аткаруу толкунунда.</item>
+        <item>Таиланд биринчи аткаруу толкунунда.</item>
+        <item>Индонезия биринчи аткаруу толкунунда.</item>
+        <item>Австралиянын Атаандаштык жана Керектөөчү Комиссиясына отчет.</item>
+        <item>Конкурстук бюрого арыз жаз.</item>
+        <item>Атаандаштыкка каршы жүрүм-турум жөнүндө CCI менен байланышыңыз.</item>
+        <item>JFTC / Mobile Software Competition Act столуна кайрылыңыз.</item>
+        <item>KFTC менен байланышыңыз.</item>
+        <item>Мексикада монополияга каршы арыз жаз.</item>
+        <item>Атаандаштыкка каршы жүрүм-турум жөнүндө кабарлоо.</item>
+        <item>Taiwan FTC менен байланышыңыз.</item>
+        <item>Мыйзамсыз иш-аракеттерди билдириңиз.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Global</item>
+        <item>Global</item>
+        <item>Europe</item>
+        <item>Europe</item>
+        <item>Global</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Электрондук чек ара фонду</item>
+        <item>Free Software Foundation</item>
+        <item>Free Software Foundation Europe</item>
+        <item>Европалык санариптик укуктар (EDRi)</item>
+        <item>Программанын эркиндигин сактоо</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Колдонмо дарбазасы жана интернет цензурасы.</item>
+        <item>Программанын эркиндиги жана колдонуучунун көзөмөлү.</item>
+        <item>Европадагы программалык камсыздоо эркиндиги.</item>
+        <item>Санариптик укуктарды коргоо.</item>
+        <item>Коомчулукка негизделген акысыз программа.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">менин өкмөтүм</string>
+    <string name="letter_subject" formatted="false">Google\'дун Android Иштеп чыгуучунун текшерүүсүн бөгөттөп коюуну токтотуңуз</string>
+    <string name="letter_template">Урматтуу %1$s өкүлү,\n\nМен тынчсызданган Android колдонуучусу жана сиздин юрисдикцияңыздагы жаран катары жазып жатам.\n\nGoogle\'дун 2026-жылдын 30-сентябрынан баштап бир нече рынокто күчүнө кирген жана 2027-жылы дүйнөлүк масштабда жайыла турган Android Иштеп чыгуучусун текшерүү программасы ар бир Android колдонмосун тастыкталган түзмөктөргө орнотуудан мурун борборлоштурулган иштеп чыгуучуга катталышын талап кылат. Иштеп чыгуучулар өкмөттүн идентификациясын тапшырып, Google\'дун шарттарына макул болуп, акы төлөп, учурдагы жана келечектеги ар бир колдонмонун идентификаторун тизмелеп бериши керек.\n\nБул коопсуздукту олуттуу түрдө жакшыртпайт. Ал бир жеке компанияга кайсы программалык камсыздоону адамдар ээлик кылган түзмөктөрдө иштетүүгө уруксат берерин чечүүгө ыйгарым укуктарды берет жана F-Droid сыяктуу көз карандысыз жана ачык булактуу жайылтууга коркунуч туудурат.\n\nСизден урматтоо менен суранам:\n\n1. Бул программа атаандаштыкка каршы келер-келбесин жана дарбазачы кызматын кыянаттык менен пайдаланууну түзөрүн изилдеңиз.\n2. Ачык булак жана коммерциялык эмес жайылтуудан бошотуу жана борборлоштурулган каттоодон бош жүктөө үчүн Google баскычын басыңыз.\n3. Колдонуучулардын сатып алган жабдыкта каалаган программалык камсыздоосун иштетүү укугун коргоңуз.\n\nСураныч, бул билдирүүнү жазуу жүзүндө ырастап, кеңсеңиз кандай чара көрөрүн мага билдириңиз.\n\nМен дагы %2$s боюнча Keep Android Open кампаниясын көчүрүп жатам.\n\nУрматтоо менен,\n[Сиздин атыңыз]\n[Шаарыңыз жана өлкөңүз]</string>
+    <string name="toast_no_app" formatted="false">Бул шилтемени эч бир колдонмо ача албайт</string>
+    <string name="toast_no_email" formatted="false">Эч кандай электрондук почта колдонмосу орнотулган эмес</string>
+    <string name="chooser_send_email" formatted="false">Электрондук почта жөнөтүү</string>
+    <string name="chooser_share" formatted="false">Бөлүшүү</string>
+    <string name="toast_copied" formatted="false">Алмашуу буферине көчүрүлдү</string>
+    <string name="settings_title" formatted="false">Орнотуулар</string>
+    <string name="settings_language_title" formatted="false">Колдонмо тили</string>
+    <string name="settings_language_summary" formatted="false">Колдонмо колдонгон тилди тандаңыз. Аны түзмөгүңүздүн жөндөөлөрүнөн да өзгөртө аласыз.</string>
+    <string name="settings_system_default" formatted="false">Системанын демейки</string>
+    <string name="settings_language_search" formatted="false">Тилдерди издөө</string>
+    <string name="settings_theme_title" formatted="false">Тема</string>
+    <string name="settings_theme_summary" formatted="false">Колдонмо кандай көрүнөрүн тандаңыз.</string>
+    <string name="theme_system" formatted="false">Системаны ээрчүү</string>
+    <string name="theme_light" formatted="false">Жарык</string>
+    <string name="theme_dark" formatted="false">Караңгы</string>
+    <string name="theme_amoled" formatted="false">AMOLED (таза кара)</string>
+    <string name="settings_accent_title" formatted="false">Акцент түсү</string>
+    <string name="settings_accent_summary" formatted="false">Колдонмодо колдонулган өзгөчөлөнгөн түстү тандаңыз.</string>
+    <string name="accent_default" formatted="false">Демейки (кампания кызыл)</string>
+    <string name="accent_red" formatted="false">Кызыл</string>
+    <string name="accent_orange" formatted="false">Ачык күрөң</string>
+    <string name="accent_yellow" formatted="false">Сары</string>
+    <string name="accent_green" formatted="false">Жашыл</string>
+    <string name="accent_teal" formatted="false">Teal</string>
+    <string name="accent_blue" formatted="false">Көк</string>
+    <string name="accent_purple" formatted="false">Кызгылт көк</string>
+    <string name="accent_pink" formatted="false">Кызгылт</string>
+    <string name="settings_colorblendr_warning" formatted="false">Эскертүү: ColorBlendr же сиз жокко чыгарган башка материал активдүү болсо, сиз аны өчүрмөйүнчө акцент түсүңүз колдонулбашы мүмкүн.</string>
+    <string name="settings_about_title" formatted="false">Жөнүндө</string>
+    <string name="settings_version">Версия %1$s</string>
+    <string name="settings_open_source" formatted="false">Ачык булак (MIT). Расмий Keep Android Open өнөктүгү менен байланышы жок же колдоого алынбайт.</string>
+</resources>

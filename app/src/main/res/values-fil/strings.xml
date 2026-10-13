@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Countdown</string>
+    <string name="tab_rollout" formatted="false">Ang Rollout</string>
+    <string name="tab_act_now" formatted="false">Kumilos Ngayon</string>
+    <string name="cd_open_site" formatted="false">Buksan ang keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Mga setting</string>
+    <string name="cd_back" formatted="false">Bumalik</string>
+    <string name="countdown_campaign" formatted="false">Pagbilang ng kampanya</string>
+    <string name="countdown_elapsed" formatted="false">Lumipas ang oras mula noong naging pampubliko ang kampanya noong Enero 1, 2027.</string>
+    <string name="countdown_what_means" formatted="false">Ano ang ibig sabihin ng countdown</string>
+    <string name="countdown_read_faq" formatted="false">Basahin ang FAQ</string>
+    <string name="countdown_campaign_btn" formatted="false">Ang kampanya</string>
+    <string name="countdown_footnote" formatted="false">Tumutugma ang target ng countdown sa banner na na-publish sa keepandroidopen.org. Ang app ay nag-a-update nang isang beses bawat segundo habang ito ay bukas.</string>
+    <string name="countdown_expired" formatted="false">ANDROID AY ISANG LOCK-DOWN PLATFORM NA</string>
+    <string name="countdown_running" formatted="false">NAGING LOCK-DOWN PLATFORM ANG ANDROID SA</string>
+    <string name="unit_days" formatted="false">araw</string>
+    <string name="unit_hours" formatted="false">oras</string>
+    <string name="unit_minutes" formatted="false">minuto</string>
+    <string name="unit_seconds" formatted="false">segundo</string>
+    <string name="rollout_title" formatted="false">Ano ang Android Developer Verification?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Kung ano talaga ang ibig sabihin nito</string>
+    <string name="rollout_timeline_title" formatted="false">Ang timeline ng paglulunsad</string>
+    <string name="rollout_paths_title" formatted="false">Piliin ang iyong landas sa pag-verify</string>
+    <string name="rollout_advanced_title" formatted="false">Ang \"advanced flow\" ay hindi solusyon</string>
+    <string name="rollout_dev_page" formatted="false">Ang opisyal na pahina ng developer ng Google</string>
+    <string name="rollout_open_letter" formatted="false">Basahin ang bukas na liham</string>
+    <string name="label_identity" formatted="false">Pagkakakilanlan</string>
+    <string name="label_distribution" formatted="false">Pamamahagi</string>
+    <string name="label_ux" formatted="false">Karanasan ng gumagamit</string>
+    <string name="label_best_for" formatted="false">Pinakamahusay para sa</string>
+    <string name="rollout_summary" formatted="false">Ang Android Developer Verification ay isang Google program na nagli-link sa bawat app sa isang na-verify na pagkakakilanlan ng developer bago ito ma-install sa mga certified na Android device. Dapat i-verify ng mga developer kung sino sila at irehistro ang mga pangalan ng package na kanilang na-publish. Ang mga app na walang nakarehistro, na-verify na developer ay hindi na mai-install sa normal na paraan kapag nailunsad na ang mga proteksyon.</string>
+    <string name="rollout_what_it_means" formatted="false">Ito ay napupunta sa pinakamahirap sa independiyente at open-source na pamamahagi tulad ng F-Droid, direktang pag-download ng APK, at mga proyekto sa libangan. Sinasabi ng Google na ito ay tungkol sa kaligtasan at paghinto ng anonymous na malware. Sinasabi ng mga kritiko kabilang ang Keep Android Open campaign, F-Droid at ang EFF na ito ay isang gatekeeper kill switch: central registration, government ID, bayad, at ganap na kontrol sa kung ano ang pinapayagang pagkatiwalaan ng iyong device.</string>
+    <string name="rollout_advanced_note" formatted="false">Ang advanced na daloy ay inihahatid sa pamamagitan ng mga serbisyo ng Google Play, hindi ang Android OS, kaya maaaring baguhin, paghigpitan o alisin ito ng Google anumang oras nang walang update sa OS o pahintulot ng user. Ang 24 na oras na pagkaantala ay sadyang nakakagambala at isa pang hakbang na nasa pagitan mo at ng software na pinili mong patakbuhin.</string>
+    <string-array name="timeline_dates">
+        <item>Agosto 25, 2025</item>
+        <item>Marso 19, 2026</item>
+        <item>Hunyo 2026</item>
+        <item>Hunyo 18, 2026</item>
+        <item>Hulyo 2026</item>
+        <item>Agosto 2026</item>
+        <item>Setyembre 30, 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Ang programa ay inihayag</item>
+        <item>Ang \"advanced flow\" ay ipinahayag</item>
+        <item>Ipinapadala ang Android Developer Verifier sa mga device</item>
+        <item>Nakumpirma ang paunang paglulunsad</item>
+        <item>Nagbubukas ang mga developer API</item>
+        <item>Global console, limitadong mga account, advanced na daloy</item>
+        <item>Magsisimula ang pagpapatupad sa apat na bansa</item>
+        <item>Global rollout</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Inanunsyo ng Google na simula sa 2027, dapat na nakarehistro ang mga app para sa Android sa isang na-verify na developer, kabilang ang mga app na naka-install sa labas ng Google Play.</item>
+        <item>Ang mga power user ay nakakakuha ng sadyang masalimuot na escape hatch: paganahin ang Developer Options, kumpirmahin na hindi ka pinipilit, i-restart, pagkatapos ay maghintay ng 24 na oras bago mo payagan ang mga hindi na-verify na pag-install.</item>
+        <item>Ang isang background system service (com.google.android.verifier) ​​ay itinutulak sa pamamagitan ng Google System Updates sa mga certified na device at mananatiling tulog hanggang sa pagpapatupad.</item>
+        <item>Kinukumpirma ng Google na magsisimula ang pagpapatupad sa Setyembre 30, 2026, sa pitong tindahan at apat na bansa.</item>
+        <item>Ang Android Developer ID Status API ay naglulunsad sa buong mundo at ang maagang pag-access ay magsisimula para sa Android Developer Console API at mga limitadong distribution account.</item>
+        <item>Mga limitadong distribution account (libre, hanggang 20 device, walang government ID) at ang paglulunsad ng Console API sa buong mundo. Ang advanced na daloy para sa hindi na-verify na sideloading ay magsisimulang ilunsad.</item>
+        <item>Magiging live ang mga proteksyon para sa mga user sa Brazil, Indonesia, Singapore at Thailand sa mga certified device na gumagamit ng Android 7+. Ang mga app mula sa hindi na-verify na mga developer ay naka-block sa mga kalahok na tindahan: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore at GetApps.</item>
+        <item>Pinalawak ang pag-verify sa lahat ng app at rehiyon. Panatilihin ang Android Open bilang pababa hanggang Enero 1, 2027, kapag ang Android ay naging isang naka-lock-down na platform.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Buong pamamahagi</item>
+        <item>Limitadong pamamahagi</item>
+        <item>Pag-sideload ng mga hindi nakarehistrong app</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Oo — government ID at may bayad</item>
+        <item>Hindi — walang ID o bayad sa pagpaparehistro</item>
+        <item>Hindi — ngunit mataas ang alitan</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Anumang tindahan o channel na pipiliin mo</item>
+        <item>Hanggang 20 device sa pamamagitan ng QR code o link handshake</item>
+        <item>ADB (exempt) o ang advanced na daloy</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Walang nagbabago para sa iyong mga user</item>
+        <item>Tumatanggap ang mga user ng imbitasyon sa pag-install mula sa isang developer na kilala nila</item>
+        <item>Mga Opsyon sa Developer, i-restart, 24 na oras na paghihintay, pagkatapos ay i-install pa rin</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Mga organisasyon at propesyonal na developer</item>
+        <item>Mga mag-aaral, hobbyist at personal na gamit</item>
+        <item>Mga hindi na-verify na developer at power user</item>
+    </string-array>
+    <string name="act_title" formatted="false">Kumilos ngayon — iparinig ang iyong boses</string>
+    <string name="act_intro">Gustong marinig ng mga regulator ang mga indibidwal na apektado. Maging magalang at tiyak, sumulat sa isang opisyal na wika ng katawan na iyong kinokontak, humingi ng nakasulat na pagkilala, at kopyahin ang %1$s upang masubaybayan ng kampanya ang mga tagumpay.</string>
+    <string name="act_open_composer" formatted="false">Buksan ang email composer</string>
+    <string name="act_copy" formatted="false">Kopyahin</string>
+    <string name="act_share" formatted="false">Ibahagi</string>
+    <string name="act_clipboard_label" formatted="false">Panatilihin ang Android Open letter</string>
+    <string name="act_us_title" formatted="false">United States — mag-email sa gobyerno</string>
+    <string name="act_us_intro" formatted="false">Ang Kagawaran ng Hustisya at ang FTC ay kumukuha ng mga ulat ng antitrust sa pamamagitan ng mga online na form. Gamitin ang mga ito, at direktang makipag-ugnayan sa iyong sariling kinatawan at mga senador.</string>
+    <string name="act_world_title" formatted="false">Sa ibang lugar sa mundo</string>
+    <string name="act_groups_title" formatted="false">Mga pangkat ng consumer at digital rights</string>
+    <string name="act_more_title" formatted="false">Higit pang paraan para tumulong</string>
+    <string name="act_more_body" formatted="false">• I-install ang F-Droid sa iyong mga device.\n• Sagutin ang survey sa pag-verify ng developer ng Google.\n• Mag-post sa social media at mag-link sa keepandroidopen.org.\n• Lagdaan ang change.org petition.\n• Idagdag ang countdown banner sa iyong website.</string>
+    <string name="act_all_actions" formatted="false">Lahat ng aksyon sa keepandroidopen.org</string>
+    <string name="action_email" formatted="false">Email</string>
+    <string name="action_open" formatted="false">Bukas</string>
+    <string-array name="us_contact_regions">
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>US Department of Justice — Antitrust Division</item>
+        <item>US Federal Trade Commission — Antitrust</item>
+        <item>Hanapin ang iyong Kinatawan ng Kamara</item>
+        <item>Makipag-ugnayan sa iyong mga Senador sa US</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Magsumite ng ulat ng antitrust online.</item>
+        <item>Maghain ng reklamo sa antitrust.</item>
+        <item>Makipag-ugnayan sa iyong kinatawan sa US House.</item>
+        <item>Hanapin at makipag-ugnayan sa parehong mga senador ng iyong estado.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>European Union</item>
+        <item>European Union</item>
+        <item>United Kingdom</item>
+        <item>Brazil</item>
+        <item>Singapore</item>
+        <item>Thailand</item>
+        <item>Indonesia</item>
+        <item>Australia</item>
+        <item>Canada</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>South Korea</item>
+        <item>Mexico</item>
+        <item>Aotearoa / New Zealand</item>
+        <item>Taiwan</item>
+        <item>Switzerland</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU Antitrust (DG COMP)</item>
+        <item>Koponan ng Digital Markets Act</item>
+        <item>Awtoridad sa Kumpetisyon at Markets</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Trade Competition Commission (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Competition Bureau Canada</item>
+        <item>Komisyon sa Kumpetisyon ng India</item>
+        <item>Japan Fair Trade Commission</item>
+        <item>Korea Fair Trade Commission</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>Komisyon sa Komersiyo</item>
+        <item>Fair Trade Commission</item>
+        <item>Competition Commission (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>I-email ang awtoridad sa kompetisyon ng European Commission.</item>
+        <item>Makipag-ugnayan sa helpdesk ng mamamayan ng EU DMA.</item>
+        <item>Mag-ulat sa UK CMA.</item>
+        <item>Ang Brazil ay nasa unang wave ng pagpapatupad.</item>
+        <item>Nasa unang enforcement wave ang Singapore.</item>
+        <item>Nasa unang enforcement wave ang Thailand.</item>
+        <item>Nasa unang enforcement wave ang Indonesia.</item>
+        <item>Mag-ulat sa Australian Competition and Consumer Commission.</item>
+        <item>Maghain ng reklamo sa Competition Bureau.</item>
+        <item>Makipag-ugnayan sa CCI tungkol sa anti-competitive na pag-uugali.</item>
+        <item>Makipag-ugnayan sa JFTC / Mobile Software Competition Act desk.</item>
+        <item>Makipag-ugnayan sa KFTC.</item>
+        <item>Maghain ng reklamo sa antitrust sa Mexico.</item>
+        <item>Mag-ulat ng anti-competitive na pag-uugali.</item>
+        <item>Makipag-ugnayan sa Taiwan FTC.</item>
+        <item>Mag-ulat ng mga labag sa batas na gawi.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Global</item>
+        <item>Global</item>
+        <item>Europa</item>
+        <item>Europa</item>
+        <item>Global</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Foundation</item>
+        <item>Libreng Software Foundation</item>
+        <item>Libreng Software Foundation Europe</item>
+        <item>European Digital Rights (EDRi)</item>
+        <item>Software Freedom Conservancy</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>App gatekeeping at internet censorship.</item>
+        <item>Kalayaan ng software at kontrol ng gumagamit.</item>
+        <item>Kalayaan ng software sa Europa.</item>
+        <item>Pagsusulong ng mga digital na karapatan.</item>
+        <item>Libreng software na hinimok ng komunidad.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">aking pamahalaan</string>
+    <string name="letter_subject" formatted="false">Itigil ang pag-lock ng Google\'s Android Developer Verification</string>
+    <string name="letter_template">Minamahal na kinatawan ng %1$s,\n\nSumulat ako bilang isang nag-aalalang gumagamit ng Android at bilang isang mamamayan sa iyong nasasakupan.\n\nAng Android Developer Verification program ng Google, na ipinatupad simula Setyembre 30, 2026 sa ilang market at lumalawak sa buong mundo noong 2027, ay mangangailangan ng bawat Android app na mairehistro sa isang centrally verified developer bago ito ma-install sa mga certified na device. Dapat magsumite ang mga developer ng pagkakakilanlan ng pamahalaan, sumang-ayon sa mga tuntunin ng Google, magbayad ng bayad at ilista ang bawat identifier ng app sa kasalukuyan at sa hinaharap.\n\nHindi ito makabuluhang nagpapabuti sa seguridad. Ibinibigay nito sa isang pribadong kumpanya ang kapangyarihang magpasya kung aling mga tao ng software ang pinapayagang tumakbo sa mga device na pagmamay-ari nila, at nagbabanta ito sa independiyente at open-source na pamamahagi gaya ng F-Droid, na hindi makakasunod at maaaring tumigil na sa pag-iral.\n\nMagalang kong hinihiling sa iyo:\n\n1. Siyasatin kung ang programang ito ay kontra-competitive at bumubuo ng isang pang-aabuso sa isang posisyong gatekeeper.\n2. Pindutin ang Google para i-exempt ang open-source at non-commercial na pamamahagi, at para panatilihing libre ang sideloading ng sentralisadong pagpaparehistro.\n3. Protektahan ang karapatan ng mga user na magpatakbo ng software na kanilang pinili sa hardware na kanilang binili.\n\nMangyaring kilalanin ang mensaheng ito sa pamamagitan ng pagsulat at ipaalam sa akin kung anong aksyon ang gagawin ng iyong opisina.\n\nKinokopya ko rin ang Keep Android Open campaign sa %2$s.\n\nTaos-puso,\n[Pangalan mo]\n[Iyong lungsod at bansa]</string>
+    <string name="toast_no_app" formatted="false">Walang app ang makakapagbukas ng link na ito</string>
+    <string name="toast_no_email" formatted="false">Walang naka-install na email app</string>
+    <string name="chooser_send_email" formatted="false">Magpadala ng email</string>
+    <string name="chooser_share" formatted="false">Ibahagi</string>
+    <string name="toast_copied" formatted="false">Kinopya sa clipboard</string>
+    <string name="settings_title" formatted="false">Mga setting</string>
+    <string name="settings_language_title" formatted="false">Wika ng app</string>
+    <string name="settings_language_summary" formatted="false">Piliin ang wikang ginagamit ng app. Maaari mo ring baguhin ito mula sa mga setting ng iyong device.</string>
+    <string name="settings_system_default" formatted="false">Default ng system</string>
+    <string name="settings_language_search" formatted="false">Maghanap ng mga wika</string>
+    <string name="settings_theme_title" formatted="false">Tema</string>
+    <string name="settings_theme_summary" formatted="false">Piliin kung ano ang hitsura ng app.</string>
+    <string name="theme_system" formatted="false">Sundin ang sistema</string>
+    <string name="theme_light" formatted="false">Liwanag</string>
+    <string name="theme_dark" formatted="false">Madilim</string>
+    <string name="theme_amoled" formatted="false">AMOLED (purong itim)</string>
+    <string name="settings_accent_title" formatted="false">Kulay ng accent</string>
+    <string name="settings_accent_summary" formatted="false">Piliin ang kulay ng highlight na ginamit sa buong app.</string>
+    <string name="accent_default" formatted="false">Default (pula ng kampanya)</string>
+    <string name="accent_red" formatted="false">Pula</string>
+    <string name="accent_orange" formatted="false">Kahel</string>
+    <string name="accent_yellow" formatted="false">Dilaw</string>
+    <string name="accent_green" formatted="false">Berde</string>
+    <string name="accent_teal" formatted="false">Teal</string>
+    <string name="accent_blue" formatted="false">Asul</string>
+    <string name="accent_purple" formatted="false">Lila</string>
+    <string name="accent_pink" formatted="false">Rosas</string>
+    <string name="settings_colorblendr_warning" formatted="false">Paalala: kung ang ColorBlendr o isa pang Materyal na iyong na-override ay aktibo, maaaring hindi mailapat ang iyong kulay ng accent hanggang sa hindi mo ito pinagana.</string>
+    <string name="settings_about_title" formatted="false">Tungkol sa</string>
+    <string name="settings_version">Bersyon %1$s</string>
+    <string name="settings_open_source" formatted="false">Open source (MIT). Hindi kaakibat o ineendorso ng opisyal na Keep Android Open na campaign.</string>
+</resources>

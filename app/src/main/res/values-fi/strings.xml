@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Lähtölaskenta</string>
+    <string name="tab_rollout" formatted="false">Käyttöönotto</string>
+    <string name="tab_act_now" formatted="false">Toimi nyt</string>
+    <string name="cd_open_site" formatted="false">Avaa keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Asetukset</string>
+    <string name="cd_back" formatted="false">Takaisin</string>
+    <string name="countdown_campaign" formatted="false">Kampanjan lähtölaskenta</string>
+    <string name="countdown_elapsed" formatted="false">Kampanjan julkistamisesta on kulunut aikaa 1.1.2027.</string>
+    <string name="countdown_what_means" formatted="false">Mitä lähtölaskenta tarkoittaa</string>
+    <string name="countdown_read_faq" formatted="false">Lue UKK</string>
+    <string name="countdown_campaign_btn" formatted="false">Kampanja</string>
+    <string name="countdown_footnote" formatted="false">Lähtölaskentatavoite vastaa osoitteessa keepandroidopen.org julkaistua banneria. Sovellus päivittyy kerran sekunnissa, kun se on auki.</string>
+    <string name="countdown_expired" formatted="false">ANDROID ON NYT LUKITTU ALUSTA</string>
+    <string name="countdown_running" formatted="false">ANDROIDISTA LUKITTU ALUSTAA</string>
+    <string name="unit_days" formatted="false">päivää</string>
+    <string name="unit_hours" formatted="false">tuntia</string>
+    <string name="unit_minutes" formatted="false">minuuttia</string>
+    <string name="unit_seconds" formatted="false">sekuntia</string>
+    <string name="rollout_title" formatted="false">Mikä on Android-kehittäjän vahvistus?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Mitä se todella tarkoittaa</string>
+    <string name="rollout_timeline_title" formatted="false">Käyttöönoton aikajana</string>
+    <string name="rollout_paths_title" formatted="false">Valitse vahvistuspolku</string>
+    <string name="rollout_advanced_title" formatted="false">\"Kehittynyt virtaus\" ei ole ratkaisu</string>
+    <string name="rollout_dev_page" formatted="false">Googlen virallinen kehittäjäsivu</string>
+    <string name="rollout_open_letter" formatted="false">Lue avoin kirje</string>
+    <string name="label_identity" formatted="false">Identiteetti</string>
+    <string name="label_distribution" formatted="false">Jakelu</string>
+    <string name="label_ux" formatted="false">Käyttäjäkokemus</string>
+    <string name="label_best_for" formatted="false">Paras</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification on Googlen ohjelma, joka linkittää jokaisen sovelluksen vahvistettuun kehittäjäidentiteettiin, ennen kuin se voidaan asentaa sertifioituihin Android-laitteisiin. Kehittäjien on vahvistettava, keitä he ovat, ja rekisteröitävä julkaisemansa paketinimet. Sovelluksia, joissa ei ole rekisteröityä, vahvistettua kehittäjää, ei voi enää asentaa normaalisti, kun suojaukset otetaan käyttöön.</string>
+    <string name="rollout_what_it_means" formatted="false">Se osuu vaikeimmin riippumattomaan ja avoimen lähdekoodin jakeluun, kuten F-Droidiin, suoriin APK-latauksiin ja harrastusprojekteihin. Google sanoo, että kyse on turvallisuudesta ja anonyymien haittaohjelmien pysäyttämisestä. Kriitikot, kuten Keep Android Open -kampanja, F-Droid ja EFF, sanovat, että se on portinvartijan tappokytkin: keskusrekisteröinti, viranomainen, maksu ja täysi hallinta siitä, mihin laitteesi saa luottaa.</string>
+    <string name="rollout_advanced_note" formatted="false">Edistynyt kulku toimitetaan Google Play -palveluiden kautta, ei Android-käyttöjärjestelmän kautta, joten Google voi muuttaa, rajoittaa tai poistaa sitä milloin tahansa ilman käyttöjärjestelmän päivitystä tai käyttäjän suostumusta. 24 tunnin viive on tarkoituksella häiritsevä ja on yksi askel lisää sinun ja ohjelmiston välillä, jonka valitset.</string>
+    <string-array name="timeline_dates">
+        <item>25. elokuuta 2025</item>
+        <item>19. maaliskuuta 2026</item>
+        <item>Kesäkuu 2026</item>
+        <item>18. kesäkuuta 2026</item>
+        <item>Heinäkuu 2026</item>
+        <item>Elokuu 2026</item>
+        <item>30. syyskuuta 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Ohjelma julkistetaan</item>
+        <item>\"Kehittynyt virtaus\" paljastuu</item>
+        <item>Android Developer Verifier toimitetaan laitteille</item>
+        <item>Ensimmäinen lanseeraus varmistettu</item>
+        <item>Kehittäjäsovellusliittymät avautuvat</item>
+        <item>Globaali konsoli, rajoitetut tilit, edistynyt kulku</item>
+        <item>Täytäntöönpano alkaa neljässä maassa</item>
+        <item>Maailmanlaajuinen käyttöönotto</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google ilmoittaa, että vuodesta 2027 alkaen Android-sovellukset on rekisteröitävä vahvistetulle kehittäjälle, mukaan lukien Google Playn ulkopuolelle asennetut sovellukset.</item>
+        <item>Tehokäyttäjät saavat tarkoituksella hankalan suojaluukun: ota käyttöön kehittäjäasetukset, varmista, ettei sinua pakoteta, käynnistä uudelleen ja odota sitten 24 tuntia, ennen kuin voit sallia vahvistamattomat asennukset.</item>
+        <item>Taustajärjestelmäpalvelu (com.google.android.verifier) ​​välitetään Googlen järjestelmäpäivitysten kautta sertifioituihin laitteisiin ja pysyy lepotilassa täytäntöönpanoon asti.</item>
+        <item>Google vahvistaa, että täytäntöönpano alkaa 30. syyskuuta 2026 seitsemässä kaupassa ja neljässä maassa.</item>
+        <item>Android Developer ID Status -sovellusliittymä julkaistaan ​​maailmanlaajuisesti, ja Android Developer Console -sovellusliittymän ja rajoitettujen jakelutilien käyttö alkaa aikaisin.</item>
+        <item>Rajoitettu jakelutili (ilmainen, jopa 20 laitetta, ei viranomaistunnusta) ja Console API julkaistaan ​​maailmanlaajuisesti. Vahvistamattoman sivulatauksen edistynyt kulku alkaa ottaa käyttöön.</item>
+        <item>Suojaukset tulevat voimaan käyttäjille Brasiliassa, Indonesiassa, Singaporessa ja Thaimaassa sertifioiduilla laitteilla, joissa on Android 7+. Vahvistamattomien kehittäjien sovellukset estetään osallistuvissa kaupoissa: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore ja GetApps.</item>
+        <item>Vahvistus on laajennettu kaikkiin sovelluksiin ja alueisiin. Keep Android Open laskee 1. tammikuuta 2027 asti, jolloin Androidista tulee lukittu alusta.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Täysi jakelu</item>
+        <item>Rajoitettu jakelu</item>
+        <item>Rekisteröimättömien sovellusten sivulataus</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Kyllä – virallinen henkilöllisyystodistus ja maksu</item>
+        <item>Ei – ei henkilötodistusta tai rekisteröintimaksua</item>
+        <item>Ei – mutta suuri kitka</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Mikä tahansa valitsemasi kauppa tai kanava</item>
+        <item>Jopa 20 laitetta QR-koodin tai linkin kättelyn kautta</item>
+        <item>ADB (vapautettu) tai edistynyt kulku</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Mikään ei muutu käyttäjillesi</item>
+        <item>Käyttäjät hyväksyvät asennuskutsun tutulta kehittäjältä</item>
+        <item>Kehittäjäasetukset, käynnistä uudelleen, odota 24 tuntia ja asenna sitten joka tapauksessa</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Organisaatiot ja ammattikehittäjät</item>
+        <item>Opiskelijat, harrastajat ja henkilökohtaiseen käyttöön</item>
+        <item>Vahvistamattomat kehittäjät ja tehokäyttäjät</item>
+    </string-array>
+    <string name="act_title" formatted="false">Toimi nyt – anna äänesi kuuluville</string>
+    <string name="act_intro">Sääntelyviranomaiset haluavat kuulla henkilöiltä, ​​joita tämä koskee. Ole kohtelias ja täsmällinen, kirjoita sen elimen virallisella kielellä, johon otat yhteyttä, pyydä kirjallinen kuittaus ja kopioi %1$s, jotta kampanja voi seurata voittoja.</string>
+    <string name="act_open_composer" formatted="false">Avaa sähköpostin kirjoittaja</string>
+    <string name="act_copy" formatted="false">Kopioida</string>
+    <string name="act_share" formatted="false">Jakaa</string>
+    <string name="act_clipboard_label" formatted="false">Pidä Android avoin kirje</string>
+    <string name="act_us_title" formatted="false">Yhdysvallat – lähetä sähköpostia hallitukselle</string>
+    <string name="act_us_intro" formatted="false">Oikeusministeriö ja FTC ottavat kilpailunrajoituksia koskevat raportit verkkolomakkeiden kautta. Käytä niitä ja ota suoraan yhteyttä omaan edustajaasi ja senaattoreihin.</string>
+    <string name="act_world_title" formatted="false">Muualla maailmassa</string>
+    <string name="act_groups_title" formatted="false">Kuluttaja- ja digitaalisten oikeuksien ryhmät</string>
+    <string name="act_more_title" formatted="false">Lisää tapoja auttaa</string>
+    <string name="act_more_body" formatted="false">• Asenna F-Droid laitteillesi.\n• Vastaa Googlen kehittäjien vahvistuskyselyyn.\n• Julkaise sosiaalisessa mediassa ja linkitä osoitteeseen keepandroidopen.org.\n• Allekirjoita change.org-vetoomus.\n• Lisää lähtölaskenta-banneri verkkosivustollesi.</string>
+    <string name="act_all_actions" formatted="false">Kaikki toiminnot osoitteessa keepandroidopen.org</string>
+    <string name="action_email" formatted="false">Sähköposti</string>
+    <string name="action_open" formatted="false">Avata</string>
+    <string-array name="us_contact_regions">
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Yhdysvaltain oikeusministeriö – Antitrust Division</item>
+        <item>Yhdysvaltain liittovaltion kauppakomissio – kilpailunrajoitus</item>
+        <item>Etsi talon edustajasi</item>
+        <item>Ota yhteyttä Yhdysvaltain senaattoreihin</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Lähetä kartelliraportti verkossa.</item>
+        <item>Tee kilpailunrajoitusvalitus.</item>
+        <item>Ota yhteyttä edustajaasi Yhdysvaltain talossa.</item>
+        <item>Etsi ja ota yhteyttä osavaltiosi molempiin senaattoreihin.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Euroopan unioni</item>
+        <item>Euroopan unioni</item>
+        <item>Yhdistynyt kuningaskunta</item>
+        <item>Brasilia</item>
+        <item>Singapore</item>
+        <item>Thaimaa</item>
+        <item>Indonesia</item>
+        <item>Australia</item>
+        <item>Kanada</item>
+        <item>Intia</item>
+        <item>Japani</item>
+        <item>Etelä-Korea</item>
+        <item>Meksiko</item>
+        <item>Aotearoa / Uusi-Seelanti</item>
+        <item>Taiwan</item>
+        <item>Sveitsi</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU:n kilpailuoikeus (DG COMP)</item>
+        <item>Digital Markets Act -tiimi</item>
+        <item>Kilpailu- ja markkinaviranomainen</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Trade Competition Commission (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Kilpailuvirasto Kanada</item>
+        <item>Intian kilpailukomissio</item>
+        <item>Japan Fair Trade Commission</item>
+        <item>Korean reilun kaupan komissio</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>kauppakomissio</item>
+        <item>Reilun kaupan komissio</item>
+        <item>Kilpailukomissio (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Lähetä sähköpostia Euroopan komission kilpailuviranomaiselle.</item>
+        <item>Ota yhteyttä EU DMA:n kansalaisten tukipalveluun.</item>
+        <item>Ilmoita Yhdistyneen kuningaskunnan CMA:lle.</item>
+        <item>Brasilia on ensimmäisessä täytäntöönpanoaallossa.</item>
+        <item>Singapore on ensimmäisessä täytäntöönpanoaallossa.</item>
+        <item>Thaimaa on ensimmäisessä täytäntöönpanoaallossa.</item>
+        <item>Indonesia on ensimmäisessä täytäntöönpanoaallossa.</item>
+        <item>Raportti Australian kilpailu- ja kuluttajakomissiolle.</item>
+        <item>Tee valitus Kilpailuvirastoon.</item>
+        <item>Ota yhteyttä CCI:hen kilpailunvastaisista toimista.</item>
+        <item>Ota yhteyttä JFTC / Mobile Software Competition Act -palveluun.</item>
+        <item>Ota yhteyttä KFTC:hen.</item>
+        <item>Tee kilpailunrajoitusvalitus Meksikossa.</item>
+        <item>Ilmoita kilpailunvastaisesta toiminnasta.</item>
+        <item>Ota yhteyttä Taiwanin FTC:hen.</item>
+        <item>Ilmoita laittomista toimista.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Maailmanlaajuinen</item>
+        <item>Maailmanlaajuinen</item>
+        <item>Euroopassa</item>
+        <item>Euroopassa</item>
+        <item>Maailmanlaajuinen</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Foundation</item>
+        <item>Free Software Foundation</item>
+        <item>Free Software Foundation Europe</item>
+        <item>Euroopan digitaaliset oikeudet (EDRI)</item>
+        <item>Ohjelmistovapauden suojelu</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Sovellusten portinvartiointi ja Internet-sensuuri.</item>
+        <item>Ohjelmiston vapaus ja käyttäjän hallinta.</item>
+        <item>Ohjelmistovapaus Euroopassa.</item>
+        <item>Digitaalisten oikeuksien puolustaminen.</item>
+        <item>Yhteisölähtöinen ilmainen ohjelmisto.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">minun hallitukseni</string>
+    <string name="letter_subject" formatted="false">Lopeta Googlen Android-kehittäjävahvistuksen lukitus</string>
+    <string name="letter_template">Hyvä %1$s edustaja\n\nKirjoitan huolestuneena Android-käyttäjänä ja lainkäyttöalueesi kansalaisena.\n\nGooglen Android-kehittäjien vahvistusohjelma, joka astuu voimaan 30.9.2026 useilla markkinoilla ja laajenee maailmanlaajuisesti vuonna 2027, edellyttää, että jokainen Android-sovellus rekisteröidään keskitetysti vahvistetulle kehittäjälle, ennen kuin se voidaan asentaa sertifioiduille laitteille. Kehittäjien on toimitettava virallinen henkilöllisyystodistus, hyväksyttävä Googlen ehdot, maksettava maksu ja lueteltava kaikki nykyiset ja tulevat sovellustunnisteet.\n\nTämä ei merkittävästi lisää turvallisuutta. Se antaa yhdelle yksityiselle yritykselle vallan päättää, mitä ohjelmistoja ihmiset saavat käyttää omistamillaan laitteilla, ja se uhkaa riippumatonta ja avoimen lähdekoodin jakelua, kuten F-Droidia, joka ei voi noudattaa vaatimuksia ja saattaa lakata olemasta.\n\nPyydän kunnioittavasti sinua:\n\n1. Tutki, onko tämä ohjelma kilpailunvastainen ja onko se portinvartijan aseman väärinkäyttöä.\n2. Paina Google vapauttaaksesi avoimen lähdekoodin ja ei-kaupallisen jakelun ja pitääksesi sivulatauksen vapaana keskitetystä rekisteröinnistä.\n3. Suojaa käyttäjien oikeutta käyttää valitsemiaan ohjelmistoja ostamissaan laitteistoissa.\n\nHyväksy tämä viesti kirjallisesti ja kerro minulle, mihin toimiin toimistosi ryhtyy.\n\nKopioin myös Keep Android Open -kampanjan osoitteessa %2$s.\n\nYstävällisin terveisin\n[nimesi]\n[kaupunkisi ja maasi]</string>
+    <string name="toast_no_app" formatted="false">Mikään sovellus ei voi avata tätä linkkiä</string>
+    <string name="toast_no_email" formatted="false">Sähköpostisovellusta ei ole asennettu</string>
+    <string name="chooser_send_email" formatted="false">Lähetä sähköpostia</string>
+    <string name="chooser_share" formatted="false">Jakaa</string>
+    <string name="toast_copied" formatted="false">Kopioitu leikepöydälle</string>
+    <string name="settings_title" formatted="false">Asetukset</string>
+    <string name="settings_language_title" formatted="false">Sovelluksen kieli</string>
+    <string name="settings_language_summary" formatted="false">Valitse sovelluksen käyttämä kieli. Voit myös muuttaa sitä laitteen asetuksista.</string>
+    <string name="settings_system_default" formatted="false">Järjestelmän oletus</string>
+    <string name="settings_language_search" formatted="false">Hae kieliä</string>
+    <string name="settings_theme_title" formatted="false">Teema</string>
+    <string name="settings_theme_summary" formatted="false">Valitse, miltä sovellus näyttää.</string>
+    <string name="theme_system" formatted="false">Seuraa järjestelmää</string>
+    <string name="theme_light" formatted="false">Kevyt</string>
+    <string name="theme_dark" formatted="false">Tumma</string>
+    <string name="theme_amoled" formatted="false">AMOLED (puhdas musta)</string>
+    <string name="settings_accent_title" formatted="false">Aksenttiväri</string>
+    <string name="settings_accent_summary" formatted="false">Valitse sovelluksessa käytettävä korostusväri.</string>
+    <string name="accent_default" formatted="false">Oletus (kampanjan punainen)</string>
+    <string name="accent_red" formatted="false">Punainen</string>
+    <string name="accent_orange" formatted="false">Oranssi</string>
+    <string name="accent_yellow" formatted="false">Keltainen</string>
+    <string name="accent_green" formatted="false">Vihreä</string>
+    <string name="accent_teal" formatted="false">Sinivihreä</string>
+    <string name="accent_blue" formatted="false">Sininen</string>
+    <string name="accent_purple" formatted="false">Violetti</string>
+    <string name="accent_pink" formatted="false">Vaaleanpunainen</string>
+    <string name="settings_colorblendr_warning" formatted="false">Huomio: jos ColorBlendr tai muu ohitettava materiaali on aktiivinen, korostusväriäsi ei ehkä käytetä ennen kuin poistat sen käytöstä.</string>
+    <string name="settings_about_title" formatted="false">Noin</string>
+    <string name="settings_version">Versio %1$s</string>
+    <string name="settings_open_source" formatted="false">Avoin lähdekoodi (MIT). Ei liity viralliseen Keep Android Open -kampanjaan tai tue sitä.</string>
+</resources>

@@ -1,7 +1,8 @@
 package org.keepandroidopen.app.ui.theme
 
-import androidx.compose.foundation.isSystemInDarkTheme
+import android.graphics.Color as AndroidColor
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.material3.ColorScheme
 import androidx.compose.material3.ExperimentalMaterial3ExpressiveApi
 import androidx.compose.material3.MaterialExpressiveTheme
 import androidx.compose.material3.MotionScheme
@@ -9,7 +10,12 @@ import androidx.compose.material3.Shapes
 import androidx.compose.material3.darkColorScheme
 import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.toArgb
 import androidx.compose.ui.unit.dp
+import org.keepandroidopen.app.settings.Accent
+import org.keepandroidopen.app.settings.ThemeMode
+import kotlin.math.roundToInt
 
 private val LightColors = lightColorScheme(
     primary = md_light_primary,
@@ -85,14 +91,71 @@ private val KaoShapes = Shapes(
     extraExtraLarge = RoundedCornerShape(52.dp),
 )
 
+private fun hueOf(color: Color): Float {
+    val hsv = FloatArray(3)
+    AndroidColor.colorToHSV(color.toArgb(), hsv)
+    return hsv[0]
+}
+
+private fun rotateHue(color: Color, degrees: Float): Color {
+    val hsv = FloatArray(3)
+    AndroidColor.colorToHSV(color.toArgb(), hsv)
+    if (hsv[1] < 0.05f) return color
+    hsv[0] = ((hsv[0] + degrees) % 360f + 360f) % 360f
+    val alpha = (color.alpha * 255f).roundToInt().coerceIn(0, 255)
+    return Color(AndroidColor.HSVToColor(alpha, hsv))
+}
+
+private fun ColorScheme.recoloredTo(accentHue: Float): ColorScheme {
+    val delta = accentHue - hueOf(primary)
+    fun r(c: Color) = rotateHue(c, delta)
+    return copy(
+        primary = r(primary),
+        onPrimary = r(onPrimary),
+        primaryContainer = r(primaryContainer),
+        onPrimaryContainer = r(onPrimaryContainer),
+        secondary = r(secondary),
+        onSecondary = r(onSecondary),
+        secondaryContainer = r(secondaryContainer),
+        onSecondaryContainer = r(onSecondaryContainer),
+        tertiary = r(tertiary),
+        onTertiary = r(onTertiary),
+        tertiaryContainer = r(tertiaryContainer),
+        onTertiaryContainer = r(onTertiaryContainer),
+        inversePrimary = r(inversePrimary),
+    )
+}
+
+private fun ColorScheme.asAmoled(): ColorScheme = copy(
+    background = Color.Black,
+    surface = Color.Black,
+    surfaceContainerLowest = Color.Black,
+    surfaceContainerLow = Color(0xFF070707),
+    surfaceContainer = Color(0xFF0D0D0D),
+    surfaceContainerHigh = Color(0xFF151515),
+    surfaceContainerHighest = Color(0xFF1C1C1C),
+    surfaceVariant = Color(0xFF1C1C1C),
+)
+
 @OptIn(ExperimentalMaterial3ExpressiveApi::class)
 @Composable
 fun KeepAndroidOpenTheme(
-    darkTheme: Boolean = isSystemInDarkTheme(),
+    themeMode: ThemeMode = ThemeMode.SYSTEM,
+    accent: Accent = Accent.DEFAULT,
+    systemDark: Boolean = androidx.compose.foundation.isSystemInDarkTheme(),
     content: @Composable () -> Unit,
 ) {
+    val isDark = when (themeMode) {
+        ThemeMode.SYSTEM -> systemDark
+        ThemeMode.LIGHT -> false
+        ThemeMode.DARK, ThemeMode.AMOLED -> true
+    }
+    var scheme = if (isDark) DarkColors else LightColors
+    if (themeMode == ThemeMode.AMOLED) scheme = scheme.asAmoled()
+    if (accent != Accent.DEFAULT) scheme = scheme.recoloredTo(accent.hue)
+
     MaterialExpressiveTheme(
-        colorScheme = if (darkTheme) DarkColors else LightColors,
+        colorScheme = scheme,
         motionScheme = MotionScheme.expressive(),
         shapes = KaoShapes,
         typography = KaoTypography,

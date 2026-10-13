@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Numërimi mbrapsht</string>
+    <string name="tab_rollout" formatted="false">Përhapja</string>
+    <string name="tab_act_now" formatted="false">Vepro tani</string>
+    <string name="cd_open_site" formatted="false">Hape keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Cilësimet</string>
+    <string name="cd_back" formatted="false">Mbrapa</string>
+    <string name="countdown_campaign" formatted="false">Numërimi mbrapsht i fushatës</string>
+    <string name="countdown_elapsed" formatted="false">Koha e kaluar që kur fushata u bë publike deri më 1 janar 2027.</string>
+    <string name="countdown_what_means" formatted="false">Çfarë do të thotë numërimi mbrapsht</string>
+    <string name="countdown_read_faq" formatted="false">Lexoni FAQ</string>
+    <string name="countdown_campaign_btn" formatted="false">Fushata</string>
+    <string name="countdown_footnote" formatted="false">Objektivi i numërimit mbrapsht përputhet me banerin e publikuar në keepandroidopen.org. Aplikacioni përditësohet një herë në sekondë kur është i hapur.</string>
+    <string name="countdown_expired" formatted="false">ANDROID TANI ËSHTË NJË PLATFORMË E MBYLLUR</string>
+    <string name="countdown_running" formatted="false">ANDROID BËHET NJË PLATFORMË E MBYLLUR NË</string>
+    <string name="unit_days" formatted="false">ditë</string>
+    <string name="unit_hours" formatted="false">orë</string>
+    <string name="unit_minutes" formatted="false">minuta</string>
+    <string name="unit_seconds" formatted="false">sekonda</string>
+    <string name="rollout_title" formatted="false">Çfarë është Verifikimi i Zhvilluesit të Android?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Çfarë do të thotë në të vërtetë</string>
+    <string name="rollout_timeline_title" formatted="false">Afati kohor i paraqitjes</string>
+    <string name="rollout_paths_title" formatted="false">Zgjidhni rrugën tuaj të verifikimit</string>
+    <string name="rollout_advanced_title" formatted="false">\"Rrjedha e avancuar\" nuk është një zgjidhje</string>
+    <string name="rollout_dev_page" formatted="false">Faqja zyrtare e zhvilluesve të Google</string>
+    <string name="rollout_open_letter" formatted="false">Lexoni letrën e hapur</string>
+    <string name="label_identity" formatted="false">Identiteti</string>
+    <string name="label_distribution" formatted="false">Shpërndarja</string>
+    <string name="label_ux" formatted="false">Përvoja e përdoruesit</string>
+    <string name="label_best_for" formatted="false">Më e mira për</string>
+    <string name="rollout_summary" formatted="false">Verifikimi i zhvilluesit të Android është një program i Google që lidh çdo aplikacion me një identitet të verifikuar zhvilluesi përpara se të mund të instalohet në pajisjet e certifikuara Android. Zhvilluesit duhet të verifikojnë se kush janë dhe të regjistrojnë emrat e paketave që publikojnë. Aplikacionet pa një zhvillues të regjistruar dhe të verifikuar nuk mund të instalohen më në mënyrën normale pasi të hapen mbrojtjet.</string>
+    <string name="rollout_what_it_means" formatted="false">Ai gjen më së shumti në shpërndarjen e pavarur dhe me burim të hapur si F-Droid, shkarkime të drejtpërdrejta APK dhe projekte hobi. Google thotë se ka të bëjë me sigurinë dhe ndalimin e malware anonim. Kritikët duke përfshirë fushatën Keep Android Open, F-Droid dhe EFF thonë se është një çelës për vrasjen e portierëve: regjistrim qendror, ID e qeverisë, një tarifë dhe kontroll të plotë mbi atë që pajisja juaj lejohet t\'i besojë.</string>
+    <string name="rollout_advanced_note" formatted="false">Rrjedha e avancuar shpërndahet përmes shërbimeve të Google Play, jo përmes sistemit operativ Android, kështu që Google mund ta ndryshojë, kufizojë ose heqë atë në çdo kohë pa një përditësim të OS ose pëlqimin e përdoruesit. Vonesa 24-orëshe është qëllimisht përçarëse dhe është një hap tjetër që qëndron mes jush dhe softuerit që zgjidhni të përdorni.</string>
+    <string-array name="timeline_dates">
+        <item>25 gusht 2025</item>
+        <item>19 mars 2026</item>
+        <item>Qershor 2026</item>
+        <item>18 qershor 2026</item>
+        <item>korrik 2026</item>
+        <item>gusht 2026</item>
+        <item>30 shtator 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Programi shpallet</item>
+        <item>\"Rrjedha e avancuar\" zbulohet</item>
+        <item>Verifikuesi i zhvilluesit të Android dërgohet në pajisje</item>
+        <item>Nisja fillestare u konfirmua</item>
+        <item>API-të e zhvilluesve hapen</item>
+        <item>Konsolë globale, llogari të kufizuara, fluks i avancuar</item>
+        <item>Zbatimi fillon në katër vende</item>
+        <item>Shpërndarja globale</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google njofton se duke filluar nga viti 2027, aplikacionet për Android duhet të regjistrohen te një zhvillues i verifikuar, duke përfshirë aplikacionet e instaluara jashtë Google Play.</item>
+        <item>Përdoruesit e fuqishëm marrin një çelës arratisje qëllimisht të rëndë: aktivizoni Opsionet e Zhvilluesit, konfirmoni që nuk jeni të detyruar, rinisni dhe më pas prisni 24 orë përpara se të lejoni instalime të paverifikuara.</item>
+        <item>Një shërbim i sistemit në sfond (com.google.android.verifier) ​​shtyhet përmes Përditësimeve të Sistemit të Google në pajisjet e certifikuara dhe qëndron në gjendje të fjetur deri në zbatimin.</item>
+        <item>Google konfirmon se zbatimi fillon më 30 shtator 2026, në shtatë dyqane dhe katër vende.</item>
+        <item>Android Developer ID Status API nis globalisht dhe fillon qasja e hershme për API-në e panelit të zhvilluesit të Android dhe llogaritë e kufizuara të shpërndarjes.</item>
+        <item>Llogaritë e kufizuara të shpërndarjes (falas, deri në 20 pajisje, pa ID të qeverisë) dhe API-ja e Konsolës lëshohet në mbarë botën. Rrjedha e avancuar për ngarkimin anësor të paverifikuar fillon të përhapet.</item>
+        <item>Mbrojtjet hyjnë drejtpërdrejt për përdoruesit në Brazil, Indonezi, Singapor dhe Tajlandë në pajisjet e certifikuara që përdorin Android 7+. Aplikacionet nga zhvilluesit e paverifikuar bllokohen në dyqanet pjesëmarrëse: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore dhe GetApps.</item>
+        <item>Verifikimi është zgjeruar në të gjitha aplikacionet dhe rajonet. Mbani Android Open numërimin mbrapsht deri në 1 janar 2027, kur Android të bëhet një platformë e mbyllur.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Shpërndarja e plotë</item>
+        <item>Shpërndarje e kufizuar</item>
+        <item>Ngarkimi anësor i aplikacioneve të paregjistruara</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Po — ID e qeverisë dhe një tarifë</item>
+        <item>Jo - pa ID ose tarifë regjistrimi</item>
+        <item>Jo - por fërkim i lartë</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Çdo dyqan apo kanal që ju zgjidhni</item>
+        <item>Deri në 20 pajisje nëpërmjet kodit QR ose lidhjes së shtrëngimit të duarve</item>
+        <item>ADB (i përjashtuar) ose rrjedha e avancuar</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Asgjë nuk ndryshon për përdoruesit tuaj</item>
+        <item>Përdoruesit pranojnë një ftesë instalimi nga një zhvillues që e njohin</item>
+        <item>Opsionet e zhvilluesit, rinisni, prisni 24 orë, më pas instaloni gjithsesi</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Organizatat dhe zhvilluesit profesionistë</item>
+        <item>Studentët, hobiistët dhe përdorimi personal</item>
+        <item>Zhvillues të paverifikuar dhe përdorues të fuqishëm</item>
+    </string-array>
+    <string name="act_title" formatted="false">Vepro tani - bëje zërin tënd të dëgjohet</string>
+    <string name="act_intro">Rregullatorët duan të dëgjojnë nga individët që preken. Jini të sjellshëm dhe specifik, shkruani në një gjuhë zyrtare të organit me të cilin kontaktoni, kërkoni një mirënjohje me shkrim dhe kopjoni %1$s në mënyrë që fushata të mund të gjurmojë fitoret.</string>
+    <string name="act_open_composer" formatted="false">Hapni kompozitorin e emailit</string>
+    <string name="act_copy" formatted="false">Kopjo</string>
+    <string name="act_share" formatted="false">Shpërndaje</string>
+    <string name="act_clipboard_label" formatted="false">Mbani letrën e hapur të Android</string>
+    <string name="act_us_title" formatted="false">Shtetet e Bashkuara — email qeverisë</string>
+    <string name="act_us_intro" formatted="false">Departamenti i Drejtësisë dhe FTC marrin raporte antitrust përmes formularëve në internet. Përdorni ato dhe kontaktoni drejtpërdrejt përfaqësuesin dhe senatorët tuaj.</string>
+    <string name="act_world_title" formatted="false">Diku tjetër në botë</string>
+    <string name="act_groups_title" formatted="false">Grupet e të drejtave të konsumatorëve dhe dixhitale</string>
+    <string name="act_more_title" formatted="false">Më shumë mënyra për të ndihmuar</string>
+    <string name="act_more_body" formatted="false">• Instaloni F-Droid në pajisjet tuaja.\n• Përgjigjuni anketës së verifikimit të zhvilluesve të Google.\n• Postoni në mediat sociale dhe lidheni me keepandroidopen.org.\n• Nënshkruani peticionin change.org.\n• Shtoni banerin e numërimit mbrapsht në faqen tuaj të internetit.</string>
+    <string name="act_all_actions" formatted="false">Të gjitha veprimet në keepandroidopen.org</string>
+    <string name="action_email" formatted="false">Email</string>
+    <string name="action_open" formatted="false">Hapur</string>
+    <string-array name="us_contact_regions">
+        <item>Shtetet e Bashkuara</item>
+        <item>Shtetet e Bashkuara</item>
+        <item>Shtetet e Bashkuara</item>
+        <item>Shtetet e Bashkuara</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Departamenti Amerikan i Drejtësisë - Divizioni Antitrust</item>
+        <item>Komisioni Federal i Tregtisë i SHBA - Antitrust</item>
+        <item>Gjeni Përfaqësuesin tuaj të Dhomës</item>
+        <item>Kontaktoni senatorët tuaj amerikanë</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Paraqisni një raport antitrust në internet.</item>
+        <item>Paraqisni një ankesë antitrust.</item>
+        <item>Kontaktoni përfaqësuesin tuaj në Shtëpinë e SHBA.</item>
+        <item>Gjeni dhe kontaktoni të dy senatorët e shtetit tuaj.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Bashkimi Evropian</item>
+        <item>Bashkimi Evropian</item>
+        <item>Mbretëria e Bashkuar</item>
+        <item>Brazili</item>
+        <item>Singapor</item>
+        <item>Tajlandë</item>
+        <item>Indonezia</item>
+        <item>Australia</item>
+        <item>Kanadaja</item>
+        <item>Indi</item>
+        <item>Japonia</item>
+        <item>Koreja e Jugut</item>
+        <item>Meksika</item>
+        <item>Aotearoa / Zelanda e Re</item>
+        <item>Tajvani</item>
+        <item>Zvicra</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>Antitrust i BE-së (DG COMP)</item>
+        <item>Ekipi i Aktit të Tregjeve Dixhitale</item>
+        <item>Autoriteti i Konkurrencës dhe Tregjeve</item>
+        <item>KADE</item>
+        <item>CCCS</item>
+        <item>Komisioni i Konkurrencës Tregtare (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Byroja e Konkurrencës në Kanada</item>
+        <item>Komisioni i Konkurrencës i Indisë</item>
+        <item>Komisioni i Tregtisë së Drejtë të Japonisë</item>
+        <item>Komisioni i Tregtisë së Drejtë të Koresë</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>Komisioni i Tregtisë</item>
+        <item>Komisioni i Tregtisë së Drejtë</item>
+        <item>Komisioni i Konkurrencës (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Dërgo email autoritetit të konkurrencës së Komisionit Evropian.</item>
+        <item>Kontaktoni qendrën e ndihmës së qytetarëve të BE-së DMA.</item>
+        <item>Raportoni në CMA të MB.</item>
+        <item>Brazili është në valën e parë të zbatimit.</item>
+        <item>Singapori është në valën e parë të zbatimit.</item>
+        <item>Tajlanda është në valën e parë të zbatimit.</item>
+        <item>Indonezia është në valën e parë të zbatimit.</item>
+        <item>Raportoni në Komisionin Australian të Konkurrencës dhe Konsumatorit.</item>
+        <item>Paraqisni një ankesë pranë Byrosë së Konkurrencës.</item>
+        <item>Kontaktoni CCI për sjellje antikonkurruese.</item>
+        <item>Kontaktoni zyrën JFTC / Mobile Software Competition Act.</item>
+        <item>Kontaktoni KFTC.</item>
+        <item>Paraqisni një ankesë antitrust në Meksikë.</item>
+        <item>Raportoni sjellje kundër konkurrencës.</item>
+        <item>Kontaktoni FTC të Tajvanit.</item>
+        <item>Raportoni praktikat e paligjshme.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Globale</item>
+        <item>Globale</item>
+        <item>Evropë</item>
+        <item>Evropë</item>
+        <item>Globale</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Foundation</item>
+        <item>Fondacioni i Software-it të Lirë</item>
+        <item>Free Software Foundation Europe</item>
+        <item>Të Drejtat Dixhitale Evropiane (EDRI)</item>
+        <item>Ruajtja e lirisë së softuerit</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Mbajtja e portave të aplikacioneve dhe censura e internetit.</item>
+        <item>Liria e softuerit dhe kontrolli i përdoruesit.</item>
+        <item>Liria e softuerit në Evropë.</item>
+        <item>Mbrojtja e të drejtave dixhitale.</item>
+        <item>Software i lirë i drejtuar nga komuniteti.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">qeveria ime</string>
+    <string name="letter_subject" formatted="false">Ndalo bllokimin e Verifikimit të Zhvilluesit të Android të Google</string>
+    <string name="letter_template">I nderuar përfaqësues i %1$s,\n\nPo shkruaj si përdorues i shqetësuar Android dhe si qytetar në juridiksionin tuaj.\n\nProgrami i \"Verifikimit të Zhvilluesit të Android\" të Google, i zbatuar duke filluar nga 30 shtatori 2026 në disa tregje dhe duke u zgjeruar globalisht në vitin 2027, do të kërkojë që çdo aplikacion Android të regjistrohet te një zhvillues i verifikuar nga qendra përpara se të instalohet në pajisjet e certifikuara. Zhvilluesit duhet të dorëzojnë identifikimin e qeverisë, të pranojnë kushtet e Google, të paguajnë një tarifë dhe të listojnë çdo identifikues aplikacioni aktual dhe të ardhshëm.\n\nKjo nuk përmirëson ndjeshëm sigurinë. Ai i jep një kompanie të vetme private fuqinë për të vendosur se cilin softuer lejohet të përdorin njerëzit në pajisjet që zotërojnë dhe kërcënon shpërndarjen e pavarur dhe me burim të hapur, si F-Droid, i cili nuk mund të pajtohet dhe mund të pushojë së ekzistuari.\n\nJu kërkoj me respekt:\n\n1. Të hetojë nëse ky program është antikonkurrues dhe përbën abuzim me pozicionin e portierit.\n2. Shtypni Google për të përjashtuar shpërndarjen me burim të hapur dhe jokomercial, dhe për të mbajtur ngarkimin anësor pa regjistrim të centralizuar.\n3. Mbroni të drejtën e përdoruesve për të ekzekutuar softuer sipas zgjedhjes së tyre në harduerin që kanë blerë.\n\nJu lutem pranoni këtë mesazh me shkrim dhe më njoftoni se çfarë veprimi ndërmerr zyra juaj.\n\nPo kopjoj gjithashtu fushatën Keep Android Open në %2$s.\n\nSinqerisht,\n[Emri juaj]\n[Qyteti dhe vendi juaj]</string>
+    <string name="toast_no_app" formatted="false">Asnjë aplikacion nuk mund ta hapë këtë lidhje</string>
+    <string name="toast_no_email" formatted="false">Asnjë aplikacion emaili nuk është i instaluar</string>
+    <string name="chooser_send_email" formatted="false">Dërgo email</string>
+    <string name="chooser_share" formatted="false">Shpërndaje</string>
+    <string name="toast_copied" formatted="false">Kopjuar në kujtesën e fragmenteve</string>
+    <string name="settings_title" formatted="false">Cilësimet</string>
+    <string name="settings_language_title" formatted="false">Gjuha e aplikacionit</string>
+    <string name="settings_language_summary" formatted="false">Zgjidhni gjuhën e përdorur nga aplikacioni. Mund ta ndryshoni gjithashtu nga cilësimet e pajisjes tuaj.</string>
+    <string name="settings_system_default" formatted="false">Parazgjedhja e sistemit</string>
+    <string name="settings_language_search" formatted="false">Kërkoni gjuhë</string>
+    <string name="settings_theme_title" formatted="false">Tema</string>
+    <string name="settings_theme_summary" formatted="false">Zgjidhni si duket aplikacioni.</string>
+    <string name="theme_system" formatted="false">Ndiqni sistemin</string>
+    <string name="theme_light" formatted="false">Drita</string>
+    <string name="theme_dark" formatted="false">E errët</string>
+    <string name="theme_amoled" formatted="false">AMOLED (e zezë e pastër)</string>
+    <string name="settings_accent_title" formatted="false">Ngjyra e theksit</string>
+    <string name="settings_accent_summary" formatted="false">Zgjidh ngjyrën e theksimit të përdorur në të gjithë aplikacionin.</string>
+    <string name="accent_default" formatted="false">E parazgjedhur (e kuqe e fushatës)</string>
+    <string name="accent_red" formatted="false">E kuqe</string>
+    <string name="accent_orange" formatted="false">portokalli</string>
+    <string name="accent_yellow" formatted="false">E verdha</string>
+    <string name="accent_green" formatted="false">E gjelbër</string>
+    <string name="accent_teal" formatted="false">Teal</string>
+    <string name="accent_blue" formatted="false">Blu</string>
+    <string name="accent_purple" formatted="false">Vjollcë</string>
+    <string name="accent_pink" formatted="false">Rozë</string>
+    <string name="settings_colorblendr_warning" formatted="false">Kujdes: nëse ColorBlendr ose një material tjetër që ju kapërceni është aktiv, ngjyra juaj e theksit mund të mos zbatohet derisa ta çaktivizoni atë.</string>
+    <string name="settings_about_title" formatted="false">Rreth</string>
+    <string name="settings_version">Versioni %1$s</string>
+    <string name="settings_open_source" formatted="false">Burim i hapur (MIT). Nuk është e lidhur ose e miratuar nga fushata zyrtare Keep Android Open.</string>
+</resources>

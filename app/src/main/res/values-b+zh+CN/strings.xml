@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">倒计时</string>
+    <string name="tab_rollout" formatted="false">推出</string>
+    <string name="tab_act_now" formatted="false">立即行动</string>
+    <string name="cd_open_site" formatted="false">打开 keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">设置</string>
+    <string name="cd_back" formatted="false">后退</string>
+    <string name="countdown_campaign" formatted="false">活动倒计时</string>
+    <string name="countdown_elapsed" formatted="false">自该活动公开以来，时间已经过去了 2027 年 1 月 1 日。</string>
+    <string name="countdown_what_means" formatted="false">倒计时意味着什么</string>
+    <string name="countdown_read_faq" formatted="false">阅读常见问题解答</string>
+    <string name="countdown_campaign_btn" formatted="false">该活动</string>
+    <string name="countdown_footnote" formatted="false">倒计时目标与 keepandroidopen.org 上发布的横幅相匹配。该应用程序在打开时每秒更新一次。</string>
+    <string name="countdown_expired" formatted="false">ANDROID 现在是一个锁定平台</string>
+    <string name="countdown_running" formatted="false">ANDROID 成为一个封闭的平台</string>
+    <string name="unit_days" formatted="false">天</string>
+    <string name="unit_hours" formatted="false">小时</string>
+    <string name="unit_minutes" formatted="false">分钟</string>
+    <string name="unit_seconds" formatted="false">秒</string>
+    <string name="rollout_title" formatted="false">什么是 Android 开发者验证？</string>
+    <string name="rollout_what_it_means_title" formatted="false">它的真正含义是什么</string>
+    <string name="rollout_timeline_title" formatted="false">推出时间表</string>
+    <string name="rollout_paths_title" formatted="false">选择您的验证路径</string>
+    <string name="rollout_advanced_title" formatted="false">“高级流程”不是解决方案</string>
+    <string name="rollout_dev_page" formatted="false">Google 官方开发者页面</string>
+    <string name="rollout_open_letter" formatted="false">阅读公开信</string>
+    <string name="label_identity" formatted="false">身份</string>
+    <string name="label_distribution" formatted="false">分配</string>
+    <string name="label_ux" formatted="false">用户体验</string>
+    <string name="label_best_for" formatted="false">最适合</string>
+    <string name="rollout_summary" formatted="false">Android 开发者验证是一项 Google 计划，它将每个应用程序链接到经过验证的开发者身份，然后才能将其安装到经过认证的 Android 设备上。开发者必须验证他们的身份并注册他们发布的包名称。一旦保护措施推出，未经注册、经过验证的开发人员的应用程序将无法再以正常方式安装。</string>
+    <string name="rollout_what_it_means" formatted="false">它最难登陆的是独立开源发行版，例如 F-Droid、直接 APK 下载和业余爱好项目。谷歌表示，这是为了安全和阻止匿名恶意软件。包括“保持 Android 开放”运动、F-Droid 和 EFF 在内的批评者表示，这是一个把关人的杀戮开关：集中注册、政府 ID、费用以及对允许您的设备信任的内容的完全控制。</string>
+    <string name="rollout_advanced_note" formatted="false">高级流程是通过 Google Play 服务而不是 Android 操作系统提供的，因此 Google 可以随时更改、限制或删除它，而无需操作系统更新或用户同意。 24 小时的延迟是故意造成破坏的，并且是您和您选择运行的软件之间的又一步骤。</string>
+    <string-array name="timeline_dates">
+        <item>2025 年 8 月 25 日</item>
+        <item>2026 年 3 月 19 日</item>
+        <item>2026年6月</item>
+        <item>2026 年 6 月 18 日</item>
+        <item>2026 年 7 月</item>
+        <item>2026 年 8 月</item>
+        <item>2026 年 9 月 30 日</item>
+        <item>2027年</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>方案已公布</item>
+        <item>“高级流程”揭晓</item>
+        <item>Android 开发者验证程序运送到设备</item>
+        <item>初步启动已确认</item>
+        <item>开发者API开放</item>
+        <item>全球控制台，有限账户，高级流程</item>
+        <item>四个国家开始执行</item>
+        <item>全球推广</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>谷歌宣布，从 2027 年开始，Android 应用程序必须向经过验证的开发者注册，包括在 Google Play 之外安装的应用程序。</item>
+        <item>高级用户有一个故意麻烦的逃生口：启用开发人员选项，确认您没有被强迫，重新启动，然后等待 24 小时，然后才能允许未经验证的安装。</item>
+        <item>后台系统服务 (com.google.android.verifier) 通过 Google 系统更新推送到经过认证的设备，并在执行之前保持休眠状态。</item>
+        <item>Google 确认将于 2026 年 9 月 30 日开始在 4 个国家/地区的 7 家商店强制执行。</item>
+        <item>Android 开发者 ID 状态 API 在全球范围内推出，并且 Android 开发者控制台 API 和有限的分发帐户开始抢先体验。</item>
+        <item>有限的分发帐户（免费，最多 20 台设备，无需政府 ID）和控制台 API 在全球范围内发布。未经验证的侧面加载的高级流程开始推出。</item>
+        <item>巴西、印度尼西亚、新加坡和泰国用户在运行 Android 7+ 的经过认证的设备上将获得保护。来自未经验证的开发者的应用程序将在参与的商店中被屏蔽：Google Play、HONOR 应用程序市场、OPPO 应用程序市场、Galaxy Store、Palm Store、V-Appstore 和 GetApps。</item>
+        <item>验证范围已扩展到所有应用程序和区域。保持 Android 开放倒计时至 2027 年 1 月 1 日，届时 Android 将成为锁定平台。</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>全面配送</item>
+        <item>限量发行</item>
+        <item>旁加载未注册的应用程序</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>是的 — 由政府颁发的身份证件和费用</item>
+        <item>否 — 无需身份证件或注册费</item>
+        <item>没有——但是摩擦力大</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>您选择的任何商店或渠道</item>
+        <item>通过二维码或链接握手最多 20 个设备</item>
+        <item>ADB（豁免）或高级流程</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>对于您的用户来说没有任何改变</item>
+        <item>用户接受来自他们认识的开发者的安装邀请</item>
+        <item>开发者选项，重启，24小时等待，然后还是安装</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>组织和专业开发人员</item>
+        <item>学生、业余爱好者和个人使用</item>
+        <item>未经验证的开发人员和高级用户</item>
+    </string-array>
+    <string name="act_title" formatted="false">立即行动——让别人听到你的声音</string>
+    <string name="act_intro">监管机构希望听取受影响个人的意见。要有礼貌且具体，用您所联系的机构的官方语言书写，要求书面确认，并复制%1$s，以便竞选活动可以跟踪胜利。</string>
+    <string name="act_open_composer" formatted="false">打开电子邮件编辑器</string>
+    <string name="act_copy" formatted="false">复制</string>
+    <string name="act_share" formatted="false">分享</string>
+    <string name="act_clipboard_label" formatted="false">保持 Android 公开信</string>
+    <string name="act_us_title" formatted="false">美国 — 给政府发电子邮件</string>
+    <string name="act_us_intro" formatted="false">司法部和联邦贸易委员会通过在线表格获取反垄断报告。使用它们，并直接联系您自己的代表和参议员。</string>
+    <string name="act_world_title" formatted="false">在世界其他地方</string>
+    <string name="act_groups_title" formatted="false">消费者和数字权利团体</string>
+    <string name="act_more_title" formatted="false">更多帮助方式</string>
+    <string name="act_more_body" formatted="false">• 在您的设备上安装F-Droid。\n• 回答Google 的开发者验证调查。\n• 在社交媒体上发布并链接到keepandroidopen.org。\n• 签署change.org 请愿书。\n• 将倒计时横幅添加到您的网站。</string>
+    <string name="act_all_actions" formatted="false">所有操作均在 keepandroidopen.org 上进行</string>
+    <string name="action_email" formatted="false">电子邮件</string>
+    <string name="action_open" formatted="false">打开</string>
+    <string-array name="us_contact_regions">
+        <item>美国</item>
+        <item>美国</item>
+        <item>美国</item>
+        <item>美国</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>美国司法部 — 反垄断司</item>
+        <item>美国联邦贸易委员会——反垄断</item>
+        <item>寻找您的众议院代表</item>
+        <item>联系您的美国参议员</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>在线提交反垄断报告。</item>
+        <item>提出反垄断投诉。</item>
+        <item>请联系您在美国众议院的代表。</item>
+        <item>找到并联系您所在州的两位参议员。</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>欧洲联盟</item>
+        <item>欧洲联盟</item>
+        <item>英国</item>
+        <item>巴西</item>
+        <item>新加坡</item>
+        <item>泰国</item>
+        <item>印度尼西亚</item>
+        <item>澳大利亚</item>
+        <item>加拿大</item>
+        <item>印度</item>
+        <item>日本</item>
+        <item>韩国</item>
+        <item>墨西哥</item>
+        <item>新西兰 / 新西兰</item>
+        <item>台湾</item>
+        <item>瑞士</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>欧盟反垄断 (DG COMP)</item>
+        <item>数字市场法案团队</item>
+        <item>竞争与市场管理局</item>
+        <item>计算机辅助设计系统</item>
+        <item>CCCS</item>
+        <item>贸易竞争委员会（OTCC）</item>
+        <item>韩国电力工业联合会</item>
+        <item>ACCC</item>
+        <item>加拿大竞争局</item>
+        <item>印度竞争委员会</item>
+        <item>日本公平交易委员会</item>
+        <item>韩国公平交易委员会</item>
+        <item>国家反垄断委员会</item>
+        <item>商务委员会</item>
+        <item>公平贸易委员会</item>
+        <item>竞争委员会（WEKO）</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>向欧盟委员会竞争主管机构发送电子邮件。</item>
+        <item>请联系 EU DMA 公民服务台。</item>
+        <item>向英国CMA 报告。</item>
+        <item>巴西正处于第一波执法浪潮中。</item>
+        <item>新加坡正处于第一波执法浪潮中。</item>
+        <item>泰国正处于第一波执法浪潮中。</item>
+        <item>印度尼西亚正处于第一波执法浪潮中。</item>
+        <item>向澳大利亚竞争和消费者委员会报告。</item>
+        <item>向竞争局提出投诉。</item>
+        <item>有关反竞争行为的信息，请联系 CCI。</item>
+        <item>请联系 JFTC/移动软件竞争法服务台。</item>
+        <item>联系 KFTC。</item>
+        <item>在墨西哥提出反垄断投诉。</item>
+        <item>举报反竞争行为。</item>
+        <item>联系台湾联邦贸易委员会。</item>
+        <item>举报违法行为。</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>全球的</item>
+        <item>全球的</item>
+        <item>欧洲</item>
+        <item>欧洲</item>
+        <item>全球的</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>电子前沿基金会</item>
+        <item>自由软件基金会</item>
+        <item>欧洲自由软件基金会</item>
+        <item>欧洲数字版权 (EDRi)</item>
+        <item>软件自由保护协会</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>应用程序把关和互联网审查。</item>
+        <item>软件自由和用户控制。</item>
+        <item>欧洲的软件自由。</item>
+        <item>数字版权倡导。</item>
+        <item>社区驱动的免费软件。</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">我的政府</string>
+    <string name="letter_subject" formatted="false">停止 Google 的 Android 开发者验证锁定</string>
+    <string name="letter_template">尊敬的%1$s代表，\n\n我以一名相关的 Android 用户和您所在司法管辖区的公民的身份写下这封信。\n\n谷歌的 Android 开发者验证计划于 2026 年 9 月 30 日在多个市场开始实施，并于 2027 年在全球范围内扩展，该计划将要求每个 Android 应用程序必须先向经过集中验证的开发者注册，然后才能安装在经过认证的设备上。开发者必须提交政府身份证明，同意谷歌的条款，支付费用并列出每个当前和未来的应用程序标识符。\n\n这并不能显着提高安全性。它赋予一家私营公司决定允许人们在他们拥有的设备上运行哪些软件的权力，并威胁到 F-Droid 等独立开源发行版，这些发行版无法遵守规定，可能会不复存在。\n\n我谨请您：\n\n1. 调查该计划是否反竞争并构成滥用看门人职位。\n2. 敦促谷歌免除开源和非商业发行，并保持侧载免于集中注册。\n3. 保护用户在其购买的硬件上运行其选择的软件的权利。\n\n请以书面形式确认此消息，并让我知道您的办公室采取了哪些行动。\n\n我还复制了 %2$s 的 Keep Android Open 活动。\n\n真诚的，\n[你的名字]\n[您所在的城市和国家]</string>
+    <string name="toast_no_app" formatted="false">没有应用程序可以打开此链接</string>
+    <string name="toast_no_email" formatted="false">没有安装电子邮件应用程序</string>
+    <string name="chooser_send_email" formatted="false">发送电子邮件</string>
+    <string name="chooser_share" formatted="false">分享</string>
+    <string name="toast_copied" formatted="false">已复制到剪贴板</string>
+    <string name="settings_title" formatted="false">设置</string>
+    <string name="settings_language_title" formatted="false">应用语言</string>
+    <string name="settings_language_summary" formatted="false">选择应用程序使用的语言。您还可以从设备设置中更改它。</string>
+    <string name="settings_system_default" formatted="false">系统默认</string>
+    <string name="settings_language_search" formatted="false">搜索语言</string>
+    <string name="settings_theme_title" formatted="false">主题</string>
+    <string name="settings_theme_summary" formatted="false">选择应用程序的外观。</string>
+    <string name="theme_system" formatted="false">关注系统</string>
+    <string name="theme_light" formatted="false">光</string>
+    <string name="theme_dark" formatted="false">黑暗的</string>
+    <string name="theme_amoled" formatted="false">AMOLED（纯黑）</string>
+    <string name="settings_accent_title" formatted="false">强调色</string>
+    <string name="settings_accent_summary" formatted="false">选择整个应用程序使用的突出显示颜色。</string>
+    <string name="accent_default" formatted="false">默认（活动红色）</string>
+    <string name="accent_red" formatted="false">红色的</string>
+    <string name="accent_orange" formatted="false">橙子</string>
+    <string name="accent_yellow" formatted="false">黄色的</string>
+    <string name="accent_green" formatted="false">绿色的</string>
+    <string name="accent_teal" formatted="false">青色</string>
+    <string name="accent_blue" formatted="false">蓝色的</string>
+    <string name="accent_purple" formatted="false">紫色的</string>
+    <string name="accent_pink" formatted="false">粉色的</string>
+    <string name="settings_colorblendr_warning" formatted="false">注意：如果 ColorBlendr 或您覆盖的其他材质处于活动状态，则您的强调色可能不会应用，直到您将其禁用。</string>
+    <string name="settings_about_title" formatted="false">关于</string>
+    <string name="settings_version">版本%1$s</string>
+    <string name="settings_open_source" formatted="false">开源（麻省理工学院）。不隶属于官方 Keep Android Open 活动，也不受其认可。</string>
+</resources>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Одбројавање</string>
+    <string name="tab_rollout" formatted="false">Тхе Роллоут</string>
+    <string name="tab_act_now" formatted="false">Делујте одмах</string>
+    <string name="cd_open_site" formatted="false">Отворите кеепандроидопен.орг</string>
+    <string name="cd_settings" formatted="false">Подешавања</string>
+    <string name="cd_back" formatted="false">Назад</string>
+    <string name="countdown_campaign" formatted="false">Одбројавање кампање</string>
+    <string name="countdown_elapsed" formatted="false">Прошло је време од објављивања кампање до 1. јануара 2027.</string>
+    <string name="countdown_what_means" formatted="false">Шта значи одбројавање</string>
+    <string name="countdown_read_faq" formatted="false">Прочитајте ФАК</string>
+    <string name="countdown_campaign_btn" formatted="false">Кампања</string>
+    <string name="countdown_footnote" formatted="false">Циљ одбројавања одговара банеру објављеном на кеепандроидопен.орг. Апликација се ажурира једном у секунди док је отворена.</string>
+    <string name="countdown_expired" formatted="false">АНДРОИД ЈЕ САД ЗАКЉУЧАНА ПЛАТФОРМА</string>
+    <string name="countdown_running" formatted="false">АНДРОИД ПОСТАЈЕ ЗАКЉУЧАНА ПЛАТФОРМА У</string>
+    <string name="unit_days" formatted="false">дана</string>
+    <string name="unit_hours" formatted="false">сати</string>
+    <string name="unit_minutes" formatted="false">минута</string>
+    <string name="unit_seconds" formatted="false">секунди</string>
+    <string name="rollout_title" formatted="false">Шта је верификација Андроид програмера?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Шта то заиста значи</string>
+    <string name="rollout_timeline_title" formatted="false">Временска линија увођења</string>
+    <string name="rollout_paths_title" formatted="false">Изаберите своју путању за верификацију</string>
+    <string name="rollout_advanced_title" formatted="false">„Напредни ток“ није решење</string>
+    <string name="rollout_dev_page" formatted="false">Гоогле-ова званична страница за програмере</string>
+    <string name="rollout_open_letter" formatted="false">Прочитајте отворено писмо</string>
+    <string name="label_identity" formatted="false">Идентитет</string>
+    <string name="label_distribution" formatted="false">Дистрибуција</string>
+    <string name="label_ux" formatted="false">Корисничко искуство</string>
+    <string name="label_best_for" formatted="false">Најбоље за</string>
+    <string name="rollout_summary" formatted="false">Верификација Андроид програмера је Гоогле програм који повезује сваку апликацију са верификованим идентитетом програмера пре него што се може инсталирати на сертификоване Андроид уређаје. Програмери морају да верификују ко су и да региструју називе пакета које објављују. Апликације без регистрованог, верификованог програмера више не могу да се инсталирају на нормалан начин када се заштите поставе.</string>
+    <string name="rollout_what_it_means" formatted="false">Најтеже пада на независну дистрибуцију отвореног кода као што је Ф-Дроид, директна преузимања АПК-а и хоби пројекти. Гоогле каже да је реч о безбедности и заустављању анонимног малвера. Критичари, укључујући кампању Кееп Андроид Опен, Ф-Дроид и ЕФФ, кажу да је то прекидач за укидање вратара: централна регистрација, државни ИД, накнада и потпуна контрола над оним чему ваш уређај може да верује.</string>
+    <string name="rollout_advanced_note" formatted="false">Напредни ток се испоручује преко Гоогле Плаи услуга, а не Андроид ОС-а, тако да Гоогле може да га промени, ограничи или уклони у било ком тренутку без ажурирања ОС-а или сагласности корисника. Кашњење од 24 сата намерно омета и представља још један корак који стоји између вас и софтвера који одаберете да покренете.</string>
+    <string-array name="timeline_dates">
+        <item>25. августа 2025. године</item>
+        <item>19. марта 2026. године</item>
+        <item>јуна 2026</item>
+        <item>18. јуна 2026. године</item>
+        <item>јул 2026</item>
+        <item>августа 2026</item>
+        <item>30. септембра 2026. године</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Програм је објављен</item>
+        <item>Открива се „напредни ток“.</item>
+        <item>Андроид Девелопер Верифиер се испоручује на уређаје</item>
+        <item>Прво лансирање потврђено</item>
+        <item>Отварају се АПИ-ји за програмере</item>
+        <item>Глобална конзола, ограничени налози, напредни ток</item>
+        <item>Спровођење почиње у четири земље</item>
+        <item>Глобално представљање</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Гоогле најављује да од 2027. апликације за Андроид морају бити регистроване на верификованог програмера, укључујући апликације инсталиране ван Гоогле Плаи-а.</item>
+        <item>Напредни корисници добијају намерно гломазан излаз: омогућите опције за програмере, потврдите да нисте принуђени, поново покрените, а затим сачекајте 24 сата пре него што дозволите непроверене инсталације.</item>
+        <item>Системска услуга у позадини (цом.гоогле.андроид.верифиер) се преноси путем ажурирања Гоогле система на сертификоване уређаје и остаје неактивна до примене.</item>
+        <item>Гоогле потврђује да примена почиње 30. септембра 2026. у седам продавница и четири земље.</item>
+        <item>Андроид Девелопер ИД Статус АПИ се покреће глобално и почиње рани приступ за Андроид Девелопер Цонсоле АПИ и налоге за ограничену дистрибуцију.</item>
+        <item>Ограничени налози за дистрибуцију (бесплатни, до 20 уређаја, без државног ИД-а) и Цонсоле АПИ лансирани широм света. Напредни ток за непроверено бочно учитавање почиње да се развија.</item>
+        <item>Заштите се активирају за кориснике у Бразилу, Индонезији, Сингапуру и Тајланду на сертификованим уређајима који користе Андроид 7+. Апликације непроверених програмера су блокиране у продавницама које учествују: Гоогле Плаи, ХОНОР Апп Маркет, ОППО Апп Маркет, Галаки Сторе, Палм Сторе, В-Аппсторе и ГетАппс.</item>
+        <item>Верификација је проширена на све апликације и регионе. Кееп Андроид Опен одбројава до 1. јануара 2027, када Андроид постаје закључана платформа.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Потпуна дистрибуција</item>
+        <item>Ограничена дистрибуција</item>
+        <item>Бочно учитавање нерегистрованих апликација</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Да — државна легитимација и такса</item>
+        <item>Не — нема личне карте или таксе за регистрацију</item>
+        <item>Не — али велико трење</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Било која продавница или канал који одаберете</item>
+        <item>До 20 уређаја путем КР кода или руковања везе</item>
+        <item>АДБ (изузето) или напредни ток</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Ништа се не мења за ваше кориснике</item>
+        <item>Корисници прихватају позив за инсталацију од програмера којег познају</item>
+        <item>Опције за програмере, поново покрените, чекајте 24 сата, па ипак инсталирајте</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Организације и професионални програмери</item>
+        <item>Студенти, хобисти и лична употреба</item>
+        <item>Непроверени програмери и напредни корисници</item>
+    </string-array>
+    <string name="act_title" formatted="false">Делујте сада - нека се ваш глас чује</string>
+    <string name="act_intro">Regulators want to hear from individuals who are affected. Be polite and specific, write in an official language of the body you contact, ask for a written acknowledgement, and copy %1$s so the campaign can track victories.</string>
+    <string name="act_open_composer" formatted="false">Отворите композитор е-поште</string>
+    <string name="act_copy" formatted="false">Копирај</string>
+    <string name="act_share" formatted="false">Схаре</string>
+    <string name="act_clipboard_label" formatted="false">Задржи Андроид отворено писмо</string>
+    <string name="act_us_title" formatted="false">Сједињене Америчке Државе — имејл влади</string>
+    <string name="act_us_intro" formatted="false">Министарство правде и ФТЦ узимају антимонополске извештаје путем онлајн образаца. Користите их и директно контактирајте свог представника и сенаторе.</string>
+    <string name="act_world_title" formatted="false">Негде другде у свету</string>
+    <string name="act_groups_title" formatted="false">Групе за права потрошача и дигиталних права</string>
+    <string name="act_more_title" formatted="false">Више начина да се помогне</string>
+    <string name="act_more_body" formatted="false">• Инсталирајте Ф-Дроид на своје уређаје.\n• Одговорите на Гоогле-ову анкету за верификацију програмера.\n• Објавите на друштвеним мрежама и повежите се са кеепандроидопен.орг.\n• Потпишите петицију цханге.орг.\n• Додајте банер за одбројавање на своју веб локацију.</string>
+    <string name="act_all_actions" formatted="false">Све акције на кеепандроидопен.орг</string>
+    <string name="action_email" formatted="false">Емаил</string>
+    <string name="action_open" formatted="false">Отвори</string>
+    <string-array name="us_contact_regions">
+        <item>Сједињене Државе</item>
+        <item>Сједињене Државе</item>
+        <item>Сједињене Државе</item>
+        <item>Сједињене Државе</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Министарство правде САД — Антимонополско одељење</item>
+        <item>Федерална трговинска комисија САД — Антитруст</item>
+        <item>Пронађите свог представника у Дому</item>
+        <item>Контактирајте своје америчке сенаторе</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Поднесите антимонополски извештај на мрежи.</item>
+        <item>Поднесите тужбу против монопола.</item>
+        <item>Обратите се свом представнику у Дому САД.</item>
+        <item>Пронађите и контактирајте оба сенатора ваше државе.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Европска унија</item>
+        <item>Европска унија</item>
+        <item>Уједињено Краљевство</item>
+        <item>Бразил</item>
+        <item>Сингапур</item>
+        <item>Тајланд</item>
+        <item>Индонесиа</item>
+        <item>Аустралија</item>
+        <item>Канада</item>
+        <item>Индија</item>
+        <item>Јапан</item>
+        <item>Јужна Кореја</item>
+        <item>Мексико</item>
+        <item>Аотеароа / Нови Зеланд</item>
+        <item>Тајван</item>
+        <item>Швајцарска</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>ЕУ Антитруст (ДГ ЦОМП)</item>
+        <item>Тим Закона о дигиталним тржиштима</item>
+        <item>Управа за конкуренцију и тржишта</item>
+        <item>ЦАДЕ</item>
+        <item>ЦЦЦС</item>
+        <item>Комисија за трговинску конкуренцију (ОТЦЦ)</item>
+        <item>КППУ</item>
+        <item>АЦЦЦ</item>
+        <item>Биро за конкуренцију Канаде</item>
+        <item>Комисија за конкуренцију Индије</item>
+        <item>Јапанска комисија за праведну трговину</item>
+        <item>Корејска комисија за праведну трговину</item>
+        <item>Цомисион Национал Антимонополио</item>
+        <item>Цоммерце Цоммиссион</item>
+        <item>Комисија за праведну трговину</item>
+        <item>Комисија за конкуренцију (ВЕКО)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Пошаљите е-пошту антимонополском органу Европске комисије.</item>
+        <item>Обратите се служби за помоћ грађанима ЕУ ДМА.</item>
+        <item>Пријавите се УК ЦМА.</item>
+        <item>Бразил је у првом таласу спровођења закона.</item>
+        <item>Сингапур је у првом таласу примене закона.</item>
+        <item>Тајланд је у првом таласу примене закона.</item>
+        <item>Индонезија је у првом таласу примене закона.</item>
+        <item>Пријавите се Аустралијској комисији за конкуренцију и потрошаче.</item>
+        <item>Поднесите жалбу Бироу за заштиту конкуренције.</item>
+        <item>Контактирајте ЦЦИ у вези са понашањем против конкуренције.</item>
+        <item>Контактирајте ЈФТЦ / Мобиле Софтваре Цомпетитион Ацт деск.</item>
+        <item>Контактирајте КФТЦ.</item>
+        <item>Поднесите тужбу против монопола у Мексику.</item>
+        <item>Пријавите антиконкурентско понашање.</item>
+        <item>Контактирајте ФТЦ Тајвана.</item>
+        <item>Пријавите незаконите радње.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Глобал</item>
+        <item>Глобал</item>
+        <item>Европа</item>
+        <item>Европа</item>
+        <item>Глобал</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Елецтрониц Фронтиер Фоундатион</item>
+        <item>Фондација слободног софтвера</item>
+        <item>Фрее Софтваре Фоундатион Еуропе</item>
+        <item>Европска дигитална права (ЕДРИ)</item>
+        <item>Очување слободе софтвера</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Одржавање приступа апликацијама и интернет цензура.</item>
+        <item>Слобода софтвера и контрола корисника.</item>
+        <item>Слобода софтвера у Европи.</item>
+        <item>Заступање дигиталних права.</item>
+        <item>Бесплатни софтвер вођен заједнице.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">моја влада</string>
+    <string name="letter_subject" formatted="false">Зауставите Гоогле-ово закључавање верификације Андроид програмера</string>
+    <string name="letter_template">Dear %1$s representative,\\n\\nI am writing as a concerned Android user and as a citizen in your jurisdiction.\\n\\nGoogle\\\'s Android Developer Verification program, enforced starting September 30, 2026 in several markets and expanding globally in 2027, will require every Android app to be registered to a centrally verified developer before it can be installed on certified devices. Developers must submit government identification, agree to Google\\\'s terms, pay a fee and list every current and future app identifier.\\n\\nThis does not meaningfully improve security. It hands a single private company the power to decide which software people are allowed to run on the devices they own, and it threatens independent and open-source distribution such as F-Droid, which cannot comply and may cease to exist.\\n\\nI respectfully ask that you:\\n\\n1. Investigate whether this program is anti-competitive and constitutes an abuse of a gatekeeper position.\\n2. Press Google to exempt open-source and non-commercial distribution, and to keep sideloading free of centralized registration.\\n3. Protect the right of users to run software of their choosing on hardware they purchased.\\n\\nPlease acknowledge this message in writing and let me know what action your office takes.\\n\\nI am also copying the Keep Android Open campaign at %2$s.\\n\\nSincerely,\\n[Your name]\\n[Your city and country]</string>
+    <string name="toast_no_app" formatted="false">Ниједна апликација не може да отвори ову везу</string>
+    <string name="toast_no_email" formatted="false">Није инсталирана ниједна апликација за е-пошту</string>
+    <string name="chooser_send_email" formatted="false">Пошаљи е-пошту</string>
+    <string name="chooser_share" formatted="false">Схаре</string>
+    <string name="toast_copied" formatted="false">Копирано у међуспремник</string>
+    <string name="settings_title" formatted="false">Подешавања</string>
+    <string name="settings_language_title" formatted="false">Језик апликације</string>
+    <string name="settings_language_summary" formatted="false">Изаберите језик који користи апликација. Такође можете да га промените у подешавањима уређаја.</string>
+    <string name="settings_system_default" formatted="false">Систем подразумевано</string>
+    <string name="settings_language_search" formatted="false">Тражи језике</string>
+    <string name="settings_theme_title" formatted="false">Тема</string>
+    <string name="settings_theme_summary" formatted="false">Одаберите како апликација изгледа.</string>
+    <string name="theme_system" formatted="false">Пратите систем</string>
+    <string name="theme_light" formatted="false">Светлост</string>
+    <string name="theme_dark" formatted="false">Дарк</string>
+    <string name="theme_amoled" formatted="false">АМОЛЕД (чисто црна)</string>
+    <string name="settings_accent_title" formatted="false">Боја акцента</string>
+    <string name="settings_accent_summary" formatted="false">Изаберите боју истицања која се користи у апликацији.</string>
+    <string name="accent_default" formatted="false">Подразумевано (црвена кампања)</string>
+    <string name="accent_red" formatted="false">Црвени</string>
+    <string name="accent_orange" formatted="false">Оранге</string>
+    <string name="accent_yellow" formatted="false">Жута</string>
+    <string name="accent_green" formatted="false">Зелена</string>
+    <string name="accent_teal" formatted="false">Теал</string>
+    <string name="accent_blue" formatted="false">Плава</string>
+    <string name="accent_purple" formatted="false">Љубичаста</string>
+    <string name="accent_pink" formatted="false">Пинк</string>
+    <string name="settings_colorblendr_warning" formatted="false">Напомене: ако је ЦолорБлендр или други материјал који сте заобишли активан, ваша акцентна боја се можда неће применити док је не онемогућите.</string>
+    <string name="settings_about_title" formatted="false">Абоут</string>
+    <string name="settings_version">Version %1$s</string>
+    <string name="settings_open_source" formatted="false">Отворени извор (МИТ). Није повезан са званичном кампањом Кееп Андроид Опен нити је подржан од стране.</string>
+</resources>

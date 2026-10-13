@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Niðurtalning</string>
+    <string name="tab_rollout" formatted="false">Útrásin</string>
+    <string name="tab_act_now" formatted="false">Bregðast nú við</string>
+    <string name="cd_open_site" formatted="false">Opnaðu keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Stillingar</string>
+    <string name="cd_back" formatted="false">Til baka</string>
+    <string name="countdown_campaign" formatted="false">Niðurtalning herferðar</string>
+    <string name="countdown_elapsed" formatted="false">Tími liðinn frá því herferðin var opinber í átt að 1. janúar 2027.</string>
+    <string name="countdown_what_means" formatted="false">Hvað þýðir niðurtalningin</string>
+    <string name="countdown_read_faq" formatted="false">Lestu FAQ</string>
+    <string name="countdown_campaign_btn" formatted="false">Herferðin</string>
+    <string name="countdown_footnote" formatted="false">Niðurtalningarmarkið passar við borðann sem birtur er á keepandroidopen.org. Forritið uppfærist einu sinni á sekúndu á meðan það er opið.</string>
+    <string name="countdown_expired" formatted="false">ANDROID ER NÚ LÆST NIÐUR PLÖTTUR</string>
+    <string name="countdown_running" formatted="false">ANDROID VERÐUR LÆSTUR NIÐUR PLÖFUR Í</string>
+    <string name="unit_days" formatted="false">daga</string>
+    <string name="unit_hours" formatted="false">klukkustundir</string>
+    <string name="unit_minutes" formatted="false">mínútur</string>
+    <string name="unit_seconds" formatted="false">sekúndur</string>
+    <string name="rollout_title" formatted="false">Hvað er Android Developer Staðfesting?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Hvað það þýðir í raun og veru</string>
+    <string name="rollout_timeline_title" formatted="false">Tímalína útsetningar</string>
+    <string name="rollout_paths_title" formatted="false">Veldu staðfestingarleiðina þína</string>
+    <string name="rollout_advanced_title" formatted="false">„Háþróaða flæðið“ er ekki lausn</string>
+    <string name="rollout_dev_page" formatted="false">Opinber þróunarsíða Google</string>
+    <string name="rollout_open_letter" formatted="false">Lestu opna bréfið</string>
+    <string name="label_identity" formatted="false">Sjálfsmynd</string>
+    <string name="label_distribution" formatted="false">Dreifing</string>
+    <string name="label_ux" formatted="false">Upplifun notenda</string>
+    <string name="label_best_for" formatted="false">Best fyrir</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification er Google forrit sem tengir hvert forrit við staðfest auðkenni þróunaraðila áður en hægt er að setja það upp á löggiltum Android tækjum. Hönnuðir verða að staðfesta hverjir þeir eru og skrá pakkanöfnin sem þeir birta. Ekki er lengur hægt að setja upp forrit án skráðs, staðfests þróunaraðila á venjulegan hátt þegar vörnin er komin út.</string>
+    <string name="rollout_what_it_means" formatted="false">Það lendir erfiðast á óháðri og opnum dreifingu eins og F-Droid, beinu niðurhali APK og áhugamálaverkefnum. Google segir að það snúist um öryggi og að stöðva nafnlausan spilliforrit. Gagnrýnendur, þar á meðal Keep Android Open herferðin, F-Droid og EFF, segja að þetta sé drifrofi fyrir hliðvörð: miðlæg skráning, ríkisauðkenni, gjald og fulla stjórn á því hverju tækið þitt má treysta.</string>
+    <string name="rollout_advanced_note" formatted="false">Háþróaða flæðið er sent í gegnum þjónustu Google Play, ekki Android OS, svo Google getur breytt, takmarkað eða fjarlægt það hvenær sem er án uppfærslu stýrikerfis eða samþykkis notanda. 24 tíma seinkunin truflar viljandi og er enn eitt skrefið sem stendur á milli þín og hugbúnaðar sem þú velur að keyra.</string>
+    <string-array name="timeline_dates">
+        <item>25. ágúst 2025</item>
+        <item>19. mars 2026</item>
+        <item>júní 2026</item>
+        <item>18. júní 2026</item>
+        <item>júlí 2026</item>
+        <item>ágúst 2026</item>
+        <item>30. september 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Dagskráin auglýst</item>
+        <item>„Háþróaða flæðið“ kemur í ljós</item>
+        <item>Android Developer Verifier sendir í tæki</item>
+        <item>Upphafleg sjósetning staðfest</item>
+        <item>Forritaskil þróunaraðila opnast</item>
+        <item>Alþjóðleg stjórnborð, takmarkaðir reikningar, háþróað flæði</item>
+        <item>Framkvæmd hefst í fjórum löndum</item>
+        <item>Útfærsla á heimsvísu</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google tilkynnir að frá og með 2027 verða öpp fyrir Android að vera skráð á staðfestan þróunaraðila, þar á meðal öpp uppsett utan Google Play.</item>
+        <item>Stórnotendur fá vísvitandi fyrirferðarmikla flóttalúgu: virkjaðu þróunarvalkosti, staðfestu að þú sért ekki þvingaður, endurræstu og bíddu síðan í 24 klukkustundir áður en þú leyfir óstaðfestar uppsetningar.</item>
+        <item>Bakgrunnskerfisþjónustu (com.google.android.verifier) ​​er ýtt í gegnum Google kerfisuppfærslur til vottaðra tækja og helst í dvala þar til framfylgd er.</item>
+        <item>Google staðfestir að framfylgd er hafin 30. september 2026 í sjö verslunum og fjórum löndum.</item>
+        <item>Android Developer ID Status API kemur á heimsvísu og snemma aðgangur hefst fyrir Android Developer Console API og takmarkaða dreifingarreikninga.</item>
+        <item>Takmarkaðir dreifingarreikningar (ókeypis, allt að 20 tæki, engin opinber auðkenni) og Console API hleypt af stokkunum um allan heim. Háþróað flæði fyrir óstaðfesta hliðarhleðslu byrjar að rúlla út.</item>
+        <item>Vörn fer í loftið fyrir notendur í Brasilíu, Indónesíu, Singapúr og Tælandi á vottuðum tækjum sem keyra Android 7+. Lokað er fyrir forrit frá óstaðfestum forriturum í verslunum sem taka þátt: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore og GetApps.</item>
+        <item>Staðfestingin er stækkuð í öll forrit og svæði. Keep Android Open telur niður til 1. janúar 2027, þegar Android verður lokaður vettvangur.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Full dreifing</item>
+        <item>Takmörkuð dreifing</item>
+        <item>Hleður óskráðum öppum frá hlið</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Já - ríkisskilríki og gjald</item>
+        <item>Nei — engin auðkenni eða skráningargjald</item>
+        <item>Nei — en mikill núningur</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Hvaða verslun eða rás sem þú velur</item>
+        <item>Allt að 20 tæki með QR kóða eða hlekk handabandi</item>
+        <item>ADB (undanþága) eða háþróaða flæðið</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Ekkert breytist fyrir notendur þína</item>
+        <item>Notendur samþykkja uppsetningarboð frá þróunaraðila sem þeir þekkja</item>
+        <item>Valmöguleikar þróunaraðila, endurræsa, 24 tíma bið, síðan setja upp samt</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Samtök og faglegir þróunaraðilar</item>
+        <item>Nemendur, áhugamenn og einkanotkun</item>
+        <item>Óstaðfestir verktaki og stórnotendur</item>
+    </string-array>
+    <string name="act_title" formatted="false">Virkaðu núna - láttu rödd þína heyrast</string>
+    <string name="act_intro">Eftirlitsaðilar vilja heyra frá einstaklingum sem verða fyrir áhrifum. Vertu kurteis og nákvæmur, skrifaðu á opinberu tungumáli þess aðila sem þú hefur samband við, biddu um skriflega viðurkenningu og afritaðu %1$s svo herferðin geti fylgst með sigrum.</string>
+    <string name="act_open_composer" formatted="false">Opnaðu tölvupóstshöfundinn</string>
+    <string name="act_copy" formatted="false">Afrita</string>
+    <string name="act_share" formatted="false">Deila</string>
+    <string name="act_clipboard_label" formatted="false">Haltu Android opnu bréfi</string>
+    <string name="act_us_title" formatted="false">Bandaríkin - sendu stjórnvöldum tölvupóst</string>
+    <string name="act_us_intro" formatted="false">Dómsmálaráðuneytið og FTC taka skýrslur um samkeppniseftirlit með eyðublöðum á netinu. Notaðu þær og hafðu beint samband við eigin fulltrúa og öldungadeildarþingmenn.</string>
+    <string name="act_world_title" formatted="false">Annars staðar í heiminum</string>
+    <string name="act_groups_title" formatted="false">Neytenda- og stafræn réttindahópar</string>
+    <string name="act_more_title" formatted="false">Fleiri leiðir til að hjálpa</string>
+    <string name="act_more_body" formatted="false">• Settu upp F-Droid á tækjunum þínum.\n• Svaraðu Google staðfestingarkönnun þróunaraðila.\n• Birta á samfélagsmiðlum og hlekkja á keepandroidopen.org.\n• Skrifaðu undir áskorunina change.org.\n• Bættu niðurtalningarborðanum við vefsíðuna þína.</string>
+    <string name="act_all_actions" formatted="false">Allar aðgerðir á keepandroidopen.org</string>
+    <string name="action_email" formatted="false">Tölvupóstur</string>
+    <string name="action_open" formatted="false">Opið</string>
+    <string-array name="us_contact_regions">
+        <item>Bandaríkin</item>
+        <item>Bandaríkin</item>
+        <item>Bandaríkin</item>
+        <item>Bandaríkin</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Bandaríska dómsmálaráðuneytið - samkeppnisdeild</item>
+        <item>Bandaríska alríkisviðskiptanefndin - Antitrust</item>
+        <item>Finndu fulltrúann þinn</item>
+        <item>Hafðu samband við öldungadeildarþingmenn þína í Bandaríkjunum</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Sendu skýrslu um samkeppniseftirlit á netinu.</item>
+        <item>Leggðu fram kvörtun gegn samkeppniseftirliti.</item>
+        <item>Hafðu samband við fulltrúa þinn í US House.</item>
+        <item>Finndu og hafðu samband við báða öldungadeildarþingmenn ríkisins.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Evrópusambandið</item>
+        <item>Evrópusambandið</item>
+        <item>Bretland</item>
+        <item>Brasilía</item>
+        <item>Singapore</item>
+        <item>Tæland</item>
+        <item>Indónesíu</item>
+        <item>Ástralía</item>
+        <item>Kanada</item>
+        <item>Indlandi</item>
+        <item>Japan</item>
+        <item>Suður-Kórea</item>
+        <item>Mexíkó</item>
+        <item>Aotearoa / Nýja Sjáland</item>
+        <item>Taívan</item>
+        <item>Sviss</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>ESB samkeppniseftirlit (DG COMP)</item>
+        <item>Team Digital Markets Act</item>
+        <item>Samkeppnis- og markaðseftirlitið</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Viðskiptasamkeppnisnefnd (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Samkeppnisstofnun Kanada</item>
+        <item>Samkeppnisnefnd Indlands</item>
+        <item>Japans Fair Trade Commission</item>
+        <item>Fair Trade Commission í Kóreu</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>Viðskiptanefnd</item>
+        <item>Sanngjarn viðskiptanefnd</item>
+        <item>Samkeppniseftirlitið (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Sendu tölvupóst til samkeppnisyfirvalda framkvæmdastjórnar Evrópusambandsins.</item>
+        <item>Hafðu samband við þjónustuborð EU DMA borgara.</item>
+        <item>Tilkynna til breska CMA.</item>
+        <item>Brasilía er í fyrstu fullnustubylgjunni.</item>
+        <item>Singapúr er í fyrstu fullnustubylgjunni.</item>
+        <item>Taíland er í fyrstu fullnustubylgjunni.</item>
+        <item>Indónesía er í fyrstu fullnustubylgjunni.</item>
+        <item>Skýrsla til ástralska samkeppnis- og neytendanefndar.</item>
+        <item>Leggðu fram kvörtun til Samkeppniseftirlitsins.</item>
+        <item>Hafðu samband við CCI um samkeppnishamlandi hegðun.</item>
+        <item>Hafðu samband við þjónustuborð JFTC / Mobile Software Competition Act.</item>
+        <item>Hafðu samband við KFTC.</item>
+        <item>Leggðu fram kvörtun gegn samkeppniseftirliti í Mexíkó.</item>
+        <item>Tilkynna samkeppnishamlandi hegðun.</item>
+        <item>Hafðu samband við Taiwan FTC.</item>
+        <item>Tilkynna ólögmæt vinnubrögð.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Alþjóðlegt</item>
+        <item>Alþjóðlegt</item>
+        <item>Evrópu</item>
+        <item>Evrópu</item>
+        <item>Alþjóðlegt</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Foundation</item>
+        <item>Free Software Foundation</item>
+        <item>Free Software Foundation Europe</item>
+        <item>evrópsk stafræn réttindi (EDRI)</item>
+        <item>Software Freedom Conservancy</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Gáttavörsla forrita og ritskoðun á netinu.</item>
+        <item>Hugbúnaðarfrelsi og notendastjórnun.</item>
+        <item>Hugbúnaðarfrelsi í Evrópu.</item>
+        <item>Málsvörn stafrænna réttinda.</item>
+        <item>Samfélagsdrifinn ókeypis hugbúnaður.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">ríkisstjórn mína</string>
+    <string name="letter_subject" formatted="false">Stöðvaðu lokun Google á Android þróunaraðila staðfestingu</string>
+    <string name="letter_template">Kæri %1$s fulltrúi,\n\nÉg skrifa sem áhyggjufullur Android notandi og sem ríkisborgari í lögsögu þinni.\n\nStaðfestingaráætlun Google fyrir Android þróunaraðila, sem framfylgt er frá og með 30. september 2026 á nokkrum mörkuðum og stækkar um allan heim árið 2027, mun krefjast þess að hvert Android forrit sé skráð á miðlægt staðfestan þróunaraðila áður en hægt er að setja það upp á vottuð tæki. Hönnuðir verða að leggja fram opinbera auðkenni, samþykkja skilmála Google, greiða gjald og skrá öll núverandi og framtíðarauðkenni forrita.\n\nÞetta bætir ekki öryggi á marktækan hátt. Það gefur einu einkafyrirtæki vald til að ákveða hvaða hugbúnað fólki er heimilt að keyra á tækjunum sem það á og það ógnar óháðri og opnum dreifingu eins og F-Droid, sem getur ekki uppfyllt kröfur og gæti hætt að vera til.\n\nÉg bið þig með virðingu:\n\n1. Kanna hvort þetta forrit sé samkeppnishamlandi og feli í sér misnotkun á stöðu hliðvarðar.\n2. Ýttu á Google til að undanþiggja opinn og óviðskiptalegan dreifingu og til að halda hliðarhleðslu án miðlægrar skráningar.\n3. Vernda rétt notenda til að keyra hugbúnað að eigin vali á vélbúnaði sem þeir keyptu.\n\nVinsamlegast samþykktu þessi skilaboð skriflega og láttu mig vita til hvaða aðgerða skrifstofa þín grípur.\n\nÉg er líka að afrita herferðina Keep Android Open á %2$s.\n\nMeð kveðju,\n[Nafn þitt]\n[Borg þín og land]</string>
+    <string name="toast_no_app" formatted="false">Ekkert forrit getur opnað þennan hlekk</string>
+    <string name="toast_no_email" formatted="false">Ekkert tölvupóstforrit er uppsett</string>
+    <string name="chooser_send_email" formatted="false">Sendu tölvupóst</string>
+    <string name="chooser_share" formatted="false">Deila</string>
+    <string name="toast_copied" formatted="false">Afritað á klippiborð</string>
+    <string name="settings_title" formatted="false">Stillingar</string>
+    <string name="settings_language_title" formatted="false">Tungumál apps</string>
+    <string name="settings_language_summary" formatted="false">Veldu tungumálið sem appið notar. Þú getur líka breytt því í stillingum tækisins.</string>
+    <string name="settings_system_default" formatted="false">Sjálfgefið kerfi</string>
+    <string name="settings_language_search" formatted="false">Leitaðu að tungumálum</string>
+    <string name="settings_theme_title" formatted="false">Þema</string>
+    <string name="settings_theme_summary" formatted="false">Veldu hvernig appið lítur út.</string>
+    <string name="theme_system" formatted="false">Fylgdu kerfinu</string>
+    <string name="theme_light" formatted="false">Ljós</string>
+    <string name="theme_dark" formatted="false">Myrkur</string>
+    <string name="theme_amoled" formatted="false">AMOLED (hreint svart)</string>
+    <string name="settings_accent_title" formatted="false">Hreim litur</string>
+    <string name="settings_accent_summary" formatted="false">Veldu hápunktalitinn sem notaður er í forritinu.</string>
+    <string name="accent_default" formatted="false">Sjálfgefið (rautt herferð)</string>
+    <string name="accent_red" formatted="false">Rauður</string>
+    <string name="accent_orange" formatted="false">Appelsínugult</string>
+    <string name="accent_yellow" formatted="false">Gulur</string>
+    <string name="accent_green" formatted="false">Grænn</string>
+    <string name="accent_teal" formatted="false">Teal</string>
+    <string name="accent_blue" formatted="false">Blár</string>
+    <string name="accent_purple" formatted="false">Fjólublátt</string>
+    <string name="accent_pink" formatted="false">Bleikur</string>
+    <string name="settings_colorblendr_warning" formatted="false">Athugaðu: ef ColorBlendr eða annað efni sem þú hnekkir er virkt gæti hreimliturinn þinn ekki átt við fyrr en þú gerir hann óvirkan.</string>
+    <string name="settings_about_title" formatted="false">Um</string>
+    <string name="settings_version">Útgáfa %1$s</string>
+    <string name="settings_open_source" formatted="false">Opinn uppspretta (MIT). Ekki tengt eða samþykkt af opinberu Keep Android Open herferðinni.</string>
+</resources>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Đếm ngược</string>
+    <string name="tab_rollout" formatted="false">Triển khai</string>
+    <string name="tab_act_now" formatted="false">Hành động ngay</string>
+    <string name="cd_open_site" formatted="false">Mở keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Cài đặt</string>
+    <string name="cd_back" formatted="false">Mặt sau</string>
+    <string name="countdown_campaign" formatted="false">Đếm ngược chiến dịch</string>
+    <string name="countdown_elapsed" formatted="false">Thời gian đã trôi qua kể từ khi chiến dịch được công khai đến ngày 1 tháng 1 năm 2027.</string>
+    <string name="countdown_what_means" formatted="false">Ý nghĩa của việc đếm ngược</string>
+    <string name="countdown_read_faq" formatted="false">Đọc câu hỏi thường gặp</string>
+    <string name="countdown_campaign_btn" formatted="false">chiến dịch</string>
+    <string name="countdown_footnote" formatted="false">Mục tiêu đếm ngược khớp với biểu ngữ được xuất bản tại keepandroidopen.org. Ứng dụng cập nhật mỗi giây một lần khi nó được mở.</string>
+    <string name="countdown_expired" formatted="false">ANDROID HIỆN NAY LÀ MỘT NỀN TẢNG BỊ KHÓA</string>
+    <string name="countdown_running" formatted="false">ANDROID TRỞ THÀNH MỘT NỀN TẢNG BỊ KHÓA TRONG</string>
+    <string name="unit_days" formatted="false">ngày</string>
+    <string name="unit_hours" formatted="false">giờ</string>
+    <string name="unit_minutes" formatted="false">phút</string>
+    <string name="unit_seconds" formatted="false">giây</string>
+    <string name="rollout_title" formatted="false">Xác minh nhà phát triển Android là gì?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Nó thực sự có ý nghĩa gì</string>
+    <string name="rollout_timeline_title" formatted="false">Tiến trình triển khai</string>
+    <string name="rollout_paths_title" formatted="false">Chọn đường dẫn xác minh của bạn</string>
+    <string name="rollout_advanced_title" formatted="false">“Dòng nâng cao” không phải là một giải pháp</string>
+    <string name="rollout_dev_page" formatted="false">Trang nhà phát triển chính thức của Google</string>
+    <string name="rollout_open_letter" formatted="false">Đọc thư ngỏ</string>
+    <string name="label_identity" formatted="false">Danh tính</string>
+    <string name="label_distribution" formatted="false">Phân bổ</string>
+    <string name="label_ux" formatted="false">Trải nghiệm người dùng</string>
+    <string name="label_best_for" formatted="false">Tốt nhất cho</string>
+    <string name="rollout_summary" formatted="false">Xác minh nhà phát triển Android là một chương trình của Google liên kết mọi ứng dụng với danh tính nhà phát triển đã được xác minh trước khi có thể cài đặt ứng dụng đó trên các thiết bị Android được chứng nhận. Các nhà phát triển phải xác minh họ là ai và đăng ký tên gói mà họ xuất bản. Các ứng dụng không có nhà phát triển đã đăng ký, đã được xác minh sẽ không thể cài đặt theo cách thông thường sau khi các biện pháp bảo vệ được triển khai.</string>
+    <string name="rollout_what_it_means" formatted="false">Nó tập trung chủ yếu vào việc phân phối độc lập và nguồn mở như F-Droid, tải xuống APK trực tiếp và các dự án theo sở thích. Google cho biết đó là vấn đề an toàn và ngăn chặn phần mềm độc hại ẩn danh. Các nhà phê bình bao gồm chiến dịch Keep Android Open, F-Droid và EFF cho rằng đây là một công cụ tiêu diệt người gác cổng: đăng ký trung tâm, ID chính phủ, một khoản phí và toàn quyền kiểm soát những gì thiết bị của bạn được phép tin cậy.</string>
+    <string name="rollout_advanced_note" formatted="false">Luồng nâng cao được phân phối thông qua các dịch vụ của Google Play chứ không phải hệ điều hành Android, vì vậy, Google có thể thay đổi, hạn chế hoặc xóa luồng này bất kỳ lúc nào mà không cần cập nhật hệ điều hành hoặc có sự đồng ý của người dùng. Sự chậm trễ 24 giờ là cố ý gây rối và là một bước nữa cản trở bạn và phần mềm bạn chọn chạy.</string>
+    <string-array name="timeline_dates">
+        <item>Ngày 25 tháng 8 năm 2025</item>
+        <item>Ngày 19 tháng 3 năm 2026</item>
+        <item>tháng 6 năm 2026</item>
+        <item>Ngày 18 tháng 6 năm 2026</item>
+        <item>tháng 7 năm 2026</item>
+        <item>tháng 8 năm 2026</item>
+        <item>Ngày 30 tháng 9 năm 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Chương trình được công bố</item>
+        <item>“Dòng chảy nâng cao” lộ diện</item>
+        <item>Trình xác minh nhà phát triển Android được chuyển đến các thiết bị</item>
+        <item>Đã xác nhận ra mắt lần đầu</item>
+        <item>API dành cho nhà phát triển mở ra</item>
+        <item>Bảng điều khiển toàn cầu, tài khoản giới hạn, luồng nâng cao</item>
+        <item>Việc thực thi bắt đầu ở bốn quốc gia</item>
+        <item>Triển khai toàn cầu</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google thông báo rằng bắt đầu từ năm 2027, các ứng dụng dành cho Android phải được đăng ký với nhà phát triển đã được xác minh, bao gồm cả các ứng dụng được cài đặt bên ngoài Google Play.</item>
+        <item>Người dùng thành thạo nhận được một lối thoát có chủ ý rườm rà: bật Tùy chọn nhà phát triển, xác nhận bạn không bị ép buộc, khởi động lại, sau đó đợi 24 giờ trước khi bạn có thể cho phép cài đặt chưa được xác minh.</item>
+        <item>Dịch vụ hệ thống nền (com.google.android.verifier) ​​được đẩy qua Bản cập nhật hệ thống của Google tới các thiết bị được chứng nhận và không hoạt động cho đến khi thực thi.</item>
+        <item>Google xác nhận việc thực thi sẽ bắt đầu từ ngày 30 tháng 9 năm 2026, trên bảy cửa hàng và bốn quốc gia.</item>
+        <item>API trạng thái ID nhà phát triển Android ra mắt trên toàn cầu và quyền truy cập sớm bắt đầu đối với API Bảng điều khiển dành cho nhà phát triển Android và các tài khoản phân phối giới hạn.</item>
+        <item>Tài khoản phân phối có giới hạn (miễn phí, tối đa 20 thiết bị, không có ID chính phủ) và API Console ra mắt trên toàn thế giới. Luồng nâng cao dành cho tải bên ngoài chưa được xác minh bắt đầu được triển khai.</item>
+        <item>Các biện pháp bảo vệ được áp dụng trực tiếp cho người dùng ở Brazil, Indonesia, Singapore và Thái Lan trên các thiết bị được chứng nhận chạy Android 7+. Ứng dụng từ các nhà phát triển chưa được xác minh sẽ bị chặn trên các cửa hàng tham gia: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore và GetApps.</item>
+        <item>Việc xác minh được mở rộng tới tất cả các ứng dụng và khu vực. Keep Android Open đếm ngược đến ngày 1 tháng 1 năm 2027, khi Android trở thành nền tảng bị khóa.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Phân phối đầy đủ</item>
+        <item>Phân phối hạn chế</item>
+        <item>Đang tải các ứng dụng chưa đăng ký</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Có - ID chính phủ và một khoản phí</item>
+        <item>Không - không có ID hoặc phí đăng ký</item>
+        <item>Không - nhưng độ ma sát cao</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Bất kỳ cửa hàng hoặc kênh nào bạn chọn</item>
+        <item>Tối đa 20 thiết bị thông qua mã QR hoặc liên kết bắt tay</item>
+        <item>ADB (miễn trừ) hoặc luồng nâng cao</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Không có gì thay đổi đối với người dùng của bạn</item>
+        <item>Người dùng chấp nhận lời mời cài đặt từ nhà phát triển mà họ biết</item>
+        <item>Tùy chọn nhà phát triển, khởi động lại, đợi 24 giờ rồi vẫn cài đặt</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Các tổ chức và nhà phát triển chuyên nghiệp</item>
+        <item>Sinh viên, người có sở thích và sử dụng cá nhân</item>
+        <item>Nhà phát triển và người dùng thành thạo chưa được xác minh</item>
+    </string-array>
+    <string name="act_title" formatted="false">Hãy hành động ngay - khiến tiếng nói của bạn được lắng nghe</string>
+    <string name="act_intro">Cơ quan quản lý muốn nghe ý kiến ​​từ những cá nhân bị ảnh hưởng. Hãy lịch sự và cụ thể, viết bằng ngôn ngữ chính thức của cơ quan mà bạn liên hệ, yêu cầu văn bản xác nhận và sao chép %1$s để chiến dịch có thể theo dõi chiến thắng.</string>
+    <string name="act_open_composer" formatted="false">Mở trình soạn thảo email</string>
+    <string name="act_copy" formatted="false">Sao chép</string>
+    <string name="act_share" formatted="false">Chia sẻ</string>
+    <string name="act_clipboard_label" formatted="false">Giữ thư ngỏ của Android</string>
+    <string name="act_us_title" formatted="false">Hoa Kỳ - gửi email cho chính phủ</string>
+    <string name="act_us_intro" formatted="false">Bộ Tư pháp và FTC lấy báo cáo chống độc quyền thông qua các biểu mẫu trực tuyến. Hãy sử dụng chúng và liên hệ trực tiếp với người đại diện cũng như các thượng nghị sĩ của bạn.</string>
+    <string name="act_world_title" formatted="false">Ở một nơi khác trên thế giới</string>
+    <string name="act_groups_title" formatted="false">Nhóm quyền lợi người tiêu dùng và kỹ thuật số</string>
+    <string name="act_more_title" formatted="false">Nhiều cách khác để trợ giúp</string>
+    <string name="act_more_body" formatted="false">• Cài đặt F-Droid trên thiết bị của bạn.\n• Trả lời khảo sát xác minh nhà phát triển của Google.\n• Đăng trên phương tiện truyền thông xã hội và liên kết tới keepandroidopen.org.\n• Ký tên vào bản kiến ​​nghị Change.org.\n• Thêm biểu ngữ đếm ngược vào trang web của bạn.</string>
+    <string name="act_all_actions" formatted="false">Tất cả các hành động tại keepandroidopen.org</string>
+    <string name="action_email" formatted="false">E-mail</string>
+    <string name="action_open" formatted="false">Mở</string>
+    <string-array name="us_contact_regions">
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+        <item>Hoa Kỳ</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Bộ Tư pháp Hoa Kỳ — Phòng chống độc quyền</item>
+        <item>Ủy ban Thương mại Liên bang Hoa Kỳ — Chống độc quyền</item>
+        <item>Tìm đại diện Hạ viện của bạn</item>
+        <item>Liên hệ với Thượng nghị sĩ Hoa Kỳ của bạn</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Gửi báo cáo chống độc quyền trực tuyến.</item>
+        <item>Nộp đơn khiếu nại chống độc quyền.</item>
+        <item>Liên hệ với đại diện của bạn tại Hạ viện Hoa Kỳ.</item>
+        <item>Tìm và liên hệ với cả hai thượng nghị sĩ của bang bạn.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Liên minh châu Âu</item>
+        <item>Liên minh châu Âu</item>
+        <item>Vương quốc Anh</item>
+        <item>Brazil</item>
+        <item>Singapore</item>
+        <item>Thái Lan</item>
+        <item>Indonesia</item>
+        <item>Úc</item>
+        <item>Canada</item>
+        <item>Ấn Độ</item>
+        <item>Nhật Bản</item>
+        <item>Hàn Quốc</item>
+        <item>México</item>
+        <item>Aotearoa / New Zealand</item>
+        <item>Đài Loan</item>
+        <item>Thụy Sĩ</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>Chống độc quyền của EU (DG COMP)</item>
+        <item>Nhóm Đạo luật thị trường kỹ thuật số</item>
+        <item>Cơ quan Cạnh tranh &amp; Thị trường</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Ủy ban Cạnh tranh Thương mại (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Cục Cạnh tranh Canada</item>
+        <item>Ủy ban Cạnh tranh Ấn Độ</item>
+        <item>Ủy ban Thương mại Công bằng Nhật Bản</item>
+        <item>Ủy ban Thương mại Công bằng Hàn Quốc</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>Ủy ban thương mại</item>
+        <item>Ủy ban Thương mại Công bằng</item>
+        <item>Ủy ban Cạnh tranh (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Gửi email cho cơ quan cạnh tranh của Ủy ban Châu Âu.</item>
+        <item>Liên hệ với bộ phận trợ giúp công dân DMA của EU.</item>
+        <item>Báo cáo cho CMA Vương quốc Anh.</item>
+        <item>Brazil đang trong làn sóng thực thi đầu tiên.</item>
+        <item>Singapore đang trong làn sóng thực thi đầu tiên.</item>
+        <item>Thái Lan đang trong làn sóng thực thi đầu tiên.</item>
+        <item>Indonesia đang trong làn sóng thực thi đầu tiên.</item>
+        <item>Báo cáo cho Ủy ban Cạnh tranh và Người tiêu dùng Úc.</item>
+        <item>Nộp đơn khiếu nại lên Cục Cạnh tranh.</item>
+        <item>Hãy liên hệ với CCI về hành vi phản cạnh tranh.</item>
+        <item>Liên hệ với bộ phận Đạo luật cạnh tranh phần mềm di động / JFTC.</item>
+        <item>Hãy liên hệ với KFTC.</item>
+        <item>Nộp đơn khiếu nại chống độc quyền ở Mexico.</item>
+        <item>Báo cáo hành vi phản cạnh tranh.</item>
+        <item>Liên hệ với FTC Đài Loan.</item>
+        <item>Báo cáo các hành vi trái pháp luật.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Toàn cầu</item>
+        <item>Toàn cầu</item>
+        <item>Châu Âu</item>
+        <item>Châu Âu</item>
+        <item>Toàn cầu</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Tổ chức biên giới điện tử</item>
+        <item>Quỹ phần mềm miễn phí</item>
+        <item>Tổ chức phần mềm miễn phí Châu Âu</item>
+        <item>Quyền kỹ thuật số châu Âu (EDRi)</item>
+        <item>Bảo vệ Tự do Phần mềm</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Kiểm soát ứng dụng và kiểm duyệt internet.</item>
+        <item>Tự do phần mềm và kiểm soát người dùng.</item>
+        <item>Tự do phần mềm ở châu Âu</item>
+        <item>Vận động quyền kỹ thuật số.</item>
+        <item>Phần mềm miễn phí hướng tới cộng đồng.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">chính phủ của tôi</string>
+    <string name="letter_subject" formatted="false">Dừng khóa xác minh nhà phát triển Android của Google</string>
+    <string name="letter_template">Kính gửi đại diện %1$s,\n\nTôi viết thư này với tư cách là một người dùng Android có liên quan và với tư cách là một công dân trong khu vực tài phán của bạn.\n\nChương trình Xác minh nhà phát triển Android của Google, được thực thi bắt đầu từ ngày 30 tháng 9 năm 2026 tại một số thị trường và mở rộng trên toàn cầu vào năm 2027, sẽ yêu cầu mọi ứng dụng Android phải được đăng ký với một nhà phát triển được xác minh tập trung trước khi có thể cài đặt ứng dụng đó trên các thiết bị được chứng nhận. Các nhà phát triển phải gửi giấy tờ tùy thân do chính phủ cấp, đồng ý với các điều khoản của Google, trả phí và liệt kê mọi số nhận dạng ứng dụng hiện tại và tương lai.\n\nĐiều này không có ý nghĩa cải thiện an ninh. Nó trao cho một công ty tư nhân quyền quyết định phần mềm nào mọi người được phép chạy trên thiết bị họ sở hữu và nó đe dọa việc phân phối độc lập và nguồn mở như F-Droid, vốn không thể tuân thủ và có thể ngừng tồn tại.\n\nTôi trân trọng hỏi bạn:\n\n1. Điều tra xem chương trình này có phản cạnh tranh và cấu thành hành vi lạm dụng vị trí người gác cổng hay không.\n2. Nhấn Google để miễn phân phối mã nguồn mở và phi thương mại, đồng thời giữ cho việc tải bên ngoài không bị đăng ký tập trung.\n3. Bảo vệ quyền của người dùng chạy phần mềm họ chọn trên phần cứng họ đã mua.\n\nVui lòng xác nhận thông báo này bằng văn bản và cho tôi biết văn phòng của bạn sẽ thực hiện hành động gì.\n\nTôi cũng đang sao chép chiến dịch Keep Android Open tại %2$s.\n\nTrân trọng,\n[Tên của bạn]\n[Thành phố và quốc gia của bạn]</string>
+    <string name="toast_no_app" formatted="false">Không có ứng dụng nào có thể mở liên kết này</string>
+    <string name="toast_no_email" formatted="false">Không có ứng dụng email nào được cài đặt</string>
+    <string name="chooser_send_email" formatted="false">Gửi email</string>
+    <string name="chooser_share" formatted="false">Chia sẻ</string>
+    <string name="toast_copied" formatted="false">Đã sao chép vào bảng nhớ tạm</string>
+    <string name="settings_title" formatted="false">Cài đặt</string>
+    <string name="settings_language_title" formatted="false">Ngôn ngữ ứng dụng</string>
+    <string name="settings_language_summary" formatted="false">Chọn ngôn ngữ được ứng dụng sử dụng. Bạn cũng có thể thay đổi nó từ cài đặt thiết bị của mình.</string>
+    <string name="settings_system_default" formatted="false">Mặc định hệ thống</string>
+    <string name="settings_language_search" formatted="false">Tìm kiếm ngôn ngữ</string>
+    <string name="settings_theme_title" formatted="false">chủ đề</string>
+    <string name="settings_theme_summary" formatted="false">Chọn giao diện của ứng dụng.</string>
+    <string name="theme_system" formatted="false">Theo dõi hệ thống</string>
+    <string name="theme_light" formatted="false">Ánh sáng</string>
+    <string name="theme_dark" formatted="false">Tối tăm</string>
+    <string name="theme_amoled" formatted="false">AMOLED (đen thuần khiết)</string>
+    <string name="settings_accent_title" formatted="false">Màu nhấn</string>
+    <string name="settings_accent_summary" formatted="false">Chọn màu đánh dấu được sử dụng trên ứng dụng.</string>
+    <string name="accent_default" formatted="false">Mặc định (chiến dịch màu đỏ)</string>
+    <string name="accent_red" formatted="false">Màu đỏ</string>
+    <string name="accent_orange" formatted="false">Quả cam</string>
+    <string name="accent_yellow" formatted="false">Màu vàng</string>
+    <string name="accent_green" formatted="false">Màu xanh lá</string>
+    <string name="accent_teal" formatted="false">màu xanh mòng két</string>
+    <string name="accent_blue" formatted="false">Màu xanh da trời</string>
+    <string name="accent_purple" formatted="false">Màu tím</string>
+    <string name="accent_pink" formatted="false">Hồng</string>
+    <string name="settings_colorblendr_warning" formatted="false">Lưu ý: nếu ColorBlendr hoặc Chất liệu khác mà bạn ghi đè đang hoạt động thì màu nhấn của bạn có thể không được áp dụng cho đến khi bạn tắt nó.</string>
+    <string name="settings_about_title" formatted="false">Về</string>
+    <string name="settings_version">Phiên bản %1$s</string>
+    <string name="settings_open_source" formatted="false">Nguồn mở (MIT). Không được liên kết hoặc xác nhận bởi chiến dịch Keep Android Open chính thức.</string>
+</resources>

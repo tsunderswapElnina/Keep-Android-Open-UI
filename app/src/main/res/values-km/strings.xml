@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">រាប់ថយក្រោយ</string>
+    <string name="tab_rollout" formatted="false">ការចេញផ្សាយ</string>
+    <string name="tab_act_now" formatted="false">ធ្វើសកម្មភាពឥឡូវនេះ</string>
+    <string name="cd_open_site" formatted="false">បើក Keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">ការកំណត់</string>
+    <string name="cd_back" formatted="false">ត្រឡប់មកវិញ</string>
+    <string name="countdown_campaign" formatted="false">យុទ្ធនាការរាប់ថយក្រោយ</string>
+    <string name="countdown_elapsed" formatted="false">ពេលវេលាបានកន្លងផុតទៅចាប់តាំងពីយុទ្ធនាការនេះត្រូវបានដាក់ជាសាធារណៈរហូតដល់ថ្ងៃទី 1 ខែមករា ឆ្នាំ 2027។</string>
+    <string name="countdown_what_means" formatted="false">តើការរាប់ថយក្រោយមានន័យយ៉ាងណា</string>
+    <string name="countdown_read_faq" formatted="false">អាន FAQ</string>
+    <string name="countdown_campaign_btn" formatted="false">យុទ្ធនាការ</string>
+    <string name="countdown_footnote" formatted="false">គោលដៅរាប់ថយក្រោយត្រូវគ្នានឹងបដាដែលបានបោះពុម្ពផ្សាយនៅ keepandroidopen.org។ កម្មវិធីអាប់ដេតម្តងក្នុងមួយវិនាទី ខណៈពេលដែលវាបើក។</string>
+    <string name="countdown_expired" formatted="false">ប្រព័ន្ធប្រតិបត្តិការ Android ឥឡូវនេះជាវេទិកាបិទ</string>
+    <string name="countdown_running" formatted="false">ប្រព័ន្ធប្រតិបត្តិការ Android ក្លាយជាវេទិកាចាក់សោរចូល</string>
+    <string name="unit_days" formatted="false">ថ្ងៃ</string>
+    <string name="unit_hours" formatted="false">ម៉ោង</string>
+    <string name="unit_minutes" formatted="false">នាទី</string>
+    <string name="unit_seconds" formatted="false">វិនាទី</string>
+    <string name="rollout_title" formatted="false">តើការផ្ទៀងផ្ទាត់អ្នកអភិវឌ្ឍន៍ Android គឺជាអ្វី?</string>
+    <string name="rollout_what_it_means_title" formatted="false">តើវាមានន័យយ៉ាងណា</string>
+    <string name="rollout_timeline_title" formatted="false">កាលវិភាគនៃការចេញផ្សាយ</string>
+    <string name="rollout_paths_title" formatted="false">ជ្រើសរើសផ្លូវផ្ទៀងផ្ទាត់របស់អ្នក។</string>
+    <string name="rollout_advanced_title" formatted="false">\"លំហូរកម្រិតខ្ពស់\" មិនមែនជាដំណោះស្រាយទេ។</string>
+    <string name="rollout_dev_page" formatted="false">ទំព័រអ្នកអភិវឌ្ឍន៍ផ្លូវការរបស់ Google</string>
+    <string name="rollout_open_letter" formatted="false">អានសំបុត្របើកចំហ</string>
+    <string name="label_identity" formatted="false">អត្តសញ្ញាណ</string>
+    <string name="label_distribution" formatted="false">ការចែកចាយ</string>
+    <string name="label_ux" formatted="false">បទពិសោធន៍អ្នកប្រើប្រាស់</string>
+    <string name="label_best_for" formatted="false">ល្អបំផុតសម្រាប់</string>
+    <string name="rollout_summary" formatted="false">ការផ្ទៀងផ្ទាត់អ្នកអភិវឌ្ឍន៍ប្រព័ន្ធប្រតិបត្តិការ Android គឺជាកម្មវិធី Google ដែលភ្ជាប់កម្មវិធីនីមួយៗទៅកាន់អត្តសញ្ញាណអ្នកអភិវឌ្ឍន៍ដែលបានផ្ទៀងផ្ទាត់ មុនពេលវាអាចត្រូវបានដំឡើងនៅលើឧបករណ៍ Android ដែលមានការបញ្ជាក់។ អ្នកអភិវឌ្ឍន៍ត្រូវតែផ្ទៀងផ្ទាត់ថាពួកគេជានរណា ហើយចុះឈ្មោះឈ្មោះកញ្ចប់ដែលពួកគេបោះពុម្ព។ កម្មវិធីដែលមិនមានការចុះឈ្មោះ អ្នកអភិវឌ្ឍន៍ដែលបានផ្ទៀងផ្ទាត់មិនអាចដំឡើងតាមវិធីធម្មតាបានទៀតទេ នៅពេលដែលការការពារចេញ។</string>
+    <string name="rollout_what_it_means" formatted="false">វាពិបាកបំផុតលើការចែកចាយឯករាជ្យ និងប្រភពបើកចំហដូចជា F-Droid ការទាញយក APK ដោយផ្ទាល់ និងគម្រោងចំណូលចិត្ត។ Google និយាយថាវានិយាយអំពីសុវត្ថិភាព និងការបញ្ឈប់មេរោគអនាមិក។ អ្នករិះគន់ រួមទាំងយុទ្ធនាការ Keep Android Open, F-Droid និង EFF និយាយថា វាគឺជាការបិទទ្វារបិទទ្វារ៖ ការចុះឈ្មោះកណ្តាល លេខសម្គាល់រដ្ឋាភិបាល ថ្លៃសេវា និងការគ្រប់គ្រងពេញលេញលើអ្វីដែលឧបករណ៍របស់អ្នកត្រូវបានអនុញ្ញាតឱ្យទុកចិត្ត។</string>
+    <string name="rollout_advanced_note" formatted="false">លំហូរកម្រិតខ្ពស់ត្រូវបានចែកចាយតាមរយៈសេវាកម្ម Google Play មិនមែនប្រព័ន្ធប្រតិបត្តិការ Android នោះទេ ដូច្នេះ Google អាចផ្លាស់ប្តូរ រឹតបន្តឹង ឬលុបវាចេញបានគ្រប់ពេលដោយមិនចាំបាច់មានការអាប់ដេតប្រព័ន្ធប្រតិបត្តិការ ឬការយល់ព្រមពីអ្នកប្រើប្រាស់។ ការពន្យារពេល 24 ម៉ោងគឺជាការរំខានដោយចេតនា ហើយជាជំហានមួយបន្ថែមទៀតដែលស្ថិតនៅចន្លោះអ្នក និងកម្មវិធីដែលអ្នកជ្រើសរើសដើម្បីដំណើរការ។</string>
+    <string-array name="timeline_dates">
+        <item>ថ្ងៃទី 25 ខែសីហា ឆ្នាំ 2025</item>
+        <item>ថ្ងៃទី 19 ខែមីនា ឆ្នាំ 2026</item>
+        <item>ខែមិថុនា ឆ្នាំ 2026</item>
+        <item>ថ្ងៃទី 18 ខែមិថុនា ឆ្នាំ 2026</item>
+        <item>ខែកក្កដា ឆ្នាំ 2026</item>
+        <item>ខែសីហា ឆ្នាំ 2026</item>
+        <item>ថ្ងៃទី ៣០ ខែកញ្ញា ឆ្នាំ ២០២៦</item>
+        <item>២០២៧</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>កម្មវិធីត្រូវបានប្រកាស</item>
+        <item>\"លំហូរកម្រិតខ្ពស់\" ត្រូវបានបង្ហាញ</item>
+        <item>កម្មវិធីផ្ទៀងផ្ទាត់អ្នកអភិវឌ្ឍន៍ Android បញ្ជូនទៅកាន់ឧបករណ៍</item>
+        <item>ការ​ចាប់​ផ្តើម​ដំបូង​ត្រូវ​បាន​បញ្ជាក់</item>
+        <item>Developer APIs បើកឡើង</item>
+        <item>កុងសូលសកល គណនីមានកំណត់ លំហូរកម្រិតខ្ពស់</item>
+        <item>ការ​អនុវត្ត​ច្បាប់​ចាប់​ផ្ដើម​ក្នុង​ប្រទេស​ចំនួន​បួន</item>
+        <item>ការចេញផ្សាយជាសកល</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google ប្រកាសថាចាប់ពីឆ្នាំ 2027 តទៅ កម្មវិធីសម្រាប់ Android ត្រូវតែចុះឈ្មោះទៅកាន់អ្នកអភិវឌ្ឍន៍ដែលបានផ្ទៀងផ្ទាត់ រួមទាំងកម្មវិធីដែលបានដំឡើងនៅខាងក្រៅ Google Play ផងដែរ។</item>
+        <item>អ្នក​ប្រើ​ថាមពល​ទទួល​បាន​ការ​គេច​ចេញ​ដោយ​ចេតនា៖ បើក​ជម្រើស​អ្នក​អភិវឌ្ឍន៍ បញ្ជាក់​ថា​អ្នក​មិន​ត្រូវ​បាន​បង្ខិត​បង្ខំ ចាប់ផ្ដើម​ឡើង​វិញ បន្ទាប់​មក​រង់ចាំ 24 ម៉ោង​មុន​ពេល​អ្នក​អាច​អនុញ្ញាត​ឱ្យ​មាន​ការ​ដំឡើង​ដែល​មិន​បាន​ផ្ទៀងផ្ទាត់។</item>
+        <item>សេវាកម្មប្រព័ន្ធផ្ទៃខាងក្រោយ (com.google.android.verifier) ​​ត្រូវបានជំរុញតាមរយៈការអាប់ដេតប្រព័ន្ធ Google ទៅកាន់ឧបករណ៍ដែលមានការបញ្ជាក់ ហើយនៅស្ងៀមរហូតដល់មានការអនុវត្ត។</item>
+        <item>Google បញ្ជាក់​ការ​អនុវត្ត​ចាប់​ពី​ថ្ងៃ​ទី 30 ខែ​កញ្ញា ឆ្នាំ 2026 នៅ​ទូទាំង​ហាង​ចំនួន 7 និង​ប្រទេស​ចំនួន 4។</item>
+        <item>Android Developer ID Status API ចាប់ផ្តើមដំណើរការជាសកល ហើយការចូលប្រើដំបូងចាប់ផ្តើមសម្រាប់ Android Developer Console API និងគណនីចែកចាយមានកំណត់។</item>
+        <item>គណនីចែកចាយមានកំណត់ (ឥតគិតថ្លៃរហូតដល់ 20 ឧបករណ៍ គ្មានលេខសម្គាល់រដ្ឋាភិបាល) និងការបើកដំណើរការ Console API នៅទូទាំងពិភពលោក។ លំហូរកម្រិតខ្ពស់សម្រាប់ការផ្ទុកចំហៀងដែលមិនបានផ្ទៀងផ្ទាត់ចាប់ផ្តើមដំណើរការ។</item>
+        <item>ការការពារដំណើរការសម្រាប់អ្នកប្រើប្រាស់នៅក្នុងប្រទេសប្រេស៊ីល ឥណ្ឌូនេស៊ី សឹង្ហបុរី និងប្រទេសថៃនៅលើឧបករណ៍ដែលមានការបញ្ជាក់ដែលដំណើរការប្រព័ន្ធប្រតិបត្តិការ Android 7+ ។ កម្មវិធីពីអ្នកអភិវឌ្ឍន៍ដែលមិនបានផ្ទៀងផ្ទាត់ត្រូវបានរារាំងនៅលើហាងដែលចូលរួម៖ Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore និង GetApps ។</item>
+        <item>ការផ្ទៀងផ្ទាត់ត្រូវបានពង្រីកទៅគ្រប់កម្មវិធី និងតំបន់។ រក្សា Android Open រាប់ថយក្រោយដល់ថ្ងៃទី 1 ខែមករា ឆ្នាំ 2027 នៅពេលដែល Android ក្លាយជាវេទិកាចាក់សោ។</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>ការចែកចាយពេញលេញ</item>
+        <item>ការចែកចាយមានកំណត់</item>
+        <item>Sideloading កម្មវិធីដែលមិនបានចុះឈ្មោះ</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>បាទ - លេខសម្គាល់រដ្ឋាភិបាល និងថ្លៃសេវា</item>
+        <item>ទេ - គ្មានអត្តសញ្ញាណប័ណ្ណ ឬថ្លៃចុះឈ្មោះ</item>
+        <item>ទេ - ប៉ុន្តែការកកិតខ្ពស់។</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>ហាង ឬឆានែលណាមួយដែលអ្នកជ្រើសរើស</item>
+        <item>ឧបករណ៍រហូតដល់ 20 តាមរយៈកូដ QR ឬភ្ជាប់ការចាប់ដៃ</item>
+        <item>ADB (លើកលែង) ឬលំហូរកម្រិតខ្ពស់</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>គ្មានអ្វីផ្លាស់ប្តូរសម្រាប់អ្នកប្រើប្រាស់របស់អ្នកទេ។</item>
+        <item>អ្នកប្រើប្រាស់ទទួលយកការអញ្ជើញដំឡើងពីអ្នកអភិវឌ្ឍន៍ដែលពួកគេស្គាល់</item>
+        <item>ជម្រើសអ្នកអភិវឌ្ឍន៍ ចាប់ផ្ដើមឡើងវិញ រង់ចាំ 24 ម៉ោង បន្ទាប់មកដំឡើងយ៉ាងណាក៏ដោយ</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>អង្គការ និងអ្នកអភិវឌ្ឍន៍អាជីព</item>
+        <item>សិស្ស ចំណង់ចំណូលចិត្ត និងការប្រើប្រាស់ផ្ទាល់ខ្លួន</item>
+        <item>អ្នកអភិវឌ្ឍន៍ដែលមិនបានផ្ទៀងផ្ទាត់ និងអ្នកប្រើប្រាស់ថាមពល</item>
+    </string-array>
+    <string name="act_title" formatted="false">ធ្វើសកម្មភាពឥឡូវនេះ - ធ្វើឱ្យសំឡេងរបស់អ្នកឮ</string>
+    <string name="act_intro">និយតករចង់ឮពីបុគ្គលដែលរងផលប៉ះពាល់។ មានភាពគួរសម និងជាក់លាក់ សរសេរជាភាសាផ្លូវការនៃរាងកាយដែលអ្នកទាក់ទង សុំការទទួលស្គាល់ជាលាយលក្ខណ៍អក្សរ និងចម្លង %1$s ដូច្នេះយុទ្ធនាការអាចតាមដានជ័យជម្នះ។</string>
+    <string name="act_open_composer" formatted="false">បើកកម្មវិធីតែងអ៊ីមែល</string>
+    <string name="act_copy" formatted="false">ចម្លង</string>
+    <string name="act_share" formatted="false">ចែករំលែក</string>
+    <string name="act_clipboard_label" formatted="false">ទុក​សំបុត្រ​ចំហ​របស់ Android</string>
+    <string name="act_us_title" formatted="false">សហរដ្ឋអាមេរិក — ផ្ញើអ៊ីមែលទៅរដ្ឋាភិបាល</string>
+    <string name="act_us_intro" formatted="false">នាយកដ្ឋានយុត្តិធម៌ និង FTC យករបាយការណ៍ប្រឆាំងការទុកចិត្តតាមរយៈទម្រង់អនឡាញ។ ប្រើពួកវា ហើយទាក់ទងអ្នកតំណាង និងសមាជិកព្រឹទ្ធសភាផ្ទាល់របស់អ្នក។</string>
+    <string name="act_world_title" formatted="false">កន្លែងផ្សេងទៀតនៅក្នុងពិភពលោក</string>
+    <string name="act_groups_title" formatted="false">ក្រុមសិទ្ធិអ្នកប្រើប្រាស់ និងឌីជីថល</string>
+    <string name="act_more_title" formatted="false">វិធីជាច្រើនទៀតដើម្បីជួយ</string>
+    <string name="act_more_body" formatted="false">• ដំឡើង F-Droid នៅលើឧបករណ៍របស់អ្នក។\n• ឆ្លើយការស្ទង់មតិផ្ទៀងផ្ទាត់អ្នកអភិវឌ្ឍន៍របស់ Google ។\n• បង្ហោះនៅលើប្រព័ន្ធផ្សព្វផ្សាយសង្គម និងភ្ជាប់ទៅ keepandroidopen.org ។\n• ចុះហត្ថលេខាលើញត្តិ change.org ។\n• បន្ថែមបដារាប់ថយក្រោយទៅគេហទំព័ររបស់អ្នក។</string>
+    <string name="act_all_actions" formatted="false">សកម្មភាពទាំងអស់នៅ keepandroidopen.org</string>
+    <string name="action_email" formatted="false">អ៊ីមែល</string>
+    <string name="action_open" formatted="false">បើក</string>
+    <string-array name="us_contact_regions">
+        <item>សហរដ្ឋអាមេរិក</item>
+        <item>សហរដ្ឋអាមេរិក</item>
+        <item>សហរដ្ឋអាមេរិក</item>
+        <item>សហរដ្ឋអាមេរិក</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>ក្រសួងយុត្តិធម៌សហរដ្ឋអាមេរិក - ផ្នែកប្រឆាំងការទុកចិត្ត</item>
+        <item>គណៈកម្មការពាណិជ្ជកម្មសហព័ន្ធអាមេរិក - ការប្រឆាំងការទុកចិត្ត</item>
+        <item>ស្វែងរកតំណាងសភារបស់អ្នក។</item>
+        <item>ទាក់ទងសមាជិកព្រឹទ្ធសភាអាមេរិករបស់អ្នក។</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>បញ្ជូនរបាយការណ៍ប្រឆាំងការទុកចិត្តលើអ៊ីនធឺណិត។</item>
+        <item>ដាក់ពាក្យបណ្តឹងប្រឆាំងនឹងការទុកចិត្ត។</item>
+        <item>ទាក់ទងតំណាងរបស់អ្នកនៅក្នុងសភាអាមេរិក។</item>
+        <item>ស្វែងរក និងទាក់ទងសមាជិកព្រឹទ្ធសភារដ្ឋទាំងពីរ។</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>សហភាពអឺរ៉ុប</item>
+        <item>សហភាពអឺរ៉ុប</item>
+        <item>ចក្រភពអង់គ្លេស</item>
+        <item>ប្រេស៊ីល</item>
+        <item>សិង្ហបុរី</item>
+        <item>ប្រទេសថៃ</item>
+        <item>ប្រទេសឥណ្ឌូនេស៊ី</item>
+        <item>អូស្ត្រាលី</item>
+        <item>ប្រទេសកាណាដា</item>
+        <item>ប្រទេសឥណ្ឌា</item>
+        <item>ជប៉ុន</item>
+        <item>កូរ៉េខាងត្បូង</item>
+        <item>ម៉ិកស៊ិក</item>
+        <item>Aotearoa / នូវែលសេឡង់</item>
+        <item>តៃវ៉ាន់</item>
+        <item>ស្វីស</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU Antitrust (DG COMP)</item>
+        <item>ក្រុមការងារច្បាប់ទីផ្សារឌីជីថល</item>
+        <item>អាជ្ញាធរប្រកួតប្រជែង និងទីផ្សារ</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>គណៈកម្មការប្រកួតប្រជែងពាណិជ្ជកម្ម (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>ការិយាល័យប្រកួតប្រជែងកាណាដា</item>
+        <item>គណៈកម្មការប្រកួតប្រជែងនៃប្រទេសឥណ្ឌា</item>
+        <item>គណៈកម្មាការពាណិជ្ជកម្មយុត្តិធម៌ជប៉ុន</item>
+        <item>គណៈកម្មាការពាណិជ្ជកម្មយុត្តិធម៌កូរ៉េ</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>គណៈកម្មការពាណិជ្ជកម្ម</item>
+        <item>គណៈកម្មការពាណិជ្ជកម្មយុត្តិធម៌</item>
+        <item>គណៈកម្មការប្រកួតប្រជែង (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>ផ្ញើអ៊ីមែលទៅអាជ្ញាធរប្រកួតប្រជែងរបស់គណៈកម្មការអឺរ៉ុប។</item>
+        <item>ទាក់ទងការិយាល័យជំនួយពលរដ្ឋ DMA របស់សហភាពអឺរ៉ុប។</item>
+        <item>រាយការណ៍ទៅ CMA ចក្រភពអង់គ្លេស។</item>
+        <item>ប្រទេសប្រេស៊ីលស្ថិតនៅក្នុងរលកនៃការអនុវត្តដំបូង។</item>
+        <item>ប្រទេសសិង្ហបុរីស្ថិតនៅក្នុងរលកនៃការអនុវត្តដំបូង។</item>
+        <item>ប្រទេស​ថៃ​ស្ថិត​ក្នុង​ការ​អនុវត្ត​ច្បាប់​លើក​ដំបូង។</item>
+        <item>ឥណ្ឌូណេស៊ី​ស្ថិត​ក្នុង​រលក​អនុវត្ត​ច្បាប់​ដំបូង​គេ។</item>
+        <item>រាយការណ៍ទៅគណៈកម្មការប្រកួតប្រជែង និងអ្នកប្រើប្រាស់អូស្ត្រាលី។</item>
+        <item>ដាក់ពាក្យបណ្តឹងទៅការិយាល័យប្រកួតប្រជែង។</item>
+        <item>ទាក់ទង CCI អំពីអាកប្បកិរិយាប្រឆាំងនឹងការប្រកួតប្រជែង។</item>
+        <item>ទាក់ទងតុ JFTC / Mobile Software Competition Act ។</item>
+        <item>ទាក់ទង KFTC ។</item>
+        <item>ដាក់ពាក្យបណ្តឹងប្រឆាំងនឹងការទុកចិត្តនៅម៉ិកស៊ិក។</item>
+        <item>រាយការណ៍អំពីអាកប្បកិរិយាប្រឆាំងនឹងការប្រកួតប្រជែង។</item>
+        <item>ទាក់ទងតៃវ៉ាន់ FTC ។</item>
+        <item>រាយការណ៍ពីការអនុវត្តខុសច្បាប់។</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>សកល</item>
+        <item>សកល</item>
+        <item>អឺរ៉ុប</item>
+        <item>អឺរ៉ុប</item>
+        <item>សកល</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>មូលនិធិ Frontier អេឡិចត្រូនិក</item>
+        <item>មូលនិធិកម្មវិធីឥតគិតថ្លៃ</item>
+        <item>មូលនិធិកម្មវិធីឥតគិតថ្លៃអឺរ៉ុប</item>
+        <item>សិទ្ធិឌីជីថលអឺរ៉ុប (EDRi)</item>
+        <item>ការអភិរក្សសេរីភាពកម្មវិធី</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>ការគ្រប់គ្រងកម្មវិធី និងការចាប់ពិរុទ្ធលើអ៊ីនធឺណិត។</item>
+        <item>សេរីភាពកម្មវិធី និងការគ្រប់គ្រងអ្នកប្រើប្រាស់។</item>
+        <item>សេរីភាពផ្នែកទន់នៅអឺរ៉ុប។</item>
+        <item>ការតស៊ូមតិសិទ្ធិឌីជីថល។</item>
+        <item>កម្មវិធីឥតគិតថ្លៃដែលជំរុញដោយសហគមន៍។</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">រដ្ឋាភិបាលរបស់ខ្ញុំ</string>
+    <string name="letter_subject" formatted="false">បញ្ឈប់ការចាក់សោការផ្ទៀងផ្ទាត់អ្នកអភិវឌ្ឍន៍ Android របស់ Google</string>
+    <string name="letter_template">សូមគោរពតំណាង %1$s\n\nខ្ញុំ​កំពុង​សរសេរ​ក្នុង​នាម​ជា​អ្នក​ប្រើ Android ដែល​មាន​ការ​ព្រួយ​បារម្ភ និង​ជា​ពលរដ្ឋ​ក្នុង​ដែន​សមត្ថកិច្ច​របស់​អ្នក។\n\nកម្មវិធីផ្ទៀងផ្ទាត់អ្នកអភិវឌ្ឍន៍ Android របស់ Google ដែលបានអនុវត្តចាប់ពីថ្ងៃទី 30 ខែកញ្ញា ឆ្នាំ 2026 នៅក្នុងទីផ្សារមួយចំនួន និងពង្រីកជាសកលនៅឆ្នាំ 2027 នឹងតម្រូវឱ្យកម្មវិធី Android ទាំងអស់ត្រូវបានចុះឈ្មោះជាមួយអ្នកអភិវឌ្ឍន៍ដែលបានផ្ទៀងផ្ទាត់កណ្តាល មុនពេលវាអាចត្រូវបានដំឡើងនៅលើឧបករណ៍ដែលមានការបញ្ជាក់។ អ្នកអភិវឌ្ឍន៍ត្រូវតែបញ្ជូនអត្តសញ្ញាណរបស់រដ្ឋាភិបាល យល់ព្រមតាមលក្ខខណ្ឌរបស់ Google បង់ថ្លៃសេវា និងរាយបញ្ជីរាល់ការកំណត់អត្តសញ្ញាណកម្មវិធីបច្ចុប្បន្ន និងអនាគត។\n\nនេះមិនមានន័យធ្វើឱ្យសន្តិសុខប្រសើរឡើងទេ។ វាផ្តល់ឱ្យក្រុមហ៊ុនឯកជនតែមួយនូវអំណាចក្នុងការសម្រេចចិត្តថាតើកម្មវិធីណាមួយដែលមនុស្សត្រូវបានអនុញ្ញាតឱ្យដំណើរការលើឧបករណ៍ដែលខ្លួនមាន ហើយវាគំរាមកំហែងការចែកចាយដោយឯករាជ្យ និងប្រភពបើកចំហដូចជា F-Droid ដែលមិនអាចអនុវត្តតាម និងអាចឈប់មាន។\n\nខ្ញុំសូមសួរដោយគោរពថា:\n\n1. ស៊ើបអង្កេតថាតើកម្មវិធីនេះប្រឆាំងនឹងការប្រកួតប្រជែង ហើយបង្កើតបានជាការរំលោភបំពានលើមុខតំណែងអ្នកយាមទ្វារ។\n2. ចុច Google ដើម្បីលើកលែងការចែកចាយប្រភពបើកចំហ និងមិនមែនពាណិជ្ជកម្ម និងដើម្បីរក្សាការផ្ទុកចំហៀងដោយមិនមានការចុះឈ្មោះកណ្តាល។\n3. ការពារសិទ្ធិរបស់អ្នកប្រើប្រាស់ក្នុងការដំណើរការកម្មវិធីនៃការជ្រើសរើសរបស់ពួកគេលើផ្នែករឹងដែលពួកគេបានទិញ។\n\nសូម​ទទួល​ស្គាល់​សារ​នេះ​ជា​លាយលក្ខណ៍អក្សរ ហើយ​ប្រាប់​ខ្ញុំ​ពី​សកម្មភាព​អ្វី​ដែល​ការិយាល័យ​របស់​អ្នក​ត្រូវ​ធ្វើ។\n\nខ្ញុំក៏កំពុងចម្លងយុទ្ធនាការ Keep Android Open នៅ %2$s ផងដែរ។\n\nដោយក្តីគោរព\n[ឈ្មោះរបស់អ្នក]\n[ទីក្រុង និងប្រទេសរបស់អ្នក]</string>
+    <string name="toast_no_app" formatted="false">គ្មានកម្មវិធីណាអាចបើកតំណនេះបានទេ។</string>
+    <string name="toast_no_email" formatted="false">គ្មានកម្មវិធីអ៊ីមែលត្រូវបានដំឡើងទេ។</string>
+    <string name="chooser_send_email" formatted="false">ផ្ញើអ៊ីមែល</string>
+    <string name="chooser_share" formatted="false">ចែករំលែក</string>
+    <string name="toast_copied" formatted="false">បានចម្លងទៅក្ដារតម្បៀតខ្ទាស់</string>
+    <string name="settings_title" formatted="false">ការកំណត់</string>
+    <string name="settings_language_title" formatted="false">ភាសាកម្មវិធី</string>
+    <string name="settings_language_summary" formatted="false">ជ្រើសរើសភាសាដែលប្រើដោយកម្មវិធី។ អ្នកក៏អាចផ្លាស់ប្តូរវាពីការកំណត់ឧបករណ៍របស់អ្នកផងដែរ។</string>
+    <string name="settings_system_default" formatted="false">លំនាំដើមប្រព័ន្ធ</string>
+    <string name="settings_language_search" formatted="false">ស្វែងរកភាសា</string>
+    <string name="settings_theme_title" formatted="false">ប្រធានបទ</string>
+    <string name="settings_theme_summary" formatted="false">ជ្រើសរើសរបៀបដែលកម្មវិធីមើលទៅ។</string>
+    <string name="theme_system" formatted="false">អនុវត្តតាមប្រព័ន្ធ</string>
+    <string name="theme_light" formatted="false">ពន្លឺ</string>
+    <string name="theme_dark" formatted="false">ងងឹត</string>
+    <string name="theme_amoled" formatted="false">AMOLED (ខ្មៅសុទ្ធ)</string>
+    <string name="settings_accent_title" formatted="false">ពណ៌សង្កត់សំឡេង</string>
+    <string name="settings_accent_summary" formatted="false">ជ្រើសរើស​ពណ៌​រំលេច​ដែល​ប្រើ​លើ​កម្មវិធី។</string>
+    <string name="accent_default" formatted="false">លំនាំដើម (យុទ្ធនាការក្រហម)</string>
+    <string name="accent_red" formatted="false">ក្រហម</string>
+    <string name="accent_orange" formatted="false">ពណ៌ទឹកក្រូច</string>
+    <string name="accent_yellow" formatted="false">លឿង</string>
+    <string name="accent_green" formatted="false">បៃតង</string>
+    <string name="accent_teal" formatted="false">ទឹកប្រៃ</string>
+    <string name="accent_blue" formatted="false">ខៀវ</string>
+    <string name="accent_purple" formatted="false">ពណ៌ស្វាយ</string>
+    <string name="accent_pink" formatted="false">ផ្កាឈូក</string>
+    <string name="settings_colorblendr_warning" formatted="false">ប្រុងប្រយត្ន័៖ ប្រសិនបើ ColorBlendr ឬសម្ភារៈផ្សេងទៀតដែលអ្នកបដិសេធគឺសកម្ម ពណ៌សង្កត់សំឡេងរបស់អ្នកអាចនឹងមិនអនុវត្តរហូតដល់អ្នកបិទវា។</string>
+    <string name="settings_about_title" formatted="false">អំពី</string>
+    <string name="settings_version">កំណែ %1$s</string>
+    <string name="settings_open_source" formatted="false">ប្រភពបើកចំហ (MIT) ។ មិនជាប់ពាក់ព័ន្ធ ឬគាំទ្រដោយយុទ្ធនាការ Keep Android Open ផ្លូវការទេ។</string>
+</resources>

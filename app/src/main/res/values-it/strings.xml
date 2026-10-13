@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Conto alla rovescia</string>
+    <string name="tab_rollout" formatted="false">Il lancio</string>
+    <string name="tab_act_now" formatted="false">Agisci adesso</string>
+    <string name="cd_open_site" formatted="false">Apri keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Impostazioni</string>
+    <string name="cd_back" formatted="false">Indietro</string>
+    <string name="countdown_campaign" formatted="false">Conto alla rovescia della campagna</string>
+    <string name="countdown_elapsed" formatted="false">Tempo trascorso da quando la campagna è stata resa pubblica verso il 1 gennaio 2027.</string>
+    <string name="countdown_what_means" formatted="false">Cosa significa il conto alla rovescia</string>
+    <string name="countdown_read_faq" formatted="false">Leggi le domande frequenti</string>
+    <string name="countdown_campaign_btn" formatted="false">La campagna</string>
+    <string name="countdown_footnote" formatted="false">L\'obiettivo del conto alla rovescia corrisponde al banner pubblicato su keepandroidopen.org. L\'app si aggiorna una volta al secondo mentre è aperta.</string>
+    <string name="countdown_expired" formatted="false">ANDROID È ORA UNA PIATTAFORMA BLOCCATA</string>
+    <string name="countdown_running" formatted="false">ANDROID DIVENTA UNA PIATTAFORMA BLOCCATA IN</string>
+    <string name="unit_days" formatted="false">giorni</string>
+    <string name="unit_hours" formatted="false">ore</string>
+    <string name="unit_minutes" formatted="false">minuti</string>
+    <string name="unit_seconds" formatted="false">secondi</string>
+    <string name="rollout_title" formatted="false">Che cos\'è la verifica dello sviluppatore Android?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Cosa significa veramente</string>
+    <string name="rollout_timeline_title" formatted="false">La cronologia del lancio</string>
+    <string name="rollout_paths_title" formatted="false">Scegli il tuo percorso di verifica</string>
+    <string name="rollout_advanced_title" formatted="false">Il “flusso avanzato” non è una soluzione</string>
+    <string name="rollout_dev_page" formatted="false">Pagina ufficiale degli sviluppatori di Google</string>
+    <string name="rollout_open_letter" formatted="false">Leggi la lettera aperta</string>
+    <string name="label_identity" formatted="false">Identità</string>
+    <string name="label_distribution" formatted="false">Distribuzione</string>
+    <string name="label_ux" formatted="false">Esperienza dell\'utente</string>
+    <string name="label_best_for" formatted="false">Meglio per</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification è un programma Google che collega ogni app a un\'identità di sviluppatore verificata prima che possa essere installata su dispositivi Android certificati. Gli sviluppatori devono verificare chi sono e registrare i nomi dei pacchetti che pubblicano. Le app senza uno sviluppatore registrato e verificato non possono più essere installate normalmente una volta implementate le protezioni.</string>
+    <string name="rollout_what_it_means" formatted="false">Colpisce più duramente la distribuzione indipendente e open source come F-Droid, download diretti di APK e progetti di hobby. Google afferma che è una questione di sicurezza e di blocco del malware anonimo. I critici, tra cui la campagna Keep Android Open, F-Droid e l\'EFF, affermano che si tratta di un kill switch di gatekeeper: registrazione centrale, ID governativo, una tariffa e controllo completo su ciò di cui il tuo dispositivo può fidarsi.</string>
+    <string name="rollout_advanced_note" formatted="false">Il flusso avanzato viene fornito tramite i servizi Google Play, non il sistema operativo Android, quindi Google può modificarlo, limitarlo o rimuoverlo in qualsiasi momento senza un aggiornamento del sistema operativo o il consenso dell\'utente. Il ritardo di 24 ore è intenzionalmente distruttivo ed è un ulteriore passaggio che si frappone tra te e il software che scegli di eseguire.</string>
+    <string-array name="timeline_dates">
+        <item>25 agosto 2025</item>
+        <item>19 marzo 2026</item>
+        <item>Giugno 2026</item>
+        <item>18 giugno 2026</item>
+        <item>Luglio 2026</item>
+        <item>Agosto 2026</item>
+        <item>30 settembre 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Il programma è annunciato</item>
+        <item>Viene rivelato il “flusso avanzato”.</item>
+        <item>Android Developer Verifier viene fornito ai dispositivi</item>
+        <item>Confermato il lancio iniziale</item>
+        <item>Si aprono le API per sviluppatori</item>
+        <item>Console globale, account limitati, flusso avanzato</item>
+        <item>L\'applicazione inizia in quattro paesi</item>
+        <item>Lancio globale</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google annuncia che a partire dal 2027, le app per Android dovranno essere registrate presso uno sviluppatore verificato, comprese le app installate al di fuori di Google Play.</item>
+        <item>Gli utenti esperti ottengono una via di fuga deliberatamente ingombrante: abilita le Opzioni sviluppatore, conferma di non essere costretto, riavvia, quindi attendi 24 ore prima di consentire installazioni non verificate.</item>
+        <item>Un servizio di sistema in background (com.google.android.verifier) ​​viene inviato tramite gli Aggiornamenti di sistema di Google ai dispositivi certificati e rimane inattivo fino all\'entrata in vigore.</item>
+        <item>Google conferma che l\'applicazione delle norme inizierà il 30 settembre 2026 in sette negozi e quattro paesi.</item>
+        <item>L\'API Android Developer ID Status viene lanciata a livello globale e inizia l\'accesso anticipato per l\'API Android Developer Console e per gli account di distribuzione limitata.</item>
+        <item>Account di distribuzione limitati (gratuiti, fino a 20 dispositivi, nessun ID governativo) e lancio dell\'API Console in tutto il mondo. Inizia l\'implementazione del flusso avanzato per il sideloading non verificato.</item>
+        <item>Le protezioni sono attive per gli utenti in Brasile, Indonesia, Singapore e Tailandia su dispositivi certificati con Android 7+. Le app di sviluppatori non verificati vengono bloccate negli store partecipanti: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore e GetApps.</item>
+        <item>La verifica è estesa a tutte le app e a tutte le regioni. Mantieni Android aperto conta alla rovescia fino al 1 gennaio 2027, quando Android diventerà una piattaforma bloccata.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Distribuzione completa</item>
+        <item>Distribuzione limitata</item>
+        <item>Sideload di app non registrate</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Sì, documento d\'identità governativo e tassa</item>
+        <item>No, nessun documento d\'identità o tassa di registrazione</item>
+        <item>No, ma attrito elevato</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Qualsiasi negozio o canale tu scelga</item>
+        <item>Fino a 20 dispositivi tramite codice QR o link handshake</item>
+        <item>ADB (esente) o il flusso avanzato</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Non cambia nulla per i tuoi utenti</item>
+        <item>Gli utenti accettano un invito all\'installazione da uno sviluppatore che conoscono</item>
+        <item>Opzioni sviluppatore, riavvia, attendi 24 ore, quindi installa comunque</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Organizzazioni e sviluppatori professionisti</item>
+        <item>Studenti, hobbisti e uso personale</item>
+        <item>Sviluppatori e utenti esperti non verificati</item>
+    </string-array>
+    <string name="act_title" formatted="false">Agisci adesso: fai sentire la tua voce</string>
+    <string name="act_intro">Gli enti regolatori vogliono sentire il parere delle persone colpite. Sii educato e specifico, scrivi nella lingua ufficiale dell\'ente che contatti, chiedi un riconoscimento scritto e copia %1$s in modo che la campagna possa tenere traccia delle vittorie.</string>
+    <string name="act_open_composer" formatted="false">Apri il compositore di posta elettronica</string>
+    <string name="act_copy" formatted="false">Copia</string>
+    <string name="act_share" formatted="false">Condividere</string>
+    <string name="act_clipboard_label" formatted="false">Mantieni Android Lettera aperta</string>
+    <string name="act_us_title" formatted="false">Stati Uniti: invia un\'e-mail al governo</string>
+    <string name="act_us_intro" formatted="false">Il Dipartimento di Giustizia e la FTC elaborano segnalazioni antitrust tramite moduli online. Usateli e contattate direttamente il vostro rappresentante e i vostri senatori.</string>
+    <string name="act_world_title" formatted="false">Altrove nel mondo</string>
+    <string name="act_groups_title" formatted="false">Gruppi di consumatori e diritti digitali</string>
+    <string name="act_more_title" formatted="false">Altri modi per aiutare</string>
+    <string name="act_more_body" formatted="false">• Installa F-Droid sui tuoi dispositivi.\n• Rispondi al sondaggio di verifica per sviluppatori di Google.\n• Pubblica sui social media e collega a keepandroidopen.org.\n• Firma la petizione su change.org.\n• Aggiungi il banner per il conto alla rovescia al tuo sito web.</string>
+    <string name="act_all_actions" formatted="false">Tutte le azioni su keepandroidopen.org</string>
+    <string name="action_email" formatted="false">E-mail</string>
+    <string name="action_open" formatted="false">Aprire</string>
+    <string-array name="us_contact_regions">
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+        <item>Stati Uniti</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Dipartimento di Giustizia degli Stati Uniti – Divisione Antitrust</item>
+        <item>Commissione federale per il commercio degli Stati Uniti – Antitrust</item>
+        <item>Trova il tuo rappresentante della Camera</item>
+        <item>Contatta i tuoi senatori degli Stati Uniti</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Invia una segnalazione antitrust online.</item>
+        <item>Presentare una denuncia antitrust.</item>
+        <item>Contatta il tuo rappresentante alla Camera degli Stati Uniti.</item>
+        <item>Trova e contatta entrambi i senatori del tuo stato.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Unione Europea</item>
+        <item>Unione Europea</item>
+        <item>Regno Unito</item>
+        <item>Brasile</item>
+        <item>Singapore</item>
+        <item>Tailandia</item>
+        <item>Indonesia</item>
+        <item>Australia</item>
+        <item>Canada</item>
+        <item>India</item>
+        <item>Giappone</item>
+        <item>Corea del Sud</item>
+        <item>Messico</item>
+        <item>Aotearoa/Nuova Zelanda</item>
+        <item>Taiwan</item>
+        <item>Svizzera</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>Antitrust UE (DG COMP)</item>
+        <item>Il team della legge sui mercati digitali</item>
+        <item>Autorità garante della concorrenza e dei mercati</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Commissione per la concorrenza commerciale (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACC</item>
+        <item>Ufficio della concorrenza canadese</item>
+        <item>Commissione per la concorrenza dell\'India</item>
+        <item>Commissione giapponese per il commercio equo e solidale</item>
+        <item>Commissione coreana per il commercio equo e solidale</item>
+        <item>Commissione nazionale antimonopolio</item>
+        <item>Commissione Commercio</item>
+        <item>Commissione per il commercio equo e solidale</item>
+        <item>Commissione della concorrenza (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>Invia un\'e-mail all\'autorità garante della concorrenza della Commissione europea.</item>
+        <item>Contatta l\'helpdesk per i cittadini EU DMA.</item>
+        <item>Fare rapporto alla CMA del Regno Unito.</item>
+        <item>Il Brasile è nella prima ondata di controlli.</item>
+        <item>Singapore è nella prima ondata di controlli.</item>
+        <item>La Tailandia è nella prima ondata di controlli.</item>
+        <item>L’Indonesia è nella prima ondata di controlli.</item>
+        <item>Rapporto alla Commissione australiana per la concorrenza e i consumatori.</item>
+        <item>Presentare un reclamo all\'Ufficio Concorsi.</item>
+        <item>Contattare la CCI in merito a comportamenti anticoncorrenziali.</item>
+        <item>Contatta l\'ufficio JFTC/Mobile Software Competition Act.</item>
+        <item>Contatta la KFTC.</item>
+        <item>Presentata una denuncia antitrust in Messico.</item>
+        <item>Segnalare comportamenti anticoncorrenziali.</item>
+        <item>Contatta la FTC di Taiwan.</item>
+        <item>Segnalare pratiche illecite.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Globale</item>
+        <item>Globale</item>
+        <item>Europa</item>
+        <item>Europa</item>
+        <item>Globale</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Fondazione Frontiera Elettronica</item>
+        <item>Fondazione per il Software Libero</item>
+        <item>Fondazione per il Software Libero Europa</item>
+        <item>Diritti Digitali Europei (EDRi)</item>
+        <item>Conservazione della libertà del software</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Gatekeeping delle app e censura di Internet.</item>
+        <item>Libertà del software e controllo dell\'utente.</item>
+        <item>La libertà del software in Europa.</item>
+        <item>Difesa dei diritti digitali.</item>
+        <item>Software gratuito gestito dalla comunità.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">il mio governo</string>
+    <string name="letter_subject" formatted="false">Interrompi il blocco della verifica per sviluppatori Android di Google</string>
+    <string name="letter_template">Gentile rappresentante di %1$s,\n\nTi scrivo come utente Android preoccupato e come cittadino nella tua giurisdizione.\n\nIl programma di verifica degli sviluppatori Android di Google, applicato a partire dal 30 settembre 2026 in diversi mercati e in espansione a livello globale nel 2027, richiederà che ogni app Android sia registrata presso uno sviluppatore verificato a livello centrale prima di poter essere installata su dispositivi certificati. Gli sviluppatori devono inviare un documento d\'identità governativo, accettare i termini di Google, pagare una tariffa ed elencare tutti gli identificatori di app attuali e futuri.\n\nCiò non migliora in modo significativo la sicurezza. Conferisce a un’unica azienda privata il potere di decidere quali software gli utenti possono eseguire sui dispositivi che possiedono e minaccia la distribuzione indipendente e open source come F-Droid, che non può conformarsi e potrebbe cessare di esistere.\n\nTi chiedo rispettosamente:\n\n1. Investigare se questo programma è anticoncorrenziale e costituisce un abuso della posizione di gatekeeper.\n2. Spingere Google a esentare la distribuzione open source e non commerciale e a mantenere il sideloading libero dalla registrazione centralizzata.\n3. Tutelare il diritto degli utenti di eseguire il software di loro scelta sull\'hardware acquistato.\n\nSi prega di accettare questo messaggio per iscritto e di farmi sapere quali azioni intraprende il vostro ufficio.\n\nSto anche copiando la campagna Keep Android Open su %2$s.\n\nCordiali saluti,\n[Il tuo nome]\n[La tua città e il tuo paese]</string>
+    <string name="toast_no_app" formatted="false">Nessuna app può aprire questo collegamento</string>
+    <string name="toast_no_email" formatted="false">Non è installata alcuna app di posta elettronica</string>
+    <string name="chooser_send_email" formatted="false">Invia e-mail</string>
+    <string name="chooser_share" formatted="false">Condividere</string>
+    <string name="toast_copied" formatted="false">Copiato negli appunti</string>
+    <string name="settings_title" formatted="false">Impostazioni</string>
+    <string name="settings_language_title" formatted="false">Lingua dell\'app</string>
+    <string name="settings_language_summary" formatted="false">Scegli la lingua utilizzata dall\'app. Puoi anche modificarlo dalle impostazioni del tuo dispositivo.</string>
+    <string name="settings_system_default" formatted="false">Predefinito del sistema</string>
+    <string name="settings_language_search" formatted="false">Cerca lingue</string>
+    <string name="settings_theme_title" formatted="false">Tema</string>
+    <string name="settings_theme_summary" formatted="false">Scegli l\'aspetto dell\'app.</string>
+    <string name="theme_system" formatted="false">Segui il sistema</string>
+    <string name="theme_light" formatted="false">Leggero</string>
+    <string name="theme_dark" formatted="false">Buio</string>
+    <string name="theme_amoled" formatted="false">AMOLED (nero puro)</string>
+    <string name="settings_accent_title" formatted="false">Colore accento</string>
+    <string name="settings_accent_summary" formatted="false">Scegli il colore di evidenziazione utilizzato nell\'app.</string>
+    <string name="accent_default" formatted="false">Predefinito (campagna rossa)</string>
+    <string name="accent_red" formatted="false">Rosso</string>
+    <string name="accent_orange" formatted="false">Arancia</string>
+    <string name="accent_yellow" formatted="false">Giallo</string>
+    <string name="accent_green" formatted="false">Verde</string>
+    <string name="accent_teal" formatted="false">Verde acqua</string>
+    <string name="accent_blue" formatted="false">Blu</string>
+    <string name="accent_purple" formatted="false">Viola</string>
+    <string name="accent_pink" formatted="false">Rosa</string>
+    <string name="settings_colorblendr_warning" formatted="false">Attenzione: se ColorBlendr o un altro materiale che sostituisci è attivo, il colore principale potrebbe non essere applicato finché non lo disabiliti.</string>
+    <string name="settings_about_title" formatted="false">Di</string>
+    <string name="settings_version">Versione %1$s</string>
+    <string name="settings_open_source" formatted="false">Open source (MIT). Non affiliato o approvato dalla campagna ufficiale Keep Android Open.</string>
+</resources>

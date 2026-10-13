@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Cyfri i lawr</string>
+    <string name="tab_rollout" formatted="false">Yr Ymosodiad</string>
+    <string name="tab_act_now" formatted="false">Actiwch Nawr</string>
+    <string name="cd_open_site" formatted="false">Agorwch keepandroidopen.org</string>
+    <string name="cd_settings" formatted="false">Gosodiadau</string>
+    <string name="cd_back" formatted="false">Yn ol</string>
+    <string name="countdown_campaign" formatted="false">Ymgyrch cyfri i lawr</string>
+    <string name="countdown_elapsed" formatted="false">Aeth amser heibio ers i\'r ymgyrch fynd yn gyhoeddus tuag at Ionawr 1, 2027.</string>
+    <string name="countdown_what_means" formatted="false">Beth mae\'r cyfri i lawr yn ei olygu</string>
+    <string name="countdown_read_faq" formatted="false">Darllenwch y Cwestiynau Cyffredin</string>
+    <string name="countdown_campaign_btn" formatted="false">Yr ymgyrch</string>
+    <string name="countdown_footnote" formatted="false">Mae\'r targed cyfrif i lawr yn cyfateb i\'r faner a gyhoeddwyd yn keepandroidopen.org. Mae\'r ap yn diweddaru unwaith yr eiliad tra ei fod ar agor.</string>
+    <string name="countdown_expired" formatted="false">MAE ANDROID YN LWYFAN WEDI\'I GLOI YN AWR</string>
+    <string name="countdown_running" formatted="false">ANDROID YN DOD YN LWYFAN WEDI EI GLO I LAWR</string>
+    <string name="unit_days" formatted="false">dyddiau</string>
+    <string name="unit_hours" formatted="false">oriau</string>
+    <string name="unit_minutes" formatted="false">munudau</string>
+    <string name="unit_seconds" formatted="false">eiliadau</string>
+    <string name="rollout_title" formatted="false">Beth yw Dilysu Datblygwr Android?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Beth mae\'n ei olygu mewn gwirionedd</string>
+    <string name="rollout_timeline_title" formatted="false">Yr amserlen gyflwyno</string>
+    <string name="rollout_paths_title" formatted="false">Dewiswch eich llwybr dilysu</string>
+    <string name="rollout_advanced_title" formatted="false">Nid yw\'r “llif uwch” yn ateb</string>
+    <string name="rollout_dev_page" formatted="false">Tudalen datblygwr swyddogol Google</string>
+    <string name="rollout_open_letter" formatted="false">Darllenwch y llythyr agored</string>
+    <string name="label_identity" formatted="false">Hunaniaeth</string>
+    <string name="label_distribution" formatted="false">Dosbarthiad</string>
+    <string name="label_ux" formatted="false">Profiad defnyddiwr</string>
+    <string name="label_best_for" formatted="false">Gorau ar gyfer</string>
+    <string name="rollout_summary" formatted="false">Mae Android Developer Verification yn rhaglen Google sy\'n cysylltu pob ap â hunaniaeth datblygwr dilys cyn y gellir ei osod ar ddyfeisiau Android ardystiedig. Rhaid i ddatblygwyr wirio pwy ydyn nhw a chofrestru\'r enwau pecynnau y maent yn eu cyhoeddi. Ni ellir gosod apps heb ddatblygwr cofrestredig, dilys mwyach yn y ffordd arferol unwaith y bydd yr amddiffyniadau\'n cael eu cyflwyno.</string>
+    <string name="rollout_what_it_means" formatted="false">Mae\'n glanio galetaf ar ddosbarthu annibynnol a ffynhonnell agored fel F-Droid, lawrlwythiadau APK uniongyrchol, a phrosiectau hobi. Dywed Google ei fod yn ymwneud â diogelwch ac atal malware dienw. Mae beirniaid gan gynnwys yr ymgyrch Cadwch Android Agored, F-Droid a\'r EFF yn dweud ei fod yn switsh lladd porthor: cofrestriad canolog, ID y llywodraeth, ffi, a rheolaeth lawn dros yr hyn y caniateir i\'ch dyfais ymddiried ynddo.</string>
+    <string name="rollout_advanced_note" formatted="false">Darperir y llif datblygedig trwy wasanaethau Google Play, nid yr Android OS, felly gall Google ei newid, ei gyfyngu neu ei ddileu ar unrhyw adeg heb ddiweddariad OS na chaniatâd defnyddiwr. Mae\'r oedi 24 awr yn aflonyddgar yn fwriadol ac mae\'n gam arall sy\'n sefyll rhyngoch chi a\'r feddalwedd rydych chi\'n dewis ei rhedeg.</string>
+    <string-array name="timeline_dates">
+        <item>Awst 25, 2025</item>
+        <item>Mawrth 19, 2026</item>
+        <item>Mehefin 2026</item>
+        <item>Mehefin 18, 2026</item>
+        <item>Gorffennaf 2026</item>
+        <item>Awst 2026</item>
+        <item>Medi 30, 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Cyhoeddir y rhaglen</item>
+        <item>Datgelir y “llif uwch”.</item>
+        <item>Dilysydd Datblygwr Android yn cludo i ddyfeisiau</item>
+        <item>Cadarnhawyd y lansiad cychwynnol</item>
+        <item>Mae API datblygwr yn agor</item>
+        <item>Consol byd-eang, cyfrifon cyfyngedig, llif uwch</item>
+        <item>Mae gorfodi yn dechrau mewn pedair gwlad</item>
+        <item>Cyflwyno byd-eang</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Mae Google yn cyhoeddi, gan ddechrau yn 2027, bod yn rhaid i apiau ar gyfer Android gael eu cofrestru i ddatblygwr wedi\'i ddilysu, gan gynnwys apiau sydd wedi\'u gosod y tu allan i Google Play.</item>
+        <item>Mae defnyddwyr pŵer yn cael agoriad dianc bwriadol feichus: galluogwch Opsiynau Datblygwr, cadarnhewch nad ydych yn cael eich gorfodi, ailgychwynwch, yna arhoswch 24 awr cyn y gallwch ganiatáu gosodiadau heb eu gwirio.</item>
+        <item>Mae gwasanaeth system gefndir (com.google.android.verifier) ​​yn cael ei wthio trwy Google System Updates i ddyfeisiau ardystiedig ac yn aros ynghwsg nes gorfodi.</item>
+        <item>Mae Google yn cadarnhau bod gorfodi yn dechrau Medi 30, 2026, ar draws saith siop a phedair gwlad.</item>
+        <item>Mae\'r API Statws ID Datblygwr Android yn lansio\'n fyd-eang ac mae mynediad cynnar yn dechrau ar gyfer API Consol Datblygwr Android a chyfrifon dosbarthu cyfyngedig.</item>
+        <item>Cyfrifon dosbarthu cyfyngedig (am ddim, hyd at 20 dyfais, dim ID y llywodraeth) a lansiad API Consol ledled y byd. Mae\'r llif datblygedig ar gyfer sideloading heb ei wirio yn dechrau cael ei gyflwyno.</item>
+        <item>Mae amddiffyniadau\'n mynd yn fyw i ddefnyddwyr ym Mrasil, Indonesia, Singapôr a Gwlad Thai ar ddyfeisiau ardystiedig sy\'n rhedeg Android 7+. Mae apiau gan ddatblygwyr heb eu gwirio yn cael eu rhwystro ar y siopau sy\'n cymryd rhan: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore a GetApps.</item>
+        <item>Mae dilysu yn cael ei ehangu i bob ap a rhanbarth. Cadwch Android Open yn cyfrif i lawr i Ionawr 1, 2027, pan ddaw Android yn blatfform dan glo.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Dosbarthiad llawn</item>
+        <item>Dosbarthiad cyfyngedig</item>
+        <item>Sideloading apps heb eu cofrestru</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Oes — ID y llywodraeth a ffi</item>
+        <item>Na — dim ID na ffi gofrestru</item>
+        <item>Na - ond ffrithiant uchel</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Unrhyw siop neu sianel a ddewiswch</item>
+        <item>Hyd at 20 dyfais trwy god QR neu ysgwyd llaw cyswllt</item>
+        <item>ADB (eithriedig) neu\'r llif uwch</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Nid oes dim yn newid i\'ch defnyddwyr</item>
+        <item>Mae defnyddwyr yn derbyn gwahoddiad gosod gan ddatblygwr y maent yn ei adnabod</item>
+        <item>Opsiynau Datblygwr, ailgychwyn, aros 24 awr, yna gosod beth bynnag</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Sefydliadau a datblygwyr proffesiynol</item>
+        <item>Myfyrwyr, hobiwyr a defnydd personol</item>
+        <item>Datblygwyr a defnyddwyr pŵer heb eu gwirio</item>
+    </string-array>
+    <string name="act_title" formatted="false">Gweithredwch yn awr—gwnewch eich llais yn cael ei glywed</string>
+    <string name="act_intro">Mae rheoleiddwyr eisiau clywed gan unigolion yr effeithir arnynt. Byddwch yn gwrtais a phenodol, ysgrifennwch yn iaith swyddogol y corff y byddwch yn cysylltu ag ef, gofynnwch am gydnabyddiaeth ysgrifenedig, a chopïwch %1$s fel y gall yr ymgyrch olrhain buddugoliaethau.</string>
+    <string name="act_open_composer" formatted="false">Agorwch y cyfansoddwr e-bost</string>
+    <string name="act_copy" formatted="false">Copi</string>
+    <string name="act_share" formatted="false">Rhannu</string>
+    <string name="act_clipboard_label" formatted="false">Cadwch lythyr agored Android</string>
+    <string name="act_us_title" formatted="false">Unol Daleithiau - e-bostiwch y llywodraeth</string>
+    <string name="act_us_intro" formatted="false">Mae\'r Adran Cyfiawnder a\'r FTC yn cymryd adroddiadau antitrust trwy ffurflenni ar-lein. Defnyddiwch nhw, a chysylltwch yn uniongyrchol â\'ch cynrychiolydd a\'ch seneddwyr eich hun.</string>
+    <string name="act_world_title" formatted="false">Mewn mannau eraill yn y byd</string>
+    <string name="act_groups_title" formatted="false">Grwpiau hawliau defnyddwyr a digidol</string>
+    <string name="act_more_title" formatted="false">Mwy o ffyrdd i helpu</string>
+    <string name="act_more_body" formatted="false">• Gosod F-Droid ar eich dyfeisiau.\n• Atebwch arolwg dilysu datblygwyr Google.\n• Postiwch ar gyfryngau cymdeithasol a dolen i keepandroidopen.org.\n• Llofnodwch y ddeiseb change.org.\n• Ychwanegwch y faner cyfrif i lawr at eich gwefan.</string>
+    <string name="act_all_actions" formatted="false">Pob gweithred yn keepandroidopen.org</string>
+    <string name="action_email" formatted="false">Ebost</string>
+    <string name="action_open" formatted="false">Agored</string>
+    <string-array name="us_contact_regions">
+        <item>Unol Daleithiau</item>
+        <item>Unol Daleithiau</item>
+        <item>Unol Daleithiau</item>
+        <item>Unol Daleithiau</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Adran Gyfiawnder yr Unol Daleithiau - Adran Antitrust</item>
+        <item>Comisiwn Masnach Ffederal yr Unol Daleithiau - Antitrust</item>
+        <item>Dewch o hyd i\'ch Cynrychiolydd Tŷ</item>
+        <item>Cysylltwch â\'ch Seneddwyr UDA</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Cyflwyno adroddiad antitrust ar-lein.</item>
+        <item>Ffeilio cwyn antitrust.</item>
+        <item>Cysylltwch â\'ch cynrychiolydd yn Nhŷ\'r UD.</item>
+        <item>Dod o hyd i ddau o seneddwyr eich gwladwriaeth a chysylltu â nhw.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Undeb Ewropeaidd</item>
+        <item>Undeb Ewropeaidd</item>
+        <item>Deyrnas Unedig</item>
+        <item>Brasil</item>
+        <item>Singapôr</item>
+        <item>Gwlad Thai</item>
+        <item>Indonesia</item>
+        <item>Awstralia</item>
+        <item>Canada</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>De Corea</item>
+        <item>Mecsico</item>
+        <item>Aotearoa / Seland Newydd</item>
+        <item>Taiwan</item>
+        <item>Swistir</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>Antitrust yr UE (DG COMP)</item>
+        <item>Tîm Deddf Marchnadoedd Digidol</item>
+        <item>Awdurdod Cystadleuaeth a Marchnadoedd</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Comisiwn Cystadleuaeth Masnach (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Biwro Cystadleuaeth Canada</item>
+        <item>Comisiwn Cystadleuaeth India</item>
+        <item>Comisiwn Masnach Deg Japan</item>
+        <item>Comisiwn Masnach Deg Corea</item>
+        <item>Comisión Nacional Antimonopoli</item>
+        <item>Comisiwn Masnach</item>
+        <item>Comisiwn Masnach Deg</item>
+        <item>Comisiwn Cystadleuaeth (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>E-bostiwch awdurdod cystadleuaeth y Comisiwn Ewropeaidd.</item>
+        <item>Cysylltwch â desg gymorth dinasyddion DMA yr UE.</item>
+        <item>Adroddiad i CMA y DU.</item>
+        <item>Mae Brasil yn y don orfodi gyntaf.</item>
+        <item>Mae Singapore yn y don orfodi gyntaf.</item>
+        <item>Mae Gwlad Thai yn y don orfodi gyntaf.</item>
+        <item>Mae Indonesia yn y don orfodi gyntaf.</item>
+        <item>Adroddiad i Gomisiwn Cystadleuaeth a Defnyddwyr Awstralia.</item>
+        <item>Ffeilio cwyn gyda\'r Biwro Cystadleuaeth.</item>
+        <item>Cysylltwch â\'r CCI ynghylch ymddygiad gwrth-gystadleuol.</item>
+        <item>Cysylltwch â desg JFTC / Deddf Cystadleuaeth Meddalwedd Symudol.</item>
+        <item>Cysylltwch â\'r KFTC.</item>
+        <item>Ffeilio cwyn antitrust ym Mecsico.</item>
+        <item>Rhoi gwybod am ymddygiad gwrth-gystadleuol.</item>
+        <item>Cysylltwch â Taiwan FTC.</item>
+        <item>Rhoi gwybod am arferion anghyfreithlon.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Byd-eang</item>
+        <item>Byd-eang</item>
+        <item>Ewrop</item>
+        <item>Ewrop</item>
+        <item>Byd-eang</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Sefydliad Frontier Electronig</item>
+        <item>Sefydliad Meddalwedd Rhad ac Am Ddim</item>
+        <item>Sefydliad Meddalwedd Rhad ac Am Ddim Ewrop</item>
+        <item>Hawliau Digidol Ewropeaidd (EDRi)</item>
+        <item>Gwarchod Rhyddid Meddalwedd</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Porthgadw a sensoriaeth rhyngrwyd.</item>
+        <item>Rhyddid meddalwedd a rheolaeth defnyddwyr.</item>
+        <item>Rhyddid meddalwedd yn Ewrop.</item>
+        <item>Eiriolaeth hawliau digidol.</item>
+        <item>Meddalwedd am ddim a yrrir gan y gymuned.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">fy llywodraeth</string>
+    <string name="letter_subject" formatted="false">Stopiwch gloi Dilysu Datblygwr Android Google</string>
+    <string name="letter_template">Annwyl gynrychiolydd %1$s,\n\nRwy\'n ysgrifennu fel defnyddiwr Android pryderus ac fel dinesydd yn eich awdurdodaeth.\n\nBydd rhaglen Dilysu Datblygwr Android Google, a orfodir gan ddechrau Medi 30, 2026 mewn sawl marchnad ac sy\'n ehangu\'n fyd-eang yn 2027, yn ei gwneud yn ofynnol i bob ap Android gael ei gofrestru i ddatblygwr a ddilysir yn ganolog cyn y gellir ei osod ar ddyfeisiau ardystiedig. Rhaid i ddatblygwyr gyflwyno dull adnabod y llywodraeth, cytuno i delerau Google, talu ffi a rhestru pob dynodwr ap presennol ac yn y dyfodol.\n\nNid yw hyn yn gwella diogelwch yn ystyrlon. Mae\'n rhoi\'r pŵer i un cwmni preifat benderfynu pa feddalwedd y caniateir i bobl redeg ar y dyfeisiau y maent yn berchen arnynt, ac mae\'n bygwth dosbarthiad annibynnol a ffynhonnell agored fel F-Droid, na all gydymffurfio ac a allai ddod i ben.\n\nGofynnaf yn barchus ichi:\n\n1. Ymchwilio i weld a yw\'r rhaglen hon yn wrth-gystadleuol ac yn gyfystyr â chamddefnyddio safle porthor.\n2. Pwyswch Google i eithrio dosbarthiad ffynhonnell agored ac anfasnachol, ac i gadw ochrlwytho yn rhydd o gofrestriad canolog.\n3. Diogelu hawl defnyddwyr i redeg meddalwedd o\'u dewis ar galedwedd a brynwyd ganddynt.\n\nCofiwch gydnabod y neges hon yn ysgrifenedig a gadewch i mi wybod pa gamau y mae eich swyddfa yn eu cymryd.\n\nRwyf hefyd yn copïo\'r ymgyrch Cadw Android Agored ar %2$s.\n\nYn gywir,\n[Eich enw]\n[Eich dinas a\'ch gwlad]</string>
+    <string name="toast_no_app" formatted="false">Ni all unrhyw ap agor y ddolen hon</string>
+    <string name="toast_no_email" formatted="false">Nid oes ap e-bost wedi\'i osod</string>
+    <string name="chooser_send_email" formatted="false">Anfon e-bost</string>
+    <string name="chooser_share" formatted="false">Rhannu</string>
+    <string name="toast_copied" formatted="false">Wedi\'i gopïo i\'r clipfwrdd</string>
+    <string name="settings_title" formatted="false">Gosodiadau</string>
+    <string name="settings_language_title" formatted="false">Iaith ap</string>
+    <string name="settings_language_summary" formatted="false">Dewiswch yr iaith a ddefnyddir gan yr ap. Gallwch hefyd ei newid o osodiadau eich dyfais.</string>
+    <string name="settings_system_default" formatted="false">System diofyn</string>
+    <string name="settings_language_search" formatted="false">Chwilio ieithoedd</string>
+    <string name="settings_theme_title" formatted="false">Thema</string>
+    <string name="settings_theme_summary" formatted="false">Dewiswch sut mae\'r app yn edrych.</string>
+    <string name="theme_system" formatted="false">Dilynwch y system</string>
+    <string name="theme_light" formatted="false">Ysgafn</string>
+    <string name="theme_dark" formatted="false">Tywyll</string>
+    <string name="theme_amoled" formatted="false">AMOLED (du pur)</string>
+    <string name="settings_accent_title" formatted="false">Lliw acen</string>
+    <string name="settings_accent_summary" formatted="false">Dewiswch y lliw uchafbwynt a ddefnyddir ar draws yr ap.</string>
+    <string name="accent_default" formatted="false">Diofyn (coch ymgyrch)</string>
+    <string name="accent_red" formatted="false">Coch</string>
+    <string name="accent_orange" formatted="false">Oren</string>
+    <string name="accent_yellow" formatted="false">Melyn</string>
+    <string name="accent_green" formatted="false">Gwyrdd</string>
+    <string name="accent_teal" formatted="false">Corhwyaden</string>
+    <string name="accent_blue" formatted="false">Glas</string>
+    <string name="accent_purple" formatted="false">Porffor</string>
+    <string name="accent_pink" formatted="false">Pinc</string>
+    <string name="settings_colorblendr_warning" formatted="false">Ar y blaen: os yw ColorBlendr neu Ddeunydd arall yr ydych yn ei ddiystyru yn weithredol, efallai na fydd lliw eich acen yn berthnasol nes i chi ei analluogi.</string>
+    <string name="settings_about_title" formatted="false">Ynghylch</string>
+    <string name="settings_version">Fersiwn %1$s</string>
+    <string name="settings_open_source" formatted="false">Ffynhonnell agored (MIT). Ddim yn gysylltiedig â nac wedi\'i gymeradwyo gan yr ymgyrch swyddogol Keep Android Open.</string>
+</resources>

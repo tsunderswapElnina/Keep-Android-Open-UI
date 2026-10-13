@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">شمارش معکوس</string>
+    <string name="tab_rollout" formatted="false">انتشار</string>
+    <string name="tab_act_now" formatted="false">اکنون اقدام کنید</string>
+    <string name="cd_open_site" formatted="false">Keandroidopen.org را باز کنید</string>
+    <string name="cd_settings" formatted="false">تنظیمات</string>
+    <string name="cd_back" formatted="false">برگشت</string>
+    <string name="countdown_campaign" formatted="false">شمارش معکوس کمپین</string>
+    <string name="countdown_elapsed" formatted="false">زمانی از زمانی که کمپین عمومی در اول ژانویه 2027 منتشر شد، می گذرد.</string>
+    <string name="countdown_what_means" formatted="false">معنی شمارش معکوس چیست</string>
+    <string name="countdown_read_faq" formatted="false">سوالات متداول را بخوانید</string>
+    <string name="countdown_campaign_btn" formatted="false">کمپین</string>
+    <string name="countdown_footnote" formatted="false">هدف شمارش معکوس با بنر منتشر شده در keepandroidopen.org مطابقت دارد. برنامه زمانی که باز است یک بار در ثانیه به روز می شود.</string>
+    <string name="countdown_expired" formatted="false">آندروید اکنون یک پلتفرم قفل شده است</string>
+    <string name="countdown_running" formatted="false">آندروید به یک پلتفرم قفل شده در می‌شود</string>
+    <string name="unit_days" formatted="false">روز</string>
+    <string name="unit_hours" formatted="false">ساعت</string>
+    <string name="unit_minutes" formatted="false">دقیقه</string>
+    <string name="unit_seconds" formatted="false">ثانیه</string>
+    <string name="rollout_title" formatted="false">تأیید برنامه‌نویس اندروید چیست؟</string>
+    <string name="rollout_what_it_means_title" formatted="false">واقعا به چه معناست</string>
+    <string name="rollout_timeline_title" formatted="false">جدول زمانی عرضه</string>
+    <string name="rollout_paths_title" formatted="false">مسیر تأیید خود را انتخاب کنید</string>
+    <string name="rollout_advanced_title" formatted="false">\"جریان پیشرفته\" راه حلی نیست</string>
+    <string name="rollout_dev_page" formatted="false">صفحه رسمی توسعه دهندگان گوگل</string>
+    <string name="rollout_open_letter" formatted="false">نامه سرگشاده را بخوانید</string>
+    <string name="label_identity" formatted="false">هویت</string>
+    <string name="label_distribution" formatted="false">توزیع</string>
+    <string name="label_ux" formatted="false">تجربه کاربری</string>
+    <string name="label_best_for" formatted="false">بهترین برای</string>
+    <string name="rollout_summary" formatted="false">Android Developer Verification یک برنامه Google است که هر برنامه را قبل از نصب بر روی دستگاه‌های Android تأیید شده به یک هویت توسعه‌دهنده تأیید شده پیوند می‌دهد. توسعه‌دهندگان باید تأیید کنند که چه کسانی هستند و نام بسته‌هایی را که منتشر می‌کنند ثبت کنند. برنامه‌های بدون توسعه‌دهنده ثبت‌شده و تأییدشده دیگر نمی‌توانند به‌طور معمول پس از اجرای حفاظت‌ها نصب شوند.</string>
+    <string name="rollout_what_it_means" formatted="false">در توزیع مستقل و منبع باز مانند F-Droid، دانلود مستقیم APK و پروژه های سرگرمی سخت ترین کار را انجام می دهد. گوگل می گوید که در مورد ایمنی و جلوگیری از بدافزارهای ناشناس است. منتقدانی از جمله کمپین Keep Android Open، F-Droid و EFF می گویند که این یک سوئیچ کشتن دروازه بان است: ثبت نام مرکزی، شناسه دولتی، هزینه و کنترل کامل بر آنچه دستگاه شما مجاز است به آن اعتماد کند.</string>
+    <string name="rollout_advanced_note" formatted="false">جریان پیشرفته از طریق سرویس‌های Google Play ارائه می‌شود، نه سیستم‌عامل Android، بنابراین Google می‌تواند هر زمان که بخواهد بدون به‌روزرسانی سیستم عامل یا رضایت کاربر، آن را تغییر، محدود یا حذف کند. تأخیر 24 ساعته عمداً اختلال ایجاد می کند و یک مرحله دیگر است که بین شما و نرم افزاری که برای اجرا انتخاب می کنید قرار می گیرد.</string>
+    <string-array name="timeline_dates">
+        <item>25 آگوست 2025</item>
+        <item>19 مارس 2026</item>
+        <item>ژوئن 2026</item>
+        <item>18 ژوئن 2026</item>
+        <item>جولای 2026</item>
+        <item>آگوست 2026</item>
+        <item>30 سپتامبر 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>برنامه اعلام می شود</item>
+        <item>\"جریان پیشرفته\" آشکار می شود</item>
+        <item>Android Developer Verifier به دستگاه‌ها ارسال می‌شود</item>
+        <item>راه اندازی اولیه تایید شد</item>
+        <item>API های برنامه نویس باز می شوند</item>
+        <item>کنسول جهانی، حساب های محدود، جریان پیشرفته</item>
+        <item>اجرای قانون در چهار کشور آغاز می شود</item>
+        <item>عرضه جهانی</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>گوگل اعلام می کند که از سال 2027، برنامه های اندروید باید در یک توسعه دهنده تایید شده ثبت شوند، از جمله برنامه های نصب شده خارج از گوگل پلی.</item>
+        <item>کاربران قدرتمند یک دریچه فرار عمداً دست و پا گیر دریافت می کنند: گزینه های برنامه نویس را فعال کنید، تأیید کنید که تحت فشار قرار نمی گیرید، مجدداً راه اندازی کنید، سپس 24 ساعت صبر کنید تا بتوانید نصب های تأیید نشده را مجاز کنید.</item>
+        <item>یک سرویس سیستم پس‌زمینه (com.google.android.verifier) ​​از طریق به‌روزرسانی‌های سیستم Google به دستگاه‌های تأیید شده ارسال می‌شود و تا زمان اجرا غیرفعال می‌ماند.</item>
+        <item>گوگل تأیید می کند که اجرای این قانون از 30 سپتامبر 2026 در هفت فروشگاه و چهار کشور آغاز می شود.</item>
+        <item>Android Developer ID Status API به صورت جهانی راه‌اندازی می‌شود و دسترسی اولیه برای API کنسول برنامه‌نویس Android و حساب‌های توزیع محدود آغاز می‌شود.</item>
+        <item>حساب های توزیع محدود (رایگان، حداکثر 20 دستگاه، بدون شناسه دولتی) و کنسول API در سراسر جهان راه اندازی می شود. جریان پیشرفته برای بارگذاری جانبی تأیید نشده شروع به انتشار می کند.</item>
+        <item>محافظت‌ها برای کاربران برزیل، اندونزی، سنگاپور و تایلند در دستگاه‌های تأیید شده دارای Android 7+ فعال می‌شوند. برنامه‌های توسعه‌دهندگان تأیید نشده در فروشگاه‌های شرکت‌کننده مسدود می‌شوند: Google Play، HONOR App Market، OPPO App Market، Galaxy Store، Palm Store، V-Appstore و GetApps.</item>
+        <item>تأیید به همه برنامه ها و مناطق گسترش یافته است. Android Open را تا 1 ژانویه 2027 معکوس نگه دارید، زمانی که Android به یک پلتفرم قفل شده تبدیل شود.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>توزیع کامل</item>
+        <item>توزیع محدود</item>
+        <item>بارگذاری جانبی برنامه های ثبت نشده</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>بله - شناسه دولتی و هزینه</item>
+        <item>خیر - بدون شناسنامه یا هزینه ثبت نام</item>
+        <item>نه - اما اصطکاک بالا</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>هر فروشگاه یا کانالی که انتخاب کنید</item>
+        <item>حداکثر 20 دستگاه از طریق کد QR یا پیوند دست دادن</item>
+        <item>ADB (مستثنی) یا جریان پیشرفته</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>هیچ چیز برای کاربران شما تغییر نمی کند</item>
+        <item>کاربران دعوتنامه نصب از سوی توسعه دهنده ای را که می شناسند می پذیرند</item>
+        <item>گزینه‌های برنامه‌نویس، راه‌اندازی مجدد، 24 ساعت انتظار، سپس به هر حال نصب کنید</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>سازمان ها و توسعه دهندگان حرفه ای</item>
+        <item>دانش آموزان، علاقمندان و استفاده شخصی</item>
+        <item>توسعه دهندگان و کاربران قدرتمند تایید نشده</item>
+    </string-array>
+    <string name="act_title" formatted="false">اکنون اقدام کنید - صدای خود را به گوش دیگران برسانید</string>
+    <string name="act_intro">تنظیم کننده ها می خواهند از افرادی که تحت تأثیر قرار گرفته اند بشنوند. مؤدب و خاص باشید، به زبان رسمی سازمانی که با آن تماس می گیرید بنویسید، یک تأییدیه کتبی بخواهید، و %1$s را کپی کنید تا کمپین بتواند پیروزی ها را دنبال کند.</string>
+    <string name="act_open_composer" formatted="false">ایمیل composer را باز کنید</string>
+    <string name="act_copy" formatted="false">کپی کنید</string>
+    <string name="act_share" formatted="false">به اشتراک بگذارید</string>
+    <string name="act_clipboard_label" formatted="false">نامه باز اندروید را نگه دارید</string>
+    <string name="act_us_title" formatted="false">ایالات متحده - به دولت ایمیل بزنید</string>
+    <string name="act_us_intro" formatted="false">وزارت دادگستری و FTC گزارش های ضد تراست را از طریق فرم های آنلاین دریافت می کنند. از آنها استفاده کنید و مستقیماً با نماینده و سناتورهای خود تماس بگیرید.</string>
+    <string name="act_world_title" formatted="false">در جای دیگر دنیا</string>
+    <string name="act_groups_title" formatted="false">گروه های حقوق مصرف کننده و دیجیتال</string>
+    <string name="act_more_title" formatted="false">راه های بیشتر برای کمک</string>
+    <string name="act_more_body" formatted="false">• F-Droid را روی دستگاه های خود نصب کنید.\n• به نظرسنجی تأیید برنامه‌نویس Google پاسخ دهید.\n• در رسانه های اجتماعی پست کنید و به keepandroidopen.org پیوند دهید.\n• دادخواست change.org را امضا کنید.\n• بنر شمارش معکوس را به وب سایت خود اضافه کنید.</string>
+    <string name="act_all_actions" formatted="false">همه اقدامات در keepandroidopen.org</string>
+    <string name="action_email" formatted="false">ایمیل</string>
+    <string name="action_open" formatted="false">باز کنید</string>
+    <string-array name="us_contact_regions">
+        <item>ایالات متحده</item>
+        <item>ایالات متحده</item>
+        <item>ایالات متحده</item>
+        <item>ایالات متحده</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>وزارت دادگستری ایالات متحده - بخش ضد تراست</item>
+        <item>کمیسیون تجارت فدرال ایالات متحده - ضد انحصار</item>
+        <item>نماینده مجلس خود را پیدا کنید</item>
+        <item>با سناتورهای آمریکایی خود تماس بگیرید</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>گزارش ضد تراست را به صورت آنلاین ارسال کنید.</item>
+        <item>طرح شکایت ضد تراست</item>
+        <item>با نماینده خود در مجلس ایالات متحده تماس بگیرید.</item>
+        <item>هر دو سناتور ایالت خود را پیدا کنید و با آنها تماس بگیرید.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>اتحادیه اروپا</item>
+        <item>اتحادیه اروپا</item>
+        <item>انگلستان</item>
+        <item>برزیل</item>
+        <item>سنگاپور</item>
+        <item>تایلند</item>
+        <item>اندونزی</item>
+        <item>استرالیا</item>
+        <item>کانادا</item>
+        <item>هند</item>
+        <item>ژاپن</item>
+        <item>کره جنوبی</item>
+        <item>مکزیک</item>
+        <item>Aotearoa / نیوزیلند</item>
+        <item>تایوان</item>
+        <item>سوئیس</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>اتحادیه اروپا ضد تراست (DG COMP)</item>
+        <item>تیم قانون بازارهای دیجیتال</item>
+        <item>سازمان رقابت و بازار</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>کمیسیون رقابت تجاری (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>دفتر رقابت کانادا</item>
+        <item>کمیسیون رقابت هند</item>
+        <item>کمیسیون تجارت عادلانه ژاپن</item>
+        <item>کمیسیون تجارت عادلانه کره</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>کمیسیون بازرگانی</item>
+        <item>کمیسیون تجارت عادلانه</item>
+        <item>کمیسیون رقابت (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>به مرجع رقابت کمیسیون اروپا ایمیل بزنید.</item>
+        <item>با میز پشتیبانی شهروند اتحادیه اروپا DMA تماس بگیرید.</item>
+        <item>به CMA انگلستان گزارش دهید.</item>
+        <item>برزیل در اولین موج اجرایی قرار دارد.</item>
+        <item>سنگاپور در اولین موج اجرایی قرار دارد.</item>
+        <item>تایلند در اولین موج اجرایی قرار دارد.</item>
+        <item>اندونزی در اولین موج اجرایی قرار دارد.</item>
+        <item>به کمیسیون رقابت و مصرف کننده استرالیا گزارش دهید.</item>
+        <item>به اداره رقابت شکایت کنید.</item>
+        <item>در مورد رفتار ضد رقابتی با CCI تماس بگیرید.</item>
+        <item>با میز JFTC / Mobile Software Competition Act تماس بگیرید.</item>
+        <item>با KFTC تماس بگیرید.</item>
+        <item>یک شکایت ضد تراست در مکزیک ثبت کنید.</item>
+        <item>گزارش رفتار ضد رقابتی</item>
+        <item>با FTC تایوان تماس بگیرید.</item>
+        <item>اقدامات غیرقانونی را گزارش دهید</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>جهانی</item>
+        <item>جهانی</item>
+        <item>اروپا</item>
+        <item>اروپا</item>
+        <item>جهانی</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>بنیاد مرز الکترونیکی</item>
+        <item>بنیاد نرم افزار آزاد</item>
+        <item>بنیاد نرم افزار آزاد اروپا</item>
+        <item>حقوق دیجیتال اروپا (EDRI)</item>
+        <item>حفاظت از آزادی نرم افزار</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>دروازه بان اپلیکیشن و سانسور اینترنت.</item>
+        <item>آزادی نرم افزار و کنترل کاربر</item>
+        <item>آزادی نرم افزار در اروپا</item>
+        <item>حمایت از حقوق دیجیتال</item>
+        <item>نرم افزار رایگان جامعه محور</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">دولت من</string>
+    <string name="letter_subject" formatted="false">قفل تأیید تأیید برنامه‌نویس اندروید Google را متوقف کنید</string>
+    <string name="letter_template">نماینده محترم %1$s،\n\nمن به عنوان یک کاربر نگران اندروید و به عنوان یک شهروند در حوزه قضایی شما می نویسم.\n\nبرنامه تأیید برنامه‌نویس اندروید Google، که از 30 سپتامبر 2026 در چندین بازار اجرا می‌شود و در سال 2027 در سطح جهانی گسترش می‌یابد، باید هر برنامه اندرویدی را قبل از نصب بر روی دستگاه‌های تأیید شده، در یک برنامه‌نویس تأیید شده مرکزی ثبت کند. توسعه دهندگان باید شناسه دولتی ارسال کنند، با شرایط Google موافقت کنند، هزینه ای بپردازند و هر شناسه برنامه فعلی و آینده را فهرست کنند.\n\nاین به طور معناداری امنیت را بهبود نمی بخشد. این قدرت را به یک شرکت خصوصی واگذار می‌کند تا تصمیم بگیرد که افراد چه نرم‌افزاری مجاز به اجرا در دستگاه‌های خود هستند، و توزیع مستقل و منبع باز مانند F-Droid را تهدید می‌کند که نمی‌تواند مطابقت داشته باشد و ممکن است دیگر وجود نداشته باشد.\n\nبا کمال احترام از شما می خواهم:\n\n1. بررسی کنید که آیا این برنامه ضد رقابتی است و به منزله سوء استفاده از موقعیت دروازه بانی است یا خیر.\n2. Google را فشار دهید تا توزیع منبع باز و غیرتجاری را معاف کند و بارگذاری جانبی را بدون ثبت متمرکز نگه دارد.\n3. از حق کاربران برای اجرای نرم افزار دلخواه بر روی سخت افزاری که خریداری کرده اند محافظت کنید.\n\nلطفاً این پیام را کتباً تأیید کنید و به من اطلاع دهید که دفتر شما چه اقداماتی انجام می دهد.\n\nهمچنین در حال کپی کردن کمپین Keep Android Open در %2$s هستم.\n\nبا احترام\n[نام شما]\n[شهر و کشور شما]</string>
+    <string name="toast_no_app" formatted="false">هیچ برنامه ای نمی تواند این پیوند را باز کند</string>
+    <string name="toast_no_email" formatted="false">هیچ برنامه ایمیلی نصب نشده است</string>
+    <string name="chooser_send_email" formatted="false">ارسال ایمیل</string>
+    <string name="chooser_share" formatted="false">به اشتراک بگذارید</string>
+    <string name="toast_copied" formatted="false">در کلیپ بورد کپی شد</string>
+    <string name="settings_title" formatted="false">تنظیمات</string>
+    <string name="settings_language_title" formatted="false">زبان برنامه</string>
+    <string name="settings_language_summary" formatted="false">زبان مورد استفاده برنامه را انتخاب کنید. همچنین می توانید آن را از تنظیمات دستگاه خود تغییر دهید.</string>
+    <string name="settings_system_default" formatted="false">پیش فرض سیستم</string>
+    <string name="settings_language_search" formatted="false">جستجوی زبان ها</string>
+    <string name="settings_theme_title" formatted="false">موضوع</string>
+    <string name="settings_theme_summary" formatted="false">نحوه ظاهر برنامه را انتخاب کنید.</string>
+    <string name="theme_system" formatted="false">سیستم را دنبال کنید</string>
+    <string name="theme_light" formatted="false">نور</string>
+    <string name="theme_dark" formatted="false">تاریک</string>
+    <string name="theme_amoled" formatted="false">AMOLED (مشکی خالص)</string>
+    <string name="settings_accent_title" formatted="false">رنگ تاکیدی</string>
+    <string name="settings_accent_summary" formatted="false">رنگ هایلایت مورد استفاده در برنامه را انتخاب کنید.</string>
+    <string name="accent_default" formatted="false">پیش فرض (کمپین قرمز)</string>
+    <string name="accent_red" formatted="false">قرمز</string>
+    <string name="accent_orange" formatted="false">نارنجی</string>
+    <string name="accent_yellow" formatted="false">زرد</string>
+    <string name="accent_green" formatted="false">سبز</string>
+    <string name="accent_teal" formatted="false">آبی رنگ</string>
+    <string name="accent_blue" formatted="false">آبی</string>
+    <string name="accent_purple" formatted="false">بنفش</string>
+    <string name="accent_pink" formatted="false">صورتی</string>
+    <string name="settings_colorblendr_warning" formatted="false">توجه: اگر ColorBlendr یا متریال دیگری که لغو می‌کنید فعال باشد، تا زمانی که آن را غیرفعال نکنید، ممکن است رنگ تاکیدی شما اعمال نشود.</string>
+    <string name="settings_about_title" formatted="false">درباره</string>
+    <string name="settings_version">نسخه %1$s</string>
+    <string name="settings_open_source" formatted="false">منبع باز (MIT). به کمپین رسمی Keep Android Open وابسته یا تایید نشده است.</string>
+</resources>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_countdown" formatted="false">Aftelling</string>
+    <string name="tab_rollout" formatted="false">Die Uitrol</string>
+    <string name="tab_act_now" formatted="false">Tree nou op</string>
+    <string name="cd_open_site" formatted="false">Maak keepandroidopen.org oop</string>
+    <string name="cd_settings" formatted="false">Instellings</string>
+    <string name="cd_back" formatted="false">Terug</string>
+    <string name="countdown_campaign" formatted="false">Veldtog aftelling</string>
+    <string name="countdown_elapsed" formatted="false">Tyd het verloop sedert die veldtog in die rigting van 1 Januarie 2027 bekend gemaak is.</string>
+    <string name="countdown_what_means" formatted="false">Wat die aftelling beteken</string>
+    <string name="countdown_read_faq" formatted="false">Lees die FAQ</string>
+    <string name="countdown_campaign_btn" formatted="false">Die veldtog</string>
+    <string name="countdown_footnote" formatted="false">Aftelteiken pas by die banier wat by keepandroidopen.org gepubliseer is. Die toepassing werk een keer per sekonde op terwyl dit oop is.</string>
+    <string name="countdown_expired" formatted="false">ANDROID IS NOU \'N UITGESLOTE PLATFORM</string>
+    <string name="countdown_running" formatted="false">ANDROID WORD \'N UITGESLOTE PLATFORM IN</string>
+    <string name="unit_days" formatted="false">dae</string>
+    <string name="unit_hours" formatted="false">ure</string>
+    <string name="unit_minutes" formatted="false">minute</string>
+    <string name="unit_seconds" formatted="false">sekondes</string>
+    <string name="rollout_title" formatted="false">Wat is Android-ontwikkelaarverifikasie?</string>
+    <string name="rollout_what_it_means_title" formatted="false">Wat dit regtig beteken</string>
+    <string name="rollout_timeline_title" formatted="false">Die ontplooiing tydlyn</string>
+    <string name="rollout_paths_title" formatted="false">Kies jou verifikasiepad</string>
+    <string name="rollout_advanced_title" formatted="false">Die \"gevorderde vloei\" is nie \'n oplossing nie</string>
+    <string name="rollout_dev_page" formatted="false">Google se amptelike ontwikkelaarbladsy</string>
+    <string name="rollout_open_letter" formatted="false">Lees die ope brief</string>
+    <string name="label_identity" formatted="false">Identiteit</string>
+    <string name="label_distribution" formatted="false">Verspreiding</string>
+    <string name="label_ux" formatted="false">Gebruikerservaring</string>
+    <string name="label_best_for" formatted="false">Beste vir</string>
+    <string name="rollout_summary" formatted="false">Android-ontwikkelaarverifikasie is \'n Google-program wat elke toepassing aan \'n geverifieerde ontwikkelaaridentiteit koppel voordat dit op gesertifiseerde Android-toestelle geïnstalleer kan word. Ontwikkelaars moet verifieer wie hulle is en die pakketname wat hulle publiseer registreer. Programme sonder \'n geregistreerde, geverifieerde ontwikkelaar kan nie meer op die normale manier geïnstalleer word sodra die beskermings ontplooi word nie.</string>
+    <string name="rollout_what_it_means" formatted="false">Dit land die moeilikste op onafhanklike en oopbronverspreiding soos F-Droid, direkte APK-aflaaie en stokperdjieprojekte. Google sê dit gaan oor veiligheid en om anonieme wanware te stop. Kritici, insluitend die Keep Android Open-veldtog, F-Droid en die EFF sê dit is \'n hekwagter doodskakelaar: sentrale registrasie, staats-ID, \'n fooi en volle beheer oor wat jou toestel toegelaat word om te vertrou.</string>
+    <string name="rollout_advanced_note" formatted="false">Die gevorderde vloei word deur Google Play-dienste gelewer, nie die Android-bedryfstelsel nie, so Google kan dit enige tyd verander, beperk of verwyder sonder \'n bedryfstelselopdatering of gebruikertoestemming. Die 24-uur vertraging is opsetlik ontwrigtend en is nog \'n stap wat tussen jou en sagteware wat jy kies om te laat staan, staan.</string>
+    <string-array name="timeline_dates">
+        <item>25 Augustus 2025</item>
+        <item>19 Maart 2026</item>
+        <item>Junie 2026</item>
+        <item>18 Junie 2026</item>
+        <item>Julie 2026</item>
+        <item>Augustus 2026</item>
+        <item>30 September 2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="timeline_titles">
+        <item>Die program word aangekondig</item>
+        <item>Die \"gevorderde vloei\" word geopenbaar</item>
+        <item>Android Developer Verifier word na toestelle gestuur</item>
+        <item>Aanvanklike bekendstelling bevestig</item>
+        <item>Ontwikkelaar API\'s maak oop</item>
+        <item>Globale konsole, beperkte rekeninge, gevorderde vloei</item>
+        <item>Toepassing begin in vier lande</item>
+        <item>Wêreldwye ontplooiing</item>
+    </string-array>
+    <string-array name="timeline_details">
+        <item>Google kondig aan dat toepassings vir Android vanaf 2027 by \'n geverifieerde ontwikkelaar geregistreer moet word, insluitend toepassings wat buite Google Play geïnstalleer is.</item>
+        <item>Kraggebruikers kry \'n doelbewus omslagtige ontsnappingsluik: aktiveer Ontwikkelaaropsies, bevestig dat jy nie gedwing word nie, herbegin en wag dan 24 uur voordat jy ongeverifieerde installasies mag toelaat.</item>
+        <item>\'n Agtergrondstelseldiens (com.google.android.verifier) ​​word deur Google-stelselopdaterings na gesertifiseerde toestelle gedruk en bly dormant totdat dit afgedwing word.</item>
+        <item>Google bevestig handhawing begin 30 September 2026 in sewe winkels en vier lande.</item>
+        <item>Die Android-ontwikkelaar-ID-status-API word wêreldwyd bekendgestel en vroeë toegang begin vir die Android-ontwikkelaarkonsole-API en beperkte verspreidingsrekeninge.</item>
+        <item>Beperkte verspreidingsrekeninge (gratis, tot 20 toestelle, geen staats-ID nie) en die Console API bekendstelling wêreldwyd. Die gevorderde vloei vir ongeverifieerde sylaai begin uitrol.</item>
+        <item>Beskerming word in werking getree vir gebruikers in Brasilië, Indonesië, Singapoer en Thailand op gesertifiseerde toestelle wat Android 7+ gebruik. Programme van ongeverifieerde ontwikkelaars word op die deelnemende winkels geblokkeer: Google Play, HONOR App Market, OPPO App Market, Galaxy Store, Palm Store, V-Appstore en GetApps.</item>
+        <item>Verifikasie word uitgebrei na alle programme en streke. Hou Android Open tel af tot 1 Januarie 2027, wanneer Android \'n geslote platform word.</item>
+    </string-array>
+    <string-array name="path_names">
+        <item>Volle verspreiding</item>
+        <item>Beperkte verspreiding</item>
+        <item>Sylaai ongeregistreerde programme</item>
+    </string-array>
+    <string-array name="path_identity">
+        <item>Ja - staats-ID en \'n fooi</item>
+        <item>Nee - geen ID of registrasiefooi nie</item>
+        <item>Nee - maar hoë wrywing</item>
+    </string-array>
+    <string-array name="path_distribution">
+        <item>Enige winkel of kanaal wat jy kies</item>
+        <item>Tot 20 toestelle via QR-kode of skakelhanddruk</item>
+        <item>ADB (vrygestel) of die gevorderde vloei</item>
+    </string-array>
+    <string-array name="path_ux">
+        <item>Niks verander vir jou gebruikers nie</item>
+        <item>Gebruikers aanvaar \'n installasie-uitnodiging van \'n ontwikkelaar wat hulle ken</item>
+        <item>Ontwikkelaaropsies, herbegin, 24-uur wag, installeer dan in elk geval</item>
+    </string-array>
+    <string-array name="path_best_for">
+        <item>Organisasies en professionele ontwikkelaars</item>
+        <item>Studente, stokperdjies en persoonlike gebruik</item>
+        <item>Ongeverifieerde ontwikkelaars en kraggebruikers</item>
+    </string-array>
+    <string name="act_title" formatted="false">Tree nou op — laat jou stem hoor</string>
+    <string name="act_intro">Reguleerders wil hoor van individue wat geraak word. Wees beleefd en spesifiek, skryf in \'n amptelike taal van die liggaam wat jy kontak, vra vir \'n skriftelike erkenning, en kopieer %1$s sodat die veldtog oorwinnings kan naspoor.</string>
+    <string name="act_open_composer" formatted="false">Maak die e-posskrywer oop</string>
+    <string name="act_copy" formatted="false">Kopieer</string>
+    <string name="act_share" formatted="false">Deel</string>
+    <string name="act_clipboard_label" formatted="false">Hou Android Ope brief</string>
+    <string name="act_us_title" formatted="false">Verenigde State - stuur \'n e-pos aan die regering</string>
+    <string name="act_us_intro" formatted="false">Die departement van justisie en die FTC neem antitrustverslae deur middel van aanlynvorms. Gebruik hulle en kontak jou eie verteenwoordiger en senatore direk.</string>
+    <string name="act_world_title" formatted="false">Elders in die wêreld</string>
+    <string name="act_groups_title" formatted="false">Verbruikers- en digitaleregtegroepe</string>
+    <string name="act_more_title" formatted="false">Meer maniere om te help</string>
+    <string name="act_more_body" formatted="false">• Installeer F-Droid op jou toestelle.\n• Beantwoord Google se ontwikkelaarverifikasie-opname.\n• Plaas op sosiale media en skakel na keepandroidopen.org.\n• Teken die change.org-petisie.\n• Voeg die aftelbanier by jou webwerf.</string>
+    <string name="act_all_actions" formatted="false">Alle aksies by keepandroidopen.org</string>
+    <string name="action_email" formatted="false">E-pos</string>
+    <string name="action_open" formatted="false">Maak oop</string>
+    <string-array name="us_contact_regions">
+        <item>Verenigde State</item>
+        <item>Verenigde State</item>
+        <item>Verenigde State</item>
+        <item>Verenigde State</item>
+    </string-array>
+    <string-array name="us_contact_names">
+        <item>Amerikaanse departement van justisie - Antitrustafdeling</item>
+        <item>Amerikaanse Federale Handelskommissie - Antitrust</item>
+        <item>Vind jou Huisverteenwoordiger</item>
+        <item>Kontak jou Amerikaanse senatore</item>
+    </string-array>
+    <string-array name="us_contact_details">
+        <item>Dien \'n antitrustverslag aanlyn in.</item>
+        <item>Dien \'n antitrust-klag in.</item>
+        <item>Kontak jou verteenwoordiger in die US House.</item>
+        <item>Vind en kontak beide van jou staat se senatore.</item>
+    </string-array>
+    <string-array name="world_contact_regions">
+        <item>Europese Unie</item>
+        <item>Europese Unie</item>
+        <item>Verenigde Koninkryk</item>
+        <item>Brasilië</item>
+        <item>Singapoer</item>
+        <item>Thailand</item>
+        <item>Indonesië</item>
+        <item>Australië</item>
+        <item>Kanada</item>
+        <item>Indië</item>
+        <item>Japan</item>
+        <item>Suid-Korea</item>
+        <item>Mexiko</item>
+        <item>Aotearoa / Nieu-Seeland</item>
+        <item>Taiwan</item>
+        <item>Switserland</item>
+    </string-array>
+    <string-array name="world_contact_names">
+        <item>EU Antitrust (DG COMP)</item>
+        <item>Digital Markets Act-span</item>
+        <item>Mededinging en Markte Owerheid</item>
+        <item>CADE</item>
+        <item>CCCS</item>
+        <item>Handelsmededingingskommissie (OTCC)</item>
+        <item>KPPU</item>
+        <item>ACCC</item>
+        <item>Mededingingsburo Kanada</item>
+        <item>Mededingingskommissie van Indië</item>
+        <item>Japan Fair Trade Commission</item>
+        <item>Korea Fair Trade Commission</item>
+        <item>Comisión Nacional Antimonopolio</item>
+        <item>Handelskommissie</item>
+        <item>Billike Handelskommissie</item>
+        <item>Mededingingskommissie (WEKO)</item>
+    </string-array>
+    <string-array name="world_contact_details">
+        <item>E-pos die mededingingsowerheid van die Europese Kommissie.</item>
+        <item>Kontak die EU DMA burger hulptoonbank.</item>
+        <item>Rapporteer aan die UK CMA.</item>
+        <item>Brasilië is in die eerste handhawingsgolf.</item>
+        <item>Singapoer is in die eerste handhawingsgolf.</item>
+        <item>Thailand is in die eerste handhawingsgolf.</item>
+        <item>Indonesië is in die eerste handhawingsgolf.</item>
+        <item>Rapporteer aan die Australiese Mededingings- en Verbruikerskommissie.</item>
+        <item>Dien \'n klagte by die Mededingingsburo in.</item>
+        <item>Kontak die CCI oor teenmededingende gedrag.</item>
+        <item>Kontak die JFTC / Mobile Software Competition Act lessenaar.</item>
+        <item>Kontak die KFTC.</item>
+        <item>Dien \'n antitrust-klag in Mexiko in.</item>
+        <item>Rapporteer teenmededingende gedrag.</item>
+        <item>Kontak die Taiwan FTC.</item>
+        <item>Rapporteer onwettige praktyke.</item>
+    </string-array>
+    <string-array name="advocacy_regions">
+        <item>Wêreldwyd</item>
+        <item>Wêreldwyd</item>
+        <item>Europa</item>
+        <item>Europa</item>
+        <item>Wêreldwyd</item>
+    </string-array>
+    <string-array name="advocacy_names">
+        <item>Electronic Frontier Foundation</item>
+        <item>Stigting vir vrye sagteware</item>
+        <item>Free Software Foundation Europe</item>
+        <item>Europese digitale regte (EDRI)</item>
+        <item>Sagtewarevryheidbewaring</item>
+    </string-array>
+    <string-array name="advocacy_details">
+        <item>Toepassing hekwag en internet sensuur.</item>
+        <item>Sagtewarevryheid en gebruikersbeheer.</item>
+        <item>Sagtewarevryheid in Europa.</item>
+        <item>Digitale regte voorspraak.</item>
+        <item>Gemeenskapsgedrewe gratis sagteware.</item>
+    </string-array>
+    <string name="letter_region_generic" formatted="false">my regering</string>
+    <string name="letter_subject" formatted="false">Stop Google se Android-ontwikkelaarverifikasie-sluiting</string>
+    <string name="letter_template">Geagte %1$s-verteenwoordiger,\n\nEk skryf as \'n besorgde Android-gebruiker en as \'n burger in jou jurisdiksie.\n\nGoogle se Android-ontwikkelaarverifikasieprogram, wat vanaf 30 September 2026 in verskeie markte afgedwing word en in 2027 wêreldwyd uitbrei, sal vereis dat elke Android-toepassing by \'n sentraal geverifieerde ontwikkelaar geregistreer moet word voordat dit op gesertifiseerde toestelle geïnstalleer kan word. Ontwikkelaars moet staatsidentifikasie indien, instem tot Google se bepalings, \'n fooi betaal en elke huidige en toekomstige programidentifiseerder lys.\n\nDit verbeter nie sekuriteit betekenisvol nie. Dit gee aan \'n enkele private maatskappy die mag om te besluit watter sagteware mense toegelaat word om te gebruik op die toestelle wat hulle besit, en dit bedreig onafhanklike en oopbronverspreiding soos F-Droid, wat nie kan voldoen nie en kan ophou om te bestaan.\n\nEk vra met respek dat u:\n\n1. Ondersoek of hierdie program teenmededingend is en \'n misbruik van \'n hekwagterposisie daarstel.\n2. Druk Google om oopbron- en nie-kommersiële verspreiding vry te stel, en om sylading vry van gesentraliseerde registrasie te hou.\n3. Beskerm die reg van gebruikers om sagteware van hul keuse te gebruik op hardeware wat hulle gekoop het.\n\nErken asseblief hierdie boodskap skriftelik en laat weet my watter stappe u kantoor neem.\n\nEk kopieer ook die Keep Android Open-veldtog by %2$s.\n\nDie uwe,\n[Jou naam]\n[Jou stad en land]</string>
+    <string name="toast_no_app" formatted="false">Geen toepassing kan hierdie skakel oopmaak nie</string>
+    <string name="toast_no_email" formatted="false">Geen e-postoepassing is geïnstalleer nie</string>
+    <string name="chooser_send_email" formatted="false">Stuur e-pos</string>
+    <string name="chooser_share" formatted="false">Deel</string>
+    <string name="toast_copied" formatted="false">Gekopieer na knipbord</string>
+    <string name="settings_title" formatted="false">Instellings</string>
+    <string name="settings_language_title" formatted="false">Toepassingstaal</string>
+    <string name="settings_language_summary" formatted="false">Kies die taal wat deur die toepassing gebruik word. Jy kan dit ook vanaf jou toestelinstellings verander.</string>
+    <string name="settings_system_default" formatted="false">Stelsel verstek</string>
+    <string name="settings_language_search" formatted="false">Soek tale</string>
+    <string name="settings_theme_title" formatted="false">Tema</string>
+    <string name="settings_theme_summary" formatted="false">Kies hoe die toepassing lyk.</string>
+    <string name="theme_system" formatted="false">Volg stelsel</string>
+    <string name="theme_light" formatted="false">Lig</string>
+    <string name="theme_dark" formatted="false">Donker</string>
+    <string name="theme_amoled" formatted="false">AMOLED (suiwer swart)</string>
+    <string name="settings_accent_title" formatted="false">Aksentkleur</string>
+    <string name="settings_accent_summary" formatted="false">Kies die hoogtepuntkleur wat in die toepassing gebruik word.</string>
+    <string name="accent_default" formatted="false">Verstek (veldtog rooi)</string>
+    <string name="accent_red" formatted="false">Rooi</string>
+    <string name="accent_orange" formatted="false">Oranje</string>
+    <string name="accent_yellow" formatted="false">Geel</string>
+    <string name="accent_green" formatted="false">Groen</string>
+    <string name="accent_teal" formatted="false">Blauwgroen</string>
+    <string name="accent_blue" formatted="false">Blou</string>
+    <string name="accent_purple" formatted="false">Pers</string>
+    <string name="accent_pink" formatted="false">Pienk</string>
+    <string name="settings_colorblendr_warning" formatted="false">Let op: as ColorBlendr of \'n ander materiaal wat jy ignoreer aktief is, sal jou aksentkleur dalk nie van toepassing wees voordat jy dit deaktiveer nie.</string>
+    <string name="settings_about_title" formatted="false">Oor</string>
+    <string name="settings_version">Weergawe %1$s</string>
+    <string name="settings_open_source" formatted="false">Oopbron (MIT). Nie geaffilieer met of onderskryf deur die amptelike Keep Android Open-veldtog nie.</string>
+</resources>
